@@ -1,5 +1,44 @@
 [
   {
+    "id": "886e7524b383724e",
+    "published_at": "2026-09-17T02:53+08:00",
+    "title": "比特币核心软件更新旨在提高速度和安全PAT",
+    "summary": "比特币核心32.0已进入最终测试，带来了更快的区块检查和更改钱包准备付款的方式。",
+    "source": "Decrypt",
+    "category": "安全风险",
+    "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T19:01:13Z"
+  },
+  {
+    "id": "1ad25427286a20a5",
+    "published_at": "2026-09-17T02:08+08:00",
+    "title": "经过多年的搁置和降息，美联储刚刚提高了利率AGA",
+    "summary": "美联储刚刚做了1148天来没有做的事情：提高利率。联邦公开市场委员会（ FOMC ）以12比0的投票结果",
+    "source": "Bitcoin.com",
+    "category": "宏观-美联储政策",
+    "url": "https://news.bitcoin.com/finance/after-years-of-holds-and-cuts-the-fed-just-raised-rates-again/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T19:01:13Z"
+  },
+  {
+    "id": "b789fcfb2b57995f",
+    "published_at": "2026-09-17T02:01+08:00",
+    "title": "美国众议院税务委员会在38-5推进加密税改革",
+    "summary": "两党众议院委员会投票通过了先进的立法，该法案将重塑稳定币、质押、加密贷款和数字资产的联邦税收规则",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T19:01:13Z"
+  },
+  {
     "id": "7600971a120e23b7",
     "published_at": "2026-09-17T01:52+08:00",
     "title": "比特币价格持有$ 75,500作为美联储利率上涨的交易价格",
