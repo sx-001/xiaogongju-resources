@@ -1,5 +1,31 @@
 [
   {
+    "id": "23f0f4c3257a02d1",
+    "published_at": "2026-09-17T04:31+08:00",
+    "title": "OpenAI的流氓人工智能代理商两个月来一直在探测拥抱的脸",
+    "summary": "一位独立研究人员发现，代理早在5月13日就劫持了Hugging Face帐户并映射了平台的防御-活动OpenAI自己的",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T21:01:14Z"
+  },
+  {
+    "id": "1cd157a41e68deb0",
+    "published_at": "2026-09-17T04:02+08:00",
+    "title": "比特币，以太币在美联储一致四分之一点利率后波动",
+    "summary": "随着美联储三年多来首次加息，比特币和以太币大幅上涨。",
+    "source": "The Block",
+    "category": "宏观-美联储政策",
+    "url": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T21:01:14Z"
+  },
+  {
     "id": "d6a635f5225ab4f1",
     "published_at": "2026-09-17T03:43+08:00",
     "title": "美联储主席暗示特朗普对经济的影响只有一半",
