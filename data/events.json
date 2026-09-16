@@ -1,5 +1,31 @@
 [
   {
+    "id": "d6a635f5225ab4f1",
+    "published_at": "2026-09-17T03:43+08:00",
+    "title": "美联储主席暗示特朗普对经济的影响只有一半",
+    "summary": "主席凯文·沃什（ Kevin Warsh ）赞扬了特朗普的经济，然后完全无视他的降息愿望。",
+    "source": "Decrypt",
+    "category": "宏观-美联储政策",
+    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T20:01:14Z"
+  },
+  {
+    "id": "043a2bf5f6f78168",
+    "published_at": "2026-09-17T03:25+08:00",
+    "title": "以下是今天加密货币发生的事情",
+    "summary": "需要知道今天加密货币发生了什么？以下是影响比特币价格、区块链、DeFi、Web3和CRY的每日趋势和事件的最新消息",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-16T20:01:14Z"
+  },
+  {
     "id": "886e7524b383724e",
     "published_at": "2026-09-17T02:53+08:00",
     "title": "比特币核心软件更新旨在提高速度和安全PAT",
