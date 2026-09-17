@@ -1,5 +1,70 @@
 [
   {
+    "id": "24cfca0d0cf3c177",
+    "published_at": "2026-09-17T21:32+08:00",
+    "title": "标普全球同意以链上证券形式收购OpenZeppelin",
+    "summary": "OpenZeppelin将继续作为标准普尔全球旗下的独立业务部门运营，交易的财务条款未披露。",
+    "source": "The Block",
+    "category": "安全风险",
+    "url": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
+  },
+  {
+    "id": "850dc1c235e83227",
+    "published_at": "2026-09-17T21:30+08:00",
+    "title": "比特币财资公司的表现可能会优于比特币……但风险在于",
+    "summary": "比特币财资公司承诺放大回报，而不仅仅是投资比特币，但潜在的上行风险是否大于下行风险",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
+  },
+  {
+    "id": "07fb5ab578ed30b9",
+    "published_at": "2026-09-17T21:15+08:00",
+    "title": "美国证券交易委员会的裂缝为华尔街股票交易打开了大门",
+    "summary": "美国证券交易委员会刚刚给予美国股市有限的一部分许可，允许做一些听起来更像加密而不是华尔街的事情：交易代币化",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/sec-cracks-open-the-door-for-wall-street-stocks-to-trade-onchain/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
+  },
+  {
+    "id": "115e275c31f07188",
+    "published_at": "2026-09-17T21:15+08:00",
+    "title": "评级巨头S&P Global以代币化方式收购OpenZeppelin",
+    "summary": "在最近对Kaiko的市场数据投资的基础上，标准普尔全球最新的收购针对的是银行和资产管理公司面临的技术风险。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
+  },
+  {
+    "id": "90186568e553721e",
+    "published_at": "2026-09-17T21:10+08:00",
+    "title": "数据泄露后， Revolut面临300万美元的赎金要求，报告",
+    "summary": "声称对Revolut数据泄露负责的攻击者表示，他们希望门罗币获得300万美元，这与早些时候声称的10,000比特币赎金相矛盾。",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/revolut-faces-3m-ransom-demand-after-data-breach-report/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
+  },
+  {
     "id": "fa169b9991d5b4ea",
     "published_at": "2026-09-17T20:56+08:00",
     "title": "S&P Global收购区块链安全平台OpenZeppe",
@@ -24,6 +89,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T13:03:33Z"
+  },
+  {
+    "id": "a4e5fa2268c317ef",
+    "published_at": "2026-09-17T20:37+08:00",
+    "title": "以太坊即将到来的格拉姆斯特丹升级清除排练",
+    "summary": "随着开发商为拟议的10月6日公开测试做准备，测试网络将每个区块的工作限制提高到2亿个天然气。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T14:01:18Z"
   },
   {
     "id": "1dcea88d2227ccbc",
