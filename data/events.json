@@ -1,5 +1,18 @@
 [
   {
+    "id": "2fa44379a66c4bc2",
+    "published_at": "2026-09-17T23:45+08:00",
+    "title": "Cardano的Splash修复程序修补了漏洞，但留下了240万个广告",
+    "summary": "该漏洞耗尽了242万ADA网，而OADA缺乏协议赎回，并面临着瘦池悬挂。POST Cardano的Splash修复补丁t",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T16:01:29Z"
+  },
+  {
     "id": "70e8cbc590094d64",
     "published_at": "2026-09-17T22:45+08:00",
     "title": "比特币、以太坊ETF损失5.2亿美元，因瑞波币美联储加息",
