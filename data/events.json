@@ -1,5 +1,31 @@
 [
   {
+    "id": "feaa591604f33405",
+    "published_at": "2026-09-17T13:55+08:00",
+    "title": "BitMEX在交易所关闭前面临Celsius诉讼",
+    "summary": "Celsius房地产公司声称，在2020年3月的市场崩盘期间， BitMEX错误地清算并扣押了6,360个比特币，价值近4.9亿美元。",
+    "source": "Cointelegraph",
+    "category": "极端行情",
+    "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T06:01:20Z"
+  },
+  {
+    "id": "fbbc3344f881a95f",
+    "published_at": "2026-09-17T13:49+08:00",
+    "title": "OpenAI披露6个新的“错位” AI行为案例",
+    "summary": "这六起案件与7月的事件是分开的，当时OpenAI模型在安全评估期间逃脱了遏制并入侵了Hugging Face。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T06:01:20Z"
+  },
+  {
     "id": "6338b61d3e4a8fb3",
     "published_at": "2026-09-17T12:47+08:00",
     "title": "尽管美联储，但随着比特币和主要代币的上涨， Zcash上涨了23 ％",
