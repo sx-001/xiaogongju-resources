@@ -1,5 +1,44 @@
 [
   {
+    "id": "d804ce82ccc3ca4e",
+    "published_at": "2026-09-17T20:00+08:00",
+    "title": "Zcash矿工Fortitude任命前Hut 8首席执行官Jaime Leverto",
+    "summary": "Leverton将领导DCG拥有的矿业公司，通过与HeartSciences的拟议合并寻求公开上市。",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T12:01:25Z"
+  },
+  {
+    "id": "af5b12a5163955e2",
+    "published_at": "2026-09-17T19:47+08:00",
+    "title": "Grayscale的Pandl仍然认为比特币的低点为$ 58K",
+    "summary": "Grayscale的Zach Pandl维持比特币触底价接近58,000 $ ，因为该公司为客户分配“绿灯”。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T12:01:25Z"
+  },
+  {
+    "id": "2f1e9a3fe8e8cc53",
+    "published_at": "2026-09-17T19:30+08:00",
+    "title": "黑客将55天失败的交易转化为300万$",
+    "summary": "Ledger时间戳和SDK修补程序显示了为什么在资金到达桥梁之前需要自动检查已签名的意图。POST Hacker失败55天",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/hacker-turned-55-days-of-failed-transactions-into-a-3-million-master-key-that-drained-galachain-wallets/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T12:01:25Z"
+  },
+  {
     "id": "17dd96c1d87ad7c7",
     "published_at": "2026-09-17T18:40+08:00",
     "title": "加密货币通过美联储自2以来的首次加息反弹",
