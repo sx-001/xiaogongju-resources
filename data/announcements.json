@@ -1,5 +1,65 @@
 [
   {
+    "id": "2eb8c55ea49a9db4",
+    "published_at": "2026-09-17T10:52:00Z",
+    "title": "Hotcoin 关于下线JELLYJELLY/USDT并移除交易对的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "下架",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistJELLYJELLYUSDTTradingPair/",
+    "announcement_type": "下架",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-17T11:10:54Z"
+  },
+  {
+    "id": "5e9c359783f6f13c",
+    "published_at": "2026-09-17T10:44:00Z",
+    "title": "Hotcoin关于钱包系统维护暂停充值及提现业务的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillSuspendDepositsandWithdrawalsforWalletSystemMaintenance/",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-17T11:10:54Z"
+  },
+  {
+    "id": "8eca2bb75e548a08",
+    "published_at": "2026-09-17T10:38:00Z",
+    "title": "MAGNE.AI （ MHA ）房源活动— 6,250,000 MHA赠品",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-magne-ai-mha-listing-campaign-6250000-mha-to-giveaway",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-17T11:10:54Z"
+  },
+  {
+    "id": "41ae7d6bc1f85d22",
+    "published_at": "2026-09-17T10:15:00Z",
+    "title": "KuCoin Alpha新上市代币— FLORK （ FLORK ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-alpha-new-listed-token-flork-flork",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-17T11:10:54Z"
+  },
+  {
+    "id": "4034ff40d3c5fe6a",
+    "published_at": "2026-09-17T10:02:31Z",
+    "title": "[理财上新] MGBX 上线 GDT 定期理财产品",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17655784236559",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-09-17T11:10:54Z"
+  },
+  {
     "id": "2e32eb61821ff358",
     "published_at": "2026-09-17T09:50:00Z",
     "title": "TINA （ TINA ）房源活动— 440万份TINA赠品",
