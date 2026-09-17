@@ -1,5 +1,31 @@
 [
   {
+    "id": "0156afa3a6e0713a",
+    "published_at": "2026-09-18T01:48+08:00",
+    "title": "摩根大通表示，如果ET ，比特币可能会获得比黄金更多的支持",
+    "summary": "摩根大通分析师表示，如果投资者减少ETF对冲，比特币可能会获得比黄金更多的支持。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T18:01:40Z"
+  },
+  {
+    "id": "ab31f0e1b14291fa",
+    "published_at": "2026-09-18T01:30+08:00",
+    "title": "随着比特币的价格走势，加密货币清算超过2.6亿美元$",
+    "summary": "比特币的价格突破了最近的下跌趋势，短暂触及77,000 $ ，然后在76,600 $左右结算。尽管有剧烈的波动和压力fr",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/crypto-liquidations-surge-past-260m-as-bitcoins-price-touches-77k/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T18:01:40Z"
+  },
+  {
     "id": "166635399045f763",
     "published_at": "2026-09-18T00:22+08:00",
     "title": "随着美国股市从美联储利率反弹，比特币盘价接近76,500 $",
