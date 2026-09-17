@@ -1,5 +1,18 @@
 [
   {
+    "id": "166635399045f763",
+    "published_at": "2026-09-18T00:22+08:00",
+    "title": "随着美国股市从美联储利率反弹，比特币盘价接近76,500 $",
+    "summary": "由于美联储自2023年7月以来首次加息，美国股市出现上涨，比特币每日小幅上涨。",
+    "source": "Cointelegraph",
+    "category": "宏观-美联储政策",
+    "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T17:01:06Z"
+  },
+  {
     "id": "2fa44379a66c4bc2",
     "published_at": "2026-09-17T23:45+08:00",
     "title": "Cardano的Splash修复程序修补了漏洞，但留下了240万个广告",
