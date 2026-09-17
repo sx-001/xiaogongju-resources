@@ -1,5 +1,44 @@
 [
   {
+    "id": "fa169b9991d5b4ea",
+    "published_at": "2026-09-17T20:56+08:00",
+    "title": "S&P Global收购区块链安全平台OpenZeppe",
+    "summary": "标准普尔全球同意收购OpenZeppelin ，该公司表示，其智能合约已促进了超过37万亿美元的价值转移。",
+    "source": "Cointelegraph",
+    "category": "安全风险",
+    "url": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T13:03:33Z"
+  },
+  {
+    "id": "1aeafb175de159f6",
+    "published_at": "2026-09-17T20:40+08:00",
+    "title": "$ 290亿美国债券的私人外流正在威胁比特币",
+    "summary": "7月份的法案反弹掩盖了较长期限的分裂，因为官方买入抵消了大部分私人卖出，而9月份的10年期收益率保持在5%左右。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/a-29b-private-exodus-from-us-bonds-is-threatening-bitcoins-next-big-rally/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T13:03:33Z"
+  },
+  {
+    "id": "1dcea88d2227ccbc",
+    "published_at": "2026-09-17T20:13+08:00",
+    "title": "上午一分钟：美联储首次加息后加密反弹",
+    "summary": "《清晰度法案》未能通过，联邦公开市场委员会加息，然而，加密专业是绿色的，另类领导者正在飞行。这是什么意思？",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T13:03:33Z"
+  },
+  {
     "id": "d804ce82ccc3ca4e",
     "published_at": "2026-09-17T20:00+08:00",
     "title": "Zcash矿工Fortitude任命前Hut 8首席执行官Jaime Leverto",
@@ -11,6 +50,32 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T12:01:25Z"
+  },
+  {
+    "id": "645c361b67145b5d",
+    "published_at": "2026-09-17T20:00+08:00",
+    "title": "比特币周一首次实现上限合约",
+    "summary": "两次ETF流出时段到达，而价格保持在市场均值附近，设置了特定的复苏测试。POST比特币的实际上限（续）",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoins-realized-cap-contracts-for-the-first-time-in-a-month-as-btc-price-faces-a-71300-risk/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T13:03:33Z"
+  },
+  {
+    "id": "316d27da15845b27",
+    "published_at": "2026-09-17T20:00+08:00",
+    "title": "国家黑客推动链上恶意软件Chainalys激增420%",
+    "summary": "与朝鲜有关的黑客使用TRON、Aptos和BNB Chain来维护恶意软件基础设施，而涉嫌与伊朗有关的黑客则嵌入了",
+    "source": "Cointelegraph",
+    "category": "市场波动",
+    "url": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T13:03:33Z"
   },
   {
     "id": "af5b12a5163955e2",
