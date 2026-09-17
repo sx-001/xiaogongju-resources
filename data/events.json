@@ -1,5 +1,18 @@
 [
   {
+    "id": "f50fd2359fa4eb5f",
+    "published_at": "2026-09-17T11:30+08:00",
+    "title": "以太坊的客户端多样性图片在incompat下断裂",
+    "summary": "客户估计已经不同意，而每日密钥轮换可能会削弱用于检测集中风险的公共痕迹。POST以太坊的clien",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T04:01:23Z"
+  },
+  {
     "id": "ffdca2ef1be7367a",
     "published_at": "2026-09-17T09:45+08:00",
     "title": "Ripple表示XRP不是一种证券，被认为是数字通信",
