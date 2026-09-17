@@ -1,5 +1,31 @@
 [
   {
+    "id": "be7e92c1e737e018",
+    "published_at": "2026-09-18T03:08+08:00",
+    "title": "CoreWeave自加入纳斯达克100指数以来下跌了32%",
+    "summary": "CoreWeave于6月加入著名的纳斯达克100指数，此后退休储蓄者一直在股票上亏损。The post CoreWeave do",
+    "source": "Protos",
+    "category": "宏观-股市极端行情",
+    "url": "https://protos.com/coreweave-down-32-since-joining-the-nasdaq-100/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T20:01:09Z"
+  },
+  {
+    "id": "53deb6b0a549b6a8",
+    "published_at": "2026-09-18T03:01+08:00",
+    "title": "以太坊创始人Vitalik Buterin表示，人工智能不会毁灭加密货币",
+    "summary": "这位以太坊联合创始人表示，人工智能可以帮助开发人员对整个软件系统进行数学验证，将相同的技术用于新的攻击",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T20:01:09Z"
+  },
+  {
     "id": "0156afa3a6e0713a",
     "published_at": "2026-09-18T01:48+08:00",
     "title": "摩根大通表示，如果ET ，比特币可能会获得比黄金更多的支持",
