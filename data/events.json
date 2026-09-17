@@ -1,5 +1,31 @@
 [
   {
+    "id": "6338b61d3e4a8fb3",
+    "published_at": "2026-09-17T12:47+08:00",
+    "title": "尽管美联储，但随着比特币和主要代币的上涨， Zcash上涨了23 ％",
+    "summary": "比特币交易价格高于76,000 $ ，因为美联储预计比特币将进一步收紧，而Paradigm的Matt Huang讨论了Zcash作为隐私公司的角色",
+    "source": "CoinDesk",
+    "category": "宏观-美联储政策",
+    "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T05:01:25Z"
+  },
+  {
+    "id": "4d278a641ebf8744",
+    "published_at": "2026-09-17T12:17+08:00",
+    "title": "高盛转向，现在预测美联储10月加息",
+    "summary": "高盛表示，美联储可能会在10月份将利率提高25个基点，并提请注意美联储自己的鹰派短期利率预测。",
+    "source": "CoinDesk",
+    "category": "宏观-美联储政策",
+    "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T05:01:25Z"
+  },
+  {
     "id": "f50fd2359fa4eb5f",
     "published_at": "2026-09-17T11:30+08:00",
     "title": "以太坊的客户端多样性图片在incompat下断裂",
