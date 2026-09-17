@@ -1,5 +1,44 @@
 [
   {
+    "id": "70e8cbc590094d64",
+    "published_at": "2026-09-17T22:45+08:00",
+    "title": "比特币、以太坊ETF损失5.2亿美元，因瑞波币美联储加息",
+    "summary": "美国比特币和以太币ETF周三共损失5.209 $ ，这是美联储自2023年以来的首次加息。",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-lose-520m-as-xrp-bucks-fed-rate-hike-selloff/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T15:01:49Z"
+  },
+  {
+    "id": "8b559d9f0ab2b473",
+    "published_at": "2026-09-17T22:30+08:00",
+    "title": "立法者通过法案冻结联邦比特币持有量",
+    "summary": "ARMA将锁定合格的储备比特币，并要求进行年度审计报告，而购买仍然是一项研究。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T15:01:49Z"
+  },
+  {
+    "id": "7e5d3bbd39e79bb0",
+    "published_at": "2026-09-17T22:01+08:00",
+    "title": "标准普尔全球收购Openzeppelin ，大举押注Onchain Finance",
+    "summary": "据主要市场情报公司S&P Global称，该公司正在收购数字安全公司Openzeppelin。ACQUI的目标",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/finance/sp-global-buys-openzeppelin-in-a-big-bet-on-onchain-finance/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T15:01:49Z"
+  },
+  {
     "id": "24cfca0d0cf3c177",
     "published_at": "2026-09-17T21:32+08:00",
     "title": "标普全球同意以链上证券形式收购OpenZeppelin",
