@@ -1,5 +1,31 @@
 [
   {
+    "id": "c8d91db13c5dfc18",
+    "published_at": "2026-09-18T05:18+08:00",
+    "title": "Wisdomtree的代币化国债基金在Moonpay的内部",
+    "summary": "根据与Bitcoin.com新闻共享的公告， Wisdomtree和Moonpay的目标是将代币化的国债货币市场基金置于",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/wisdomtrees-tokenized-treasury-fund-lands-inside-moonpays-network/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T22:01:17Z"
+  },
+  {
+    "id": "182f346bce3762f7",
+    "published_at": "2026-09-18T05:00+08:00",
+    "title": "在国会扼杀了其具有里程碑意义的加密法案之后，美国证券交易委员会",
+    "summary": "美国证券交易委员会（ SEC ）为受监管的美国股票在区块链原生场所交易开辟了为期五年的途径。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T22:01:17Z"
+  },
+  {
     "id": "61ec768d6a3ef0e8",
     "published_at": "2026-09-18T04:30+08:00",
     "title": "L-BTC Peg-Out仍然关闭，因为Blockstream拒绝黑客",
