@@ -1,5 +1,53 @@
 [
   {
+    "id": "da19bbb3875964e3",
+    "published_at": "2026-09-17T04:09:00Z",
+    "title": "KuCoin暂时关闭乐观网络上的USDT存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-usdt-on-the-optimism-network",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-17T04:11:22Z"
+  },
+  {
+    "id": "74f2009dd7ad395c",
+    "published_at": "2026-09-17T04:01:58Z",
+    "title": "TradFi 新增 CRSP、 JMIA、 PATH、 VKTX 等 8 个热门美股资产公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "上币",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tradfi-xin-zeng-crspjmiapathvktx-deng-8-ge-re-men-mei-gu-zi-chan-gong-gao",
+    "announcement_type": "上币",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-17T04:11:22Z"
+  },
+  {
+    "id": "c534086524d1af00",
+    "published_at": "2026-09-17T03:24:56Z",
+    "title": "XT关于深度隐藏笔记本电脑/USDT交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62337396914201",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-17T04:11:22Z"
+  },
+  {
+    "id": "17db29088ff86a8a",
+    "published_at": "2026-09-17T03:16:00Z",
+    "title": "关于GALA、BSV和WAXL的股票代码和API符号更新的公告",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-announcement-on-the-ticker-and-api-symbol-updates-for-gala-bsv-and-waxl",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-17T04:11:22Z"
+  },
+  {
     "id": "9d0ce9ba7eaf33e7",
     "published_at": "2026-09-17T03:09:00Z",
     "title": "Bitget关于恢复PYUSD - Solana提现的公告",
