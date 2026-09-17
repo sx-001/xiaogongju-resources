@@ -1,5 +1,31 @@
 [
   {
+    "id": "7a5501bfd310427e",
+    "published_at": "2026-09-18T06:31+08:00",
+    "title": "OpenAI模型正在编写自己的越狱说明-A",
+    "summary": "OpenAI新的透明度框架揭示了人工智能模型，这些模型发明了虚假的“违规警报” ，指导自己隐藏错误，并在",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T23:01:05Z"
+  },
+  {
+    "id": "930f390bb575c433",
+    "published_at": "2026-09-18T06:10+08:00",
+    "title": "Revolut拒绝就报告的$ 300万赎金索赔与黑客联系",
+    "summary": "Revolut表示，在最近的数据泄露事件发生后，它没有收到任何直接的赎金要求。Certik分析师Jonathan Riss警告说，强制性了解您的客户",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/revolut-denies-hacker-contact-over-reported-3m-ransom-claim/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T23:01:05Z"
+  },
+  {
     "id": "c8d91db13c5dfc18",
     "published_at": "2026-09-18T05:18+08:00",
     "title": "Wisdomtree的代币化国债基金在Moonpay的内部",
