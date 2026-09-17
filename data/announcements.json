@@ -1,5 +1,77 @@
 [
   {
+    "id": "656f3ca2e84a7d6c",
+    "published_at": "2026-09-17T07:10:00Z",
+    "title": "🔧 美元/港元法定存款和取款维护",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603895492",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
+    "id": "d357ff8b43ebdc3e",
+    "published_at": "2026-09-17T07:00:00Z",
+    "title": "[重要] Bitget支持统一账户中rRDDT的保证金功能",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895490",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
+    "id": "3ff6f0b88d1c8d10",
+    "published_at": "2026-09-17T06:34:52Z",
+    "title": "RIN Launchpool ｜质押 RIN 或 XT ，瓜分 5,000 USDT ！",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62344372511257-RIN-Launchpool-%E8%B4%A8%E6%8A%BC-RIN-%E6%88%96-XT-%E7%93%9C%E5%88%86-5-000-USDT",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
+    "id": "5bc34b5a25590eb7",
+    "published_at": "2026-09-17T06:33:00Z",
+    "title": "Bitget关于恢复PYUSD -以太坊提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895489",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
+    "id": "f4b427ddd7ad016c",
+    "published_at": "2026-09-17T06:19:53Z",
+    "title": "[合约上新] MGBX 将上线 LSKUSDT 永续合约",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17653134032655",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
+    "id": "12156a50762838f0",
+    "published_at": "2026-09-17T05:44:43Z",
+    "title": "【TEBBIT 合约】上线 BULLA/USDT 、ONE/USDT 、U本位永续合约 （ 2026-09-17 ）",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "上币",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62342424639129",
+    "announcement_type": "上币",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-17T07:12:48Z"
+  },
+  {
     "id": "763e8c847a03e0f3",
     "published_at": "2026-09-17T05:00:00Z",
     "title": "菲亚特空投周：赢取价值100,000 USDT的空投！",
