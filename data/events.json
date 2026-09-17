@@ -1,5 +1,31 @@
 [
   {
+    "id": "61ec768d6a3ef0e8",
+    "published_at": "2026-09-18T04:30+08:00",
+    "title": "L-BTC Peg-Out仍然关闭，因为Blockstream拒绝黑客",
+    "summary": "自从所谓的白帽黑客从Liquid网络中吸收了近4000比特币以来，已经过去了11天。从那时起，在返还3400比特币后，",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/crypto-news/l-btc-peg-out-still-shut-down-as-blockstream-refuses-hacker-demand/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T21:01:09Z"
+  },
+  {
+    "id": "0e0bebbd1419bad3",
+    "published_at": "2026-09-18T04:05+08:00",
+    "title": "美国制裁伊朗加密货币交易所BitBank涉嫌双",
+    "summary": "财政部表示，此前受到制裁的Hormuz Safe平台使用BitBank转移自6月以来收集的付款。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-17T21:01:09Z"
+  },
+  {
     "id": "be7e92c1e737e018",
     "published_at": "2026-09-18T03:08+08:00",
     "title": "CoreWeave自加入纳斯达克100指数以来下跌了32%",
