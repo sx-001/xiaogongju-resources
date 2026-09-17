@@ -1,5 +1,41 @@
 [
   {
+    "id": "8e9d7a10f327dc16",
+    "published_at": "2026-09-17T09:00:00Z",
+    "title": "常见问题-针对日本居民的重要通知",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603890271",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T09:11:22Z"
+  },
+  {
+    "id": "155232fab0c33d3a",
+    "published_at": "2026-09-17T09:00:00Z",
+    "title": "Candybomb差价合约独家（第1阶段） ：交易以分享35,000 USDT",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895378",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T09:11:22Z"
+  },
+  {
+    "id": "706e82f9757f2c87",
+    "published_at": "2026-09-17T08:27:00Z",
+    "title": "Bitget关于恢复AXL -以太坊存款的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895502",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-17T09:11:22Z"
+  },
+  {
     "id": "27172af506dc56fa",
     "published_at": "2026-09-17T08:09:24Z",
     "title": "9 月17日 AOZX每日资讯 ｜美联储三年来首次加息 ， ZEC逆势上涨超 18%",
@@ -34,6 +70,18 @@
     "announcement_type": "合约",
     "exchange": "Bitget",
     "created_at": "2026-09-17T08:12:14Z"
+  },
+  {
+    "id": "fb04fbe5743edc26",
+    "published_at": "2026-09-17T07:52:21Z",
+    "title": "XT关于暂停部分币种充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62347423965721",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-17T09:11:22Z"
   },
   {
     "id": "bb150246683cf467",
