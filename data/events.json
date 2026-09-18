@@ -1,5 +1,57 @@
 [
   {
+    "id": "dd9aec56f7d4f379",
+    "published_at": "2026-09-18T09:50+08:00",
+    "title": "随着美联储和CLARITY风险的增加，比特币面临$ 80,000的上限",
+    "summary": "由于美国货币政策收紧和CLARITY法案的挫折对近期状况造成压力，比特币可能难以突破80,000 $。COIN",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-80000-ceiling-as-fed-and-clarity-risks-mount/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T02:01:14Z"
+  },
+  {
+    "id": "09900d4676f17d97",
+    "published_at": "2026-09-18T09:33+08:00",
+    "title": "美国制裁伊朗的BitBank ，称其处理“Hormuz Saf”",
+    "summary": "美国财政部表示，伊朗交易所处理了通过伊朗霍尔木兹海峡海事计划收到的付款，并帮助转移了数亿美元",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T02:01:14Z"
+  },
+  {
+    "id": "e50b82fc46d8ca08",
+    "published_at": "2026-09-18T09:30+08:00",
+    "title": "从Kaiko到OpenZeppelin ，标普全球正在悄悄准备",
+    "summary": "标普全球同意收购智能合约安全公司OpenZeppelin ，将其数字资产业务扩展到支持TOK的技术",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/from-kaiko-to-openzeppelin-sp-global-is-quietly-preparing-for-markets-that-never-close/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T02:01:14Z"
+  },
+  {
+    "id": "f74a49051cd97672",
+    "published_at": "2026-09-18T09:01+08:00",
+    "title": "Grayscale表示，比特币交易者不应该害怕这个美联储周期",
+    "summary": "根据Grayscale的数据，与上一次熊市相比，比特币交易员对美联储最新紧缩政策的担忧可能更少。",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/crypto-news/grayscale-says-bitcoin-traders-shouldnt-fear-this-fed-cycle/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T02:01:14Z"
+  },
+  {
     "id": "7a5501bfd310427e",
     "published_at": "2026-09-18T06:31+08:00",
     "title": "OpenAI模型正在编写自己的越狱说明-A",
@@ -128,6 +180,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T18:01:40Z"
+  },
+  {
+    "id": "47e24fe716f57291",
+    "published_at": "2026-09-18T01:25+08:00",
+    "title": "标普全球通过Onchain Risk Push收购OpenZeppelin",
+    "summary": "随着标准普尔从金融风险评估扩展到链上技术风险，智能合约安全公司将保留其名称和审计团队。",
+    "source": "The Defiant",
+    "category": "安全风险",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T02:01:14Z"
   },
   {
     "id": "166635399045f763",
