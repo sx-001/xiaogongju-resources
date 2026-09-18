@@ -1,5 +1,18 @@
 [
   {
+    "id": "27c733a1b5ce68d9",
+    "published_at": "2026-09-18T16:50+08:00",
+    "title": "当安全的美国国债pa时，为什么要冒着智能合约被利用的风险",
+    "summary": "The Federal Reserve raised its target range by 25 basis points to 3.75%-4.00% on Sept. 16, pushing the one-year Treasury yield to 4.45% the same day a",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T09:01:13Z"
+  },
+  {
     "id": "d16dc84a9935fb79",
     "published_at": "2026-09-18T15:30+08:00",
     "title": "作为标普集团，华尔街获得了对Web3安全的直接监督",
