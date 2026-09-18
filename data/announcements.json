@@ -1,5 +1,65 @@
 [
   {
+    "id": "90ede8dfb2186e1f",
+    "published_at": "2026-09-18T08:00:00Z",
+    "title": "赚取第133周的周五：使用USDT、BTC、SOL赚取高达6.6%的APR",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-earn-friday-week-133-earn-up-to-6-6-apr-with-usdt-btc-sol",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-18T08:11:35Z"
+  },
+  {
+    "id": "42c698f1c403be55",
+    "published_at": "2026-09-18T07:47:00Z",
+    "title": "Bitget关于恢复XPLA - XPLA提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895576",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T08:11:35Z"
+  },
+  {
+    "id": "4277f732d279688f",
+    "published_at": "2026-09-18T07:35:00Z",
+    "title": "KuCoin保证金交易服务将退出多个代币",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/kucoin-margin-notice-260917",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-18T08:11:35Z"
+  },
+  {
+    "id": "6f5b606ff61484d0",
+    "published_at": "2026-09-18T07:17:43Z",
+    "title": "XT 关于暂停XMR链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62382803525785",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T08:11:35Z"
+  },
+  {
+    "id": "d9ac05b236608a9b",
+    "published_at": "2026-09-18T07:15:00Z",
+    "title": "Bitget关于暂停CRO -以太坊网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895572",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T08:11:35Z"
+  },
+  {
     "id": "22cea9a055809f22",
     "published_at": "2026-09-18T07:00:00Z",
     "title": "Bitget关于暂停XPLA - XPLA网络取款服务的公告",
