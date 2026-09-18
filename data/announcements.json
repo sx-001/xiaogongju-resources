@@ -1,5 +1,53 @@
 [
   {
+    "id": "8cfcaf14a8ebb40b",
+    "published_at": "2026-09-18T03:44:00Z",
+    "title": "KuCoin已暂时关闭RealityMetaverse (RMV)的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-realitymetaverse-rmv-0918",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-18T04:11:16Z"
+  },
+  {
+    "id": "5468f59c419d8cef",
+    "published_at": "2026-09-18T03:43:00Z",
+    "title": "Bitget关于恢复家庭的公告-币安智能链提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895542",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T04:11:16Z"
+  },
+  {
+    "id": "e1ed96fb242e53d8",
+    "published_at": "2026-09-18T03:23:36Z",
+    "title": "XT 关于恢复KNCH链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62374188546201",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T04:11:16Z"
+  },
+  {
+    "id": "aadda7544ffae2ce",
+    "published_at": "2026-09-18T03:13:56Z",
+    "title": "XT 关于暂停TRUU充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62373840472729",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T04:11:16Z"
+  },
+  {
     "id": "6addd53a5bd96deb",
     "published_at": "2026-09-18T02:50:00Z",
     "title": "[重要] Bitget将禁用统一交易账户中SAGA的保证金和贷款功能",
