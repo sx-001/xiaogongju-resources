@@ -1,5 +1,29 @@
 [
   {
+    "id": "6addd53a5bd96deb",
+    "published_at": "2026-09-18T02:50:00Z",
+    "title": "[重要] Bitget将禁用统一交易账户中SAGA的保证金和贷款功能",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895538",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T03:10:55Z"
+  },
+  {
+    "id": "99a86bda3b443fda",
+    "published_at": "2026-09-18T02:10:39Z",
+    "title": "XT 关于暂停KNCH链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62371299174425",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T03:10:55Z"
+  },
+  {
     "id": "5b7eb8fe83b22839",
     "published_at": "2026-09-18T00:25:14Z",
     "title": "XT 关于调整 ONE_USDT 永续合约资金费率时间周期的公告",
