@@ -1,5 +1,41 @@
 [
   {
+    "id": "5612a80b3acb2a1d",
+    "published_at": "2026-09-18T10:02:41Z",
+    "title": "APP 更新公告（ v5.19.5 ）",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "公告",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/xi-tong-wei-hu/app-geng-xin-gong-gao-v5.19.5",
+    "announcement_type": "公告",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-18T10:11:15Z"
+  },
+  {
+    "id": "24a3b95b5fccce53",
+    "published_at": "2026-09-18T10:00:00Z",
+    "title": "2026年9月24日三对现货交易对退市通知",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895618",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T10:11:15Z"
+  },
+  {
+    "id": "9dd4f5198f1d66f5",
+    "published_at": "2026-09-18T10:00:00Z",
+    "title": "Bitget将在2026年9月第四周的特殊交易期间调整差价合约杠杆",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603895546",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T10:11:15Z"
+  },
+  {
     "id": "76e3c0683661e880",
     "published_at": "2026-09-18T09:00:00Z",
     "title": "【重要提示】Bitget支持统一账户中的现金+保证金功能",
