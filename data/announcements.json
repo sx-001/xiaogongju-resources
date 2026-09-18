@@ -1,5 +1,29 @@
 [
   {
+    "id": "55a3bf9d1fb8295a",
+    "published_at": "2026-09-18T10:21:00Z",
+    "title": "Hotcoin 关于【Stardrop x $ YATE ：独家交易大赛瓜分 10,000 YATE】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-stardrop-yate/",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-18T11:11:02Z"
+  },
+  {
+    "id": "ed14593a8bc21dda",
+    "published_at": "2026-09-18T10:19:00Z",
+    "title": "Hotcoin 关于【现货全能挑战赛#19｜交易热门币种，瓜分 200,000 USDT 奖励】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-spot-all-round-challenge-19/",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-18T11:11:02Z"
+  },
+  {
     "id": "5612a80b3acb2a1d",
     "published_at": "2026-09-18T10:02:41Z",
     "title": "APP 更新公告（ v5.19.5 ）",
@@ -34,6 +58,42 @@
     "announcement_type": "合约",
     "exchange": "Bitget",
     "created_at": "2026-09-18T10:11:15Z"
+  },
+  {
+    "id": "4c168feb479a1395",
+    "published_at": "2026-09-18T10:00:00Z",
+    "title": "Notice on Bitget CFD system maintenance",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603895550",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T11:11:02Z"
+  },
+  {
+    "id": "dccd6ffe65dac6fe",
+    "published_at": "2026-09-18T10:00:00Z",
+    "title": "通过Bitget零利率保证金贷款计划释放更大的回报！",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895510",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T11:11:02Z"
+  },
+  {
+    "id": "d8711386b5d3d90a",
+    "published_at": "2026-09-18T09:55:00Z",
+    "title": "Hotcoin Alpha 交易有礼 # 5 ：伏击链上百倍机会 ，交易赢取 iPhone Duo ！",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/alpha-trading-rewards-5/",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-18T11:11:02Z"
   },
   {
     "id": "76e3c0683661e880",
