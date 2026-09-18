@@ -1,5 +1,18 @@
 [
   {
+    "id": "d16dc84a9935fb79",
+    "published_at": "2026-09-18T15:30+08:00",
+    "title": "作为标普集团，华尔街获得了对Web3安全的直接监督",
+    "summary": "这家安全公司表示，其团队和工具将继续存在，而标普在交易结束后增加了数据、研究和机构影响力。华尔街邮报",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/wall-street-gains-direct-oversight-of-web3-security-as-sp-global-buys-openzeppelin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T08:01:06Z"
+  },
+  {
     "id": "fc8180a60dd3a425",
     "published_at": "2026-09-18T14:52+08:00",
     "title": "伊朗霍尔木兹海峡收费站通过比特币EXC",
