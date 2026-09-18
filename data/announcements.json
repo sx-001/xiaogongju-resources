@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b7eb8fe83b22839",
+    "published_at": "2026-09-18T00:25:14Z",
+    "title": "XT 关于调整 ONE_USDT 永续合约资金费率时间周期的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62367300901657",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T01:10:37Z"
+  },
+  {
     "id": "bcf00b85be227936",
     "published_at": "2026-09-18T00:14:00Z",
     "title": "【重要提示】Bitget调整ONEUSDT永续期货的资金利率间隔和最高/最低限额",
