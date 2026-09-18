@@ -1,5 +1,65 @@
 [
   {
+    "id": "d3b338387122e5c4",
+    "published_at": "2026-09-18T06:11:01Z",
+    "title": "永续合约上新 ARCUSDT、 CVCUSDT、 JASMYUSDT、 XPINUSDT",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "合约",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-arcusdtcvcusdtjasmyusdtxpinusdt",
+    "announcement_type": "合约",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-18T06:14:04Z"
+  },
+  {
+    "id": "af168506f52ccc2e",
+    "published_at": "2026-09-18T06:00:00Z",
+    "title": "子账户创建限额调整通知",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/Notification_of_Subaccount_Creation_Limit_Adjustment",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-18T06:14:04Z"
+  },
+  {
+    "id": "b500beb30f7a857e",
+    "published_at": "2026-09-18T05:33:29Z",
+    "title": "关于系统服务升级维护的公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "维护",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/xi-tong-wei-hu/guan-yu-xi-tong-fu-wu-sheng-ji-wei-hu-de-gong-gao",
+    "announcement_type": "维护",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-18T06:14:04Z"
+  },
+  {
+    "id": "b1a10d51ad2e34b4",
+    "published_at": "2026-09-18T05:14:42Z",
+    "title": "9 月18日 AOZX每日资讯 ｜美国开放代币化股票交易 ，、 ZEC附近领涨市场",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17666637153807",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-09-18T06:14:04Z"
+  },
+  {
+    "id": "43a91ca3065cfcbe",
+    "published_at": "2026-09-18T05:14:00Z",
+    "title": "KuCoin将于2026-09-18恢复Radix (XRD)交易",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-resume-trading-of-radix-xrd-on-2026-9-18",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-18T06:14:04Z"
+  },
+  {
     "id": "ad6d9fe7f9815125",
     "published_at": "2026-09-18T05:09:12Z",
     "title": "关于大数据同步服务升级维护的公告",
