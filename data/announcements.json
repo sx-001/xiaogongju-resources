@@ -1,5 +1,17 @@
 [
   {
+    "id": "22514f3d357051ca",
+    "published_at": "2026-09-18T12:10:11Z",
+    "title": "XT关于停止向印度地区提供服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62392454928409",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T12:13:39Z"
+  },
+  {
     "id": "55a3bf9d1fb8295a",
     "published_at": "2026-09-18T10:21:00Z",
     "title": "Hotcoin 关于【Stardrop x $ YATE ：独家交易大赛瓜分 10,000 YATE】活动奖励已发放的公告",
@@ -22,6 +34,18 @@
     "announcement_type": "活动",
     "exchange": "Hotcoin",
     "created_at": "2026-09-18T11:11:02Z"
+  },
+  {
+    "id": "6ab2640b6461915e",
+    "published_at": "2026-09-18T10:10:14Z",
+    "title": "XT 关于支持Stargate Finance （ STG ）代币合并至 LayerZero （ ZRO ）的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62389130896153",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-18T12:13:39Z"
   },
   {
     "id": "5612a80b3acb2a1d",
