@@ -1,5 +1,44 @@
 [
   {
+    "id": "50dcf09771b340e8",
+    "published_at": "2026-09-19T02:35+08:00",
+    "title": "Kevin O'Leary表示，比特币将达到100万$ ，但",
+    "summary": "Kevin O'Leary认为，如果加密打败其量子计算问题，比特币可能会达到100万美元，并解释了为什么他要抛弃以太坊。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T19:01:08Z"
+  },
+  {
+    "id": "82797dd9d44e3fe4",
+    "published_at": "2026-09-19T02:01+08:00",
+    "title": "TRON Inc.的TRX来自英国制裁后的HTX",
+    "summary": "尽管BiT Global是卖家，但TRON Inc.的TRX是从HTX钱包发送的，直到HTX制裁结束。POST TRON Inc.的TRX来自",
+    "source": "Protos",
+    "category": "宏观-地缘与贸易",
+    "url": "https://protos.com/tron-inc-s-trx-came-from-htx-after-uk-sanctions/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T19:01:08Z"
+  },
+  {
+    "id": "5f4d9b2edf507fc4",
+    "published_at": "2026-09-19T01:55+08:00",
+    "title": "加密货币股票在CLARITY ACT抛售后反弹",
+    "summary": "随着美国商品期货交易委员会(CFTC)和美国证券交易委员会(SEC)在现有授权下推进与加密相关的行动， Coinbase、Strategy和其他与加密相关的股票周五上涨。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T19:01:08Z"
+  },
+  {
     "id": "7dbf8c6f1f7155ce",
     "published_at": "2026-09-19T01:50+08:00",
     "title": "3岁的漏洞会引发130万美元的消耗，并迫使10天",
