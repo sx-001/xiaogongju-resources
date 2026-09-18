@@ -1,5 +1,17 @@
 [
   {
+    "id": "250c47a1b18b8300",
+    "published_at": "2026-09-18T12:37:00Z",
+    "title": "Bitget暂停珊瑚礁公告-珊瑚礁网络退出服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895625",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T13:10:35Z"
+  },
+  {
     "id": "22514f3d357051ca",
     "published_at": "2026-09-18T12:10:11Z",
     "title": "XT关于停止向印度地区提供服务的公告",
@@ -10,6 +22,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-18T12:13:39Z"
+  },
+  {
+    "id": "1b80030ee803b700",
+    "published_at": "2026-09-18T12:06:00Z",
+    "title": "Bitget机构贷款BTC固定利率产品",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895623",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-18T13:10:35Z"
   },
   {
     "id": "55a3bf9d1fb8295a",
