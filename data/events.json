@@ -1,5 +1,31 @@
 [
   {
+    "id": "276832c79f0aab4a",
+    "published_at": "2026-09-18T18:33+08:00",
+    "title": "Layer-2和DeFi代币作为后Fe引领了广泛的加密进步",
+    "summary": "Starknet和arbitrum上涨超过17% ，而10年期美国国债收益率回落至5%以下， CoinDesk 100成分股中有98家上涨。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T11:01:40Z"
+  },
+  {
+    "id": "9f66073c413dbc27",
+    "published_at": "2026-09-18T18:07+08:00",
+    "title": "比特币天气9月风暴作为加息和清晰度",
+    "summary": "比特币在历史上最弱的月份仅下跌1.5% ，尽管利率上升、飙升，但仍有望实现一年来的首次季度涨幅",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-18T11:01:40Z"
+  },
+  {
     "id": "b9a3629d836a05f7",
     "published_at": "2026-09-18T17:01+08:00",
     "title": "财政部制裁伊朗比特币背后的加密货币交易所",
