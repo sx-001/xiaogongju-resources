@@ -1,5 +1,31 @@
 [
   {
+    "id": "a78cc72f6bfb6b0d",
+    "published_at": "2026-09-20T03:20+08:00",
+    "title": "富达推动$ 4.33亿比特币ETF飙升为比特币的价格",
+    "summary": "美国加密货币ETF本周收盘，需求大幅飙升，其中4.3303亿美元流入比特币基金。以太币、索拉纳币、Zcash和炒作产品",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/fidelity-drives-433m-bitcoin-etf-surge-as-bitcoins-price-tops-80k/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T20:01:13Z"
+  },
+  {
+    "id": "9eaec29faca71560",
+    "published_at": "2026-09-20T03:14+08:00",
+    "title": "REX推出与比特币财资公司挂钩的2倍杠杆ETF",
+    "summary": "新的ASSX基金每天提供2倍的Strive股票敞口，为交易者提供了一种杠杆方式来押注比特币金库公司。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T20:01:13Z"
+  },
+  {
     "id": "890eca0a1d93ccea",
     "published_at": "2026-09-20T02:20+08:00",
     "title": "被攻击者击中的闪烁钱包， “几十个”托管账户",
