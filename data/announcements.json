@@ -1,5 +1,29 @@
 [
   {
+    "id": "a71049ea21d7c926",
+    "published_at": "2026-09-19T07:08:00Z",
+    "title": "Bitget关于恢复USDC - APTOS提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895635",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-19T07:09:57Z"
+  },
+  {
+    "id": "af1ce5affda80938",
+    "published_at": "2026-09-19T06:26:50Z",
+    "title": "XT 关于暂停KAS_KRC20链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62411524946457",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-19T07:09:57Z"
+  },
+  {
     "id": "b9f2a823e4adde9c",
     "published_at": "2026-09-19T05:34:09Z",
     "title": "XT 关于深度隐藏UCN/USDT交易对的公告",
