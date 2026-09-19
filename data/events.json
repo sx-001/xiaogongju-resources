@@ -1,5 +1,18 @@
 [
   {
+    "id": "d403070c7d047bee",
+    "published_at": "2026-09-20T06:20+08:00",
+    "title": "在布鲁塞尔，只有四家加密货币交易所等待中央银行的批准",
+    "summary": "距离新的加密监管制度截止日期还有一个多月的时间，当地消息人士表示，只有五家VASP提交了",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/only-four-crypto-exchanges-await-central-bank-approval-in-brazil/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T23:01:16Z"
+  },
+  {
     "id": "1776c8f6e6e6e673",
     "published_at": "2026-09-20T05:02+08:00",
     "title": "为什么特朗普支持一项在法国停滞不前的加密道德规则",
