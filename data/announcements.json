@@ -1,5 +1,29 @@
 [
   {
+    "id": "5c14227b8f6cd5e8",
+    "published_at": "2026-09-19T07:46:52Z",
+    "title": "XT 关于暂停PEAQ、 QUB链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62413394908313",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-19T08:11:32Z"
+  },
+  {
+    "id": "6698b7491e95dc12",
+    "published_at": "2026-09-19T07:41:18Z",
+    "title": "XT 关于恢复AR、 KAS_KRC20链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62413230058137",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-19T08:11:32Z"
+  },
+  {
     "id": "a71049ea21d7c926",
     "published_at": "2026-09-19T07:08:00Z",
     "title": "Bitget关于恢复USDC - APTOS提现的公告",
