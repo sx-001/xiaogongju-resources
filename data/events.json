@@ -1,5 +1,31 @@
 [
   {
+    "id": "19a04774f44b7e51",
+    "published_at": "2026-09-19T22:00+08:00",
+    "title": "“我们失去了控制” ：加密先驱警告说，人工智能可能会触发",
+    "summary": "Marc van der Chijs出售了他的大部分比特币来投资人工智能。现在，随着人们对这项技术的担忧日益增加，他们也开始采取行动，将一些利润投入到",
+    "source": "CoinDesk",
+    "category": "宏观-银行与金融风险",
+    "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T14:01:14Z"
+  },
+  {
+    "id": "5cc7bbee214f1315",
+    "published_at": "2026-09-19T21:20+08:00",
+    "title": "特朗普准备新俄罗斯时，比特币面临10月18日的考验",
+    "summary": "特朗普的新法律规定了时钟，但利率、目标和能源市场溢出效应将决定加密货币是否感觉到了这一点。帖子比特币面临一个十月",
+    "source": "CryptoSlate",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T14:01:14Z"
+  },
+  {
     "id": "8bd23f1a813d817a",
     "published_at": "2026-09-19T20:00+08:00",
     "title": "为什么华尔街巨头为研究所建立代币化资金",
