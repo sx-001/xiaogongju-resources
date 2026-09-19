@@ -1,5 +1,18 @@
 [
   {
+    "id": "ca2f7ab7ae6d5008",
+    "published_at": "2026-09-19T12:30+08:00",
+    "title": "以太坊联合创始人Vitalik Buterin认为，本地人工智能可以",
+    "summary": "更快的私人推理使笔记本电脑编排变得实用，而支出权限仍然落后于硬性限制、交易检查和人工审批",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T05:01:04Z"
+  },
+  {
     "id": "2d2938d9225d47eb",
     "published_at": "2026-09-19T08:40+08:00",
     "title": "Anthropic的Claude帮助3名研究人员破解了OpenAI",
