@@ -1,5 +1,31 @@
 [
   {
+    "id": "2a3ce4d7793e6a8c",
+    "published_at": "2026-09-20T04:20+08:00",
+    "title": "Brian Armstrong Says WSJ Will Blame Coinbase for CLARITY’s C",
+    "summary": "Coinbase CEO Brian Armstrong says the Wall Street Journal is preparing a story blaming him for the CLARITY Act&#8217;s Senate defeat, and he went publ",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/armstrong-wsj-coinbase-clarity-act-blame/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T21:01:00Z"
+  },
+  {
+    "id": "77d73c0054fa2975",
+    "published_at": "2026-09-20T04:10+08:00",
+    "title": "Fidelity surge brings in $310M BTC saving Bitcoin ETFs from ",
+    "summary": "Friday broadened demand, yet the two-day rebound left the midweek withdrawal gap partly open. The post Fidelity surge brings in $310M BTC saving Bitco",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T21:01:00Z"
+  },
+  {
     "id": "a78cc72f6bfb6b0d",
     "published_at": "2026-09-20T03:20+08:00",
     "title": "富达推动$ 4.33亿比特币ETF飙升为比特币的价格",
