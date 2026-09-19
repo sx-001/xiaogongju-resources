@@ -1,5 +1,31 @@
 [
   {
+    "id": "890eca0a1d93ccea",
+    "published_at": "2026-09-20T02:20+08:00",
+    "title": "被攻击者击中的闪烁钱包， “几十个”托管账户",
+    "summary": "周六，提供托管和非托管服务的闪电网络支付平台Blink Wallet透露，",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/blink-wallet-hit-by-attacker-few-dozen-custodial-accounts-drained/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T19:01:04Z"
+  },
+  {
+    "id": "9ef5b7d305101d95",
+    "published_at": "2026-09-20T02:01+08:00",
+    "title": "比特币ETF周五以4.33亿美元的$表现出色",
+    "summary": "富达(Fidelity)的FBTC在周五的4.33亿美元净流入总额中占3.107亿美元，这笔可观的金额有助于抵消早先的提款。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-19T19:01:04Z"
+  },
+  {
     "id": "333ec9946f4784c9",
     "published_at": "2026-09-20T00:15+08:00",
     "title": "VanEck批评Metaplanet高管稀释，尽管",
