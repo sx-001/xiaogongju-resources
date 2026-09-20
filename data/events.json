@@ -1,5 +1,31 @@
 [
   {
+    "id": "618ffd6f98db5101",
+    "published_at": "2026-09-21T04:30+08:00",
+    "title": "为什么保护您的私钥安全并不总是能阻止加密",
+    "summary": "9月6日，通过网络批准的提款，近4,000个比特币离开了Liquid的储备，尽管用于授权它的私钥",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T21:01:14Z"
+  },
+  {
+    "id": "b347ce6dd8a2ae34",
+    "published_at": "2026-09-21T04:11+08:00",
+    "title": "ZetaChain投票关闭第1层网络并移动ZETA t",
+    "summary": "该团队计划将重点放在其私人人工智能应用程序Anuma上，尽管迁移仍需要多一票。",
+    "source": "The Block",
+    "category": "交易所异常",
+    "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T21:01:14Z"
+  },
+  {
     "id": "6ff83ae9e1f22764",
     "published_at": "2026-09-21T03:48+08:00",
     "title": "清晰度失败， Kraken为链上罪犯做准备等",
