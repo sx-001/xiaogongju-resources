@@ -1,5 +1,29 @@
 [
   {
+    "id": "abf2729442ebba93",
+    "published_at": "2026-09-20T06:57:48Z",
+    "title": "永续合约上新 COMPUSDT、 BANANAUSDT、 APRUSDT、 4USDT、 COTIUSDT、 MOVRUSDT",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "合约",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-compusdtbananausdtaprusdt4usdtcotiusdtmovrusdt",
+    "announcement_type": "合约",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-20T07:10:03Z"
+  },
+  {
+    "id": "de5ac43c824735f3",
+    "published_at": "2026-09-20T06:29:00Z",
+    "title": "Bitget关于暂停METIS - MetisDAO充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895645",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-20T07:10:03Z"
+  },
+  {
     "id": "c23c3e92f7a7afef",
     "published_at": "2026-09-20T05:51:39Z",
     "title": "XT 关于暂停RXD充提的公告",
@@ -10,6 +34,18 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-20T06:13:10Z"
+  },
+  {
+    "id": "a8e155e9b6ff2ef4",
+    "published_at": "2026-09-20T04:15:10Z",
+    "title": "XT 关于上线LITEB （ Lumentum ）、 PLTRB （ Palantir ）、 CBRSB （ Cerebras ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62433230857241",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-20T07:10:03Z"
   },
   {
     "id": "9614fa83c97a90dc",
