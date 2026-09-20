@@ -1,5 +1,29 @@
 [
   {
+    "id": "7dcf87b7d0acc699",
+    "published_at": "2026-09-20T14:50:02Z",
+    "title": "XT 关于暂停BNRY链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62446690035993",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-20T15:09:58Z"
+  },
+  {
+    "id": "62344dce28031aae",
+    "published_at": "2026-09-20T14:05:00Z",
+    "title": "关于暂停BRC20网络存款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895655",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-20T15:09:58Z"
+  },
+  {
     "id": "7f41ed307b180cac",
     "published_at": "2026-09-20T13:54:00Z",
     "title": "Bitget暂停SHELL公告-币安智能链网络取款服务",
