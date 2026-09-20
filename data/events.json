@@ -1,5 +1,31 @@
 [
   {
+    "id": "8bde2f431493ca3c",
+    "published_at": "2026-09-20T19:30+08:00",
+    "title": "希夫警告代币化股票将从BIT虹吸流动性",
+    "summary": "黄金漏洞认为，市场对新的官方推动代币化股票的反应毫无意义，因为这些将构成另一项投资",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/schiff-warns-tokenized-stocks-will-siphon-liquidity-from-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T12:01:08Z"
+  },
+  {
+    "id": "e5b02f85a18ef3e3",
+    "published_at": "2026-09-20T19:05+08:00",
+    "title": "为什么比特币在$ 80,000以上的反弹没有得到机构的支持",
+    "summary": "由于资产经理多头下跌，每周ETF需求勉强保持正值，杠杆基金变成了7,275比特币当量减去净空头。文章Why Bitc",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T12:01:08Z"
+  },
+  {
     "id": "a4ab47146ba4df26",
     "published_at": "2026-09-20T16:30+08:00",
     "title": "Raoul Pal表示，随着利率突破，比特币将超过纳斯达克指数",
