@@ -1,5 +1,31 @@
 [
   {
+    "id": "5354db71a3ddd4c4",
+    "published_at": "2026-09-21T00:07+08:00",
+    "title": "Polymarket在其首席执行官推动下面临1000万美元的欺诈企图",
+    "summary": "根据该报告，在另一次攻击中，黑客利用被盗的个人信息入侵了近500个用户的帐户。",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T17:01:03Z"
+  },
+  {
+    "id": "5cfc481a1416c8cf",
+    "published_at": "2026-09-21T00:01+08:00",
+    "title": "以太坊价格从$ 2,668回落，势头开始于周五",
+    "summary": "以太坊的价格在几天内从2,360美元攀升至近2,668美元后又回到了2,600美元附近，但却是第二大加密资产",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/market-updates/ethereum-price-retreats-from-2668-as-momentum-starts-to-fray/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-20T17:01:03Z"
+  },
+  {
     "id": "195e50e2a7a4ff20",
     "published_at": "2026-09-20T23:05+08:00",
     "title": "欧盟质押审查威胁到加密收益率和网络安全",
