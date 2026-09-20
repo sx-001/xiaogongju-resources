@@ -1,5 +1,41 @@
 [
   {
+    "id": "1707a92c917e1ed4",
+    "published_at": "2026-09-20T12:44:05Z",
+    "title": "XT 关于暂停PEAQ链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62444582587673",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-20T13:09:53Z"
+  },
+  {
+    "id": "2e55c58851b16425",
+    "published_at": "2026-09-20T12:13:22Z",
+    "title": "BASEKX ｜永续合约将上线 AKEUSDT 的公告（ 2026-09-20 ）",
+    "summary": "",
+    "source": "Basekx",
+    "category": "上币",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62444001566873",
+    "announcement_type": "上币",
+    "exchange": "Basekx",
+    "created_at": "2026-09-20T13:09:53Z"
+  },
+  {
+    "id": "2c9fc5b9be1fb850",
+    "published_at": "2026-09-20T10:41:06Z",
+    "title": "XT 关于下架NESA （ NES ）交易对并终止合约置换计划的公告 (2026-09-22)",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "下架",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62441990527769",
+    "announcement_type": "下架",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-20T13:09:53Z"
+  },
+  {
     "id": "5e857f8c32c08d10",
     "published_at": "2026-09-20T10:26:00Z",
     "title": "Bitget关于暂停狗的公告- BTCRUNES存款服务",
