@@ -1,5 +1,29 @@
 [
   {
+    "id": "44ad3888bed19915",
+    "published_at": "2026-09-21T11:59:00Z",
+    "title": "Bitget关于暂停ATOM - COSMOS充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895777",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T12:13:01Z"
+  },
+  {
+    "id": "db6f356b15719764",
+    "published_at": "2026-09-21T11:33:00Z",
+    "title": "KuCoin暂时关闭AI路由器协议（ AIR ）和AntFun （ ANTFUN ）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-services-of-ai-router-protocol-air-and-antfun-antfun",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-21T12:13:01Z"
+  },
+  {
     "id": "4b5dc021ec953173",
     "published_at": "2026-09-21T11:06:00Z",
     "title": "Bitget关于暂停WLD - World Chain充提币服务的公告",
@@ -10,6 +34,18 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-21T11:10:36Z"
+  },
+  {
+    "id": "f255bc87b386936d",
+    "published_at": "2026-09-21T11:04:00Z",
+    "title": "Bitget列出了多种现货股票和ETF资产，包括rFDVV、rGDXU、rBITX、rJPIE和rCWB",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895774",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T12:13:01Z"
   },
   {
     "id": "bf901e67608ec493",
