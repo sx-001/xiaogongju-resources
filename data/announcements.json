@@ -1,5 +1,41 @@
 [
   {
+    "id": "4b5dc021ec953173",
+    "published_at": "2026-09-21T11:06:00Z",
+    "title": "Bitget关于暂停WLD - World Chain充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895775",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T11:10:36Z"
+  },
+  {
+    "id": "bf901e67608ec493",
+    "published_at": "2026-09-21T10:59:00Z",
+    "title": "Bitget关于暂停VANA - VANA存取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895773",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T11:10:36Z"
+  },
+  {
+    "id": "6c291123407795b7",
+    "published_at": "2026-09-21T10:37:43Z",
+    "title": "XT 关于恢复ICBX链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62476428413593",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T11:10:36Z"
+  },
+  {
     "id": "609f2482d4e94f0d",
     "published_at": "2026-09-21T09:36:00Z",
     "title": "Hotcoin 关于【TradFi 交易启航计划｜首笔交易有礼 ，爆仓 100%补贴 ， 30,000 USDT 奖励等你拿】活动奖励已发放的公告",
