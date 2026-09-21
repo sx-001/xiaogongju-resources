@@ -1,5 +1,18 @@
 [
   {
+    "id": "dc8245397becd389",
+    "published_at": "2026-09-21T12:03+08:00",
+    "title": "比特币上涨超过$ 81,000 ，而Zcash上涨近23 ％",
+    "summary": "比特币在整个亚洲交易日缓慢攀升，而地区股票和美国股票期货因华盛顿之间的贸易谈判取得进展而上涨",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T05:01:50Z"
+  },
+  {
     "id": "436092b83a1dbfaa",
     "published_at": "2026-09-21T11:30+08:00",
     "title": "众议院小组通过20年Ho推进美国比特币储备法案",
