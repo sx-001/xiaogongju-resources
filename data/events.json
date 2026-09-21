@@ -1,5 +1,18 @@
 [
   {
+    "id": "3692f8467d7da287",
+    "published_at": "2026-09-21T13:30+08:00",
+    "title": "美国黑名单Bitbank超过数亿比特币",
+    "summary": "美国因涉嫌逃避制裁活动而将伊朗加密货币交易所Bitbank及其软件开发商列入黑名单。财政部表示，",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/us-blacklists-bitbank-over-hundreds-of-millions-in-bitcoin-transfers/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T06:01:32Z"
+  },
+  {
     "id": "dc8245397becd389",
     "published_at": "2026-09-21T12:03+08:00",
     "title": "比特币上涨超过$ 81,000 ，而Zcash上涨近23 ％",
