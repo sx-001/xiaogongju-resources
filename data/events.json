@@ -1,5 +1,57 @@
 [
   {
+    "id": "7543c38cba7a5096",
+    "published_at": "2026-09-22T06:46+08:00",
+    "title": "谷歌承认Gemini AI攻击了三家公司-它保持沉默",
+    "summary": "谷歌在7月下旬获悉， Gemini在5月份的安全测试中入侵了三家真正的公司，但在七周内没有公开发表任何言论。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T23:01:46Z"
+  },
+  {
+    "id": "8cc6cbc08f162ded",
+    "published_at": "2026-09-22T06:45+08:00",
+    "title": "Hana Bank在区块链上投入了1亿美元$ ，并跳过了为期5天的等待",
+    "summary": "Hana Bank通过五年期外币数字债券筹集了1亿美元（ $ 100 million ） ，并在同一天结算了整个交易，",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/blockchain/hana-bank-put-100m-on-blockchain-and-skipped-the-5-day-wait/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T23:01:46Z"
+  },
+  {
+    "id": "2aa32ea82a4ed1da",
+    "published_at": "2026-09-22T06:40+08:00",
+    "title": "L2增长和1200亿美元的质押隐藏了以太坊的供应",
+    "summary": "大型网络余额与不均匀的ETF流量并存，而ETH持有者的收益取决于购买和费用。POST L2增长和1200亿美元$",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T23:01:46Z"
+  },
+  {
+    "id": "82bf8dacdc6b3f81",
+    "published_at": "2026-09-22T06:10+08:00",
+    "title": "Circle现在允许机构客户向USDC借款",
+    "summary": "稳定币发行商Circle正在吸引拥有加密货币的机构，周一推出了一项贷款服务，允许他们用比特币借入USDC",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/circle-lets-institutional-clients-borrow-usdc-against-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T23:01:46Z"
+  },
+  {
     "id": "10b350882e43c776",
     "published_at": "2026-09-22T03:15+08:00",
     "title": "Slowmist警告Darksword iOS漏洞利用目标加密钱包K",
