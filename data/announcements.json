@@ -1,5 +1,29 @@
 [
   {
+    "id": "5df65cf9b7aa3eab",
+    "published_at": "2026-09-21T12:56:00Z",
+    "title": "Bitget关于恢复VANA - VANA充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895778",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T13:10:59Z"
+  },
+  {
+    "id": "e3d1634db8a89836",
+    "published_at": "2026-09-21T12:53:41Z",
+    "title": "XT关于暂停原子链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62479932735641",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T13:10:59Z"
+  },
+  {
     "id": "44ad3888bed19915",
     "published_at": "2026-09-21T11:59:00Z",
     "title": "Bitget关于暂停ATOM - COSMOS充提币服务的公告",
