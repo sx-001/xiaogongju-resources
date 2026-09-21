@@ -1,5 +1,18 @@
 [
   {
+    "id": "10b350882e43c776",
+    "published_at": "2026-09-22T03:15+08:00",
+    "title": "Slowmist警告Darksword iOS漏洞利用目标加密钱包K",
+    "summary": "Slowmist首席信息安全官23pds报告了此漏洞的演变，由于多种技术的结合，",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/slowmist-warns-darksword-ios-exploit-targets-crypto-wallet-keys/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T20:01:18Z"
+  },
+  {
     "id": "d01b8cfbc8dfed3d",
     "published_at": "2026-09-22T03:00+08:00",
     "title": "欧洲央行准备将自有资金投资于Tokeni",
@@ -11,6 +24,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-21T19:01:22Z"
+  },
+  {
+    "id": "1eb5e87839c0e41b",
+    "published_at": "2026-09-22T03:00+08:00",
+    "title": "One Size主导Kalshi的ETH Perp交易量",
+    "summary": "交易所以太永续期货的大部分美元交易量来自单一重复规模的交易，数据来自Kalshi自己的公共API sh",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/cefi/one-size-dominates-kalshi-eth-perp-volume",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T20:01:18Z"
   },
   {
     "id": "efdcf92553196f11",
