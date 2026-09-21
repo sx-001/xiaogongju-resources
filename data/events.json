@@ -1,5 +1,31 @@
 [
   {
+    "id": "f7551fa69c9072c6",
+    "published_at": "2026-09-22T01:20+08:00",
+    "title": "比特币达到86,000 $ ，使ETF投资者重新获利",
+    "summary": "比特币上涨至86,000 $ ，推动美国现货交易所交易基金（ ETF ）投资者在水下几个月后重新获利。来自CryptoSlate的数据",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T18:01:41Z"
+  },
+  {
+    "id": "c6bd82a8ce54f06e",
+    "published_at": "2026-09-22T00:56+08:00",
+    "title": "Circle为研究所推出由比特币支持的USDC借款",
+    "summary": "Circle正在将比特币支持的借款带给机构客户，允许他们在不出售比特币的情况下利用比特币持有量获得USDC流动性",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T18:01:41Z"
+  },
+  {
     "id": "b473dcba856bcf69",
     "published_at": "2026-09-22T00:40+08:00",
     "title": "将提出更快的块时间真正解决以太坊的大问题",
