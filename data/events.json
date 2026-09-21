@@ -52,6 +52,19 @@
     "created_at": "2026-09-20T20:01:10Z"
   },
   {
+    "id": "61101f0d0e5d1844",
+    "published_at": "2026-09-21T02:05+08:00",
+    "title": "一名攻击者击中了两个加密项目，并用$ 2 Mill行走",
+    "summary": "一名攻击者似乎在同一分钟内破解了两个独立的加密项目，从Fetch.ai转换器中排出了872万个FET。",
+    "source": "Bitcoin.com",
+    "category": "宏观-地缘与贸易",
+    "url": "https://news.bitcoin.com/security/one-attacker-hits-two-crypto-projects-and-walks-with-2-million/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T00:00:55Z"
+  },
+  {
     "id": "b4e28eadcfc623b6",
     "published_at": "2026-09-21T01:15+08:00",
     "title": "随着交易者放弃传统，离岸比特币期货暴跌97%",
