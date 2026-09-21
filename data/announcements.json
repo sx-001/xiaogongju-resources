@@ -1,5 +1,53 @@
 [
   {
+    "id": "0fdcfa0836e1de0b",
+    "published_at": "2026-09-21T04:04:03Z",
+    "title": "XT 关于暂停MEFAI充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62462035061657",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T04:10:36Z"
+  },
+  {
+    "id": "918083ee5fbdd60b",
+    "published_at": "2026-09-21T03:33:00Z",
+    "title": "KuCoin将调整某些现货交易对的报价大小",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-adjust-the-tick-size-for-certain-spot-trading-pairs-20260921",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-21T04:10:36Z"
+  },
+  {
+    "id": "bbeed9c926b381fe",
+    "published_at": "2026-09-21T03:23:00Z",
+    "title": "Bitget关于恢复USDC - AVAX C-Chain提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895692",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T04:10:36Z"
+  },
+  {
+    "id": "db4773f6395e643c",
+    "published_at": "2026-09-21T03:19:00Z",
+    "title": "回购Gno.land （ GNOT ） Spotlight认购股份",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-buyback-for-gno-land-gnot-spotlight-subscription-shares",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-21T04:10:36Z"
+  },
+  {
     "id": "5fcca4aeca655803",
     "published_at": "2026-09-21T02:51:00Z",
     "title": "Bitget announcement on resuming STG - Ethereum withdrawals",
@@ -10,6 +58,18 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-21T03:11:02Z"
+  },
+  {
+    "id": "986461ba03fdc784",
+    "published_at": "2026-09-21T01:50:34Z",
+    "title": "XT 关于上线COINB （ Coinbase ）、 NBISB （ Nebius ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62457045333145",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T04:10:36Z"
   },
   {
     "id": "adf77cdc875933a4",
