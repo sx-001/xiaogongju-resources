@@ -1,5 +1,31 @@
 [
   {
+    "id": "d01b8cfbc8dfed3d",
+    "published_at": "2026-09-22T03:00+08:00",
+    "title": "欧洲央行准备将自有资金投资于Tokeni",
+    "summary": "央行计划购买以欧元计价的公共部门债务，并通过其新的Pontes服务结算交易。",
+    "source": "Decrypt",
+    "category": "宏观-银行与金融风险",
+    "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T19:01:22Z"
+  },
+  {
+    "id": "efdcf92553196f11",
+    "published_at": "2026-09-22T02:26+08:00",
+    "title": "较小的比特币持有者在$ 85K拉力赛之前以69,494 WAL出售",
+    "summary": "比特币攀升至85,000 $以上，此前在7月至8月的低迷时期， 69,494个钱包从两个小股东平衡组中消失。Santiment认为",
+    "source": "Bitcoin.com",
+    "category": "极端行情",
+    "url": "https://news.bitcoin.com/market-updates/smaller-bitcoin-holders-sold-before-85k-rally-as-69494-wallets-exit/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T19:01:22Z"
+  },
+  {
     "id": "f7551fa69c9072c6",
     "published_at": "2026-09-22T01:20+08:00",
     "title": "比特币达到86,000 $ ，使ETF投资者重新获利",
