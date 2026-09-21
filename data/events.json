@@ -1,5 +1,31 @@
 [
   {
+    "id": "b473dcba856bcf69",
+    "published_at": "2026-09-22T00:40+08:00",
+    "title": "将提出更快的块时间真正解决以太坊的大问题",
+    "summary": "EIP-8198保持吞吐量大致平稳，同时收紧了保护广泛参与的传播和认证窗口。帖子将提出",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/why-faster-block-times-wont-fix-ethereums-biggest-market-losses/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T17:01:07Z"
+  },
+  {
+    "id": "81f79c062bb3ff51",
+    "published_at": "2026-09-22T00:00+08:00",
+    "title": "Strategy and Strive以85,000美元的价格购买1.83亿美元的比特币",
+    "summary": "比特币金库公司Strategy and Strive上周购买了大约1.83亿美元的比特币，因为加密货币的反弹帮助了公司的平衡。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/strategy-and-strive-buy-183-million-in-bitcoin-as-85000-rally-revives-treasury-trade/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T17:01:07Z"
+  },
+  {
     "id": "c77175396aba0177",
     "published_at": "2026-09-21T23:50+08:00",
     "title": "比特币ETF从$ 4.26亿流出转变为$ 600万每周流入",
