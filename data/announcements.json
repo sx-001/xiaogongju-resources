@@ -1,5 +1,41 @@
 [
   {
+    "id": "badda7d3ec51822b",
+    "published_at": "2026-09-21T06:37:15Z",
+    "title": "XT.COM 关于下架部分现货交易对的公告 (2026-09-24)",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "下架",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62467743733913",
+    "announcement_type": "下架",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T07:11:36Z"
+  },
+  {
+    "id": "9836881b35c9d90a",
+    "published_at": "2026-09-21T06:24:00Z",
+    "title": "Bitget调整USDT UTA杠杆率、限额和维持保证金率",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603895755",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T07:11:36Z"
+  },
+  {
+    "id": "0d8c845d30c8da1a",
+    "published_at": "2026-09-21T06:21:54Z",
+    "title": "[合约上新] MGBX 将上线 CYPHUSDT、 AGPUUSDT 永续合约",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17697255075087",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-09-21T07:11:36Z"
+  },
+  {
     "id": "b050f24863b775f1",
     "published_at": "2026-09-21T06:00:00Z",
     "title": "CandyBomb x MHA ：交易以分享8,000,000 MHA",
