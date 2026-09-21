@@ -1,5 +1,41 @@
 [
   {
+    "id": "8dd5edf555b89472",
+    "published_at": "2026-09-21T08:00:00Z",
+    "title": "Bitget差价合约锦标赛（第14阶段） ：四个奖励池， 75,000 USDT分享",
+    "summary": "",
+    "source": "Bitget",
+    "category": "活动",
+    "url": "https://www.bitget.com/support/articles/12560603895668",
+    "announcement_type": "活动",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T08:12:17Z"
+  },
+  {
+    "id": "e8c50a93faf01783",
+    "published_at": "2026-09-21T07:39:00Z",
+    "title": "Bitget关于暂停VELO的公告-币安智能链存款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895763",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T08:12:17Z"
+  },
+  {
+    "id": "d13fb75d2fcb5841",
+    "published_at": "2026-09-21T07:02:00Z",
+    "title": "Hotcoin 将上线STONKUSDT、 DGAIUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchSTONKUSDTandDGAIUSDTPerpetualFutureson2026-09-21/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-21T08:12:17Z"
+  },
+  {
     "id": "badda7d3ec51822b",
     "published_at": "2026-09-21T06:37:15Z",
     "title": "XT.COM 关于下架部分现货交易对的公告 (2026-09-24)",
