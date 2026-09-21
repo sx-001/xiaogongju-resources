@@ -1,5 +1,77 @@
 [
   {
+    "id": "a44a34821c8f9bfb",
+    "published_at": "2026-09-21T14:10:00Z",
+    "title": "Bitget关于恢复ATOM - COSMOS充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895781",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
+    "id": "c1d93773c965017d",
+    "published_at": "2026-09-21T14:08:00Z",
+    "title": "Bitget关于暂停LUNA - Terra存取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895780",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
+    "id": "f74958b805a7ed20",
+    "published_at": "2026-09-21T13:45:24Z",
+    "title": "XT 关于币本位交割合约即将交割并生成新的次季交割合约公告 (2026-09-25)",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62481044644505",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
+    "id": "fe53f6df2fecf3c9",
+    "published_at": "2026-09-21T13:45:00Z",
+    "title": "KuCoin已完成GALA、BSV和WAXL的股票代码和API符号更新",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-completed-the-ticker-and-api-symbol-updates-for-gala-bsv-and-waxl",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
+    "id": "1ecd12e458393356",
+    "published_at": "2026-09-21T13:31:00Z",
+    "title": "Bitget关于TLTUSDT、JEPQUSDT、CORZUSDT、BLSHUSDT、SECZUSDT股票上市的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895779",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
+    "id": "78331d5019faa4e3",
+    "published_at": "2026-09-21T13:17:00Z",
+    "title": "XT 关于恢复XMR链上代币充提并更换其充值地址的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62480440537625",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-21T14:11:03Z"
+  },
+  {
     "id": "5df65cf9b7aa3eab",
     "published_at": "2026-09-21T12:56:00Z",
     "title": "Bitget关于恢复VANA - VANA充提币的公告",
