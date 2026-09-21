@@ -1,5 +1,31 @@
 [
   {
+    "id": "7291ef9cb61b85a1",
+    "published_at": "2026-09-21T19:30+08:00",
+    "title": "BLAKE2b比特币分叉希望矿工等待45天才能触摸到",
+    "summary": "维护2026年8月8日从比特币分叉出来的少数链的开发人员计划使其成为矿工无法解锁新开采的硬币",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/crypto-news/blake2b-bitcoin-fork-wants-miners-to-wait-45-days-to-touch-their-coins/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T12:01:09Z"
+  },
+  {
+    "id": "75a775d64896f5a0",
+    "published_at": "2026-09-21T19:18+08:00",
+    "title": "欧洲央行部署Pontes平台，以结算批发代币",
+    "summary": "欧盟中央银行的新批发平台将DLT市场基础设施连接到其支付轨道，与零售数字欧元试点计划分开",
+    "source": "CoinDesk",
+    "category": "宏观-银行与金融风险",
+    "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T12:01:09Z"
+  },
+  {
     "id": "811c07d08990147d",
     "published_at": "2026-09-21T18:56+08:00",
     "title": "比特币自1月以来首次以加密货币的形式获得$ 85,000",
