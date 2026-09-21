@@ -1,5 +1,44 @@
 [
   {
+    "id": "deac5396431ae24f",
+    "published_at": "2026-09-21T20:56+08:00",
+    "title": "Strategy的比特币桩在$ 7600万购买后接近6月纪录",
+    "summary": "这家比特币金库公司的持有量在8月份触底至840,447比特币。此后，他们攀升了5,553比特币，达到了0.2%的高位。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T13:01:02Z"
+  },
+  {
+    "id": "5f427099575821d7",
+    "published_at": "2026-09-21T20:45+08:00",
+    "title": "Hyperliquid产生$ 4.29亿美元， HYPE的价格创历史新高",
+    "summary": "Hyperliquid已成为业内两大主要稳定币发行商之外的加密货币最大收入来源，截至9月份收入为4.29亿美元（ $ ）。",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/defi/hyperliquid-generates-429m-as-hypes-price-hits-all-time-high-of-95/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T13:01:02Z"
+  },
+  {
+    "id": "e93d47ed48277acf",
+    "published_at": "2026-09-21T20:11+08:00",
+    "title": "Strategy购买950枚比特币并重建其846,000枚比特币储备",
+    "summary": "战略再次购买比特币，但更大的数字已经出现在其资产负债表上。Michael Saylor的公司以75.7 $的价格获得950 BTC",
+    "source": "Bitcoin.com",
+    "category": "宏观-美联储政策",
+    "url": "https://news.bitcoin.com/crypto-news/strategy-buys-950-bitcoin-and-rebuilds-its-846000-btc-hoard/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-21T13:01:02Z"
+  },
+  {
     "id": "7291ef9cb61b85a1",
     "published_at": "2026-09-21T19:30+08:00",
     "title": "BLAKE2b比特币分叉希望矿工等待45天才能触摸到",
