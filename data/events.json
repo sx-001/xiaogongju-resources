@@ -1,5 +1,57 @@
 [
   {
+    "id": "af1dc013240923b1",
+    "published_at": "2026-09-23T02:57+08:00",
+    "title": "可疑的Kalshi机器人在WASH交易索赔中关闭",
+    "summary": "在WASH交易指控之后， Zohran Mamdani Kalshi市场上的一个可疑机器人已停止交易。可疑的Kalshi机器人关闭陶氏",
+    "source": "Protos",
+    "category": "交易所异常",
+    "url": "https://protos.com/suspicious-kalshi-bot-shuts-down-amid-wash-trading-claims/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T19:01:11Z"
+  },
+  {
+    "id": "2add58c23f8caf69",
+    "published_at": "2026-09-23T02:46+08:00",
+    "title": "随着纳斯达克创纪录和油价下跌，比特币爆发",
+    "summary": "一张拉长但坚定看涨的比特币图表正乘着同样的顺风提升股票：油价下跌，创纪录的纳斯达克指数，以及美联储在加息的同时",
+    "source": "Decrypt",
+    "category": "宏观-美联储政策",
+    "url": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T19:01:11Z"
+  },
+  {
+    "id": "dd9e2b2d4a12cb2f",
+    "published_at": "2026-09-23T02:22+08:00",
+    "title": "比特币国库券已经冰冷",
+    "summary": "在过去的18个月里，比特币一直处于横盘交易状态，但比特币库存股，包括前20名的库存股，都出现了决定性的负面交易。POST比特币tr",
+    "source": "Protos",
+    "category": "监管政策",
+    "url": "https://protos.com/bitcoin-treasury-stocks-have-gone-ice-cold/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T19:01:11Z"
+  },
+  {
+    "id": "f0076a07e23084e1",
+    "published_at": "2026-09-23T02:05+08:00",
+    "title": "根据美联储的新数据，为什么比特币的反弹是危险的",
+    "summary": "该指数衡量冲击放大能力，揭示了在现货需求保持稳定的情况下可能建立的融资风险。文章为什么比特币的反弹是",
+    "source": "CryptoSlate",
+    "category": "宏观-美联储政策",
+    "url": "https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T19:01:11Z"
+  },
+  {
     "id": "b6a48008e3d985df",
     "published_at": "2026-09-23T01:40+08:00",
     "title": "Coinbase和Morpho使比特币支持的贷款更具预测性",
