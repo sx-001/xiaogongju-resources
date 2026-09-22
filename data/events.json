@@ -1,5 +1,31 @@
 [
   {
+    "id": "57b9d4c30a763534",
+    "published_at": "2026-09-22T18:59+08:00",
+    "title": "随着油价下跌，比特币从亚洲区间的低点回升",
+    "summary": "比特币交易接近86,000 $ ， WTI原油跌破90 $ ，强劲的股市支撑了风险偏好。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T11:01:34Z"
+  },
+  {
+    "id": "f3652458924e4ab0",
+    "published_at": "2026-09-22T18:07+08:00",
+    "title": "币安因VIO的制裁被美国联邦检察官调查",
+    "summary": "据说曼哈顿的联邦检察官和司法部正在调查加密货币交易所是否故意允许用户绕过",
+    "source": "CoinDesk",
+    "category": "宏观-地缘与贸易",
+    "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T11:01:34Z"
+  },
+  {
     "id": "db362b1dc6cbb628",
     "published_at": "2026-09-22T17:47+08:00",
     "title": "美国调查币安是否“故意”允许与伊朗相关的交易",
