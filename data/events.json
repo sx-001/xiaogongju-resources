@@ -1,5 +1,44 @@
 [
   {
+    "id": "cb985228ffe15f63",
+    "published_at": "2026-09-22T22:59+08:00",
+    "title": "比特币ETF平均每天收取近$ 10亿Retu",
+    "summary": "周一的资金流入量超过了整个上周，当时他们公布了历史上最弱的净流入量。",
+    "source": "Decrypt",
+    "category": "ETF机构",
+    "url": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T15:01:26Z"
+  },
+  {
+    "id": "fe4b16b9683cfb97",
+    "published_at": "2026-09-22T22:32+08:00",
+    "title": "欧洲央行推动扩大稳定币收益率禁令",
+    "summary": "央行行长们认为，间接收益结构模糊了电子支付代币和商业银行存款之间的界限，扭曲了金融",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T15:01:26Z"
+  },
+  {
+    "id": "42ff0b23ff47289d",
+    "published_at": "2026-09-22T22:15+08:00",
+    "title": "大量的ETF资本退出威胁到比特币脆弱的$ 86,000",
+    "summary": "现货流量和已实现的股本增长有所改善，而期货敞口和获利则随着反弹而攀升。POST大规模ETF资本退出",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/massive-etf-capital-exits-threaten-bitcoins-fragile-86000-price-surge/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T15:01:26Z"
+  },
+  {
     "id": "6d15982e5cd04879",
     "published_at": "2026-09-22T21:41+08:00",
     "title": "比特币ETF触及2026年高点，流入$ 9.99亿美元作为比特币价格",
