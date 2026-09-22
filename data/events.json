@@ -1,5 +1,31 @@
 [
   {
+    "id": "cd27eca74c5245f0",
+    "published_at": "2026-09-22T09:30+08:00",
+    "title": "Bitcoin Rally Has ‘Serious Institutional Money’ Behind It, D",
+    "summary": "Bitcoin&#8217;s renewed advance reflects stronger institutional demand, according to Devere Group CEO Nigel Green, who predicts that bulls have regain",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-rally-has-serious-institutional-money-behind-it-devere-says/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T02:01:51Z"
+  },
+  {
+    "id": "c54d7849451cec9a",
+    "published_at": "2026-09-22T09:10+08:00",
+    "title": "Pragma flags 6 price feeds as critical risk following $3.5M ",
+    "summary": "The September 18 assessment exposes a gap between oracle valuations and the liquidity lenders need to sell collateral. The post Pragma flags 6 price f",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T02:01:51Z"
+  },
+  {
     "id": "d2a1d4bb1ef5253a",
     "published_at": "2026-09-22T08:04+08:00",
     "title": "BNB Crosses $800 While DOGE and XRP Log Double-Digit Gains",
