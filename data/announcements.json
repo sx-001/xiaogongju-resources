@@ -1,5 +1,53 @@
 [
   {
+    "id": "16b5e440d54df61b",
+    "published_at": "2026-09-22T10:00:00Z",
+    "title": "Bitget PoolX上市Bitget BTC （ BGBTC ） ：锁定BGBTC获得2,400 UNI空投",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895824",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
+    "id": "11de04df1a64f797",
+    "published_at": "2026-09-22T09:53:58Z",
+    "title": "币王卡功能调整公告",
+    "summary": "",
+    "source": "BiKing",
+    "category": "公告",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51139600077073",
+    "announcement_type": "公告",
+    "exchange": "BiKing",
+    "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
+    "id": "29e92056232dbcb9",
+    "published_at": "2026-09-22T09:25:00Z",
+    "title": "Bitget差价合约机构用户（ KYB ）开户和验证指南",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895351",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
+    "id": "a64311f873f05fe3",
+    "published_at": "2026-09-22T09:15:00Z",
+    "title": "KuCoin内容挖掘奖励发放通知（ 9月14日-9月20日）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "活动",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-content-mining-rewards-distribution-notice-september-14-september-20",
+    "announcement_type": "活动",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
     "id": "f946c4c7bc39aaa0",
     "published_at": "2026-09-22T08:00:00Z",
     "title": "CandyBomb x UNI ：交易期货以分享2,200 UNI ！",
