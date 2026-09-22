@@ -1,5 +1,31 @@
 [
   {
+    "id": "b6a48008e3d985df",
+    "published_at": "2026-09-23T01:40+08:00",
+    "title": "Coinbase和Morpho使比特币支持的贷款更具预测性",
+    "summary": "Coinbase刚刚为比特币持有者提供了借款人通常期望从银行获得的东西。客户现在可以在锁定i时用比特币借入USDC",
+    "source": "Bitcoin.com",
+    "category": "宏观-美联储政策",
+    "url": "https://news.bitcoin.com/crypto-news/coinbase-and-morpho-make-bitcoin-backed-loans-more-predictable/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T18:01:30Z"
+  },
+  {
+    "id": "25471cebde9a56c8",
+    "published_at": "2026-09-23T01:27+08:00",
+    "title": "Vitalik Buterin支持Trueo的以太坊移动作为真正的跳跃90",
+    "summary": "Trueo表示，它将使以太坊主网成为其主要部署，并在那里构建下一个预言机。Vitalik Buterin称该项目“合乎道德，",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T18:01:30Z"
+  },
+  {
     "id": "02f6feda042cd4ff",
     "published_at": "2026-09-23T00:00+08:00",
     "title": "比特币ETF刚刚在其最大的买入中吸收了11,500 BTC",
