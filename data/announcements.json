@@ -1,5 +1,17 @@
 [
   {
+    "id": "8061733f7289fc28",
+    "published_at": "2026-09-22T12:01:20Z",
+    "title": "XT 关于暂停CELO网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62513878449561",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T12:13:43Z"
+  },
+  {
     "id": "32221130eb0bc34b",
     "published_at": "2026-09-22T11:10:15Z",
     "title": "XT 关于暂停INJ网络充提服务的公告",
@@ -154,6 +166,18 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
+    "id": "db39b415ffba91a3",
+    "published_at": "2026-09-22T09:19:42Z",
+    "title": "XT 合约调整多个U本位永续合约杠杆及保证金阶梯",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62509105675417",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T12:13:43Z"
   },
   {
     "id": "a64311f873f05fe3",
