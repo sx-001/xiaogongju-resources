@@ -1,5 +1,41 @@
 [
   {
+    "id": "91ce4e3785dffd61",
+    "published_at": "2026-09-22T14:56:19Z",
+    "title": "XT 关于暂停AVAX网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62517669172505",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T15:10:39Z"
+  },
+  {
+    "id": "26fe98b4be21eca0",
+    "published_at": "2026-09-22T14:17:30Z",
+    "title": "XT 关于恢复ALEO、 INJ网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62516992829209",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T15:10:39Z"
+  },
+  {
+    "id": "123182e112e3baee",
+    "published_at": "2026-09-22T14:10:00Z",
+    "title": "AVAX C-Chain充提币暂停公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895868",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T15:10:39Z"
+  },
+  {
     "id": "db79a02f8e40a44e",
     "published_at": "2026-09-22T14:02:53Z",
     "title": "XT关于暂停原子网络充提服务的公告",
