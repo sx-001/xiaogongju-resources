@@ -1,5 +1,41 @@
 [
   {
+    "id": "acd5d760adb65c80",
+    "published_at": "2026-09-22T12:51:52Z",
+    "title": "AOZX 充值地址更新公告 - 2026-09-23",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17715365768463",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-09-22T13:11:49Z"
+  },
+  {
+    "id": "c1f66725ee25f229",
+    "published_at": "2026-09-22T12:49:00Z",
+    "title": "Bitget上市OURAUSDT Pre-IPO Perpetual |提前交易OURA的智能戒指IPO并抓住全球可穿戴独角兽的定价权！",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895865",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T13:11:49Z"
+  },
+  {
+    "id": "adffd69828bb2f41",
+    "published_at": "2026-09-22T12:36:00Z",
+    "title": "Bitget关于暂停CHZ - Chiliz Chain网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895867",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T13:11:49Z"
+  },
+  {
     "id": "8061733f7289fc28",
     "published_at": "2026-09-22T12:01:20Z",
     "title": "XT 关于暂停CELO网络充提服务的公告",
@@ -10,6 +46,18 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T12:13:43Z"
+  },
+  {
+    "id": "2e56956faa54c27c",
+    "published_at": "2026-09-22T12:00:00Z",
+    "title": "CandyBomb x MCAT （第2集） ：交易以分享50,000 USDT",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895861",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T13:11:49Z"
   },
   {
     "id": "32221130eb0bc34b",
