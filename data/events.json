@@ -1,5 +1,18 @@
 [
   {
+    "id": "6d15982e5cd04879",
+    "published_at": "2026-09-22T21:41+08:00",
+    "title": "比特币ETF触及2026年高点，流入$ 9.99亿美元作为比特币价格",
+    "summary": "作为比特币交易，美国比特币交易所交易基金（ ETF ）本周开盘，净流入额为9.9895亿美元，是2026年最大的单日交易量",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-hit-2026-high-with-999m-inflow-as-bitcoin-price-tops-86k/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T14:01:28Z"
+  },
+  {
     "id": "4ab9327e5b8ab86a",
     "published_at": "2026-09-22T20:54+08:00",
     "title": "比特币价格测试$ 86K ，因为107万比特币供应墙迫在眉睫",
