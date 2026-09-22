@@ -1,5 +1,18 @@
 [
   {
+    "id": "8f8b803c626ee99a",
+    "published_at": "2026-09-22T16:30+08:00",
+    "title": "报告： Polymarket在$ 1000万欺诈攻击期间忽略了警告",
+    "summary": "不良行为者以Polymarket的美国平台为目标，使用被盗借记卡进行1000万美元的欺诈计划，推动支付处理商Checkout.com重新启动",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/report-polymarket-ignored-warnings-during-10m-fraud-attack/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T09:01:14Z"
+  },
+  {
     "id": "137e8904abcb837b",
     "published_at": "2026-09-22T15:44+08:00",
     "title": "现货比特币ETF每日最大规模吸引近10亿美元",
