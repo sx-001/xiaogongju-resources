@@ -1,5 +1,44 @@
 [
   {
+    "id": "f048f2e9a1066e3e",
+    "published_at": "2026-09-22T11:45+08:00",
+    "title": "AI Risk Is Bitcoin Price Opportunity as Giant Funds Get Anxi",
+    "summary": "As capital rotation into all things AI-related has been cited as one of the reasons for the bitcoin bear market this year, a new environment is emergi",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/opinion-and-analysis/ai-risk-is-bitcoin-price-opportunity-as-giant-funds-get-anxious/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T04:01:57Z"
+  },
+  {
+    "id": "8a30a2ba0098dd86",
+    "published_at": "2026-09-22T11:40+08:00",
+    "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liqui",
+    "summary": "The Mint workflow removes operational steps, while variable market terms and liquidation risk remain with the third-party lender. The post Circle laun",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T04:01:57Z"
+  },
+  {
+    "id": "55d15e68cd1146a2",
+    "published_at": "2026-09-22T11:05+08:00",
+    "title": "Binance Expands Bstocks Collateral as Tokenized Stock Volume",
+    "summary": "Binance has expanded access to its tokenized equity suite, allowing all eligible retail and institutional users to use tokenized stocks as collateral ",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/crypto-news/binance-expands-bstocks-collateral-as-tokenized-stock-volumes-jump-33x/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T04:01:57Z"
+  },
+  {
     "id": "0db3e1c8bf90fa16",
     "published_at": "2026-09-22T10:22+08:00",
     "title": "Manhattan US Attorney leading probe into Binance’s Iran comp",
