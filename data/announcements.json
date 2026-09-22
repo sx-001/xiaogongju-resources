@@ -1,5 +1,41 @@
 [
   {
+    "id": "7e32e5ba4a11ea18",
+    "published_at": "2026-09-22T02:09:00Z",
+    "title": "Bitget announcement on resuming LUNA - Terra deposits and withdrawals",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895795",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T02:11:15Z"
+  },
+  {
+    "id": "bbb635f14ad1936d",
+    "published_at": "2026-09-22T02:04:13Z",
+    "title": "XT关于暂停SUI链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62493356555801",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T02:11:15Z"
+  },
+  {
+    "id": "af5db6d0f2a53946",
+    "published_at": "2026-09-22T01:25:36Z",
+    "title": "XT关于暂停SCR链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62491940162201",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T02:11:15Z"
+  },
+  {
     "id": "3f21c5fd7a15ed1b",
     "published_at": "2026-09-21T16:05:00Z",
     "title": "Bitget关于恢复WLD - World Chain充提币的公告",
