@@ -1,5 +1,44 @@
 [
   {
+    "id": "b9ed43080f84e1f5",
+    "published_at": "2026-09-23T06:50+08:00",
+    "title": "流氓iPhone应用程序逃离iOS沙盒，劫持了$ 580,000的U",
+    "summary": "Fomopeek是一款通过苹果App Store分发的恶意iPhone应用程序，已与近58万美元的USDT被盗相关联。区块链安全公司Sl",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T23:01:16Z"
+  },
+  {
+    "id": "f053b7305e951440",
+    "published_at": "2026-09-23T06:41+08:00",
+    "title": "比特币可以在本周期提供3-5倍的波动性回报",
+    "summary": "根据Cryptoquant的创始人的说法，比特币目前的牛市周期可能会带来三到五倍的回报，然后是温和的低迷",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-could-deliver-3-5x-returns-this-cycle-as-volatility-fades/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T23:01:16Z"
+  },
+  {
+    "id": "b3931bbb62f0e168",
+    "published_at": "2026-09-23T06:30+08:00",
+    "title": "Aave权衡V4以太坊市场的EURCV上市",
+    "summary": "TL; DR Aave正在考虑将SG-FORGE的EURCV欧元稳定币添加到其V4以太坊核心实例中。该提案目前处于ARFC阶段，",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/aave-weighs-eurcv-listing-for-v4-ethereum-market/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T23:01:16Z"
+  },
+  {
     "id": "391d2375219adb8e",
     "published_at": "2026-09-23T05:42+08:00",
     "title": "CFTC警告“提及市场”预测合约走高",
@@ -24,6 +63,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-22T22:01:19Z"
+  },
+  {
+    "id": "f6803b98f52843f4",
+    "published_at": "2026-09-23T05:30+08:00",
+    "title": "Aave转向将Ethena USDe添加到Avalanche上的V4",
+    "summary": "TL; DR Aave治理部门正在审查将Ethena的USDe引入Avalanche V4核心实例的提案。USDe使用LayerZero OFT架构",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/aave-moves-toward-adding-ethena-usde-to-v4-on-avalanche/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T23:01:16Z"
   },
   {
     "id": "efa0156596414c75",
