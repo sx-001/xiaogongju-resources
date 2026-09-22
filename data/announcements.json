@@ -1,5 +1,53 @@
 [
   {
+    "id": "1a38bcc28a7823c3",
+    "published_at": "2026-09-22T06:57:34Z",
+    "title": "TLTON 、IEMGON、 FON、 JNJON 现货交易对下架公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "下架",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tltoniemgonfonjnjon-xian-huo-jiao-yi-dui-xia-jia-gong-gao",
+    "announcement_type": "下架",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-22T07:11:11Z"
+  },
+  {
+    "id": "8e0ef00515a1d658",
+    "published_at": "2026-09-22T06:30:37Z",
+    "title": "XT 关于恢复XMR网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62502852998169",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T07:11:11Z"
+  },
+  {
+    "id": "edf2a2f74c1a06e9",
+    "published_at": "2026-09-22T06:22:09Z",
+    "title": "AOZX 上线 CYPHUSDT ，牛来 USDT ， VVVUSDT ， MONUSDT 合约交易对",
+    "summary": "",
+    "source": "AOZX",
+    "category": "上币",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17711560217359",
+    "announcement_type": "上币",
+    "exchange": "AOZX",
+    "created_at": "2026-09-22T07:11:11Z"
+  },
+  {
+    "id": "5352c766710fa445",
+    "published_at": "2026-09-22T06:15:48Z",
+    "title": "USDT-USDC 0手续费开启 ｜交易瓜分 $ 10,000",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "活动",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62502316652697",
+    "announcement_type": "活动",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T07:11:11Z"
+  },
+  {
     "id": "1df79c4e204eec3c",
     "published_at": "2026-09-22T06:00:00Z",
     "title": "Bitget将退出preOPAI Simple Earn产品",
@@ -70,6 +118,18 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-22T04:11:25Z"
+  },
+  {
+    "id": "8db31eb26f60c53a",
+    "published_at": "2026-09-22T03:10:10Z",
+    "title": "XT 关于上线CRWVB （ CoreWeave ）、 QNTB （ Quantinuum ）、 AMZNB （ Amazon ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62495856563609",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T07:11:11Z"
   },
   {
     "id": "59d442c11eaec6b2",
