@@ -1,5 +1,89 @@
 [
   {
+    "id": "32221130eb0bc34b",
+    "published_at": "2026-09-22T11:10:15Z",
+    "title": "XT 关于暂停INJ网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62512553049113",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "754e4c4e88701f80",
+    "published_at": "2026-09-22T11:03:00Z",
+    "title": "Hotcoin 「2049 合约通行证」开启",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "合约",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/655/",
+    "announcement_type": "合约",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "3932b1770c5535fa",
+    "published_at": "2026-09-22T11:00:00Z",
+    "title": "KuMining一周年纪念：开采、赚取和庆祝，获得100,000 + USDT的奖励",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "活动",
+    "url": "https://www.kucoin.com/announcement/en-kumining-1st-anniversary-mine-earn-celebrate-with-100000-usdt-in-rewards",
+    "announcement_type": "活动",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "6402753ba09f8644",
+    "published_at": "2026-09-22T10:32:00Z",
+    "title": "幸运儿幸运转盘： 100%中奖 ！全新转盘豪礼 $ 300,000 ， iPhone 18 Pro大奖等你来抽",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/center1/",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "2103fea903dbafbf",
+    "published_at": "2026-09-22T10:30:15Z",
+    "title": "XT.COM 关于上线MOONSHOTUSDT U 本位 TradFi 永续合约的公告（ 2026-09-22 ）",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62511340257945",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "cc9ff9b47cf07717",
+    "published_at": "2026-09-22T10:17:04Z",
+    "title": "BASEKX 事件合约产品说明",
+    "summary": "",
+    "source": "Basekx",
+    "category": "合约",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62510923894937",
+    "announcement_type": "合约",
+    "exchange": "Basekx",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "c85f528be814cca9",
+    "published_at": "2026-09-22T10:13:00Z",
+    "title": "Bitget关于恢复ICX的公告- ICON提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895860",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
     "id": "16b5e440d54df61b",
     "published_at": "2026-09-22T10:00:00Z",
     "title": "Bitget PoolX上市Bitget BTC （ BGBTC ） ：锁定BGBTC获得2,400 UNI空投",
@@ -22,6 +106,42 @@
     "announcement_type": "公告",
     "exchange": "BiKing",
     "created_at": "2026-09-22T10:12:03Z"
+  },
+  {
+    "id": "78576b1109ac48c9",
+    "published_at": "2026-09-22T09:45:00Z",
+    "title": "Hotcoin 关于【Hotcoin × $ YATE 上线空投福利｜ 5000 YATE 限量定向发放】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-yate-listing-airdrop/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "e57e06b034e56e16",
+    "published_at": "2026-09-22T09:43:00Z",
+    "title": "Hotcoin 关于【$ YATE 持仓空投：持币瓜分 5000 YATE】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-yate-holder-airdrop/",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T11:10:44Z"
+  },
+  {
+    "id": "69c2bccab4d4d102",
+    "published_at": "2026-09-22T09:34:00Z",
+    "title": "Hotcoin TradFi 翻倍福利计划｜充值 100送 100 ，交易再领 1,000 USDT ！",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/tradfi-rewards-boost/",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T11:10:44Z"
   },
   {
     "id": "29e92056232dbcb9",
