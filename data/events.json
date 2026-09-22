@@ -1,5 +1,44 @@
 [
   {
+    "id": "137e8904abcb837b",
+    "published_at": "2026-09-22T15:44+08:00",
+    "title": "现货比特币ETF每日最大规模吸引近10亿美元",
+    "summary": "周一，美国现货比特币ETF的净流入额为9.99 $ ，这是自2025年10月6日以来该基金吸引的最大单日金额。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T08:01:12Z"
+  },
+  {
+    "id": "5a15294e8f4d5317",
+    "published_at": "2026-09-22T15:40+08:00",
+    "title": "现货比特币ETF周一吸引了近10 $ 10亿，",
+    "summary": "流入现货比特币ETF的资金周一回升，比特币上涨至1月以来的最高水平。",
+    "source": "CoinDesk",
+    "category": "ETF机构",
+    "url": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T08:01:12Z"
+  },
+  {
+    "id": "db7f5e964be2c999",
+    "published_at": "2026-09-22T15:33+08:00",
+    "title": "随着流入量达到2026年的高点，比特币ETF与$ 10亿调情",
+    "summary": "美国现货比特币ETF周一吸引了近10 $ 10亿，这是自2025年10月以来的最大单日流入量，因为比特币短暂攀升至87,000 $以上。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T08:01:12Z"
+  },
+  {
     "id": "f9d1fdf7585feae1",
     "published_at": "2026-09-22T14:48+08:00",
     "title": "Animoca将Currenc的合并置于冰上，推迟了其纳斯达克的首次公开发行",
