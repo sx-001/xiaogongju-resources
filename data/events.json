@@ -1,5 +1,57 @@
 [
   {
+    "id": "f9d1fdf7585feae1",
+    "published_at": "2026-09-22T14:48+08:00",
+    "title": "Animoca将Currenc的合并置于冰上，推迟了其纳斯达克的首次公开发行",
+    "summary": "Animoca Brands暂停了与Currenc的反向合并谈判，但表示仍致力于在一家大型交易所上市。",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T07:02:21Z"
+  },
+  {
+    "id": "62c76209076e010f",
+    "published_at": "2026-09-22T14:30+08:00",
+    "title": "Draftkings在瞄准Lik的同时搁置了问题赌博AI",
+    "summary": "根据《纽约时报》周六公布的一项调查， Draftkings建立了一个机器学习模型，将促销活动引导到",
+    "source": "Bitcoin.com",
+    "category": "交易所异常",
+    "url": "https://news.bitcoin.com/igaming/draftkings-shelved-problem-gambling-ai-targeting-likely-losers/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T07:02:21Z"
+  },
+  {
+    "id": "b2b07915dd1f486f",
+    "published_at": "2026-09-22T14:27+08:00",
+    "title": "Whitehats将52比特币从Coldcard hack转移到recove",
+    "summary": "根据Galaxy Digital的说法，好人已将52 BTC转移到一个地址，该地址带有OP_RETURN消息，上面写着“声明： cryptorecoverytrust dot com”。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T07:02:21Z"
+  },
+  {
+    "id": "7f04ad65369fb532",
+    "published_at": "2026-09-22T14:01+08:00",
+    "title": "链上预测市场Trueo迁移到以太坊； Vitali",
+    "summary": "Vitalik Buterin将Trueo吹捧为一个强大的预测市场竞争者，它是分散的，合乎道德的，并且“不是骗局”。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T07:02:21Z"
+  },
+  {
     "id": "b4be238b0c142bd6",
     "published_at": "2026-09-22T12:03+08:00",
     "title": "Trueo预测市场从Base转向以太坊",
