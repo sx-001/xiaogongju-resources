@@ -1,5 +1,65 @@
 [
   {
+    "id": "59d442c11eaec6b2",
+    "published_at": "2026-09-22T03:08:00Z",
+    "title": "Bitget announcement on resuming rVOO - Arbitrum One withdrawals",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895799",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T03:11:52Z"
+  },
+  {
+    "id": "559e211ecfbae74a",
+    "published_at": "2026-09-22T02:53:29Z",
+    "title": "XT关于暂停NEAR链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62495246841625",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T03:11:52Z"
+  },
+  {
+    "id": "0dc53d742a846213",
+    "published_at": "2026-09-22T02:50:52Z",
+    "title": "XT关于恢复TERRA、ATOM链上代币充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62495163969817",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T03:11:52Z"
+  },
+  {
+    "id": "798289243e82a5d3",
+    "published_at": "2026-09-22T02:34:36Z",
+    "title": "TradFi CFD 新增 SPY、IWM、STX、CRWV、RDDT 热门资产公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "上币",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tradfi-cfd-xin-zeng-spyiwmstxcrwvrddt-re-men-zi-chan-gong-gao",
+    "announcement_type": "上币",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-22T03:11:52Z"
+  },
+  {
+    "id": "d1f4267200b449a1",
+    "published_at": "2026-09-22T02:10:09Z",
+    "title": "XT关于上线RKLBB（Rocket Lab）、AXTIB（AXT）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62493573926681",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T03:11:52Z"
+  },
+  {
     "id": "7e32e5ba4a11ea18",
     "published_at": "2026-09-22T02:09:00Z",
     "title": "Bitget announcement on resuming LUNA - Terra deposits and withdrawals",
@@ -22,6 +82,18 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T02:11:15Z"
+  },
+  {
+    "id": "cf22fecc0a054104",
+    "published_at": "2026-09-22T01:30:43Z",
+    "title": "XT.COM关于深度隐藏部分现货交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62492127088025",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T03:11:52Z"
   },
   {
     "id": "af5db6d0f2a53946",
