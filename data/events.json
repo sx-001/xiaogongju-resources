@@ -1,5 +1,44 @@
 [
   {
+    "id": "db362b1dc6cbb628",
+    "published_at": "2026-09-22T17:47+08:00",
+    "title": "美国调查币安是否“故意”允许与伊朗相关的交易",
+    "summary": "币安表示，它对违反制裁的行为采取“零容忍政策”。检察官正在询问其2023年合规修复是否成立。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T10:01:33Z"
+  },
+  {
+    "id": "3e520bc7d3f64c26",
+    "published_at": "2026-09-22T17:30+08:00",
+    "title": "ICO时代鲸鱼以2,794 $的价格购买以太坊，以太坊价格现已上涨",
+    "summary": "与以太坊首次代币发行（ ICO ）参与者相关的钱包于9月21日以2370万美元的稳定币换取8492.8 ETH ，距今六个月",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/crypto-news/ethereum-ico-whale-buys-back-2794-sold-2010-march/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T10:01:33Z"
+  },
+  {
+    "id": "bc561943aef693a5",
+    "published_at": "2026-09-22T17:06+08:00",
+    "title": "白帽子在52比特币撤离中击败冷卡黑客",
+    "summary": "白帽子在Coldcard漏洞的第二波中获得了大约40%的比特币，并将其转移到怀俄明州的受害者信托。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T10:01:33Z"
+  },
+  {
     "id": "8f8b803c626ee99a",
     "published_at": "2026-09-22T16:30+08:00",
     "title": "报告： Polymarket在$ 1000万欺诈攻击期间忽略了警告",
