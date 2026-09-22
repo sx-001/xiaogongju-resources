@@ -1,5 +1,44 @@
 [
   {
+    "id": "391d2375219adb8e",
+    "published_at": "2026-09-23T05:42+08:00",
+    "title": "CFTC警告“提及市场”预测合约走高",
+    "summary": "CFTC警告说，基于某人是否会“提及”特定词汇而押注预测市场存在操纵风险。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T22:01:19Z"
+  },
+  {
+    "id": "0778aa060c40db89",
+    "published_at": "2026-09-23T05:41+08:00",
+    "title": "白帽击败冷卡攻击者，拯救数百万DOL",
+    "summary": "一群白帽子似乎已经取得了Coldcard漏洞受害者迫切需要的东西，在恶意攻击之前获得了52.37 BTC",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/crypto-news/white-hats-beat-coldcard-attackers-rescuing-millions-bitcoin/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T22:01:19Z"
+  },
+  {
+    "id": "efa0156596414c75",
+    "published_at": "2026-09-23T05:06+08:00",
+    "title": "Arch Lending将代币化股票作为下一个抵押市场",
+    "summary": "Arch Lending的Himanshu Sahay在Cointelegraph的Chain Reaction播客上表示，该银行计划将代币化股票作为链上股票。",
+    "source": "Cointelegraph",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T22:01:19Z"
+  },
+  {
     "id": "ab8a5a3df7aa197c",
     "published_at": "2026-09-23T04:31+08:00",
     "title": "加密货币市场结构在选举后迫不及待",
@@ -24,6 +63,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-22T21:01:19Z"
+  },
+  {
+    "id": "ef1e97b2613fa843",
+    "published_at": "2026-09-23T04:30+08:00",
+    "title": "AAVE提案寻求更高的ETH和BICT借款限额",
+    "summary": "TL; DR An Aave ARFC为ETH和比特币相关资产提出了更高的抵押效率。该提案将把WETH LTV提高到81% ，并进行清算",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/aave-proposal-seeks-higher-borrowing-limits-for-eth-and-bitcoin-collateral/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T22:01:19Z"
   },
   {
     "id": "f6f71abe17711301",
