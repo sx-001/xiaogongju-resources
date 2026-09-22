@@ -1,5 +1,41 @@
 [
   {
+    "id": "99f929ca34cb5e47",
+    "published_at": "2026-09-22T03:35:00Z",
+    "title": "Bitget to support margin functions for select stock tokens in unified account",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895821",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T04:11:25Z"
+  },
+  {
+    "id": "afb87fdc579c1e5a",
+    "published_at": "2026-09-22T03:20:16Z",
+    "title": "XT关于恢复BTY提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62496280701849",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T04:11:25Z"
+  },
+  {
+    "id": "0c55d4a48c7b3e18",
+    "published_at": "2026-09-22T03:17:00Z",
+    "title": "Bitget announcement on resuming GMT - Solana withdrawals",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895820",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-22T04:11:25Z"
+  },
+  {
     "id": "59d442c11eaec6b2",
     "published_at": "2026-09-22T03:08:00Z",
     "title": "Bitget announcement on resuming rVOO - Arbitrum One withdrawals",
