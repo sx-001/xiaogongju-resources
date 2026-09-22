@@ -1,5 +1,31 @@
 [
   {
+    "id": "9eee3287fbc5b430",
+    "published_at": "2026-09-22T19:39+08:00",
+    "title": "Binance在为期五年的USDC Pro下获得$ 1亿美元的Circle股份",
+    "summary": "双方在同一天完成了一项股权配售和一项为期五年的商业交易，资金向两个方向流动。",
+    "source": "Decrypt",
+    "category": "宏观-股市极端行情",
+    "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T12:01:11Z"
+  },
+  {
+    "id": "3ce3cef1d8f3c43d",
+    "published_at": "2026-09-22T19:30+08:00",
+    "title": "比特币FOMO在$ 87K突破后创下两年新高",
+    "summary": "随着加密货币突破87,300 $ ，围绕比特币的市场心理已大幅转向看涨领域，这主要是由于",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/crypto-news/bitcoin-fomo-hits-two-year-high-after-87k-breakout/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T12:01:11Z"
+  },
+  {
     "id": "57b9d4c30a763534",
     "published_at": "2026-09-22T18:59+08:00",
     "title": "随着油价下跌，比特币从亚洲区间的低点回升",
