@@ -1,5 +1,65 @@
 [
   {
+    "id": "5f56ba7c8e6ceeef",
+    "published_at": "2026-09-22T07:37:01Z",
+    "title": "XT 关于暂停ALEO网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62505316956825",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-22T08:11:41Z"
+  },
+  {
+    "id": "7854d701415cd20e",
+    "published_at": "2026-09-22T07:29:12Z",
+    "title": "【TEBBIT 合约】上线 TradFi 板块 U 本位永续合约（ 2026-09-23 ）",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "上币",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62505032122265",
+    "announcement_type": "上币",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-22T08:11:41Z"
+  },
+  {
+    "id": "9c311714eb44004a",
+    "published_at": "2026-09-22T07:22:00Z",
+    "title": "KuCoin期货将推出硬币保证金比特币季度1225交割合同",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-launch-the-coin-margined-btc-quarterly-1225-delivery-contract",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-22T08:11:41Z"
+  },
+  {
+    "id": "1f6a491a14bfedab",
+    "published_at": "2026-09-22T07:13:59Z",
+    "title": "TEBBIT 聊天室使用手册",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "公告",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62504503968281",
+    "announcement_type": "公告",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-22T08:11:41Z"
+  },
+  {
+    "id": "7160c5880c2df84d",
+    "published_at": "2026-09-22T07:00:00Z",
+    "title": "热将上线币、USDBRLUSDT SDGRUSDT、 GNRCUSDT、 OKLOUSDT、 TLTUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchMultiplePerpetualFutureson2026-09-22/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-22T08:11:41Z"
+  },
+  {
     "id": "1a38bcc28a7823c3",
     "published_at": "2026-09-22T06:57:34Z",
     "title": "TLTON 、IEMGON、 FON、 JNJON 现货交易对下架公告",
