@@ -1,5 +1,18 @@
 [
   {
+    "id": "f6f71abe17711301",
+    "published_at": "2026-09-23T03:31+08:00",
+    "title": "White-Hat Hackers将Coldcard利用比特币进入Recov",
+    "summary": "Galaxy Research表示，白帽演员将与漏洞相关的硬币合并到一个新的地址中，标记为“加密恢复信任” ，尽管",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-22T20:01:03Z"
+  },
+  {
     "id": "af1dc013240923b1",
     "published_at": "2026-09-23T02:57+08:00",
     "title": "可疑的Kalshi机器人在WASH交易索赔中关闭",
