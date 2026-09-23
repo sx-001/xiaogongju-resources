@@ -1,5 +1,18 @@
 [
   {
+    "id": "58dc4c0877164779",
+    "published_at": "2026-09-23T16:10+08:00",
+    "title": "欧盟央行攻击MiCA规则，稳定币运行量为b",
+    "summary": "所报告的计划将强制性银行存款互换为一天和五天的流动性测试，从而改变赎回风险所在。THE POST EU CENTRAL ba",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T09:01:29Z"
+  },
+  {
     "id": "a95cc0d000220cc4",
     "published_at": "2026-09-23T15:49+08:00",
     "title": "Coinbase用户现在可以通过比特币借入USDC",
