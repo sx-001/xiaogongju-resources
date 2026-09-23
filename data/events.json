@@ -1,5 +1,44 @@
 [
   {
+    "id": "8e32c37bde2a31f4",
+    "published_at": "2026-09-24T00:52+08:00",
+    "title": "“比特币仍有追赶的空间” ：比特币的$ 80,000突破",
+    "summary": "随着ETF流入量达到2024年11月以来的最高水平， K33、Nexo和21股对比特币的突破产生了影响。关键级别： $ 87K-88K电阻。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T17:01:09Z"
+  },
+  {
+    "id": "9c75b4563636d919",
+    "published_at": "2026-09-24T00:40+08:00",
+    "title": "稳定币持有近2000亿美元的美国国债，但",
+    "summary": "财政部表示，货币市场共同基金在7月和8月期间吸收了超过5500亿美元的新票据供应中的约85%。POST Stablecoins h",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/stablecoins-hold-nearly-200-billion-in-us-debt-but-money-funds-bought-the-surge/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T17:01:09Z"
+  },
+  {
+    "id": "6ccf72ef4c99275c",
+    "published_at": "2026-09-24T00:10+08:00",
+    "title": "纽约证券交易所和Blockchain.com为4400万用户绘制全天候股票图",
+    "summary": "纽约证券交易所（ NYSE ）签署了一项协议，最终可能将代币化的美国股票和ETF放入Blockchain.com ，",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/finance/nyse-and-blockchain-com-plot-24-7-stocks-for-44-million-users/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T17:01:09Z"
+  },
+  {
     "id": "ab44307e8340d992",
     "published_at": "2026-09-23T23:56+08:00",
     "title": "比特币下跌，但其分叉再次飞翔",
