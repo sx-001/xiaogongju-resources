@@ -1,5 +1,57 @@
 [
   {
+    "id": "ab44307e8340d992",
+    "published_at": "2026-09-23T23:56+08:00",
+    "title": "比特币下跌，但其分叉再次飞翔",
+    "summary": "芝加哥商品交易所(CME)期货上市和新的灰度ETF申请使比特币的两个最大分叉飙升，尽管旗舰硬币冷却了七个月",
+    "source": "Decrypt",
+    "category": "ETF机构",
+    "url": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T16:01:20Z"
+  },
+  {
+    "id": "4ad35bc711c450d4",
+    "published_at": "2026-09-23T23:20+08:00",
+    "title": "Liquid Hack让牛市比特币用户面临30天的等待",
+    "summary": "本周早些时候，加拿大比特币交易所和钱包公司Bull Bitcoin解释说，客户目前无法将其L-BTC转换回",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/crypto-news/liquid-hack-bull-bitcoin-users-facing-30-day-wait-reclaim-btc/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T16:01:20Z"
+  },
+  {
+    "id": "33f9018c9db20565",
+    "published_at": "2026-09-23T23:10+08:00",
+    "title": "比特币ETF刚刚抹去了57亿美元的漏洞，但盈利",
+    "summary": "第二次大量流入遇到了价格疲软的后续情况。过期基金报告和较早的利润增长使卖方落后于此举unidenti",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-etfs-just-erased-a-5-7-billion-hole-but-profit-taking-is-swallowing-the-new-demand/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T16:01:20Z"
+  },
+  {
+    "id": "e60bbcdbe4da3f34",
+    "published_at": "2026-09-23T22:52+08:00",
+    "title": "随着比特币价格下跌，比特币长期清算触及2.8亿美元$",
+    "summary": "比特币长期清算加剧，比特币/美元短暂低于84,000 $ ，而分析标志着关键支撑位。",
+    "source": "Cointelegraph",
+    "category": "宏观-国债与美元",
+    "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T16:01:20Z"
+  },
+  {
     "id": "73e7beb81c9d03bb",
     "published_at": "2026-09-23T22:31+08:00",
     "title": "中子治理ATTAC后， Cosmos HUB暂停24小时",
