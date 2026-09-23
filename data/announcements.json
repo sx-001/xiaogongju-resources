@@ -1,5 +1,65 @@
 [
   {
+    "id": "094cfa4d179e6f5d",
+    "published_at": "2026-09-23T02:37:19Z",
+    "title": "XT 关于恢复EIOB网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62530268120089",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "bd15594f47de9fef",
+    "published_at": "2026-09-23T02:34:00Z",
+    "title": "KuCoin现货上市代币化股票： AAPLX、HOODX、MSTRX和SPCXX",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-spot-to-list-tokenized-stocks-aaplx-hoodx-mstrx-and-spcxx",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "e8757541b688398f",
+    "published_at": "2026-09-23T02:22:00Z",
+    "title": "KuCoin期货新上市： MOONSHOTUSDT首次公开发行前股票指数永续合约上市前交易",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-new-listing-moonshotusdt-pre-ipo-stock-index-perpetual-contract-pre-market-trading",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "87cbd2d232edec38",
+    "published_at": "2026-09-23T02:17:00Z",
+    "title": "Hotcoin 关于【VIP 全民解锁季｜升级即领高息体验金 ，人越多奖越大 】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/VIPUnlockSeasonUpgradeforHigh-YieldTrialFundsandUnlockBiggerRewards/",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "e56143a3c624dddc",
+    "published_at": "2026-09-23T02:15:00Z",
+    "title": "Bitget宣布恢复VELO -币安智能链存款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895876",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
     "id": "ae681665052e34f1",
     "published_at": "2026-09-23T02:09:15Z",
     "title": "XT 关于恢复HTX充值的公告",
