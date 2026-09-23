@@ -1,5 +1,41 @@
 [
   {
+    "id": "d82e95f537615418",
+    "published_at": "2026-09-23T14:54:51Z",
+    "title": "【重要通知】TEBBIT 关于更新 USDT-TRC20 充值地址的公告",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "公告",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62552906178457",
+    "announcement_type": "公告",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-23T15:10:22Z"
+  },
+  {
+    "id": "1ba532762e66d080",
+    "published_at": "2026-09-23T14:41:28Z",
+    "title": "XT 关于恢复BITYUAN网络提现服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62552692432537",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T15:10:22Z"
+  },
+  {
+    "id": "1e79a17e452326a2",
+    "published_at": "2026-09-23T14:34:00Z",
+    "title": "Bitget关于暂停KAT - Katana存取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895948",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T15:10:22Z"
+  },
+  {
     "id": "d0c9cdad077dbebc",
     "published_at": "2026-09-23T14:05:00Z",
     "title": "Bitget上市URNMUSDT和WBDUSDT热门股票PERPS",
