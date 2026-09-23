@@ -1,5 +1,44 @@
 [
   {
+    "id": "f0406e6ebf42c19d",
+    "published_at": "2026-09-23T20:22+08:00",
+    "title": "欧盟监管机构警告量子计算机可能会选择加密的锁",
+    "summary": "欧盟监管机构警告称，随着比特币开发商权衡迁移计划草案和以太坊2029年的目标，量子计算可能会削弱区块链的安全性。",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T13:02:56Z"
+  },
+  {
+    "id": "be1339a8604dd8ef",
+    "published_at": "2026-09-23T20:15+08:00",
+    "title": "朝鲜的虚假工作面试从7,000 Cr中消耗了$ 1100万",
+    "summary": "一项由七个机构组成的咨询将WaterPlum黑客团队和平壤的远程IT工人计划与同一局联系起来。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T13:02:56Z"
+  },
+  {
+    "id": "03664efe3f7c6d10",
+    "published_at": "2026-09-23T20:04+08:00",
+    "title": "随着股价飙升， Meta的人工智能债券刚刚创下历史新低",
+    "summary": "标准普尔将Meta的人工智能数据中心债券评为A + ，但信贷市场的投资者对美元的报价低于95美分。POST Meta的人工智能债券",
+    "source": "Protos",
+    "category": "宏观-银行与金融风险",
+    "url": "https://protos.com/metas-ai-bond-just-hit-a-record-low-as-its-stock-soared/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T13:02:56Z"
+  },
+  {
     "id": "7eeec5df146c815d",
     "published_at": "2026-09-23T20:00+08:00",
     "title": "Galaxy在Sky的sUSDS中增加了1亿美元的财政，购买了SK",
