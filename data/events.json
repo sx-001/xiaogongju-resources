@@ -1,5 +1,44 @@
 [
   {
+    "id": "fc758fafd32cafa4",
+    "published_at": "2026-09-23T21:58+08:00",
+    "title": "Galaxy向财政部增加了1亿美元的sUSDS ，批准了",
+    "summary": "客户可以在向Galaxy质押sUSDS的同时继续获得Sky的3.6%储蓄率， Galaxy的机构贷款业务平均为14亿美元",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/news/defi/galaxy-adds-100-million-of-susds-to-treasury-approves-it-as-loan-collateral",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T14:01:33Z"
+  },
+  {
+    "id": "c733271243be5eaf",
+    "published_at": "2026-09-23T21:40+08:00",
+    "title": "比特币ETF增加$ 7.15亿， 4天连续流入达到$ 23亿",
+    "summary": "周二，比特币ETF又吸引了7.1475 $ ，随着比特币交易接近86,000 $ ，他们的流入连续四次。Ether ， solan",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-715m-as-4-day-inflow-streak-hits-2-3b/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T14:01:33Z"
+  },
+  {
+    "id": "a08b3efd5bc89ff9",
+    "published_at": "2026-09-23T21:04+08:00",
+    "title": "加密黑客组织ShinyHunters表示，它窃取了5,00的数据",
+    "summary": "加密黑客组织ShinyHunters声称在访问其数据库后窃取了5,000名联邦调查局特工的个人详细信息。",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/crypto-hacking-group-shinyhunters-says-it-stole-data-of-5000-fbi-agents/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T14:01:33Z"
+  },
+  {
     "id": "f0406e6ebf42c19d",
     "published_at": "2026-09-23T20:22+08:00",
     "title": "欧盟监管机构警告量子计算机可能会选择加密的锁",
