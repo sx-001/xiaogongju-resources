@@ -1,5 +1,44 @@
 [
   {
+    "id": "c68fbab2369e2472",
+    "published_at": "2026-09-23T18:24+08:00",
+    "title": "BitMEX关闭：永续先锋正式关闭",
+    "summary": "该交易所由Arthur Hayes共同创立，停止了交易和存款，但表示用户仍然可以登录并提取资金。",
+    "source": "CoinDesk",
+    "category": "交易所异常",
+    "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T11:01:20Z"
+  },
+  {
+    "id": "d5a4651516ecf15e",
+    "published_at": "2026-09-23T18:20+08:00",
+    "title": "Coinbase追踪到110万$的人工智能网络钓鱼背后的加密跟踪",
+    "summary": "EvilTokens滥用微软的真实设备登录流来授权攻击者会话，然后使用人工智能来识别捕获邮件中的支付机构",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/coinbase-traced-1-1-million-crypto-trail-behind-ai-phishing-service-eviltokens/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T11:01:20Z"
+  },
+  {
+    "id": "04451d66fe81111d",
+    "published_at": "2026-09-23T18:05+08:00",
+    "title": "比特币牛市“已确认” ，但$ 90K呈现利润回升",
+    "summary": "BTC价格分析得出的结论是，链上信号“证实”了新的比特币牛市。",
+    "source": "Cointelegraph",
+    "category": "安全风险",
+    "url": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T11:01:20Z"
+  },
+  {
     "id": "58dc4c0877164779",
     "published_at": "2026-09-23T16:10+08:00",
     "title": "欧盟央行攻击MiCA规则，稳定币运行量为b",
