@@ -1,5 +1,31 @@
 [
   {
+    "id": "619896d77acd2590",
+    "published_at": "2026-09-24T05:20+08:00",
+    "title": "比特币整体跌破$ 86,000 ETF成本基数",
+    "summary": "加密货币总市值下跌2.27% ，至2.96万亿美元。XRP下降了5.8 ％ ， Dogecoin下降了8.3 ％ ， Hedera下降了9.9 ％ ， Uniswap也退还了整个峰值",
+    "source": "The Defiant",
+    "category": "ETF机构",
+    "url": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T22:01:08Z"
+  },
+  {
+    "id": "6a9f3d0d97400ae3",
+    "published_at": "2026-09-24T05:05+08:00",
+    "title": "特朗普账户显示MSTR以比特币国债巨头Reb的身份购买",
+    "summary": "与特朗普挂钩的投资账户在夏初卸载了Strategy （纳斯达克股票代码： MSTR ）的股票，该公司是全球最大的上市公司。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/trump-accounts-reveal-mstr-buy-bitcoin-treasury-giant-rebounds/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T22:01:08Z"
+  },
+  {
     "id": "a9ad61db8077f975",
     "published_at": "2026-09-24T04:43+08:00",
     "title": "前Hack VC合伙人Hsin-Ju Chuang被发现死于37岁",
