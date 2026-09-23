@@ -1,5 +1,113 @@
 [
   {
+    "id": "e677da4f62bb406c",
+    "published_at": "2026-09-23T04:05:00Z",
+    "title": "Bitget关于暂停STG - Arbitrum One存款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895905",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "cbef2262692fcdcc",
+    "published_at": "2026-09-23T04:00:00Z",
+    "title": "Bitget将支持Stargate Finance （ STG ）代币交换和向LayerZero （ ZRO ）的迁移",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895883",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "aa8d459d79572036",
+    "published_at": "2026-09-23T03:54:45Z",
+    "title": "XT 关于恢复AVAX网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62532890263833",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "2be684fedc6eefe7",
+    "published_at": "2026-09-23T03:45:46Z",
+    "title": "9 月23日 AOZX每日资讯 ｜ BTC站稳 86,000美元 ，美联储释放持续控通胀信号",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17722973138959",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "ac15edae1749905d",
+    "published_at": "2026-09-23T03:40:24Z",
+    "title": "XT 关于暂停SPACEMESH网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62532448155161",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "7dd2259ab80ada97",
+    "published_at": "2026-09-23T03:36:00Z",
+    "title": "Bitget关于恢复VERONA - VERONA Chain充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895881",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "ca9dd38152dfcbef",
+    "published_at": "2026-09-23T03:28:00Z",
+    "title": "关于恢复AVAX C-Chain充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895882",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "256537eb746d2187",
+    "published_at": "2026-09-23T03:23:00Z",
+    "title": "Bitget关于恢复CHZ - Chiliz Chain提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895879",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
+    "id": "071a0e072f9cff2a",
+    "published_at": "2026-09-23T03:19:07Z",
+    "title": "BASEKX 事件合约使用指南",
+    "summary": "",
+    "source": "Basekx",
+    "category": "合约",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62531766152345",
+    "announcement_type": "合约",
+    "exchange": "Basekx",
+    "created_at": "2026-09-23T04:11:25Z"
+  },
+  {
     "id": "094cfa4d179e6f5d",
     "published_at": "2026-09-23T02:37:19Z",
     "title": "XT 关于恢复EIOB网络充提服务的公告",
@@ -34,6 +142,18 @@
     "announcement_type": "上币",
     "exchange": "KuCoin",
     "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "a26688debb7c7224",
+    "published_at": "2026-09-23T02:21:28Z",
+    "title": "XT 关于上线BEB （ Bloom Energy ）、 FLNCB （ Fluence Energy ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62529673491609",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T04:11:25Z"
   },
   {
     "id": "87cbd2d232edec38",
