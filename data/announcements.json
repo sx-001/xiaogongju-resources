@@ -1,5 +1,41 @@
 [
   {
+    "id": "20d323b16e4aca72",
+    "published_at": "2026-09-23T07:19:00Z",
+    "title": "[重要提示] Bitget将更新UTA的NEWT抵押品比率",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895938",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T08:11:41Z"
+  },
+  {
+    "id": "a2e140aa3c204c25",
+    "published_at": "2026-09-23T07:19:00Z",
+    "title": "[重要提示] Bitget将更新UTA的ORCA抵押品比率",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895937",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T08:11:41Z"
+  },
+  {
+    "id": "dd9eb77cf644fb1a",
+    "published_at": "2026-09-23T07:12:00Z",
+    "title": "JEPQUSDT 将上线CORZUSDT BLSHUSDT、热、币永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchJEPQUSDTCORZUSDTandBLSHUSDTPerpetualFutureson2026-09-23/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-23T08:11:41Z"
+  },
+  {
     "id": "543c8fb950a74eda",
     "published_at": "2026-09-23T06:52:00Z",
     "title": "HOTCIN 将上线OURAUSDT、 MOONSHOTUSDT盘前永续合约交易",
@@ -10,6 +46,18 @@
     "announcement_type": "上币",
     "exchange": "Hotcoin",
     "created_at": "2026-09-23T07:11:48Z"
+  },
+  {
+    "id": "02bee4adeae4f088",
+    "published_at": "2026-09-23T06:46:00Z",
+    "title": "Bitget差价合约复制交易正式推出“零手续费模式”",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895862",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T08:11:41Z"
   },
   {
     "id": "c736f8bfe04732e0",
