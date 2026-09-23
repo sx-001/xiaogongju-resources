@@ -1,5 +1,31 @@
 [
   {
+    "id": "d37514bce859ec87",
+    "published_at": "2026-09-24T06:31+08:00",
+    "title": "一名人工智能特工刚刚入侵了一个政府网站，进行了第一次攻击",
+    "summary": "Anthony Albanese表示，该代理人在6月份访问了Medicare统计门户网站上的公开和非公开文件，称OpenAI",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T23:01:13Z"
+  },
+  {
+    "id": "c920d84892891a05",
+    "published_at": "2026-09-24T05:30+08:00",
+    "title": "币安通过SOXL Dividend S扩展代币化股票效用",
+    "summary": "TL ； DR币安将根据合格的代币余额为SOXL bStocks持有者处理现金股息。分配以USDT计入用户和# 8217",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/binance-extends-tokenized-stock-utility-with-soxl-dividend-support/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T23:01:13Z"
+  },
+  {
     "id": "619896d77acd2590",
     "published_at": "2026-09-24T05:20+08:00",
     "title": "比特币整体跌破$ 86,000 ETF成本基数",
