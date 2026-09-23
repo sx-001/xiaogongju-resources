@@ -1,5 +1,41 @@
 [
   {
+    "id": "543c8fb950a74eda",
+    "published_at": "2026-09-23T06:52:00Z",
+    "title": "HOTCIN 将上线OURAUSDT、 MOONSHOTUSDT盘前永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchOURAUSDTandMOONSHOTUSDTPre-MarketPerpetualFutureson2026-09-23/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-23T07:11:48Z"
+  },
+  {
+    "id": "c736f8bfe04732e0",
+    "published_at": "2026-09-23T06:43:00Z",
+    "title": "Bitget关于暂停漂移的公告-索拉纳存款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603895911",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-23T07:11:48Z"
+  },
+  {
+    "id": "2af6492804feebfe",
+    "published_at": "2026-09-23T06:12:51Z",
+    "title": "XT 疯抢星期三（第 94期 ）丨 7天定期理财 ，最高 100% APR ，即刻抢购 ！",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62537624245785",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T07:11:48Z"
+  },
+  {
     "id": "bba1091b449b43fa",
     "published_at": "2026-09-23T06:10:03Z",
     "title": "【合约上新公告】牛来USDT ， VVVUSDT ， CYPHUSDT ， MONUSDT等多个合约交易对上线",
@@ -10,6 +46,18 @@
     "announcement_type": "上币",
     "exchange": "Aeget",
     "created_at": "2026-09-23T06:14:04Z"
+  },
+  {
+    "id": "8e7c9edd61eafc2b",
+    "published_at": "2026-09-23T05:14:17Z",
+    "title": "【重要通知】BASEKX 产品功能升级公告",
+    "summary": "",
+    "source": "Basekx",
+    "category": "维护",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62535607137817",
+    "announcement_type": "维护",
+    "exchange": "Basekx",
+    "created_at": "2026-09-23T07:11:48Z"
   },
   {
     "id": "d1caf93e87c6524a",
@@ -166,6 +214,18 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-23T03:10:51Z"
+  },
+  {
+    "id": "b127e624103c41f6",
+    "published_at": "2026-09-23T02:30:08Z",
+    "title": "XT 关于上线ALABB （ Astera Labs ）、 ASTSB （ AST SpaceMobile ）、 BMNRB （ BitMine Immersion Technologies ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62530007113625-XT%E5%85%B3%E4%BA%8E%E4%B8%8A%E7%BA%BFALABB-Astera-Labs-ASTSB-AST-SpaceMobile-BMNRB-BitMine-Immersion-Technologies-%E4%BA%A4%E6%98%93%E7%9A%84%E5%85%AC%E5%91%8A",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T07:11:48Z"
   },
   {
     "id": "e8757541b688398f",
