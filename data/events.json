@@ -1,5 +1,18 @@
 [
   {
+    "id": "205b0d844ee4a944",
+    "published_at": "2026-09-23T07:30+08:00",
+    "title": "丽都道批准执行委托升级和新存款",
+    "summary": "TL; DR Lido Aragon投票＃ 205于9月21日13:45 UTC通过并执行。该软件包包括LIP-37、DepositSecurityModule v5升级和操作",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/lido-dao-approves-execution-delegation-upgrade-and-new-deposit-reserve-controls/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T00:01:07Z"
+  },
+  {
     "id": "b9ed43080f84e1f5",
     "published_at": "2026-09-23T06:50+08:00",
     "title": "流氓iPhone应用程序逃离iOS沙盒，劫持了$ 580,000的U",
