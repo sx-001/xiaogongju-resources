@@ -1,5 +1,31 @@
 [
   {
+    "id": "8a68956c1bf8d0f3",
+    "published_at": "2026-09-24T01:40+08:00",
+    "title": "$ 10亿的交易量掩盖了隐藏的流动性风险",
+    "summary": "上市前路线在10个代币上定价为$ 100,000的销售额；显示的池余额无法显示大范围抛售的成本。帖子$ 10亿在",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T18:01:07Z"
+  },
+  {
+    "id": "1e9cb24399f788d9",
+    "published_at": "2026-09-24T01:36+08:00",
+    "title": "“不要闭门造车” ：参议院银行民主党人呼吁",
+    "summary": "参议院银行委员会的每位民主党人都敦促其主席、参议员蒂姆·斯科特(Tim Scott)就预测市场举行一次国会听证会。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T18:01:07Z"
+  },
+  {
     "id": "8e32c37bde2a31f4",
     "published_at": "2026-09-24T00:52+08:00",
     "title": "“比特币仍有追赶的空间” ：比特币的$ 80,000突破",
