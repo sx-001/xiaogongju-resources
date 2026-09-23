@@ -1,5 +1,41 @@
 [
   {
+    "id": "ae681665052e34f1",
+    "published_at": "2026-09-23T02:09:15Z",
+    "title": "XT 关于恢复HTX充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62529239382809",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T02:11:07Z"
+  },
+  {
+    "id": "23e03a1d6bf7ef44",
+    "published_at": "2026-09-23T01:49:21Z",
+    "title": "XT 关于暂停BITYUAN网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62528492857113",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T02:11:07Z"
+  },
+  {
+    "id": "ba0bda3456df4a09",
+    "published_at": "2026-09-23T01:24:59Z",
+    "title": "XT 关于BEB更名为 BEBOLD的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62527616148889",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-23T02:11:07Z"
+  },
+  {
     "id": "1b681e060186535d",
     "published_at": "2026-09-23T00:19:28Z",
     "title": "TEBBIT 美股永续市场日报｜ 2026年 9月月23日日（水周三）",
