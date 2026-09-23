@@ -1,5 +1,44 @@
 [
   {
+    "id": "7eeec5df146c815d",
+    "published_at": "2026-09-23T20:00+08:00",
+    "title": "Galaxy在Sky的sUSDS中增加了1亿美元的财政，购买了SK",
+    "summary": "Galaxy为其国库增加了1亿美元的sUSDS ，并批准了Sky储蓄代币作为机构贷款抵押品。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T12:01:24Z"
+  },
+  {
+    "id": "d8238dc1a6292473",
+    "published_at": "2026-09-23T19:28+08:00",
+    "title": "标准普尔500指数存在“广度”问题。加密货币没有。",
+    "summary": "2026年9月22日的前瞻",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T12:01:24Z"
+  },
+  {
+    "id": "62e110af6072b46b",
+    "published_at": "2026-09-23T19:05+08:00",
+    "title": "ETH价格接近$ 2,800 ，因为FTX Estate将$ 7500万以太币发送到",
+    "summary": "FTX的破产资产周二通过六个独立的钱包向做市商Wintermute转移了27,372个以太坊，价值约7532万$。",
+    "source": "Bitcoin.com",
+    "category": "交易所异常",
+    "url": "https://news.bitcoin.com/crypto-news/ftx-alameda-estate-75-million-ether-wintermute/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-23T12:01:24Z"
+  },
+  {
     "id": "c68fbab2369e2472",
     "published_at": "2026-09-23T18:24+08:00",
     "title": "BitMEX关闭：永续先锋正式关闭",
