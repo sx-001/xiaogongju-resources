@@ -1,5 +1,18 @@
 [
   {
+    "id": "587ad3430f7b7167",
+    "published_at": "2026-09-25T02:37+08:00",
+    "title": "ARK Invest通过以下方式在链上带来了13 $十亿的风险基金：",
+    "summary": "ARK Invest正在通过以太坊上的Securitize将其$ 13亿ARK风险基金（ ARKVX ）带到链上，该基金持有OpenAI、Anthropic和Stripe。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T19:01:40Z"
+  },
+  {
     "id": "d2913e329bd0bc5b",
     "published_at": "2026-09-25T01:56+08:00",
     "title": "加密赌场Duelbits被$ 700万黑客攻击，离线",
