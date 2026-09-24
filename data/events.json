@@ -1,5 +1,31 @@
 [
   {
+    "id": "241a321e32eaf710",
+    "published_at": "2026-09-24T17:32+08:00",
+    "title": "欧盟金融监管机构警告量子计算迫在眉睫",
+    "summary": "这一警告为关于比特币应该如何处理公钥已经在链上暴露的遗留地址的辩论带来了新的紧迫性。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T10:01:27Z"
+  },
+  {
+    "id": "c6b882b27545eae4",
+    "published_at": "2026-09-24T17:32+08:00",
+    "title": "比特币ETF增加$ 347M ，因为BTC在充值后跌破$ 84K",
+    "summary": "周三，美国现货比特币ETF流入量放缓至3.47亿美元，比特币跌破8.4万美元，而五天流入量达到26.5亿美元。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T10:01:27Z"
+  },
+  {
     "id": "76621343424a03cd",
     "published_at": "2026-09-24T16:59+08:00",
     "title": "为什么飙升的美国实际收益率悄然迫使比特币",
