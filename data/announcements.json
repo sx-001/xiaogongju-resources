@@ -1,5 +1,41 @@
 [
   {
+    "id": "b69353c2ecb6b107",
+    "published_at": "2026-09-24T06:58:00Z",
+    "title": "热币将上线MSTUUSDT、 WBDUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchMSTUUSDTandWBDUSDTPerpetualFutureson2026-09-24/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-24T07:11:39Z"
+  },
+  {
+    "id": "6cdb6f5dd73d7416",
+    "published_at": "2026-09-24T06:25:38Z",
+    "title": "【重要通知】BASEKX 第三方交易服务维护通知",
+    "summary": "",
+    "source": "Basekx",
+    "category": "维护",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62571990707353",
+    "announcement_type": "维护",
+    "exchange": "Basekx",
+    "created_at": "2026-09-24T07:11:39Z"
+  },
+  {
+    "id": "87c62f62f2b68301",
+    "published_at": "2026-09-24T06:00:47Z",
+    "title": "[合约上新] MGBX 将上线 AMCUSDT、 HUTUSDT 永续合约",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17738358709903",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-09-24T07:11:39Z"
+  },
+  {
     "id": "837db500ae73d1cd",
     "published_at": "2026-09-24T05:41:08Z",
     "title": "商务合作",
