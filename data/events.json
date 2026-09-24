@@ -1,5 +1,31 @@
 [
   {
+    "id": "1c5c6ced1faa1897",
+    "published_at": "2026-09-25T04:32+08:00",
+    "title": "随着美国国债收益率上升，比特币价格稳定，翁多反弹",
+    "summary": "美国国债收益率周四触及19年高位，给风险资产带来压力，因为比特币持有近84,000 $ ，而ONDO成为山寨币中表现最佳的。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T21:01:27Z"
+  },
+  {
+    "id": "52b33e9c1b54ddf5",
+    "published_at": "2026-09-25T04:19+08:00",
+    "title": "美联储提出储备限额，稳定币的资本标准",
+    "summary": "美联储为稳定币发行人提出了新措施，包括储备资产限额和标准化资本要求。",
+    "source": "The Block",
+    "category": "宏观-美联储政策",
+    "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T21:01:27Z"
+  },
+  {
     "id": "59549b810d59c6e9",
     "published_at": "2026-09-25T03:32+08:00",
     "title": "雅诗兰黛因涉嫌使用",
