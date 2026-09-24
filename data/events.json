@@ -1,5 +1,57 @@
 [
   {
+    "id": "4d2196e0cd5351f5",
+    "published_at": "2026-09-24T21:00+08:00",
+    "title": "比特币ETF增加$ 3.47亿美元作为Blackrock ， Fidelity潜在客户购买",
+    "summary": "周三，美国比特币ETF又吸引了3.4698 $ ，使其连续流入五个交易日。以太币、XRP和索拉纳f",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-347m-as-blackrock-fidelity-lead-buying/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T13:02:41Z"
+  },
+  {
+    "id": "88d04bac6a0ede04",
+    "published_at": "2026-09-24T21:00+08:00",
+    "title": "Cathie Wood's ARK与Securitize合作，实现风险代币化",
+    "summary": "ARK Venture Fund通过Securitize为链上备受追捧的私营科技公司带来敞口，首先在以太坊上，然后可能扩展",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T13:02:41Z"
+  },
+  {
+    "id": "eb149b0a742e54b5",
+    "published_at": "2026-09-24T20:20+08:00",
+    "title": "Alpen表示，人工智能一举识别出Liquid的$ 3.2亿比特币漏洞",
+    "summary": "其攻击后重播解释了缓存缺陷，而SideSwap表示， 4,000 L-BTC订单没有规模或速度保持。帖子Alpen说AI identif",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T13:02:41Z"
+  },
+  {
+    "id": "60c23d78dfd3ac14",
+    "published_at": "2026-09-24T20:14+08:00",
+    "title": "成千上万的库拉索加密赌场看到数据泄露",
+    "summary": "记者声称以“公共利益”的名义泄露了在库拉索岛注册的数千家赌场运营商的数据。“The post Thousands",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/thousands-of-curacao-crypto-casinos-see-data-leaked-following-hack/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T13:02:41Z"
+  },
+  {
     "id": "0f6f5402fb9d2684",
     "published_at": "2026-09-24T19:33+08:00",
     "title": "布鲁克林男子因偷窃$ 1600万而被判入狱12年",
