@@ -1,5 +1,31 @@
 [
   {
+    "id": "c78237e5c123b549",
+    "published_at": "2026-09-24T21:30+08:00",
+    "title": "BitMEX向之前被禁止的客户开放资金追回",
+    "summary": "9月24日的政策更新允许在交易结束后进行身份检查和提款，资产最低限额和制裁规则仍然有效。",
+    "source": "CryptoSlate",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cryptoslate.com/bitmex-opens-fund-recovery-to-customers-it-previously-barred-from-the-platform/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T14:01:31Z"
+  },
+  {
+    "id": "91d0bd7f98b07b48",
+    "published_at": "2026-09-24T21:30+08:00",
+    "title": "以太坊ETF通过另一个$ 2.1亿Sessio延长流入连胜",
+    "summary": "TL; DR美国现货以太坊ETF在验证包中记录了9月22日会议的净流入约$ 210.4百万。贝莱德ETHA LED带",
+    "source": "Bitcoinist",
+    "category": "ETF机构",
+    "url": "https://bitcoinist.com/ethereum-etfs-extend-inflow-streak-with-another-210m-session/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T14:01:31Z"
+  },
+  {
     "id": "4d2196e0cd5351f5",
     "published_at": "2026-09-24T21:00+08:00",
     "title": "比特币ETF增加$ 3.47亿美元作为Blackrock ， Fidelity潜在客户购买",
