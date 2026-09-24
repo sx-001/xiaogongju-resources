@@ -1,5 +1,31 @@
 [
   {
+    "id": "59549b810d59c6e9",
+    "published_at": "2026-09-25T03:32+08:00",
+    "title": "雅诗兰黛因涉嫌使用",
+    "summary": "雅诗兰黛诉讼指控公司利用被禁止的免税灰色市场经销商在亚洲，特别是海南作为代购运营。",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/estee-lauder-facing-new-stockholder-suit-over-alleged-use-of-gray-markets/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T20:01:26Z"
+  },
+  {
+    "id": "daab99431975e5bb",
+    "published_at": "2026-09-25T03:17+08:00",
+    "title": "索拉纳财资公司SkyAI在股东专业人士之后继续保持董事会",
+    "summary": "SkyAI的董事会在股东的抗议中幸免于难，但其提出的股权薪酬计划大幅下降。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T20:01:26Z"
+  },
+  {
     "id": "587ad3430f7b7167",
     "published_at": "2026-09-25T02:37+08:00",
     "title": "ARK Invest通过以下方式在链上带来了13 $十亿的风险基金：",
