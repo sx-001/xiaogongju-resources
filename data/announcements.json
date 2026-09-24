@@ -1,5 +1,65 @@
 [
   {
+    "id": "9a33500e3064654c",
+    "published_at": "2026-09-24T09:39:00Z",
+    "title": "Bitget关于调整BTWUSDT永续交易价格精度的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603895988",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-09-24T10:10:59Z"
+  },
+  {
+    "id": "b866498cabe0f4ff",
+    "published_at": "2026-09-24T09:39:00Z",
+    "title": "Bitget关于调整SPELLUSDT永续交易价格精度的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603895987",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-09-24T10:10:59Z"
+  },
+  {
+    "id": "95e08a37d0a33bb9",
+    "published_at": "2026-09-24T09:15:00Z",
+    "title": "XT 关于暂停BASE、 QUB网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62577430519321",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T10:10:59Z"
+  },
+  {
+    "id": "81f3cffcfa225035",
+    "published_at": "2026-09-24T09:00:00Z",
+    "title": "Bitget Onchain现在支持Robinhood Chain上的交易",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895855",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-24T10:10:59Z"
+  },
+  {
+    "id": "2fb25fefe1b41932",
+    "published_at": "2026-09-24T09:00:00Z",
+    "title": "Bitget升级财富管理产品",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603895983",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-09-24T10:10:59Z"
+  },
+  {
     "id": "120785659dd0096b",
     "published_at": "2026-09-24T08:25:01Z",
     "title": "［原创重要通知］关于乐观网络USDT0 充提功能开放的公告",
@@ -10,6 +70,18 @@
     "announcement_type": "公告",
     "exchange": "MGBX",
     "created_at": "2026-09-24T09:11:41Z"
+  },
+  {
+    "id": "a6cec338f9140b15",
+    "published_at": "2026-09-24T08:11:05Z",
+    "title": "UNI · BCH · ZEC ·附近热币狂欢｜交易瓜分 $ 22,000",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "活动",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575365627545",
+    "announcement_type": "活动",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T10:10:59Z"
   },
   {
     "id": "021ac6c50f3b920f",
