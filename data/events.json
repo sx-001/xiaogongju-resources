@@ -1,5 +1,31 @@
 [
   {
+    "id": "5809cd6cbc5782e8",
+    "published_at": "2026-09-24T09:30+08:00",
+    "title": "Grayscale看到美国在Kraken Pare的超液体机遇",
+    "summary": "Payward为美国交易者提供链上永续期货的计划可能会为Hyperliquid开辟一个新的市场。Grayscale看到了潜在的好处",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/grayscale-sees-us-opportunity-hyperliquid-kraken-parent-plan/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T02:01:18Z"
+  },
+  {
+    "id": "8ef560ad53828032",
+    "published_at": "2026-09-24T09:10+08:00",
+    "title": "White Hats从Coldcard漏洞中恢复52个比特币，以及",
+    "summary": "9月21日的一笔交易指向所有者对早些时候披露的救援的信托地址进行检查，任何退货都需经过验证。",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T02:01:18Z"
+  },
+  {
     "id": "d0ec5a04eef9f893",
     "published_at": "2026-09-24T07:40+08:00",
     "title": "比特币跌破85,000 $ ，因为5%的国债收益率回报",
