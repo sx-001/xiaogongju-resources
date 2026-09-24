@@ -1,5 +1,29 @@
 [
   {
+    "id": "4f653b8563db8dfc",
+    "published_at": "2026-09-24T01:28:37Z",
+    "title": "XT 关于暂停XT_XSC网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62562785338649",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T02:10:50Z"
+  },
+  {
+    "id": "8cda31a0c5fad131",
+    "published_at": "2026-09-24T01:26:33Z",
+    "title": "XT关于恢复附近网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62562728889113",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T02:10:50Z"
+  },
+  {
     "id": "ecd6c196afb1712e",
     "published_at": "2026-09-24T00:03:01Z",
     "title": "TEBBIT 美股永续市场日报｜ 2026年 9月月24日周四日",
