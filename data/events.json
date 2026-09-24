@@ -1,5 +1,44 @@
 [
   {
+    "id": "0f6f5402fb9d2684",
+    "published_at": "2026-09-24T19:33+08:00",
+    "title": "布鲁克林男子因偷窃$ 1600万而被判入狱12年",
+    "summary": "这名欺诈者设法在美国各地欺骗了大约100人，说服他们向他转账，声称他们的账户",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T12:01:08Z"
+  },
+  {
+    "id": "0985b549e2733293",
+    "published_at": "2026-09-24T19:20+08:00",
+    "title": "Cosmos重新启动，扣押了220万美元的被盗原子，但1",
+    "summary": "全链暂停到达了不相关的Hub用户；安全的中子关联资金现在位于验证器多重签名中。后宇宙重启夺取$ 2。",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T12:01:08Z"
+  },
+  {
+    "id": "3fe8cdd54932249e",
+    "published_at": "2026-09-24T19:20+08:00",
+    "title": "实时更新：随着债券收益率上升，比特币继续走低",
+    "summary": "美国债券收益率在周四早些时候几乎没有变化，此前昨天飙升导致风险市场大幅下跌。",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T12:01:08Z"
+  },
+  {
     "id": "7090b8825594537d",
     "published_at": "2026-09-24T18:30+08:00",
     "title": "随着债券收益率达到最高水平，比特币跌至83,300 $",
