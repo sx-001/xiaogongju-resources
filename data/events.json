@@ -1,5 +1,18 @@
 [
   {
+    "id": "d6154bdd6bc97104",
+    "published_at": "2026-09-24T22:32+08:00",
+    "title": "华尔街在5月5日开启$ 24.54 B隐私币热潮",
+    "summary": "在过去的五个月中，隐私币行业增加了245.4亿美元的价值，其中zcash和monero占据了$",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/market-updates/wall-street-opens-door-privacy-coin-boom-5-months/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T15:02:32Z"
+  },
+  {
     "id": "c78237e5c123b549",
     "published_at": "2026-09-24T21:30+08:00",
     "title": "BitMEX向之前被禁止的客户开放资金追回",
