@@ -1,5 +1,31 @@
 [
   {
+    "id": "d0ec5a04eef9f893",
+    "published_at": "2026-09-24T07:40+08:00",
+    "title": "比特币跌破85,000 $ ，因为5%的国债收益率回报",
+    "summary": "9月23日，比特币跌破85,000 $ ，此前美国商业活动强于预期，导致美国国债收益率走高，杠杆多头冲水。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T00:01:15Z"
+  },
+  {
+    "id": "db49f9226cb9f6d1",
+    "published_at": "2026-09-24T07:30+08:00",
+    "title": "Bybit为薛定谔股票敞口上市SDGRUSDT永续合约",
+    "summary": "TL; DR Bybit已上市SDGRUSDT ，这是一份追踪薛定谔公司股票的永久合约。该合约通过交易所提供高达25倍的杠杆和# 8",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/bybit-lists-sdgrusdt-perpetual-for-schrodinger-stock-exposure/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T00:01:15Z"
+  },
+  {
     "id": "d37514bce859ec87",
     "published_at": "2026-09-24T06:31+08:00",
     "title": "一名人工智能特工刚刚入侵了一个政府网站，进行了第一次攻击",
