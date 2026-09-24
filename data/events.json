@@ -1,5 +1,18 @@
 [
   {
+    "id": "2d6b682d267169a0",
+    "published_at": "2026-09-24T12:13+08:00",
+    "title": "随着财政部收益率的提高， Dogecoin下跌8% ，比特币跌至84,000 $以下",
+    "summary": "油价反弹、美国五年来最强劲的商业调查和糟糕的五年期债券销售推高了借贷成本， DOGE",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T05:01:08Z"
+  },
+  {
     "id": "5809cd6cbc5782e8",
     "published_at": "2026-09-24T09:30+08:00",
     "title": "Grayscale看到美国在Kraken Pare的超液体机遇",
