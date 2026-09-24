@@ -1,5 +1,41 @@
 [
   {
+    "id": "77bd9013bc50aa95",
+    "published_at": "2026-09-24T10:52:20Z",
+    "title": "XT 关于暂停XPL网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62579947266969",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T11:10:32Z"
+  },
+  {
+    "id": "b7cc949018b7cbbc",
+    "published_at": "2026-09-24T10:44:00Z",
+    "title": "【重要】Bitget关于处理KIOXIA和TOKYOEL股票拆分和反向拆分的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603895984",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-24T11:10:32Z"
+  },
+  {
+    "id": "769d37638176cd35",
+    "published_at": "2026-09-24T10:23:44Z",
+    "title": "XT关于隐藏并下架宙斯/USDT交易对的公告 （ 2026-10-02 ）",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "下架",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62579253007769",
+    "announcement_type": "下架",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T11:10:32Z"
+  },
+  {
     "id": "9a33500e3064654c",
     "published_at": "2026-09-24T09:39:00Z",
     "title": "Bitget关于调整BTWUSDT永续交易价格精度的公告",
