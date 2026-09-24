@@ -1,5 +1,44 @@
 [
   {
+    "id": "7090b8825594537d",
+    "published_at": "2026-09-24T18:30+08:00",
+    "title": "随着债券收益率达到最高水平，比特币跌至83,300 $",
+    "summary": "10年期美国国债收益率达到2007年以来的最高水平，在亚洲和欧洲交易员买入之前，美国股市和加密货币价格走低。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T11:01:13Z"
+  },
+  {
+    "id": "a017ea70e7246c86",
+    "published_at": "2026-09-24T18:30+08:00",
+    "title": "欧盟银行监管机构呼吁在MiC下制定加密货币借贷规则",
+    "summary": "作为欧盟委员会MiCA审查的一部分， EBA概述了加密贷款和提供DeFi协议访问权限的公司的潜在规则。",
+    "source": "Cointelegraph",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T11:01:13Z"
+  },
+  {
+    "id": "08ea5807dcab836b",
+    "published_at": "2026-09-24T18:15+08:00",
+    "title": "比特币跌破8.4万美元， 10年期美国国债收益率触及19年期",
+    "summary": "随着美联储加息赔率达到约75% ，比特币交易价格接近83,200美元，财政部准备回购60亿美元的长期债券。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-24T11:01:13Z"
+  },
+  {
     "id": "241a321e32eaf710",
     "published_at": "2026-09-24T17:32+08:00",
     "title": "欧盟金融监管机构警告量子计算迫在眉睫",
