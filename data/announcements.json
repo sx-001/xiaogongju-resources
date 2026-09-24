@@ -1,5 +1,17 @@
 [
   {
+    "id": "120785659dd0096b",
+    "published_at": "2026-09-24T08:25:01Z",
+    "title": "［原创重要通知］关于乐观网络USDT0 充提功能开放的公告",
+    "summary": "",
+    "source": "MGBX",
+    "category": "公告",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17740081818895",
+    "announcement_type": "公告",
+    "exchange": "MGBX",
+    "created_at": "2026-09-24T09:11:41Z"
+  },
+  {
     "id": "021ac6c50f3b920f",
     "published_at": "2026-09-24T08:08:00Z",
     "title": "Bitget将调整ARBUSDT、FARTCOINUSDT、ALGOUSDT、PIUSDT、BBUSDT、ASRUSDT、BEATUSDT、FOGOUSDT、LABUSDT永续期货的定价精度",
@@ -46,6 +58,18 @@
     "announcement_type": "下架",
     "exchange": "Bitget",
     "created_at": "2026-09-24T08:12:20Z"
+  },
+  {
+    "id": "4ae03463c4a27fec",
+    "published_at": "2026-09-24T07:44:00Z",
+    "title": "Hotcoin 将下架KIOXIAUSDT U本位永续合约",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "下架",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistUSDT-MarginedKIOXIAUSDTPerpetualFutureson2026-09-28/",
+    "announcement_type": "下架",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-24T09:11:41Z"
   },
   {
     "id": "b9d15287b475b08a",
