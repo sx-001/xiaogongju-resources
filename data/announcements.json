@@ -1,5 +1,29 @@
 [
   {
+    "id": "ebff88266b3ce469",
+    "published_at": "2026-09-24T16:00:00Z",
+    "title": "KuCoin经纪商评估周期更新",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-broker-assessment-cycle-update",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-24T16:11:47Z"
+  },
+  {
+    "id": "6e786cda8e394ebb",
+    "published_at": "2026-09-24T15:32:00Z",
+    "title": "XT关于恢复原子网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62585417217689",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-24T16:11:47Z"
+  },
+  {
     "id": "50e780e9825cf555",
     "published_at": "2026-09-24T14:57:00Z",
     "title": "Bitget关于暂停HDRO - INJECTIVE网络取款服务的公告",
