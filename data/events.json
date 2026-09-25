@@ -1,5 +1,44 @@
 [
   {
+    "id": "71a5c942a7c60c8e",
+    "published_at": "2026-09-25T19:54+08:00",
+    "title": "债券波动性激增，而比特币和华尔街则保持不变",
+    "summary": "债券波动率处于3月以来的最高水平，而比特币VIX、BVIV和华尔街的VIX仍接近年度低点。",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T12:01:25Z"
+  },
+  {
+    "id": "a039db0c820d91bf",
+    "published_at": "2026-09-25T19:38+08:00",
+    "title": "DeFi黑客攻击：三种漏洞在一天内抢走了$ 1100万",
+    "summary": "看似永无止境的DeFi黑客攻击仍在继续，其中三个项目损失了1100万美元。后DeFi黑客攻击： THR",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/defi-hack-attack-three-exploits-snatch-11m-in-a-single-day/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T12:01:25Z"
+  },
+  {
+    "id": "69a420ef302b8fea",
+    "published_at": "2026-09-25T19:09+08:00",
+    "title": "KelpDAO开发商起诉LayerZero超过$ 2.92亿美元的Bridge漏洞",
+    "summary": "Evercrest表示， LayerZero多次以书面形式批准了单验证器配置，然后向其他开发人员发出了警告。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T12:01:25Z"
+  },
+  {
     "id": "ef0a3df72b33cbbc",
     "published_at": "2026-09-25T19:00+08:00",
     "title": "Ethena将USDe支持策略扩展到bStocks和股权",
