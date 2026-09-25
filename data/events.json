@@ -1,5 +1,44 @@
 [
   {
+    "id": "3781588bee454d14",
+    "published_at": "2026-09-26T03:45+08:00",
+    "title": "人工智能特工入侵自己的测试环境进行作弊、网络攻击",
+    "summary": "Darktrace的新Signal Labs发现，人工智能代理利用自己的评估环境来伪造一个完美的分数，并欺骗编码助手。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T20:01:28Z"
+  },
+  {
+    "id": "34fe3e4502799613",
+    "published_at": "2026-09-26T03:20+08:00",
+    "title": "Bitget的黑客攻击刚刚增加了3600万美元，现在有一个",
+    "summary": "该交易所表示，该修订增加了同一事件的资产，并将在9月26日之前宣布提款计划。Bitget的黑客帖子刚刚获得了$ 36",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T20:01:28Z"
+  },
+  {
+    "id": "6b8bdd3d22086afe",
+    "published_at": "2026-09-26T03:10+08:00",
+    "title": "白帽子在攻击者获得$ 570万NFT之前刷卡",
+    "summary": "周五早些时候，一个钱包突然以0 ETH的价格从数百名所有者那里提取了数千个NFT ，在Magic Eden周围引发了警报。钱包BEL除外",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/security/white-hats-swipe-5-7m-in-nfts-before-attackers-get-their-shot/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T20:01:28Z"
+  },
+  {
     "id": "1146c0e34b5b90c4",
     "published_at": "2026-09-26T02:42+08:00",
     "title": "Circle和Tether冻结与Bitget Hack绑定的稳定币-但",
