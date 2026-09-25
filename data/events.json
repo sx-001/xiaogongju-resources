@@ -1,5 +1,18 @@
 [
   {
+    "id": "1146c0e34b5b90c4",
+    "published_at": "2026-09-26T02:42+08:00",
+    "title": "Circle和Tether冻结与Bitget Hack绑定的稳定币-但",
+    "summary": "这两家稳定币发行商将一个名为“Bitget Exploiter 8”的钱包列入黑名单，锁定了USDC和USDT约318,000 $ -但攻击者交换了大部分",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T19:01:23Z"
+  },
+  {
     "id": "f345e9fccae7a732",
     "published_at": "2026-09-26T01:30+08:00",
     "title": "Forward Industries筹集$ 2500万以购买更多Solana",
