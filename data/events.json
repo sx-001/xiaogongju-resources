@@ -1,5 +1,57 @@
 [
   {
+    "id": "f345e9fccae7a732",
+    "published_at": "2026-09-26T01:30+08:00",
+    "title": "Forward Industries筹集$ 2500万以购买更多Solana",
+    "summary": "TL; DR Forward Industries已同意以每股8 $的价格向一个机构投资者出售312.5万股股票。预计注册的直接发行",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/forward-industries-raises-25m-to-buy-more-solana/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T18:01:20Z"
+  },
+  {
+    "id": "f3ba1c1ab9f7632d",
+    "published_at": "2026-09-26T01:17+08:00",
+    "title": "Bitget澄清受安全漏洞影响的3.88亿美元资产",
+    "summary": "根据对Zcash和TRON资产的分析，周四宣布的Bitget违规行为比先前报告的高出约3500万$。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T18:01:20Z"
+  },
+  {
+    "id": "e3916ae8c25c7e4e",
+    "published_at": "2026-09-26T01:08+08:00",
+    "title": "Bitget黑客损失攀升至3.87亿美元：发生了什么，以及",
+    "summary": "一名攻击者伪造了内部转账请求，要求从Bitget的热钱包中提取3.875亿美元，该交易所的首席执行官表示，",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T18:01:20Z"
+  },
+  {
+    "id": "57cc0d6b786a3479",
+    "published_at": "2026-09-26T01:05+08:00",
+    "title": "比特币价格为$ 96.7K ，因ETF需求和现货成交量上升",
+    "summary": "比特币已经超过了今年早些时候限制其复苏的成本基准水平，而ETF需求、更强劲的现货交易量和受限的",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-eyes-96-7k-etf-demand-spot-volume-rise/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T18:01:20Z"
+  },
+  {
     "id": "bb44a6afe5890c5a",
     "published_at": "2026-09-26T00:55+08:00",
     "title": "Bitget将Hack估价提高至3.875亿美元作为Token Accou",
