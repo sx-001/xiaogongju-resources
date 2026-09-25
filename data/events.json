@@ -1,5 +1,44 @@
 [
   {
+    "id": "35a8656e7ed2f7a1",
+    "published_at": "2026-09-25T16:58+08:00",
+    "title": "KelpDAO起诉LayerZero利用2026年的最大漏洞",
+    "summary": "跨链贷款协议指责LayerZero及其联合创始人Brian Pellegrino未能披露其协议中的弱点，这导致",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T09:01:43Z"
+  },
+  {
+    "id": "78ac9e26e009214c",
+    "published_at": "2026-09-25T16:51+08:00",
+    "title": "KelpDAO起诉首席执行官LayerZero ，涉嫌$ 2.92亿rsETH桥梁漏洞",
+    "summary": "KelpDAO表示， LayerZero在攻击前支持其网桥设置，而首席执行官布莱恩·佩莱格里诺（ Bryan Pellegrino ）则认为这起诉讼毫无根据。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T09:01:43Z"
+  },
+  {
+    "id": "d2648ff8bca30d99",
+    "published_at": "2026-09-25T16:30+08:00",
+    "title": "债券收益率创24年新高：希夫、阿克曼、海耶斯无法",
+    "summary": "9月24日， 30年期美国国债收益率收于5.47% ，为2002年2月以来的最高水平。Peter Schiff、Bill Ackman、Brian Armstrong和Arthur Ha",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/bond-yields-24-year-high-schiff-ackman-armstrong-hayes-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T09:01:43Z"
+  },
+  {
     "id": "21b9244e31b857e6",
     "published_at": "2026-09-25T15:45+08:00",
     "title": "Bitget Hack ： 1.57亿美元的被盗XRP藏在钱包中，没有人能做到",
