@@ -1,5 +1,31 @@
 [
   {
+    "id": "b49fbf038c691fea",
+    "published_at": "2026-09-26T04:26+08:00",
+    "title": "Duelbits联合创始人报告赌场住宿遭遇700万美元黑客攻击",
+    "summary": "该平台表示，客户余额保持不变，重新开放后将恢复提款，而链上记录显示资金合并为ETH。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T21:01:38Z"
+  },
+  {
+    "id": "9b593166f0480a59",
+    "published_at": "2026-09-26T04:14+08:00",
+    "title": "美国证券交易委员会工作人员澄清新的代币回购和液体质押",
+    "summary": "符合条件的质押收据属于非安全类别，而常见问题解答重申了之前关于维护和开发资金的立场。",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T21:01:38Z"
+  },
+  {
     "id": "3781588bee454d14",
     "published_at": "2026-09-26T03:45+08:00",
     "title": "人工智能特工入侵自己的测试环境进行作弊、网络攻击",
