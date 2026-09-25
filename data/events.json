@@ -1,5 +1,57 @@
 [
   {
+    "id": "21b9244e31b857e6",
+    "published_at": "2026-09-25T15:45+08:00",
+    "title": "Bitget Hack ： 1.57亿美元的被盗XRP藏在钱包中，没有人能做到",
+    "summary": "9月24日从Bitget流出的1.0297亿XRP中，超过99%仍在五个新钱包中， XRP Ledger没有开关",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/exchanges/bitget-hack-xrp-157m-cannot-be-frozen/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T08:01:12Z"
+  },
+  {
+    "id": "e434d82865317367",
+    "published_at": "2026-09-25T15:41+08:00",
+    "title": "随着六天连胜，比特币ETF流入量放缓至1.91亿美元",
+    "summary": "美国现货比特币ETF周四吸引了1.91亿美元，每日流入量连续第三天放缓，将年初至今的净流入量提升至7.87亿美元。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T08:01:12Z"
+  },
+  {
+    "id": "8b39ae9e9917c187",
+    "published_at": "2026-09-25T15:10+08:00",
+    "title": "Payy Bridge Exploit会冻结加密卡，并且没有余额",
+    "summary": "Payy说，桥梁已排空，而任何客户损失的程度仍未披露。POST Payy Bridge漏洞会冻结加密卡，并且",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T08:01:12Z"
+  },
+  {
+    "id": "b15badc8efe881f2",
+    "published_at": "2026-09-25T15:09+08:00",
+    "title": "实时更新：随着债券出售，比特币稳定在84,000 $附近",
+    "summary": "美国国债收益率从数十年高点缓解，油价因美伊分阶段交易的报道而下跌，约140亿美元的比特币期权",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T08:01:12Z"
+  },
+  {
     "id": "96dcd46455a59cd4",
     "published_at": "2026-09-25T12:29+08:00",
     "title": "Bitget的$ 3.52亿黑客攻击是通过欺骗性转账发生的，",
