@@ -1,5 +1,44 @@
 [
   {
+    "id": "a1f631878f42f49a",
+    "published_at": "2026-09-25T08:50+08:00",
+    "title": "XRP变得可编程，然后获得保险库和更广泛的DeFi A",
+    "summary": "FXRP推出一年后， XRP持有者可以在以太坊的保险库、贷款市场和应用程序中使用他们的代币表示。Flare说",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/featured/xrp-became-programmable-then-gained-vaults-and-wider-defi-access/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T01:02:06Z"
+  },
+  {
+    "id": "75c73f13dfb4bdbe",
+    "published_at": "2026-09-25T08:32+08:00",
+    "title": "Bitget首席执行官怀疑朝鲜是3.52亿美元黑客的幕后黑手，理由是知识产权",
+    "summary": "Bitget首席执行官Gracy Chen表示，初步调查发现IP地址与朝鲜黑客组织的VPN选择相匹配。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T01:02:06Z"
+  },
+  {
+    "id": "4a2674d98ef1fab4",
+    "published_at": "2026-09-25T08:10+08:00",
+    "title": "“牛市已确认” ：分析师标记比特币的第五个历史记录",
+    "summary": "比特币产生了第五个历史信号，一项新的分析将其解释为牛市的确认。读数遵循七月信号，即",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bull-market-confirmed-analyst-flags-bitcoins-fifth-historic-signal/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T01:02:06Z"
+  },
+  {
     "id": "722b6d938135cb56",
     "published_at": "2026-09-25T07:39+08:00",
     "title": "巴西订单报告$ 10000自托管加密钱包T",
