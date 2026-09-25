@@ -1,5 +1,31 @@
 [
   {
+    "id": "722b6d938135cb56",
+    "published_at": "2026-09-25T07:39+08:00",
+    "title": "巴西订单报告$ 10000自托管加密钱包T",
+    "summary": "新措施旨在加强央行对钱包完全处于用户控制之下的数字资产交易的AML/TF监督",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/regulation-and-legal/brazil-orders-reporting-10k-self-custody-wallet-trades/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T00:01:17Z"
+  },
+  {
+    "id": "8f536f07932cd15f",
+    "published_at": "2026-09-25T07:27+08:00",
+    "title": "亚洲主导加密货币采用指数， Bitget的$ 3.51亿黑客： A",
+    "summary": "亚太地区占全球加密货币采用指数的一半。Bitget遭受了3.51亿美元的巨额损失， OpenAI忘记提及其代理商",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T00:01:17Z"
+  },
+  {
     "id": "d10033f80e248fb5",
     "published_at": "2026-09-25T06:28+08:00",
     "title": "美联储就实施GENIUS的提案采取行动",
