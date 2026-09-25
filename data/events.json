@@ -1,5 +1,31 @@
 [
   {
+    "id": "243a4f990961b8d5",
+    "published_at": "2026-09-25T10:50+08:00",
+    "title": "机构将比特币视为黄金，但将其投资于Tec",
+    "summary": "主要的机构比特币投资者“经常”将比特币与黄金配对，但他们仍然在很大程度上将其与其他",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/crypto-news/institutions-see-bitcoin-gold-invest-like-tech-bitwise/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T03:01:20Z"
+  },
+  {
+    "id": "f65a913b6393e29d",
+    "published_at": "2026-09-25T10:26+08:00",
+    "title": "以太坊草案提出机密合规控制措施",
+    "summary": "该草案对金额保密，但保留了发行人的执法权力，解决了机构对许可网络的兴趣背后的要求",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T03:01:20Z"
+  },
+  {
     "id": "a1f631878f42f49a",
     "published_at": "2026-09-25T08:50+08:00",
     "title": "XRP变得可编程，然后获得保险库和更广泛的DeFi A",
