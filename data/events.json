@@ -1,5 +1,44 @@
 [
   {
+    "id": "c7d736188b18008f",
+    "published_at": "2026-09-25T17:52+08:00",
+    "title": "美国国债现在是否比租赁本身更好的投资",
+    "summary": "当低风险美国国债之间的利率“息差”超过房地产租金时，会发生负房价差。",
+    "source": "Protos",
+    "category": "安全风险",
+    "url": "https://protos.com/are-us-treasuries-now-a-better-investment-than-rental-property/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T10:01:31Z"
+  },
+  {
+    "id": "2520277bf9403592",
+    "published_at": "2026-09-25T17:50+08:00",
+    "title": "Bitget与朝鲜相关的3.52亿美元黑客攻击可能会消耗76美元",
+    "summary": "在4.64亿美元的参考价值下，涵盖该基金的全部估算将留下约1.12亿美元，低于其规定的下限。Bitget的帖子",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/bitgets-north-korea-linked-352-million-hack-could-drain-76-of-its-protection-fund/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T10:01:31Z"
+  },
+  {
+    "id": "5748d15cccbca931",
+    "published_at": "2026-09-25T17:13+08:00",
+    "title": "KelpDAO起诉LayerZero ，声称其认可了$ 29中使用的设置",
+    "summary": "KelpDAO就4月18日的rsETH漏洞对LayerZero和Bryan Pellegrino提起诉讼，声称桥梁设置得到了书面支持。",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T10:01:31Z"
+  },
+  {
     "id": "35a8656e7ed2f7a1",
     "published_at": "2026-09-25T16:58+08:00",
     "title": "KelpDAO起诉LayerZero利用2026年的最大漏洞",
