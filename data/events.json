@@ -1,5 +1,18 @@
 [
   {
+    "id": "96dcd46455a59cd4",
+    "published_at": "2026-09-25T12:29+08:00",
+    "title": "Bitget的$ 3.52亿黑客攻击是通过欺骗性转账发生的，",
+    "summary": "Chen在X上表示， Bitget损失了3.516亿美元$ ，因为攻击者入侵了一个钱包后端，伪造了交易数据。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T06:01:06Z"
+  },
+  {
     "id": "243a4f990961b8d5",
     "published_at": "2026-09-25T10:50+08:00",
     "title": "机构将比特币视为黄金，但将其投资于Tec",
