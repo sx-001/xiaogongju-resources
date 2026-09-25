@@ -1,5 +1,31 @@
 [
   {
+    "id": "648c0b1ce6fbee16",
+    "published_at": "2026-09-25T23:49+08:00",
+    "title": "加密货币商业：华尔街和加密货币争夺同一块地盘",
+    "summary": "稳定币和代币化资产正在推动银行、交易所和加密公司进入相同的市场，从支付到股票和ETF。",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T16:01:27Z"
+  },
+  {
+    "id": "2f4f3f3b7f6432b8",
+    "published_at": "2026-09-25T23:45+08:00",
+    "title": "Bitget Hackers在18分钟内耗尽$ 2.28亿美元， Arkham Tracks 7 Ch",
+    "summary": "根据Arkham对被盗资金的分析， Bitget在跨越七个区块链的违规行为中损失了约3.5亿美元$。兑换已暂停",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/bitget-hackers-drain-228m-in-18-minutes-arkham-tracks-7-chains/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T16:01:27Z"
+  },
+  {
     "id": "b64370ea8b976f04",
     "published_at": "2026-09-25T23:00+08:00",
     "title": "美国加密货币ETF本周吸引了超过30亿美元，",
