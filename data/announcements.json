@@ -1,5 +1,29 @@
 [
   {
+    "id": "f4b92ec6f20f581f",
+    "published_at": "2026-09-25T10:41:00Z",
+    "title": "KuCoin期货将退出KIOXIAUSDT股指永续合约（ 2026-09-28 ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-delist-the-kioxiausdt-stock-index-perpetual-contract-2026-09-28",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-25T11:10:54Z"
+  },
+  {
+    "id": "319c84b0e4caf53e",
+    "published_at": "2026-09-25T10:00:00Z",
+    "title": "2026年9月30日4对现货交易对退市通知",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895972",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-25T11:10:54Z"
+  },
+  {
     "id": "99104b13edee063b",
     "published_at": "2026-09-25T09:39:00Z",
     "title": "KuCoin VIP迁移和存款欢迎计划",
