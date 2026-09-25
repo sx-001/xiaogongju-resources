@@ -1,5 +1,29 @@
 [
   {
+    "id": "504f003c1d3366a6",
+    "published_at": "2026-09-25T08:28:00Z",
+    "title": "Bitget关于暂停曼陀罗的公告-曼陀罗存款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896105",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-25T09:11:13Z"
+  },
+  {
+    "id": "4b1349ab04ebacc6",
+    "published_at": "2026-09-25T08:17:00Z",
+    "title": "KuCoin已暂时关闭Meter Governance (MTRG)的提现服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-withdrawal-service-of-meter-governance-mtrg-20260925",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-25T09:11:13Z"
+  },
+  {
     "id": "5eeef19e8ce82c77",
     "published_at": "2026-09-25T08:00:00Z",
     "title": "赚取第134周的周五：使用USDT、BTC、ETH赚取高达7%的年利率",
