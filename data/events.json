@@ -1,5 +1,57 @@
 [
   {
+    "id": "bb44a6afe5890c5a",
+    "published_at": "2026-09-26T00:55+08:00",
+    "title": "Bitget将Hack估价提高至3.875亿美元作为Token Accou",
+    "summary": "XRP和以太坊主导着已识别的资金流出。由于交易所将Zcash和TRON资产添加到其会计中，提款仍处于暂停状态。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T17:01:16Z"
+  },
+  {
+    "id": "efc5f1de1279ac8c",
+    "published_at": "2026-09-26T00:34+08:00",
+    "title": "战略寻求股东批准每日首选STOC",
+    "summary": "Strategy的提案将使STRC及其他三只优先股转向每日派息，此前比特币财资公司也采取了类似的举措",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T17:01:16Z"
+  },
+  {
+    "id": "a6f71f6e3a80bbc5",
+    "published_at": "2026-09-26T00:17+08:00",
+    "title": "Magic Eden警告旧的以太坊NFT列表暴露于Pa",
+    "summary": "限额突破的支付处理器V2中的一个缺陷将旧的Magic Eden以太坊列表置于风险之中，促使超过23,000个NFT的白帽救援。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T17:01:16Z"
+  },
+  {
+    "id": "9e5ab2b1a9f8ff32",
+    "published_at": "2026-09-26T00:12+08:00",
+    "title": "Legacy Magic Eden认证被用作White Hats Rescue N",
+    "summary": "Yuga Labs的0xQuit表示，价值超过570万美元的23,155个NFT已获得担保。持有人仍然需要撤销易受攻击的合约的NFT和令牌应用程序",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-25T17:01:16Z"
+  },
+  {
     "id": "648c0b1ce6fbee16",
     "published_at": "2026-09-25T23:49+08:00",
     "title": "加密货币商业：华尔街和加密货币争夺同一块地盘",
