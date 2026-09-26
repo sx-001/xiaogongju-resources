@@ -1,5 +1,18 @@
 [
   {
+    "id": "b09a7fa55578cf07",
+    "published_at": "2026-09-26T14:30+08:00",
+    "title": "比特币ATM骗局在假冒陪审团关税威胁后收取$ 4,900",
+    "summary": "一名格鲁吉亚女子在被告知她错过了陪审团职责并需要支付以避免被捕后，向比特币ATM存入了4,900 $。她的病例遵循PA",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/crypto-news/bitcoin-atm-scam-takes-4900-after-fake-jury-duty-threat/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T07:01:35Z"
+  },
+  {
     "id": "c16f722b99bf3eb7",
     "published_at": "2026-09-26T13:30+08:00",
     "title": "“赌场秘密”黑客击败马耳他监管机构成为泄密网站G",
