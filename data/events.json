@@ -1,5 +1,18 @@
 [
   {
+    "id": "703a2517e159cc69",
+    "published_at": "2026-09-26T17:30+08:00",
+    "title": "Bitget Saga ：黑客刚刚在币安上加油取款",
+    "summary": "与Bitget的3.875亿美元黑客绑定的钱包在交易所重新开放比特币前两天从币安提取了约123万美元的以太币",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/exchanges/bitget-hacker-binance-withdrawals-reopen-bitcoin-first/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T10:00:58Z"
+  },
+  {
     "id": "6e5e60a52b15d071",
     "published_at": "2026-09-26T16:30+08:00",
     "title": "0G希望将人工智能计算转变为金融资产",
