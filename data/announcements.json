@@ -1,5 +1,53 @@
 [
   {
+    "id": "e12e11b52676acd0",
+    "published_at": "2026-09-26T09:38:56Z",
+    "title": "XT 关于暂停ZANO、 FUSD交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62630306819865",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-26T10:10:39Z"
+  },
+  {
+    "id": "be1927e032a95249",
+    "published_at": "2026-09-26T09:35:20Z",
+    "title": "XT 关于暂停FUSD充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62630223744409",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-26T10:10:39Z"
+  },
+  {
+    "id": "a9de14e7de895ac9",
+    "published_at": "2026-09-26T09:28:31Z",
+    "title": "XT关于暂停部分网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62630043240729",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-26T10:10:39Z"
+  },
+  {
+    "id": "350ecdda542e5952",
+    "published_at": "2026-09-26T09:25:03Z",
+    "title": "XT关于恢复曼陀罗网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62629965038105",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-26T10:10:39Z"
+  },
+  {
     "id": "f70ca88b0a5df9de",
     "published_at": "2026-09-26T03:55:00Z",
     "title": "Bitget将分阶段恢复提款",
