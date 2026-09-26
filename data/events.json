@@ -1,5 +1,18 @@
 [
   {
+    "id": "c16f722b99bf3eb7",
+    "published_at": "2026-09-26T13:30+08:00",
+    "title": "“赌场秘密”黑客击败马耳他监管机构成为泄密网站G",
+    "summary": "柏林一家法院裁定，马耳他博彩管理局试图阻止德国研究人员Lilith Wittmann将其与有组织犯罪联系起来，",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/igaming/casino-secrets-hacker-beats-malta-regulator-leak-site-down/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T06:01:24Z"
+  },
+  {
     "id": "2534181b17277f7c",
     "published_at": "2026-09-26T12:50+08:00",
     "title": "网络犯罪分子从监狱中盗取了$ 260万加密货币：散文",
