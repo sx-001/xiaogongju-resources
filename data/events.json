@@ -1,5 +1,31 @@
 [
   {
+    "id": "9461e4d5a27c0822",
+    "published_at": "2026-09-26T15:30+08:00",
+    "title": "ARK与Securitize合作，为以太坊注入风险基金",
+    "summary": "代币化的ARKVX利息仍然具有全基金的季度回购上限，并且没有宣布的二级场所。POST ARK与Securi合作",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T08:01:10Z"
+  },
+  {
+    "id": "c2f6f6cd4b1e8f85",
+    "published_at": "2026-09-26T14:59+08:00",
+    "title": "CFTC起诉Cash FX ，指控$ 9.5亿加密货币挂钩外汇计划",
+    "summary": "CFTC声称， Cash FX从事最少量的外汇交易，并挪用了大多数参与者的资金。",
+    "source": "Cointelegraph",
+    "category": "监管执法",
+    "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T08:01:10Z"
+  },
+  {
     "id": "b09a7fa55578cf07",
     "published_at": "2026-09-26T14:30+08:00",
     "title": "比特币ATM骗局在假冒陪审团关税威胁后收取$ 4,900",
