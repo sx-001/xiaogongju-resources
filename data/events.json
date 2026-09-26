@@ -1,5 +1,31 @@
 [
   {
+    "id": "dc061daa4d7d3597",
+    "published_at": "2026-09-26T21:30+08:00",
+    "title": "近150亿$正在从LayerZero撤离，现在提起2.92亿$的诉讼",
+    "summary": "KelpDAO背后的公司Evercrest Technologies已起诉其加拿大子公司LayerZero Labs和不列颠哥伦比亚省的首席执行官Bryan Pellegrino",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T14:01:03Z"
+  },
+  {
+    "id": "545f599789ad28d6",
+    "published_at": "2026-09-26T21:30+08:00",
+    "title": "英国银行完成首次实时代币化英镑存款Paym",
+    "summary": "英国主要银行已经完成了首次在共享基础设施上使用代币化英镑存款的实时客户交易。参与者包括Ba",
+    "source": "Bitcoinist",
+    "category": "宏观-银行与金融风险",
+    "url": "https://bitcoinist.com/uk-banks-complete-first-live-tokenized-sterling-deposit-payments/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T14:01:03Z"
+  },
+  {
     "id": "041323eea01fb0c1",
     "published_at": "2026-09-26T20:56+08:00",
     "title": "Bitget黑客转移了8300万美元的被盗XRP ， Ripple可以",
