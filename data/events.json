@@ -1,5 +1,57 @@
 [
   {
+    "id": "4757b8f6289a4cd6",
+    "published_at": "2026-09-27T01:35+08:00",
+    "title": "比特币ETF增加1.34亿美元， 7天连续流入达到29.8亿美元",
+    "summary": "美国加密货币ETF周五大幅上涨，比特币基金吸引了1.3447亿美元，并将其流入连续七个交易日。因此",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-134m-as-7-day-inflow-streak-hits-2-98b/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T18:01:12Z"
+  },
+  {
+    "id": "720f6cfcb35c3fc8",
+    "published_at": "2026-09-27T01:24+08:00",
+    "title": "2026年比特币ETF转为正值，每周24亿美元",
+    "summary": "资金流入推动比特币ETF年初至今的净流量回升至零以上，此前仅两个月前，这些基金的亏损约为58亿美元$。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T18:01:12Z"
+  },
+  {
+    "id": "cfd48e48bf10733a",
+    "published_at": "2026-09-27T01:01+08:00",
+    "title": "CleanSpark完成桑德斯维尔的$ 22.76亿美元债务交易",
+    "summary": "7.875%的票据用于建设，并以20年的租约偿还对佐治亚州项目的早期股权出资。",
+    "source": "The Defiant",
+    "category": "宏观-股市极端行情",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/cleanspark-closes-2-276-billion-debt-deal-for-sandersville-data-center",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T18:01:12Z"
+  },
+  {
+    "id": "077f491c94b42685",
+    "published_at": "2026-09-27T01:01+08:00",
+    "title": "比特币ETF创纪录的七天连胜， 2026年流量周二",
+    "summary": "比特币ETF在连续七个交易日中吸引了近30 $十亿，抹去了《清晰度法案》后的损失，并将2026年的资金流量推回正值",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-26T18:01:12Z"
+  },
+  {
     "id": "a790984bc66d4e5f",
     "published_at": "2026-09-27T00:06+08:00",
     "title": "加密货币如何停止等待国会并学会爱",
