@@ -1,5 +1,29 @@
 [
   {
+    "id": "5003c7bee3b38c61",
+    "published_at": "2026-09-27T08:26:19Z",
+    "title": "XT 关于暂停XTM网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62651230645145",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-27T09:10:16Z"
+  },
+  {
+    "id": "b03dc17154e0484d",
+    "published_at": "2026-09-27T08:24:01Z",
+    "title": "XT 关于恢复AB网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62651174640281",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-27T09:10:16Z"
+  },
+  {
     "id": "60b436af99baf0b0",
     "published_at": "2026-09-27T05:07:20Z",
     "title": "XT 关于暂停AB网络充提服务的公告",
