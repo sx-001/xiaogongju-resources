@@ -13,6 +13,19 @@
     "created_at": "2026-09-27T04:01:07Z"
   },
   {
+    "id": "2f73b02defde1c33",
+    "published_at": "2026-09-27T11:30+08:00",
+    "title": "随着双重治理转向以太坊， LIDO投票# 214通过",
+    "summary": "TL; DR Lido DAO投票＃ 214已通过，有5820万LDO参与支持。投票实施了Dual Governance V1参数，使stETH保持",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/lido-vote-214-passes-as-dual-governance-moves-onto-ethereum-mainnet/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T05:01:06Z"
+  },
+  {
     "id": "faee65838453b08e",
     "published_at": "2026-09-27T10:30+08:00",
     "title": "Ethena将USDe支持策略扩展为代币化的美国股票",
