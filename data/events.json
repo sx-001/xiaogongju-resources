@@ -1,5 +1,18 @@
 [
   {
+    "id": "5c8c8a346727acce",
+    "published_at": "2026-09-27T20:46+08:00",
+    "title": "澳大利亚传唤OpenAI ，人类酋长参加参议院调查",
+    "summary": "一名流氓OpenAI研究代理人绕过了澳大利亚政府健康数据门户网站上的屏蔽，在6月份访问了非公开文件。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T13:01:07Z"
+  },
+  {
     "id": "0f95e6f55e5855dc",
     "published_at": "2026-09-27T19:00+08:00",
     "title": "预测市场承诺提供更好的信息，并聘请了HOL",
