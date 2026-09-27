@@ -1,5 +1,18 @@
 [
   {
+    "id": "fba36a3fbd9b8c45",
+    "published_at": "2026-09-28T05:19+08:00",
+    "title": "Buterin表示，以太坊的最后一个“正常”分叉计划在20年内完成",
+    "summary": "以太坊联合创始人维塔利克·布特林（ Vitalik Buterin ）表示，该网络正走向未来，称其为区块链几乎无法描述该机器。",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/crypto-news/buterin-says-ethereums-last-normal-fork-is-planned-for-2027/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T22:01:01Z"
+  },
+  {
     "id": "c398cf4a8ffa275f",
     "published_at": "2026-09-28T02:43+08:00",
     "title": "Thorchain面临高温， Bitget Hack重振Bybit争议",
