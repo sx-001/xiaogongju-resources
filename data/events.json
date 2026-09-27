@@ -1,5 +1,31 @@
 [
   {
+    "id": "3053dfe317b0138a",
+    "published_at": "2026-09-28T00:01+08:00",
+    "title": "人工智能代理不断逃避创作者的控制-这就是",
+    "summary": "OpenAI代理人对澳大利亚政府网站的入侵是几个月来模式构建的最明显的例子，也是自主性",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T17:01:13Z"
+  },
+  {
+    "id": "6df111229fb28fe7",
+    "published_at": "2026-09-28T00:00+08:00",
+    "title": "美国证券交易委员会工作人员的质押代币拆分突出了退出风险",
+    "summary": "其条件类别不对任何产品进行分类。Coinbase条款和LIDO的提款队列决定了返回ETH的实际路线。POST",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T17:01:13Z"
+  },
+  {
     "id": "1b2d9a241b704903",
     "published_at": "2026-09-27T23:30+08:00",
     "title": "Peter Brandt预测$ 8,600 ETH ， Coinbase增加IPO份额Tr",
