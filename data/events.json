@@ -1,5 +1,31 @@
 [
   {
+    "id": "ab8e1c57d449723a",
+    "published_at": "2026-09-27T11:45+08:00",
+    "title": "15家机构与Bitwise交谈：可能会有更多的加密货币买家",
+    "summary": "根据Bitwise对15家主要机构的采访，机构加密需求的发展超出了公开披露的范围。",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/featured/15-institutions-spoke-to-bitwise-more-crypto-buyers-may-be-coming/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T04:01:07Z"
+  },
+  {
+    "id": "faee65838453b08e",
+    "published_at": "2026-09-27T10:30+08:00",
+    "title": "Ethena将USDe支持策略扩展为代币化的美国股票",
+    "summary": "TL; Ethena博士正在将USDe背后的基础交易策略扩展到代币化的美国股票。币安bStocks可用作代币化现货资产，同时",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/ethena-expands-usde-backing-strategy-into-tokenized-us-equities/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T04:01:07Z"
+  },
+  {
     "id": "adc238735ff06391",
     "published_at": "2026-09-27T09:30+08:00",
     "title": "Magic Eden表示，传统批准向Ex暴露了$ 570万的NFT",
