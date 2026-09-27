@@ -1,5 +1,57 @@
 [
   {
+    "id": "7daad164ea6c930b",
+    "published_at": "2026-09-27T22:45+08:00",
+    "title": "THORChain拒绝Bitget阻止黑客添加的要求",
+    "summary": "Bitget标记的地址在请求后完成了XRP到比特币的交换，而OKX的Star Xu则质疑THORChain与比特币的比较。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T15:01:12Z"
+  },
+  {
+    "id": "295bd6d6ac4dc742",
+    "published_at": "2026-09-27T22:44+08:00",
+    "title": "Buterin映射以太坊的后Hegota加密世界Com",
+    "summary": "Hegota的预定变更目标是抵制审查和钱包灵活性；更广泛的愿景依赖于证据聚合和开放研究。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T15:01:12Z"
+  },
+  {
+    "id": "44b90ff242be12a0",
+    "published_at": "2026-09-27T22:35+08:00",
+    "title": "“这真的不仅仅是一个区块链” ： Vitalik Buterin",
+    "summary": "以太坊联合创始人维塔利克·布特林（ Vitalik Buterin ）表示，以太坊“不再仅仅是一个区块链” ，并在一篇文章中阐述了到2030年其设计将如何改变。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T15:01:12Z"
+  },
+  {
+    "id": "f5174c62440c6705",
+    "published_at": "2026-09-27T22:29+08:00",
+    "title": "Vitalik Buterin将以太坊的转变映射到区块链之外",
+    "summary": "Buterin希望以太坊做更多的工作，而不是强迫网络上的每台计算机重复相同的计算。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T15:01:12Z"
+  },
+  {
     "id": "b76cad729a88691a",
     "published_at": "2026-09-27T21:01+08:00",
     "title": "美国证券交易委员会工作人员表示，代币回购不会使加密货币成为证券-I",
