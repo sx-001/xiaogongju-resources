@@ -1,5 +1,31 @@
 [
   {
+    "id": "0f95e6f55e5855dc",
+    "published_at": "2026-09-27T19:00+08:00",
+    "title": "预测市场承诺提供更好的信息，并聘请了HOL",
+    "summary": "Sydney Sweeney正在帮助销售体育预测，这是一个很好的迹象，表明预测市场已经超越了享受AR的人群",
+    "source": "CryptoSlate",
+    "category": "宏观-股市极端行情",
+    "url": "https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T11:01:30Z"
+  },
+  {
+    "id": "b25fb9c4437b6362",
+    "published_at": "2026-09-27T18:30+08:00",
+    "title": "Riot偿还Coinbase贷款，结束2亿美元的比特币支持",
+    "summary": "Riot Platforms （纳斯达克股票代码： RIOT ）已偿还其从Coinbase Credit的未偿还借款，并终止了2亿美元的信贷额度，",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/mining/riot-repays-coinbase-loan-ends-200-million-bitcoin-backed-facility/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T11:01:30Z"
+  },
+  {
     "id": "32c0723af358f2b8",
     "published_at": "2026-09-27T15:30+08:00",
     "title": "比特币价格着眼于$ 10万，因为富达的计时器从他的",
