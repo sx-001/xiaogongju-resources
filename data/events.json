@@ -1,5 +1,44 @@
 [
   {
+    "id": "b76cad729a88691a",
+    "published_at": "2026-09-27T21:01+08:00",
+    "title": "美国证券交易委员会工作人员表示，代币回购不会使加密货币成为证券-I",
+    "summary": "新的美国证券交易委员会工作人员指南称，在功能网络上宣布代币回购并不是将代币转化为证券的承诺，而是一种转变",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T14:01:12Z"
+  },
+  {
+    "id": "9762cf1ba99c3d4d",
+    "published_at": "2026-09-27T21:00+08:00",
+    "title": "以太坊不是即时的，但抵押品可能会让人感觉到",
+    "summary": "当付款应用程序告知您转账已完成时，您就可以开始做出决定。你交出你卖掉的任何东西，花掉你收到的钱，",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T14:01:12Z"
+  },
+  {
+    "id": "63c52ca77fb02ab2",
+    "published_at": "2026-09-27T21:00+08:00",
+    "title": "坏消息是好消息—本周回顾",
+    "summary": "这篇社论来自本周的新闻通讯Week in Review ，于周五发送给订阅者。订阅时事通讯以获取此信息，我们",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/crypto-news/bad-news-is-good-news-week-in-review/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T14:01:12Z"
+  },
+  {
     "id": "5c8c8a346727acce",
     "published_at": "2026-09-27T20:46+08:00",
     "title": "澳大利亚传唤OpenAI ，人类酋长参加参议院调查",
