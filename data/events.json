@@ -1,5 +1,18 @@
 [
   {
+    "id": "adc238735ff06391",
+    "published_at": "2026-09-27T09:30+08:00",
+    "title": "Magic Eden表示，传统批准向Ex暴露了$ 570万的NFT",
+    "summary": "TL; DR Magic Eden表示，旧的EVM市场批准使价值超过570万美元的NFT暴露在限额突破的支付处理器中",
+    "source": "Bitcoinist",
+    "category": "黑客攻击",
+    "url": "https://bitcoinist.com/magic-eden-says-legacy-approvals-exposed-5-7m-in-nfts-to-exploit/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T03:01:11Z"
+  },
+  {
     "id": "7c79a41b3c84ff21",
     "published_at": "2026-09-27T09:15+08:00",
     "title": "XRP社区在Evernorth的纳斯达克计划中占据中心地位",
