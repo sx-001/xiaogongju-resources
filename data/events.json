@@ -1,5 +1,18 @@
 [
   {
+    "id": "cb97fa75d0f330be",
+    "published_at": "2026-09-28T06:15+08:00",
+    "title": "Aave的实时股票代币贷款使USDC贷方暴露于一周",
+    "summary": "Base Hub允许对七个Coinbase股票代币借入高达2100万美元的USDC ，而他们的抵押品馈送通过",
+    "source": "CryptoSlate",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cryptoslate.com/aave-stock-token-loans-expose-usdc-lenders-to-weekend-price-gap/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T23:00:56Z"
+  },
+  {
     "id": "fba36a3fbd9b8c45",
     "published_at": "2026-09-28T05:19+08:00",
     "title": "Buterin表示，以太坊的最后一个“正常”分叉计划在20年内完成",
@@ -180,6 +193,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-27T14:01:12Z"
+  },
+  {
+    "id": "e31609b249b948ae",
+    "published_at": "2026-09-27T21:00+08:00",
+    "title": "坏消息是好消息—本周回顾",
+    "summary": "这篇社论来自本周的新闻通讯Week in Review ，于周五发送给订阅者。订阅时事通讯以获取此信息，我们",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/opinion-and-analysis/bad-news-is-good-news-week-in-review/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-27T23:00:56Z"
   },
   {
     "id": "5c8c8a346727acce",
