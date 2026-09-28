@@ -1,5 +1,44 @@
 [
   {
+    "id": "9e3122cd72f6c41e",
+    "published_at": "2026-09-29T05:45+08:00",
+    "title": "Tether和参议院民主党人就伊朗的影子加密货币发生冲突",
+    "summary": "周一，稳定币重量级Tether披露，它已协助冻结了近5.5亿美元与伊朗相关的USDT。然而就在同一天，",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/tether-and-senate-democrats-clash-over-irans-shadow-crypto-network/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T22:01:16Z"
+  },
+  {
+    "id": "b560ac0786c18379",
+    "published_at": "2026-09-29T05:40+08:00",
+    "title": "自6月以来，策略首次连续购买比特币作为",
+    "summary": "Michael Saylor领导的Strategy （前身为MicroStrategy ）自6月以来首次连续每周购买比特币，重建其持有量",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/strategy-makes-first-back-to-back-bitcoin-buys-since-june-as-accumulation-picks-up/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T22:01:16Z"
+  },
+  {
+    "id": "26c9a112aa50c5f4",
+    "published_at": "2026-09-29T05:16+08:00",
+    "title": "巧妙的RSA攻击欺骗了硬件保险库-这就是它的M",
+    "summary": "加州大学圣地亚哥分校领导的一个团队在不提取密钥的情况下模拟了一个硬件安全模块。",
+    "source": "Decrypt",
+    "category": "安全风险",
+    "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T22:01:16Z"
+  },
+  {
     "id": "d3ec30622fd21bbf",
     "published_at": "2026-09-29T04:41+08:00",
     "title": "加拿大“加密之王”将在欺诈审判中代表自己",
