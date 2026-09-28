@@ -1,5 +1,44 @@
 [
   {
+    "id": "8b10f612ea30e687",
+    "published_at": "2026-09-29T02:30+08:00",
+    "title": "巴西2520亿美元的加密货币市场获得1万美元的自托管权",
+    "summary": "当与用户控制的钱包之间的转账达到阈值时，中央银行授权机构必须通知Coaf。巴西邮政252 $ bil",
+    "source": "CryptoSlate",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cryptoslate.com/brazils-252-billion-crypto-market-gets-10000-self-custody-reporting-rule/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T19:03:29Z"
+  },
+  {
+    "id": "70db97aab028b4e8",
+    "published_at": "2026-09-29T02:30+08:00",
+    "title": "加利福尼亚州在特朗普买家丢失后禁止官员的Memecoins",
+    "summary": "在唐纳德·特朗普总统的代币为他创造了大量收益之后，加利福尼亚州新的memecoin法律针对利益冲突。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/california-bans-officials-memecoins-trump-buyers-lost-3-8b/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T19:03:29Z"
+  },
+  {
+    "id": "f02d8f27d061686d",
+    "published_at": "2026-09-29T02:19+08:00",
+    "title": "今年第二大XRP黑客正在蔓延到Bitco",
+    "summary": "来自D'CENT加密钱包的受损密钥允许黑客入侵超过$ 1800万的XRP ，并到达Stellar、以太坊和其他区块链。",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/the-years-second-largest-xrp-hack-is-spilling-over-to-bitcoin-and-ethereum/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T19:03:29Z"
+  },
+  {
     "id": "39d088f2b427f73f",
     "published_at": "2026-09-29T02:00+08:00",
     "title": "高盛（ Goldman Sachs ）将1000亿美元的国债基金带入加密货币",
