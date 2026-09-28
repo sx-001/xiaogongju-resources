@@ -1,5 +1,53 @@
 [
   {
+    "id": "6b3fae449f4e0b5e",
+    "published_at": "2026-09-28T07:59:00Z",
+    "title": "Bitget关于恢复BTC -比特币提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896188",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-28T08:13:58Z"
+  },
+  {
+    "id": "a4cbe7d136b08261",
+    "published_at": "2026-09-28T07:26:48Z",
+    "title": "合约维持保证金阶梯档位(四）",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "合约",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62681889364505",
+    "announcement_type": "合约",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-28T08:13:58Z"
+  },
+  {
+    "id": "cbf949cb09fa0ab0",
+    "published_at": "2026-09-28T07:16:23Z",
+    "title": "XT.COM 关于KIOXIA U本位永续合约下架的公告 (2026-09-28)",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "下架",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62681442602521",
+    "announcement_type": "下架",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-28T08:13:58Z"
+  },
+  {
+    "id": "e051413ef1e35409",
+    "published_at": "2026-09-28T07:14:09Z",
+    "title": "TEBBIT 关于 Google Play商店版本应用名称及品牌徽标差异的说明",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "公告",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62681341680025",
+    "announcement_type": "公告",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-28T08:13:58Z"
+  },
+  {
     "id": "2c17b207ec7ec1d2",
     "published_at": "2026-09-28T06:51:00Z",
     "title": "KuCoin已完成Avantis （ AVNT ）到Veranta （ AVNT ）的品牌重塑",
