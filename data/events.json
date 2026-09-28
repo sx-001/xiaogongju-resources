@@ -1,5 +1,31 @@
 [
   {
+    "id": "9e9397be4de17b03",
+    "published_at": "2026-09-28T09:15+08:00",
+    "title": "9月30日，美国财政部达成了2020亿美元的和解协议，",
+    "summary": "国债息票供应符合平静的融资， SOFR和比特币衍生品将显示压力是否会扩散。The post A $ 202 billion US Treasu",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/a-202-billion-u-s-treasury-settlement-hits-september-30-and-it-could-trigger-a-surprise-move-in-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T02:01:51Z"
+  },
+  {
+    "id": "3dcd433ac9f6c4dc",
+    "published_at": "2026-09-28T09:09+08:00",
+    "title": "Zano在网关地址EXP后一个月回滚区块链",
+    "summary": "Zano区块链已在硬分叉6之前的区块高度重新启动，硬分叉6引入了网关地址。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T02:01:51Z"
+  },
+  {
     "id": "1b291f9501c459bc",
     "published_at": "2026-09-28T07:43+08:00",
     "title": "THORChain在Bitget的攻击下，以太坊的发展超越了区块链",
@@ -271,6 +297,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-27T11:01:30Z"
+  },
+  {
+    "id": "6c11e29b946b8f34",
+    "published_at": "2026-09-27T18:30+08:00",
+    "title": "债券波动率创3月以来新高，而比特币交易",
+    "summary": "TL; DR美国国债波动率的波动指数升至104左右，为3月以来的最高水平。比特币30天隐含波动率指数保持不变",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/bond-volatility-hits-highest-since-march-while-bitcoin-traders-stay-calm/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T02:01:51Z"
   },
   {
     "id": "32c0723af358f2b8",
