@@ -1,5 +1,57 @@
 [
   {
+    "id": "39d088f2b427f73f",
+    "published_at": "2026-09-29T02:00+08:00",
+    "title": "高盛（ Goldman Sachs ）将1000亿美元的国债基金带入加密货币",
+    "summary": "该银行正在将其约1000亿美元的国债基金带给机构加密公司，而没有创建其代币化版本。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T18:01:59Z"
+  },
+  {
+    "id": "95bf8687fbd44ef4",
+    "published_at": "2026-09-29T01:51+08:00",
+    "title": "$ 2.92亿海藻砍伐后的几个月， Chainlink Lets Institution",
+    "summary": "Chainlink的CCIP 2.0允许银行对跨链转账进行自己的安全检查，在竞争对手的设置给黑客造成2.92亿美元损失五个月后",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T18:01:59Z"
+  },
+  {
+    "id": "de09fa0e3072abf5",
+    "published_at": "2026-09-29T01:34+08:00",
+    "title": "比特币价格跌至周低点后维持在近$ 84K",
+    "summary": "比特币价格在触及7天低点82,500 $后反弹至84,000 $附近。尽管每日下降近1 ％ ，但仍高于",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-holds-84k-dipping-weekly-low/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T18:01:59Z"
+  },
+  {
+    "id": "587055f53e3087a3",
+    "published_at": "2026-09-29T01:30+08:00",
+    "title": "USDT在以太坊上增长到2024年，但智能合约持有量",
+    "summary": "随着发行量的增加，以太坊的历史合约持股量下降，而TRON的持股量在研究中徘徊在1%附近。POST USDT在以太坊上通过",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/usdt-growth-does-not-prove-more-defi-demand-on-ethereum-or-tron-bis-data-show/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T18:01:59Z"
+  },
+  {
     "id": "7cf042af746efa35",
     "published_at": "2026-09-29T00:55+08:00",
     "title": "特朗普柴油路边限制可能打击每个主要经济体，凶猛的战争",
