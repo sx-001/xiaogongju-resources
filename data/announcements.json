@@ -1,5 +1,29 @@
 [
   {
+    "id": "023786d3f5a18f7a",
+    "published_at": "2026-09-28T09:38:00Z",
+    "title": "Hotcoin关于支持基础网络升级及硬分叉的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillSupporttheBaseNetworkUpgradeandHardFork-20260928/",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-28T10:12:40Z"
+  },
+  {
+    "id": "46af0eb7357ed9e8",
+    "published_at": "2026-09-28T09:21:21Z",
+    "title": "XT CBK-多边关于暂停形提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62686566781849",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-28T10:12:40Z"
+  },
+  {
     "id": "3e917aabffb9726b",
     "published_at": "2026-09-28T08:32:00Z",
     "title": "Bitget关于恢复BTC -币安智能链提现的公告",
