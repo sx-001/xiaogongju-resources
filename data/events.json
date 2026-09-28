@@ -1,5 +1,44 @@
 [
   {
+    "id": "f0122b29291cfb5f",
+    "published_at": "2026-09-28T17:19+08:00",
+    "title": "诈骗者窃取了200万$的以太币作为假冒的GIWA网络傻瓜DYORSWA",
+    "summary": "DYORSWAP表示，它支付了超过200 ETH的赔偿金，而Upbit运营商Dunamu的GIWA警告说，其主网尚未启动。",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T10:03:13Z"
+  },
+  {
+    "id": "9dc6f1faa428f581",
+    "published_at": "2026-09-28T17:10+08:00",
+    "title": "加密货币诈骗者构建了一个完整的假区块链来窃取",
+    "summary": "诈骗者构建了Upbit支持的GIWA区块链的假冒版本，并诱使1,333个钱包存入767个以太坊，价值约$ 200万",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/crypto-scammers-built-an-entire-fake-blockchain-to-steal-over-2-million/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T10:03:13Z"
+  },
+  {
+    "id": "32861b754b923361",
+    "published_at": "2026-09-28T17:03+08:00",
+    "title": "比特币跌破$ 83K ，因为流动性狩猎使多头保持不变",
+    "summary": "在美国总统唐纳德·特朗普（ Donald Trump ）没有承诺永久停止对伊朗的打击之后，比特币周一加入了美国股票期货的下跌。",
+    "source": "Cointelegraph",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T10:03:13Z"
+  },
+  {
     "id": "53209a18463bb8a1",
     "published_at": "2026-09-28T16:31+08:00",
     "title": "Bitget在$ 388英里后开始分阶段恢复提款",
