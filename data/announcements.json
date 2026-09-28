@@ -1,5 +1,41 @@
 [
   {
+    "id": "160734d7f60e47d8",
+    "published_at": "2026-09-28T05:04:46Z",
+    "title": "【重要通知】TEBBIT 储备金证明通过 CoinMarketCap 验证及 500 BTC 安全保障基金公开的公告",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "公告",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62676174091289",
+    "announcement_type": "公告",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-28T05:11:18Z"
+  },
+  {
+    "id": "44d07b814e38de99",
+    "published_at": "2026-09-28T04:30:01Z",
+    "title": "ULTRA （ UOS ）贸易和学习活动— 7,638,586 UOS奖金池",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "活动",
+    "url": "https://www.kucoin.com/announcement/en-ultra-uos-trade-and-learn-campaign-7638586-uos-prize-pool-up-for-grabs",
+    "announcement_type": "活动",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-28T05:11:18Z"
+  },
+  {
+    "id": "6e67baa9289fe068",
+    "published_at": "2026-09-28T04:30:00Z",
+    "title": "Doppler Finance (XDP)房源活动— 440万XDP赠品",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-doppler-finance-xdp-listing-campaign-4400000-xdp-giveaway",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-28T05:11:18Z"
+  },
+  {
     "id": "f439651e652a118e",
     "published_at": "2026-09-28T02:57:00Z",
     "title": "Hotcoin关于全球首发上线格林纳达国家度假村代币（ GNR ）的公告",
