@@ -1,5 +1,44 @@
 [
   {
+    "id": "f16d65b13e7945e5",
+    "published_at": "2026-09-28T19:41+08:00",
+    "title": "ETF附近的Bitwise清除上市和注册障碍",
+    "summary": "NRR产品计划对其近期持股进行质押，年管理费为0.75% ，质押奖励另行收费。",
+    "source": "The Defiant",
+    "category": "ETF机构",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-near-etf-clears-listing-and-registration-hurdles",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T12:01:29Z"
+  },
+  {
+    "id": "c38e8fdd36a5263e",
+    "published_at": "2026-09-28T19:30+08:00",
+    "title": "以太坊的下一个扩张飞跃可能来自于让每个人都",
+    "summary": "更便宜的证明可以扩大验证范围，而构建者和证明者仍然需要数据来保持块和汇总的移动。POST以太坊的下一个SCA",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T12:01:29Z"
+  },
+  {
+    "id": "fe3c7cb886ecb021",
+    "published_at": "2026-09-28T19:05+08:00",
+    "title": "Bitget恢复比特币提款，黑客通过T交换ETH",
+    "summary": "随着Bitget在上周遭遇3.88亿美元黑客攻击后恢复服务，以太坊取款计划于周二和周三返回$ USDt。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T12:01:29Z"
+  },
+  {
     "id": "7cb6f4fcad779d2c",
     "published_at": "2026-09-28T17:58+08:00",
     "title": "香港监管机构将财务报告监管范围扩大至",
