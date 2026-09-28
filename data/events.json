@@ -1,5 +1,57 @@
 [
   {
+    "id": "7cf042af746efa35",
+    "published_at": "2026-09-29T00:55+08:00",
+    "title": "特朗普柴油路边限制可能打击每个主要经济体，凶猛的战争",
+    "summary": "Devere Group首席执行官奈杰尔·格林（ Nigel Green ）警告说，美国柴油出口禁令可能会提高国外的燃料成本，并最终推高美国汽油价格。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/featured/trump-diesel-curbs-could-hit-every-major-economy-devere-warns/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T17:02:38Z"
+  },
+  {
+    "id": "8fad08ea2cb3d8dc",
+    "published_at": "2026-09-29T00:29+08:00",
+    "title": "Vitalik Buterin概述“加密世界计算机”计划",
+    "summary": "他认为， Hegota将是以太坊的最后一个“正常”分叉，一切都建立在递归STARK和正式验证之上。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T17:02:38Z"
+  },
+  {
+    "id": "acdf696f48f6223f",
+    "published_at": "2026-09-29T00:24+08:00",
+    "title": "重熔淘金热已经结束，顶级规程裸露无遗",
+    "summary": "随着重组收益率的枯竭和智能合约风险的增加，以太坊的顶级液体重组协议放弃了核心业务，建立了一个",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T17:02:38Z"
+  },
+  {
+    "id": "8e84c51840746cde",
+    "published_at": "2026-09-29T00:05+08:00",
+    "title": "Bitget以$ 388M Hack Investigat的身份重新启动比特币提现",
+    "summary": "Bitget告诉Bitcoin.com新闻，在攻击者利用第三方安全漏洞窃取",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/exchanges/bitget-restarts-bitcoin-withdrawals-388m-hack-investigation-widens/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T17:02:38Z"
+  },
+  {
     "id": "450db7b284098034",
     "published_at": "2026-09-28T23:30+08:00",
     "title": "如果用户错过9月， OKX US将出售美元交易机器人头寸",
