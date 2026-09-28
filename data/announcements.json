@@ -1,5 +1,41 @@
 [
   {
+    "id": "5dc1a5515e0be9d4",
+    "published_at": "2026-09-28T05:54:46Z",
+    "title": "XT 关于恢复QUB网络提现服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62678096638489",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-28T06:15:14Z"
+  },
+  {
+    "id": "0d49438a237f4cf1",
+    "published_at": "2026-09-28T05:40:00Z",
+    "title": "📢 首席执行官直播：安全事件更新",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896183",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-28T06:15:14Z"
+  },
+  {
+    "id": "7a6d503102e5ffcb",
+    "published_at": "2026-09-28T05:11:34Z",
+    "title": "9 月28日 AOZX每日资讯 ｜ BTC回落至 83,000美元附近 ，现货 ETF周流入创年内新高",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17782004310159",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-09-28T06:15:14Z"
+  },
+  {
     "id": "160734d7f60e47d8",
     "published_at": "2026-09-28T05:04:46Z",
     "title": "【重要通知】TEBBIT 储备金证明通过 CoinMarketCap 验证及 500 BTC 安全保障基金公开的公告",
