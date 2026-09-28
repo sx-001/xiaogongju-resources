@@ -1,5 +1,31 @@
 [
   {
+    "id": "53209a18463bb8a1",
+    "published_at": "2026-09-28T16:31+08:00",
+    "title": "Bitget在$ 388英里后开始分阶段恢复提款",
+    "summary": "该交易所表示已修复该漏洞，该事件造成的损失将由用户保护基金全额弥补。",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T09:03:00Z"
+  },
+  {
+    "id": "a4741cf42cd552ba",
+    "published_at": "2026-09-28T16:24+08:00",
+    "title": "比特币ETF自10月以来的最大周流入量为$ 24亿",
+    "summary": "随着比特币从87,100 $上方回落，每日流入量放缓，而以太坊和XRP ETF在本周也吸引了新的资本。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T09:03:00Z"
+  },
+  {
     "id": "b663be644e79532a",
     "published_at": "2026-09-28T14:15+08:00",
     "title": "大型机构资金在比特币的下一步行动中被拆分为",
