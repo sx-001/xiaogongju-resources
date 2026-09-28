@@ -1,5 +1,44 @@
 [
   {
+    "id": "2032dd93c65a3c01",
+    "published_at": "2026-09-29T06:50+08:00",
+    "title": "近5000比特币离开Bitget ，黑客开始洗钱$",
+    "summary": "在加密货币交易所在其3.875亿美元的黑客攻击后重新开放提款后，近5000个比特币已经离开了Bitget的跟踪储备。9月28日，",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/nearly-5000-btc-leaves-bitget-as-hackers-begin-laundering-387-million-haul/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T23:01:08Z"
+  },
+  {
+    "id": "eef8c470016fe7c4",
+    "published_at": "2026-09-29T06:40+08:00",
+    "title": "在Bitget Hack Laundering Fl中， Near Intents以$ 5000万砸门",
+    "summary": "在Bitget遭遇$ 3.875亿黑客攻击后，攻击者试图通过Near Intents转移超过$ 5000万，但其盾牌安全系统",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/near-intents-slams-door-50m-bitget-hack-laundering-flows/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T23:01:08Z"
+  },
+  {
+    "id": "8c30ddedd15573ae",
+    "published_at": "2026-09-29T06:10+08:00",
+    "title": "Uniswap LEA令牌化股票达到209亿美元的DEX交易量",
+    "summary": "在过去的30天里，代币化股票产生了209亿美元的去中心化交易所（ DEX ）交易量， Uniswap处理了大约126亿美元的",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/defi/tokenized-stocks-hit-20-9-billion-dex-volume-uniswap-leads/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T23:01:08Z"
+  },
+  {
     "id": "9e3122cd72f6c41e",
     "published_at": "2026-09-29T05:45+08:00",
     "title": "Tether和参议院民主党人就伊朗的影子加密货币发生冲突",
