@@ -1,5 +1,44 @@
 [
   {
+    "id": "d3ec30622fd21bbf",
+    "published_at": "2026-09-29T04:41+08:00",
+    "title": "加拿大“加密之王”将在欺诈审判中代表自己",
+    "summary": "据称， Aiden Pleterski在2021年至2022年期间参与了一项加密庞氏骗局，导致绑架和相关的刑事指控。",
+    "source": "Cointelegraph",
+    "category": "监管执法",
+    "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T21:02:26Z"
+  },
+  {
+    "id": "17339a1d6848e76f",
+    "published_at": "2026-09-29T04:36+08:00",
+    "title": "花旗客户现在可以通过Coinba接受稳定币支付",
+    "summary": "Coinbase和花旗扩大了现有交易，因此花旗的机构客户可以接受稳定币支付，而Coinbase商业账户则在Ci上运行",
+    "source": "Decrypt",
+    "category": "ETF机构",
+    "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T21:02:26Z"
+  },
+  {
+    "id": "1db30f70ba2efee6",
+    "published_at": "2026-09-29T04:30+08:00",
+    "title": "丽都1500 ETH储备目标可能会减缓STETH提现",
+    "summary": "设置仍为1,500 ETH ，但随着新的质押模块的临近，该委员会未执行的计划将转移存款优先级。The post Lido's",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T21:02:26Z"
+  },
+  {
     "id": "e55701fd4f661790",
     "published_at": "2026-09-29T03:55+08:00",
     "title": "Strive筹集了1,107枚比特币，其$ 23亿美金国债规模扩大",
