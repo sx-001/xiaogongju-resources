@@ -1,5 +1,31 @@
 [
   {
+    "id": "b663be644e79532a",
+    "published_at": "2026-09-28T14:15+08:00",
+    "title": "大型机构资金在比特币的下一步行动中被拆分为",
+    "summary": "9月22日的期货快照显示了相反的仓位走势，而没有显示任何现货或ETF对冲支线。POST大型机构资金被拆分",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/big-institutional-money-is-split-on-bitcoins-next-move-as-massive-market-bets-shift/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T07:04:49Z"
+  },
+  {
+    "id": "7b641d24882dc50e",
+    "published_at": "2026-09-28T14:01+08:00",
+    "title": "诈骗者推出假冒ETH L2 ，从加密货币交易者手中窃取200万$",
+    "summary": "一群身份不明的威胁行为者发起了一个冒充Giwa的假L2链，这是一个由Upbit支持的项目，由多链组织DYORSWAP识别",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/security/scammers-launch-fake-eth-l2-to-steal-2m-from-crypto-traders/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T07:04:49Z"
+  },
+  {
     "id": "d82b08a89bd5c2f7",
     "published_at": "2026-09-28T12:44+08:00",
     "title": "Vitalik Buterin表示， Hegotá可能是以太坊的最后一个“正常”",
