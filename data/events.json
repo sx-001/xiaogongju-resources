@@ -1,5 +1,44 @@
 [
   {
+    "id": "450db7b284098034",
+    "published_at": "2026-09-28T23:30+08:00",
+    "title": "如果用户错过9月， OKX US将出售美元交易机器人头寸",
+    "summary": "如果受影响的机器人继续使用旧的美元对，电网和智能投资组合持股将面临自动销售。OKX后美国出售美元交易机器人头寸，如果",
+    "source": "CryptoSlate",
+    "category": "宏观-国债与美元",
+    "url": "https://cryptoslate.com/okx-us-to-sell-usd-trading-bot-positions-if-users-miss-sept-30-deadline/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T16:03:23Z"
+  },
+  {
+    "id": "c7e9c8526b5beeab",
+    "published_at": "2026-09-28T23:26+08:00",
+    "title": "随着特朗普的伊朗冷落发送石油，比特币价格下跌，收益率为H",
+    "summary": "比特币延续了上周的回调，因为特朗普拒绝了伊朗的停火计划，将油价推高至100 $以上，并在周三的PCE报告之前走高。",
+    "source": "Decrypt",
+    "category": "宏观数据-PCE",
+    "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T16:03:23Z"
+  },
+  {
+    "id": "b5eff299153bf91f",
+    "published_at": "2026-09-28T23:05+08:00",
+    "title": "Tom Lee的比特币以4600万$ B达到600万以太里程碑",
+    "summary": "Bitmine Immersion Technologies是最大的公开交易的以太坊库存，本周超过了另一个里程碑，宣布它现在拥有超过6个",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/tom-lees-bitmine-6-million-ether-milestone-46m-buy/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T16:03:23Z"
+  },
+  {
     "id": "f8c8d65880be10ae",
     "published_at": "2026-09-28T22:46+08:00",
     "title": "Bitget首席执行官称$ 3.88亿黑客利用第三方安全vu",
