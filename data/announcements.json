@@ -1,5 +1,53 @@
 [
   {
+    "id": "2c17b207ec7ec1d2",
+    "published_at": "2026-09-28T06:51:00Z",
+    "title": "KuCoin已完成Avantis （ AVNT ）到Veranta （ AVNT ）的品牌重塑",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-have-completed-the-rebranding-of-avantis-avnt-to-veranta-avnt",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-28T07:13:04Z"
+  },
+  {
+    "id": "5e276d25112ce6c4",
+    "published_at": "2026-09-28T06:40:54Z",
+    "title": "【公告】关于钱包地址更新的通知（26.9.28）",
+    "summary": "",
+    "source": "Aeget",
+    "category": "公告",
+    "url": "https://support.aeget.com/hc/zh-cn/articles/62679929061913",
+    "announcement_type": "公告",
+    "exchange": "Aeget",
+    "created_at": "2026-09-28T07:13:04Z"
+  },
+  {
+    "id": "6fad51c59ddf5c14",
+    "published_at": "2026-09-28T06:37:44Z",
+    "title": "BitTap 公告｜ PONS/USDT 合约交易即将上线",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17783288944271",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-09-28T07:13:04Z"
+  },
+  {
+    "id": "3c5e92134111074e",
+    "published_at": "2026-09-28T05:57:54Z",
+    "title": "XT 关于上线USARB （美国稀土）、 DJTB （ Trump Media & Technology Group ）、 CRWDB （ CrowdStrike ）、 MRNAB （ Moderna ）、 HIMSB （ Hims & Hers ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62678182951193-XT%E5%85%B3%E4%BA%8E%E4%B8%8A%E7%BA%BFUSARB-USA-Rare-Earth-DJTB-Trump-Media-Technology-Group-CRWDB-CrowdStrike-MRNAB-Moderna-HIMSB-Hims-Hers-%E4%BA%A4%E6%98%93%E7%9A%84%E5%85%AC%E5%91%8A",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-28T07:13:04Z"
+  },
+  {
     "id": "5dc1a5515e0be9d4",
     "published_at": "2026-09-28T05:54:46Z",
     "title": "XT 关于恢复QUB网络提现服务的公告",
