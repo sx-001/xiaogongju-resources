@@ -1,5 +1,31 @@
 [
   {
+    "id": "1b291f9501c459bc",
+    "published_at": "2026-09-28T07:43+08:00",
+    "title": "THORChain在Bitget的攻击下，以太坊的发展超越了区块链",
+    "summary": "THORChain拒绝将与Bitget黑客攻击相关的地址列入黑名单。Vitalik Buterin表示，以太坊正在从单纯的区块链演变为",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T00:01:18Z"
+  },
+  {
+    "id": "572d5aff79f49c56",
+    "published_at": "2026-09-28T07:06+08:00",
+    "title": "加密货币周刊： BCH和接近飙升34% ， Altcoins超越Bi",
+    "summary": "尽管比特币周中从87,000美元回落至84,000美元，但加密货币总市值在本周增长了4% ，达到2.99万亿美元。市场",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/altcoins/crypto-weekly-bch-and-near-surge-34-as-altcoins-outpace-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T00:01:18Z"
+  },
+  {
     "id": "cb97fa75d0f330be",
     "published_at": "2026-09-28T06:15+08:00",
     "title": "Aave的实时股票代币贷款使USDC贷方暴露于一周",
