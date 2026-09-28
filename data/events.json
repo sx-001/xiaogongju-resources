@@ -1,5 +1,31 @@
 [
   {
+    "id": "f8c8d65880be10ae",
+    "published_at": "2026-09-28T22:46+08:00",
+    "title": "Bitget首席执行官称$ 3.88亿黑客利用第三方安全vu",
+    "summary": "一些被盗资产已被冻结，但Bitget尚未透露已追回多少，因为调查人员继续评估可能的North K",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T15:04:40Z"
+  },
+  {
+    "id": "e73cd3483dc0eb8b",
+    "published_at": "2026-09-28T22:30+08:00",
+    "title": "Bitget在2.9亿美元之前有30分钟的时间来控制其黑客攻击",
+    "summary": "在Bitget报告检测到主要传输波大约30和45分钟后， Hypernative放置主要传输波。Bitget的帖子有30分钟的时间来包含其",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/bitget-had-30-minutes-to-contain-its-hack-before-290-million-started-moving/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-28T15:04:40Z"
+  },
+  {
     "id": "b210084c086cfd20",
     "published_at": "2026-09-28T22:01+08:00",
     "title": "比特币ETF自10月2日以来的最佳周内拉动$ 23.9亿",
