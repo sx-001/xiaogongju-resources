@@ -1,5 +1,44 @@
 [
   {
+    "id": "db98a373aa2f914e",
+    "published_at": "2026-09-30T05:00+08:00",
+    "title": "Ric Edelman敦促10-40%的比特币分配，看到50万$的价格",
+    "summary": "资深财务顾问里克·埃德尔曼（ Ric Edelman ）正在进行他迄今为止最激进的比特币配置电话之一，他认为投资者应该考虑",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/price-predictions/ric-edelman-urges-10-40-bitcoin-allocation-sees-500k-2030/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T21:02:13Z"
+  },
+  {
+    "id": "05382da69e12e8e5",
+    "published_at": "2026-09-30T04:36+08:00",
+    "title": "Bitwise在代币接近T后推出首个接近ETF的美国现货",
+    "summary": "Bitwise的NRR周二开始在纽约证券交易所Arca上交易，随着以人工智能为中心的代币飙升，经纪账户接近敞口并获得质押奖励。",
+    "source": "Decrypt",
+    "category": "ETF机构",
+    "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T21:02:13Z"
+  },
+  {
+    "id": "446a084d7d364a4d",
+    "published_at": "2026-09-30T04:05+08:00",
+    "title": "美国证券交易委员会起诉Cryptoaiml和TSAI涉嫌$ 1500万AI Tra",
+    "summary": "两起纽约诉讼指控，投资者在试图退出时被显示虚假利润，并被要求获得更多资金。",
+    "source": "The Defiant",
+    "category": "监管执法",
+    "url": "https://thedefiant.io/news/regulation/sec-sues-cryptoaiml-and-tsai-over-alleged-15-million-ai-trading-scams",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T21:02:13Z"
+  },
+  {
     "id": "0a0c4247a545081c",
     "published_at": "2026-09-30T03:50+08:00",
     "title": "美联储保证2天的稳定币支付，但$ 760亿仍然是亏损",
