@@ -1,5 +1,41 @@
 [
   {
+    "id": "ec193de0a1c49b0c",
+    "published_at": "2026-09-29T20:27:00Z",
+    "title": "Bitget关于暂停QUBIC - QUBIC存款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896260",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-29T21:11:03Z"
+  },
+  {
+    "id": "a058a6e41f612ffc",
+    "published_at": "2026-09-29T20:12:00Z",
+    "title": "Bitget关于恢复近期协议存款的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896259",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-29T21:11:03Z"
+  },
+  {
+    "id": "9299e40a76d6292a",
+    "published_at": "2026-09-29T20:08:54Z",
+    "title": "XT 关于调整 STRCUSDT永续合约资金费率时间周期的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62736044084249",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-29T21:11:03Z"
+  },
+  {
     "id": "8a381a8211f50086",
     "published_at": "2026-09-29T19:31:00Z",
     "title": "Bitget关于暂停近距离协议存款服务的公告",
