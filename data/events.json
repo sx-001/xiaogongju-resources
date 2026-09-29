@@ -1,5 +1,31 @@
 [
   {
+    "id": "3df7fa0ade9f6b28",
+    "published_at": "2026-09-30T05:46+08:00",
+    "title": "随着阿兹特克带回zk ，以太坊获得了另一个隐私提升。",
+    "summary": "Aztec Labs在阿兹台克网络上重新推出了自托管zk.money钱包，允许用户使用可读标签进行私人稳定币支付。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T22:01:17Z"
+  },
+  {
+    "id": "744e6611c6f1088a",
+    "published_at": "2026-09-30T05:10+08:00",
+    "title": "根据美国数据，比特币跌至82,000 $ ，通胀担忧为b",
+    "summary": "8月份的职位空缺略有缓解，而家庭对通胀的看法使较低收益率的路径存在不确定性。比特币在美国的价格降至82,000 $",
+    "source": "CryptoSlate",
+    "category": "宏观数据-JOLTS",
+    "url": "https://cryptoslate.com/bitcoin-drops-to-82000-on-us-data-and-inflation-fear-is-blamed/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T22:01:17Z"
+  },
+  {
     "id": "db98a373aa2f914e",
     "published_at": "2026-09-30T05:00+08:00",
     "title": "Ric Edelman敦促10-40%的比特币分配，看到50万$的价格",
