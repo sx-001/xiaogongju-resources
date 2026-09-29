@@ -1,5 +1,18 @@
 [
   {
+    "id": "de4ded6ef2587047",
+    "published_at": "2026-09-30T06:30+08:00",
+    "title": "随着Avalanche和Solana分拆，代币化股票达到36亿美元",
+    "summary": "代币化股票目前在4,555项资产中占据了36亿美元的市场，但最新的增长在机构资本和",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/defi/tokenized-stocks-hit-3-6b-avalanche-solana-split-market/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T23:01:10Z"
+  },
+  {
     "id": "3df7fa0ade9f6b28",
     "published_at": "2026-09-30T05:46+08:00",
     "title": "随着阿兹特克带回zk ，以太坊获得了另一个隐私提升。",
