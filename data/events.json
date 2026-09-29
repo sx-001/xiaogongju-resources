@@ -1,5 +1,57 @@
 [
   {
+    "id": "0a0c4247a545081c",
+    "published_at": "2026-09-30T03:50+08:00",
+    "title": "美联储保证2天的稳定币支付，但$ 760亿仍然是亏损",
+    "summary": "7月28日的场地快照显示了为什么交易所客户的退出与美联储提议的两个工作日发行人赎回时钟是分开的。",
+    "source": "CryptoSlate",
+    "category": "宏观-美联储政策",
+    "url": "https://cryptoslate.com/fed-guarantees-2-day-stablecoin-payouts-but-76b-remains-blocked/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T20:02:45Z"
+  },
+  {
+    "id": "ac95cba3d6958f33",
+    "published_at": "2026-09-30T03:49+08:00",
+    "title": "Kakaopay与Dinari、Ondo合作探索代币化KOR",
+    "summary": "Kakaopay Securities正在与Dinari和Ondo Finance合作，探索对韩国上市股票进行代币化，并将其提供给投资者",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T20:02:45Z"
+  },
+  {
+    "id": "849bc26a8eee951f",
+    "published_at": "2026-09-30T03:30+08:00",
+    "title": "Moonpay收购韩国银行业巨头亚洲稳定公司c",
+    "summary": "Moonpay于2026年9月29日星期二推出其韩国子公司，利用与Kakaobank ， Woori Bank和KB Financ的先前存在的合作伙伴关系",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/stablecoins/moonpay-enlists-south-korean-banking-giants-asian-stablecoin-push/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T20:02:45Z"
+  },
+  {
+    "id": "ef23a75783a5631b",
+    "published_at": "2026-09-30T03:14+08:00",
+    "title": "CryptoQuant表示，比特币的修正可能接近交易者",
+    "summary": "由于短期交易者的链上未实现利润率已达到21个月以来的最高水平，比特币可能面临短期调整",
+    "source": "The Block",
+    "category": "市场波动",
+    "url": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T20:02:45Z"
+  },
+  {
     "id": "ae2fa15dac555514",
     "published_at": "2026-09-30T02:45+08:00",
     "title": "Bitwise在ETF附近推出，收益率为5% ， AI投注",
