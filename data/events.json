@@ -1,5 +1,31 @@
 [
   {
+    "id": "2b24b5b1a2051a9e",
+    "published_at": "2026-09-29T10:30+08:00",
+    "title": "复合DAO使用方案准备金购买价值5200万美元",
+    "summary": "Bitquery表示， 344,780 COMP推动支持者超过一半的授权投票权;该基金会表示，此举符合其DAO任务。",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/compound-dao-used-protocol-reserves-to-buy-52-million-worth-of-comp-and-delegates-call-it-a-mandate-breach/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T03:02:00Z"
+  },
+  {
+    "id": "e22503bb1af3c2d4",
+    "published_at": "2026-09-29T10:30+08:00",
+    "title": "西班牙银行业巨头Cecabank接受加密货币托管",
+    "summary": "西班牙机构托管人Cecabank正在通过MiCA欧洲护照程序将其受监管的加密资产托管服务扩展到卢森堡",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/finance/spanish-banking-giant-cecabank-takes-crypto-custody-push-luxembourg/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T03:02:00Z"
+  },
+  {
     "id": "896d35a281ade1bc",
     "published_at": "2026-09-29T09:17+08:00",
     "title": "NEAR Intents表示，它阻止了与Bitget黑客有关的5000万美元$",
