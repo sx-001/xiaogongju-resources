@@ -1,5 +1,18 @@
 [
   {
+    "id": "a782368cf20f9e8a",
+    "published_at": "2026-09-29T12:17+08:00",
+    "title": "比特币持有$ 83,000 ， ZEC下跌12% ，油价再次攀升",
+    "summary": "全球股市跌至一周低点，布伦特原油连续第二天上涨，交易员加大了对周三加息前美联储加息的押注",
+    "source": "CoinDesk",
+    "category": "宏观数据-PCE",
+    "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T05:02:06Z"
+  },
+  {
     "id": "2b24b5b1a2051a9e",
     "published_at": "2026-09-29T10:30+08:00",
     "title": "复合DAO使用方案准备金购买价值5200万美元",
