@@ -1,5 +1,31 @@
 [
   {
+    "id": "35bab1dd6911280d",
+    "published_at": "2026-09-29T14:00+08:00",
+    "title": "Coinbase为花旗新的稳定币轨道和企业提供动力",
+    "summary": "Coinbase虚拟账户也通过Citi基础设施获得自动法币转换，而客户使用情况仍未披露。",
+    "source": "CryptoSlate",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cryptoslate.com/coinbase-powers-citis-new-stablecoin-rails-and-corporate-banking-faces-a-major-shift/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T06:02:18Z"
+  },
+  {
+    "id": "b126b264188b6e37",
+    "published_at": "2026-09-29T13:29+08:00",
+    "title": "Tether表示，它帮助冻结了与伊朗相关的$ 5.5亿USDT",
+    "summary": "此前，参议院民主党调查人员称， USDT已成为伊朗影子银行网络的关键组成部分。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T06:02:18Z"
+  },
+  {
     "id": "a782368cf20f9e8a",
     "published_at": "2026-09-29T12:17+08:00",
     "title": "比特币持有$ 83,000 ， ZEC下跌12% ，油价再次攀升",
