@@ -1,5 +1,31 @@
 [
   {
+    "id": "087f0d50d600cf3d",
+    "published_at": "2026-09-30T00:34+08:00",
+    "title": "比特币价格保持在$ 83K以上，因为油价飙升限制了收益",
+    "summary": "比特币的价格经历了24小时的动荡，在82,807美元至84,545美元之间波动，然后收于83,150美元附近。分析师指出，虽然",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-holds-83k-oil-surge-limits-gains/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T17:02:38Z"
+  },
+  {
+    "id": "aeb1d9a539a256a8",
+    "published_at": "2026-09-30T00:18+08:00",
+    "title": "Bitget首席执行官对从$ 3收回资金“不太乐观”",
+    "summary": "Gracy Chen表示，她认为2025年Bybit黑客攻击是Bitget安全漏洞的“良好参考点” ，并指出只有一小部分资金",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T17:02:38Z"
+  },
+  {
     "id": "23a65202f51e92bd",
     "published_at": "2026-09-30T00:00+08:00",
     "title": "以太坊用户可以通过zk.money私下支付",
