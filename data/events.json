@@ -1,5 +1,31 @@
 [
   {
+    "id": "eb0fe23f4b97aca4",
+    "published_at": "2026-09-29T19:34+08:00",
+    "title": "比特币击败黄金，飙升至10万美元（ $ 100,000 ）",
+    "summary": "2026年9月29日的前瞻",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T12:02:33Z"
+  },
+  {
+    "id": "55dd39768b7b71cf",
+    "published_at": "2026-09-29T19:20+08:00",
+    "title": "BitMine接近5%以太坊门槛，但股票估值规则",
+    "summary": "按公司参考价格计算，其剩余的ETH缺口约为2.8亿美元，而报告的现金和证券为6.72亿美元。POST BitMine n",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/bitmine-nears-5-ethereum-as-treasury-premiums-fade-its-next-capital-choice-is-harder/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T12:02:33Z"
+  },
+  {
     "id": "93b0573e36e25bfc",
     "published_at": "2026-09-29T18:46+08:00",
     "title": "以太坊计划于10月6日在Sepolia进行格拉姆斯特丹升级",
