@@ -1,5 +1,41 @@
 [
   {
+    "id": "7cc3dde68465cb17",
+    "published_at": "2026-09-29T05:34:31Z",
+    "title": "🎁 充值最高返 1% ，交易再领 88 USDT ！ BASEKX 早鸟福利限时开启",
+    "summary": "",
+    "source": "Basekx",
+    "category": "活动",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/62714367189145",
+    "announcement_type": "活动",
+    "exchange": "Basekx",
+    "created_at": "2026-09-29T06:14:14Z"
+  },
+  {
+    "id": "14376be0980802ab",
+    "published_at": "2026-09-29T05:21:36Z",
+    "title": "AOZX 上线 SNXXUSDT ， INTWUSDT 合约交易对",
+    "summary": "",
+    "source": "AOZX",
+    "category": "上币",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17796416874383",
+    "announcement_type": "上币",
+    "exchange": "AOZX",
+    "created_at": "2026-09-29T06:14:14Z"
+  },
+  {
+    "id": "c39452cb4e2d0db4",
+    "published_at": "2026-09-29T05:08:41Z",
+    "title": "MGBX 新手专属福利：完成任务 ，最高领 30,000 USDT 抵扣金！",
+    "summary": "",
+    "source": "MGBX",
+    "category": "活动",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17796235333135",
+    "announcement_type": "活动",
+    "exchange": "MGBX",
+    "created_at": "2026-09-29T06:14:14Z"
+  },
+  {
     "id": "96b9d28296fcc1b7",
     "published_at": "2026-09-29T05:02:25Z",
     "title": "9 月29日 AOZX每日资讯 ｜ BTC连续第五日走弱 ，策略再增持1,665枚 BTC",
@@ -10,6 +46,18 @@
     "announcement_type": "公告",
     "exchange": "AOZX",
     "created_at": "2026-09-29T05:10:48Z"
+  },
+  {
+    "id": "5bfdbbc7aa917f0b",
+    "published_at": "2026-09-29T04:57:35Z",
+    "title": "【TEBBIT 合约】全新上线 TradFi 板块 U 本位永续合约（ 2026-09-29 ）",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "上币",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62712934488985",
+    "announcement_type": "上币",
+    "exchange": "Tebbit",
+    "created_at": "2026-09-29T06:14:14Z"
   },
   {
     "id": "a35f6fb4ea61ab71",
