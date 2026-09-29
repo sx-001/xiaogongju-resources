@@ -1,5 +1,31 @@
 [
   {
+    "id": "68341dee22fa71b0",
+    "published_at": "2026-09-30T01:15+08:00",
+    "title": "法国公司Capital B通过SHAR提升2.94亿美元的比特币库存",
+    "summary": "资金管理公司Capital B收购了13个比特币，从发行172,978股新股中筹集了110万$ ，每股价格为$ 6.45 ，推动了",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/french-firm-capital-b-boosts-294m-bitcoin-treasury-share-offering/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T18:03:28Z"
+  },
+  {
+    "id": "a0fe825f28ff6d11",
+    "published_at": "2026-09-30T01:14+08:00",
+    "title": "Bitwise在代币近期上市后，在ETF附近推出首个美国现货",
+    "summary": "Bitwise的NEAR ETF开始在纽约证券交易所Arca上交易，因为在过去的一个月里，代币价格上涨了160%以上， NEAR Intents的活动也在增长。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T18:03:28Z"
+  },
+  {
     "id": "087f0d50d600cf3d",
     "published_at": "2026-09-30T00:34+08:00",
     "title": "比特币价格保持在$ 83K以上，因为油价飙升限制了收益",
