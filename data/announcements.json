@@ -1,5 +1,29 @@
 [
   {
+    "id": "81e1e24510bd2c65",
+    "published_at": "2026-09-29T08:09:54Z",
+    "title": "XT 关于深度隐藏USTBL/USDT交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62720593906585",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-29T08:14:00Z"
+  },
+  {
+    "id": "be16513e6e58dfc3",
+    "published_at": "2026-09-29T07:31:19Z",
+    "title": "「万圣节狂欢庆典」三重合约交易奖励，速来赢取总价值 200,000 USDT 大礼！",
+    "summary": "",
+    "source": "MGBX",
+    "category": "合约",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17798283601551",
+    "announcement_type": "合约",
+    "exchange": "MGBX",
+    "created_at": "2026-09-29T08:14:00Z"
+  },
+  {
     "id": "47c72a9fdbfca4b3",
     "published_at": "2026-09-29T07:03:00Z",
     "title": "Bitget关于暂停专业人士的公告- Pharos Network存款服务",
@@ -70,6 +94,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-29T07:13:08Z"
+  },
+  {
+    "id": "5c321366a575e5f5",
+    "published_at": "2026-09-29T06:29:00Z",
+    "title": "热將上线币TWSTUSDT、 CVNAUSDT、 RUMUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchTWSTUSDTCVNAUSDTandRUMUSDTPerpetualFutureson2026-09-29/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-29T08:14:00Z"
   },
   {
     "id": "84ac8e34308a8b33",
