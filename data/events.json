@@ -1,5 +1,31 @@
 [
   {
+    "id": "ae2fa15dac555514",
+    "published_at": "2026-09-30T02:45+08:00",
+    "title": "Bitwise在ETF附近推出，收益率为5% ， AI投注",
+    "summary": "Bitwise推出了在美国上市的近期ETF ，提供代币的现货敞口以及约5%的质押奖励。该基金提供传统的",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/finance/bitwise-launches-near-etf-5-yield-ai-bet/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T19:03:15Z"
+  },
+  {
+    "id": "e6a475cab734a6e5",
+    "published_at": "2026-09-30T02:18+08:00",
+    "title": "随着比特币基金在30天内增加29.5亿美元，加密ETF激增",
+    "summary": "周一，比特币ETF的连续流入量扩大到连续八天，从《清晰度法案》的抛售中大幅反弹。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T19:03:15Z"
+  },
+  {
     "id": "68341dee22fa71b0",
     "published_at": "2026-09-30T01:15+08:00",
     "title": "法国公司Capital B通过SHAR提升2.94亿美元的比特币库存",
