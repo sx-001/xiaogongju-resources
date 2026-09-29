@@ -1,5 +1,31 @@
 [
   {
+    "id": "fe57c6c927883ebf",
+    "published_at": "2026-09-29T17:45+08:00",
+    "title": "比特币有望打破长达十年的重大连胜纪录，因为",
+    "summary": "比特币有望连续第三个月上涨，但更高的收益率、油价和11月的两大事件可能会考验其第四季度的势头。",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T10:02:35Z"
+  },
+  {
+    "id": "8ac18adce8c1b5b4",
+    "published_at": "2026-09-29T17:06+08:00",
+    "title": "分析师预计10年期美国国债收益率将触及6%。比特币牛市",
+    "summary": "为什么收益率上涨对比特币来说比其走高更重要。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T10:02:35Z"
+  },
+  {
     "id": "7bdac6cd2dfee853",
     "published_at": "2026-09-29T15:30+08:00",
     "title": "比特币价格跌破$ 83K ， 129,197名交易者被抹去",
