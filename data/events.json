@@ -1,5 +1,31 @@
 [
   {
+    "id": "3223b4e01c131a79",
+    "published_at": "2026-09-29T14:26+08:00",
+    "title": "Ethlabs称CCIP 2.0削减了以太坊确认等待秒",
+    "summary": "更快的传输需要选择加入设置，而以太坊的完整最终保证和CCIP的默认等待保持不变。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T07:04:17Z"
+  },
+  {
+    "id": "e3cb1b24358a6245",
+    "published_at": "2026-09-29T14:23+08:00",
+    "title": "Near Intents在这里阻止了5000万美元的Bitget黑客交换",
+    "summary": "互换服务发现了超过5000万美元的转移尝试，尽管大多数被拒绝的资金随后通过其他提供商转移。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-29T07:04:17Z"
+  },
+  {
     "id": "35bab1dd6911280d",
     "published_at": "2026-09-29T14:00+08:00",
     "title": "Coinbase为花旗新的稳定币轨道和企业提供动力",
