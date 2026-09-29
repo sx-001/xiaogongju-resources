@@ -1,5 +1,53 @@
 [
   {
+    "id": "003a45e783660026",
+    "published_at": "2026-09-29T08:56:59Z",
+    "title": "BitTap 公告 | 牛来将于 9 月 29 日 17 时上线 Alpha 矿池专区",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17799267085583",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-09-29T09:13:07Z"
+  },
+  {
+    "id": "b9489cec346fed36",
+    "published_at": "2026-09-29T08:42:23Z",
+    "title": "XT 关于隐藏并下架H/USDT交易对的公告 （ 2026-09-30 ）",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "下架",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62721901108889",
+    "announcement_type": "下架",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-29T09:13:07Z"
+  },
+  {
+    "id": "886639b1384deb39",
+    "published_at": "2026-09-29T08:26:43Z",
+    "title": "币王上线 QNT/USDT XDP/USDT 合约交易",
+    "summary": "",
+    "source": "BiKing",
+    "category": "上币",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51370801037329",
+    "announcement_type": "上币",
+    "exchange": "BiKing",
+    "created_at": "2026-09-29T09:13:07Z"
+  },
+  {
+    "id": "331971ec400e4e70",
+    "published_at": "2026-09-29T08:14:36Z",
+    "title": "XT 关于恢复STARKNET网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62720800799769",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-29T09:13:07Z"
+  },
+  {
     "id": "81e1e24510bd2c65",
     "published_at": "2026-09-29T08:09:54Z",
     "title": "XT 关于深度隐藏USTBL/USDT交易对的公告",
@@ -10,6 +58,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-29T08:14:00Z"
+  },
+  {
+    "id": "1be70ef00f0e1f03",
+    "published_at": "2026-09-29T08:00:00Z",
+    "title": "Bitget关于恢复ETH提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896190",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-29T09:13:07Z"
   },
   {
     "id": "be16513e6e58dfc3",
