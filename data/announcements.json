@@ -1,5 +1,77 @@
 [
   {
+    "id": "e069c207f0fee398",
+    "published_at": "2026-09-30T11:06:00Z",
+    "title": "KuCoin Pay手机充值系统升级维护通知",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "维护",
+    "url": "https://www.kucoin.com/announcement/kucoinpay-upgrade-maintenance-of-mobile-topup-1001",
+    "announcement_type": "维护",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
+    "id": "d84f5d11ac5ec109",
+    "published_at": "2026-09-30T10:46:00Z",
+    "title": "KuCoin已暂时关闭Wanchain （ WAN ）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-wanchain-wan",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
+    "id": "1b5c457bcb5f7bc7",
+    "published_at": "2026-09-30T10:46:00Z",
+    "title": "KuCoin已关闭ZigChain上的存取款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-closed-the-deposit-and-withdrawal-services-on-zigchain",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
+    "id": "86518a9f0de92be6",
+    "published_at": "2026-09-30T10:46:00Z",
+    "title": "KuCoin将推迟提款关闭仪表治理（ MTRG ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-postpone-the-withdrawal-closure-of-meter-governance-mtrg",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
+    "id": "dff086c7f2a96e7a",
+    "published_at": "2026-09-30T10:28:02Z",
+    "title": "EasiCoin 股票合约交易手续费调整公告｜挂单 （ Maker ） 0 手续费，吃单 （ Taker ）费率下调",
+    "summary": "",
+    "source": "EasiCoin",
+    "category": "合约",
+    "url": "https://easicoin.zendesk.com/hc/zh-cn/articles/17814566439055",
+    "announcement_type": "合约",
+    "exchange": "EasiCoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
+    "id": "e73c569169718752",
+    "published_at": "2026-09-30T10:03:00Z",
+    "title": "10月理财专享礼",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/OctoberEarnExclusiveRewards1",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-30T11:11:09Z"
+  },
+  {
     "id": "49b6181cd88a9b90",
     "published_at": "2026-09-30T09:27:00Z",
     "title": "Hotcoin C2C 10月交易礼遇",
