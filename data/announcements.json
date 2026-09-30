@@ -1,5 +1,29 @@
 [
   {
+    "id": "b0c5e3b00c915313",
+    "published_at": "2026-09-30T02:39:08Z",
+    "title": "［原料重要通知］关于支持基础 网络升级及硬分叉的公告",
+    "summary": "",
+    "source": "MGBX",
+    "category": "维护",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17808530480911",
+    "announcement_type": "维护",
+    "exchange": "MGBX",
+    "created_at": "2026-09-30T03:11:45Z"
+  },
+  {
+    "id": "22382432436bc809",
+    "published_at": "2026-09-30T02:36:00Z",
+    "title": "KuCoin期货新上市： XDPUSDT永续合约，杠杆率高达20倍",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-new-listing-xdpusdt-perpetual-contract-with-up-to-20x-leverage",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T03:11:45Z"
+  },
+  {
     "id": "70b02984995c5706",
     "published_at": "2026-09-30T02:04:51Z",
     "title": "XT 关于恢复MWC网络充提服务的公告",
