@@ -1,5 +1,18 @@
 [
   {
+    "id": "bd73d8e9cd29a16e",
+    "published_at": "2026-09-30T16:25+08:00",
+    "title": "欧洲投资者现在如何在不承担责任的情况下购买比特币",
+    "summary": "资产管理平台HANetf已在伦敦、法兰克福和巴黎上市ETC ，提供英镑和欧元对冲的比特币敞口。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T09:02:25Z"
+  },
+  {
     "id": "5d82b17785b5c4b9",
     "published_at": "2026-09-30T16:01+08:00",
     "title": "Bitget黑客在$之前在交易所内待了25天",
