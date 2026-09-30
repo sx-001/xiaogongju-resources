@@ -1,5 +1,44 @@
 [
   {
+    "id": "b2e0a7cba596c21a",
+    "published_at": "2026-09-30T23:50+08:00",
+    "title": "随着债券收益率的打击，比特币在酷炫的PCE通货膨胀数据上跳跃",
+    "summary": "美联储最喜欢的通胀指标比预期的要冷，加息几率下降，比特币交易员接受了暗示。",
+    "source": "Decrypt",
+    "category": "宏观数据-PCE",
+    "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T16:04:20Z"
+  },
+  {
+    "id": "511ca1701eec19a1",
+    "published_at": "2026-09-30T23:34+08:00",
+    "title": "Open USD采用Tether ， Circle使用不同的稳定币",
+    "summary": "Open Standard的“绝大多数”股权将随着时间的推移分配给合作伙伴，具体取决于他们帮助稳定币增长的程度，首席执行官Z",
+    "source": "CoinDesk",
+    "category": "宏观-国债与美元",
+    "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T16:04:20Z"
+  },
+  {
+    "id": "fe4e923da6c6d019",
+    "published_at": "2026-09-30T23:25+08:00",
+    "title": "“假新闻” ：萨尔瓦多否认Stablecoin Pivot为比特币",
+    "summary": "萨尔瓦多国家比特币办公室驳斥了该国转向稳定币的报道，称其为“假新闻” ，",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/featured/fake-news-el-salvador-denies-stablecoin-pivot-bitcoin-treasury-grows/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T16:04:20Z"
+  },
+  {
     "id": "01eb0d7072384338",
     "published_at": "2026-09-30T23:04+08:00",
     "title": "代币化程度最高的现金从不交易， Dune Finds",
