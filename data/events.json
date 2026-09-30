@@ -1,5 +1,18 @@
 [
   {
+    "id": "f0ac46f63548be58",
+    "published_at": "2026-09-30T19:04+08:00",
+    "title": "Bitget黑客向Zcash的私人池转移了400万美元，",
+    "summary": "三次转账将大约15 ％的被盗ZEC推入Ironwood ，在那里付款隐藏了他们的发件人，收件人和金额。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T12:02:51Z"
+  },
+  {
     "id": "532244d112648cc8",
     "published_at": "2026-09-30T19:01+08:00",
     "title": "XRP ETF本月拉动1.21亿美元，但其资产保留了Shri",
