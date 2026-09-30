@@ -1,5 +1,18 @@
 [
   {
+    "id": "3aa7df654b9dd037",
+    "published_at": "2026-10-01T03:46+08:00",
+    "title": "Bitget黑客在接近拒绝后转向Zcash隐私池",
+    "summary": "在$ 3.875亿Bitget抢劫案背后的攻击者已经开始在Zcash的Ironwood池中隐藏约380万$的ZEC。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T20:01:41Z"
+  },
+  {
     "id": "e699dcc8c4320a70",
     "published_at": "2026-10-01T02:33+08:00",
     "title": "PIMCO美国国债ETF创历史新低",
