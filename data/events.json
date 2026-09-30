@@ -1,5 +1,44 @@
 [
   {
+    "id": "5d82b17785b5c4b9",
+    "published_at": "2026-09-30T16:01+08:00",
+    "title": "Bitget黑客在$之前在交易所内待了25天",
+    "summary": "从Bitget窃取约3.88亿美元的攻击者于8月31日，即盗窃发生前近四周，首次在受损服务器内运行代码，",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/bitget-hack-slowmist-25-days-chainflip-cow-protocol/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T08:03:45Z"
+  },
+  {
+    "id": "bbcaecc4db8c34d2",
+    "published_at": "2026-09-30T15:40+08:00",
+    "title": "比特币可能会使平均ETF买家重新陷入亏损",
+    "summary": "从周二的捕获报价下跌2.2 ％将达到Seyffart的平均持有者成本估计值；收益率和ETF流量将有助于显示以下内容。",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-could-put-the-average-etf-buyer-back-in-losses-this-week/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T08:03:45Z"
+  },
+  {
+    "id": "57857bb748953e2d",
+    "published_at": "2026-09-30T15:00+08:00",
+    "title": "欧洲稳定币发行商AllUnity推出美元稳定币",
+    "summary": "AllUnity正在推出其第四种由法定货币支持的稳定币USDAU ，扩大受MiCA监管的阵容，该阵容已涵盖欧元、瑞士法郎和瑞典货币",
+    "source": "Cointelegraph",
+    "category": "宏观-国债与美元",
+    "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T08:03:45Z"
+  },
+  {
     "id": "0ab6ca69fb4e3a73",
     "published_at": "2026-09-30T14:30+08:00",
     "title": "Soneium和DayOneDream希望将K-Pop收入放在链上",
