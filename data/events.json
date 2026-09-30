@@ -13,6 +13,19 @@
     "created_at": "2026-09-30T03:02:05Z"
   },
   {
+    "id": "8b2318ad69142127",
+    "published_at": "2026-09-30T10:30+08:00",
+    "title": "Cosmos将银行连接构建到SWIFT的区块链LEDG中",
+    "summary": "Cosmos Labs宣布其代币化套件与Swift的基于区块链的共享账本之间的连接。银行可以使用Cosmos基础设施",
+    "source": "Bitcoinist",
+    "category": "宏观-银行与金融风险",
+    "url": "https://bitcoinist.com/cosmos-builds-bank-connectivity-into-swift-s-blockchain-ledger/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T04:02:14Z"
+  },
+  {
     "id": "46cbfe2c9d525a70",
     "published_at": "2026-09-30T07:30+08:00",
     "title": "新的Stablecoin verUSD在机构C中推出$ 1亿美元",
