@@ -1,5 +1,41 @@
 [
   {
+    "id": "134a5513af35d6fe",
+    "published_at": "2026-09-30T06:03:00Z",
+    "title": "全球首发：在KuCoin上市的混凝土（ CT ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-world-premiere-concrete-ct-listed-on-kucoin",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T06:14:32Z"
+  },
+  {
+    "id": "66dad63e685e6467",
+    "published_at": "2026-09-30T05:36:35Z",
+    "title": "XT 关于暂停MPICT充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62752930314009",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-30T06:14:32Z"
+  },
+  {
+    "id": "0e647e00769a763f",
+    "published_at": "2026-09-30T05:20:00Z",
+    "title": "关于Slowmist和Mandiant报告的更新",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896305",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T06:14:32Z"
+  },
+  {
     "id": "3f0d7da6e577b5d4",
     "published_at": "2026-09-30T05:04:27Z",
     "title": "9 月30日 AOZX每日资讯 ｜ BTC三季度上涨超 40% ，美国首只接近现货ETF正式上市",
