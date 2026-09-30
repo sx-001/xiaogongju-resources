@@ -1,5 +1,77 @@
 [
   {
+    "id": "1eba9c206506c37a",
+    "published_at": "2026-09-30T08:00:00Z",
+    "title": "Bitget关于恢复USDT提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896191",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "765b018649463005",
+    "published_at": "2026-09-30T08:00:00Z",
+    "title": "Bitget将在2026年10月第一周的特殊交易期间调整差价合约杠杆",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896304",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "790a81a2ee848f12",
+    "published_at": "2026-09-30T07:59:00Z",
+    "title": "现货全能挑战赛# 21 ｜现货狂欢再升级 ， 200,000 USDT 等你来抢！",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/spot-all-round-challenge-21/",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "e9673e8fe63554c1",
+    "published_at": "2026-09-30T07:40:48Z",
+    "title": "XT 关于暂停UXT充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62757940713241",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "fd1ec99fd6b2ce87",
+    "published_at": "2026-09-30T07:25:00Z",
+    "title": "Bitget关于暂停STX - STACKS存款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896348",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "8c16317adb8f2123",
+    "published_at": "2026-09-30T07:05:23Z",
+    "title": "XT 合约调整多个U本位永续合约杠杆及保证金阶梯 （ 2026-10-02 ）",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62756428843289",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
     "id": "2bea1892084234aa",
     "published_at": "2026-09-30T06:32:02Z",
     "title": "关于 ARQQUSDT 永续合约下线的公告",
