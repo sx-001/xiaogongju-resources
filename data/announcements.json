@@ -1,5 +1,17 @@
 [
   {
+    "id": "1b2a840740cecf37",
+    "published_at": "2026-09-30T09:09:00Z",
+    "title": "Bitget关于恢复专业人士的公告- Pharos Network存款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896388",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T09:11:38Z"
+  },
+  {
     "id": "1eba9c206506c37a",
     "published_at": "2026-09-30T08:00:00Z",
     "title": "Bitget关于恢复USDT提现的公告",
@@ -34,6 +46,18 @@
     "announcement_type": "维护",
     "exchange": "Hotcoin",
     "created_at": "2026-09-30T08:13:28Z"
+  },
+  {
+    "id": "15a24a8e78c604c7",
+    "published_at": "2026-09-30T07:45:27Z",
+    "title": "XT 关于上线CT （混凝土）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62758125668377",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-09-30T09:11:38Z"
   },
   {
     "id": "e9673e8fe63554c1",
