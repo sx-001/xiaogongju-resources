@@ -1,5 +1,44 @@
 [
   {
+    "id": "776392bcddd4d0da",
+    "published_at": "2026-10-01T04:37+08:00",
+    "title": "CFTC确保对被告的判决超过$ 3000万",
+    "summary": "CFTC在法庭上取得了胜利，此前该机构表示，两名被告参与了一项加密计划，然后他们试图退出。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T21:01:33Z"
+  },
+  {
+    "id": "c8ee7cb4502a5d4c",
+    "published_at": "2026-10-01T04:30+08:00",
+    "title": "美国证券交易委员会向两名投资顾问收取$ 1500万WhatsApp费用",
+    "summary": "在2026年9月29日确认的一项重大发展中，已确认向SEC收取两名投资顾问$ 1500万WhatsApp费用的公告/申请",
+    "source": "Bitcoinist",
+    "category": "监管执法",
+    "url": "https://bitcoinist.com/sec-charges-two-investment-advisors-in-15-million-whatsapp-crypto-frau/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T21:01:33Z"
+  },
+  {
+    "id": "70a4f412194225d4",
+    "published_at": "2026-10-01T04:20+08:00",
+    "title": "Bitget的黑客在$ 5000万洗钱后转向Zcash",
+    "summary": "Bitget价值3.875亿美元的违规行为背后的黑客正在转向Zcash的隐私功能，以隐藏被盗资金，因为加密公司越来越多地阻止",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T21:01:33Z"
+  },
+  {
     "id": "3aa7df654b9dd037",
     "published_at": "2026-10-01T03:46+08:00",
     "title": "Bitget黑客在接近拒绝后转向Zcash隐私池",
@@ -11,6 +50,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-30T20:01:41Z"
+  },
+  {
+    "id": "d967faf09378fbd0",
+    "published_at": "2026-10-01T03:30+08:00",
+    "title": "国际刑警组织宣布东南亚浪漫和加密骗局NAT",
+    "summary": "在2026年9月30日确认的一项重大发展中，国际刑警组织宣布东南亚浪漫和加密诈骗的确认公告/备案",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/interpol-declares-southeast-asian-romance-crypto-scams-national-securi/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T21:01:33Z"
   },
   {
     "id": "e699dcc8c4320a70",
