@@ -1,5 +1,18 @@
 [
   {
+    "id": "46cbfe2c9d525a70",
+    "published_at": "2026-09-30T07:30+08:00",
+    "title": "新的Stablecoin verUSD在机构C中推出$ 1亿美元",
+    "summary": "Verona推出了verUSD ，这是一种以美元计价的稳定币，围绕人工智能代理商的支付而设计。该项目说它有超过$ 1亿",
+    "source": "Bitcoinist",
+    "category": "ETF机构",
+    "url": "https://bitcoinist.com/new-stablecoin-verusd-launches-with-100m-in-institutional-commitments/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T00:01:13Z"
+  },
+  {
     "id": "de4ded6ef2587047",
     "published_at": "2026-09-30T06:30+08:00",
     "title": "随着Avalanche和Solana分拆，代币化股票达到36亿美元",
