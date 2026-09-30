@@ -1,5 +1,31 @@
 [
   {
+    "id": "8f92191bafd54e95",
+    "published_at": "2026-09-30T22:05+08:00",
+    "title": "Blackrock引领$ 6600万比特币ETF流入，为期9天的获胜STR",
+    "summary": "美国比特币ETF周二将流入量扩大到9个交易日，增加了6619万美元（ $ ） ，尽管购买速度比上次大幅降温",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-leads-66m-bitcoin-etf-inflow-9-day-winning-streak-holds/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T14:06:47Z"
+  },
+  {
+    "id": "03d942d50b05ca2f",
+    "published_at": "2026-09-30T21:30+08:00",
+    "title": "THORChain是否会因Bitget资金被盗而面临起诉？",
+    "summary": "THORChain不会或不能阻止与$ 3.875亿Bitget黑客攻击相关的地址。开发人员是否可以因洗钱而被起诉？",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-09-30T14:06:47Z"
+  },
+  {
     "id": "f0ac46f63548be58",
     "published_at": "2026-09-30T19:04+08:00",
     "title": "Bitget黑客向Zcash的私人池转移了400万美元，",
