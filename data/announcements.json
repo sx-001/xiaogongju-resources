@@ -1,5 +1,29 @@
 [
   {
+    "id": "49b6181cd88a9b90",
+    "published_at": "2026-09-30T09:27:00Z",
+    "title": "Hotcoin C2C 10月交易礼遇",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/OctoberP2PRewardsBuyInviteandEarn1/",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-30T10:13:07Z"
+  },
+  {
+    "id": "c2ebe71f6e985042",
+    "published_at": "2026-09-30T09:27:00Z",
+    "title": "混凝土（ CT ）房源活动— 220,000 CT赠品",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-concrete-ct-listing-campaign-220000-ct-giveaway",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-09-30T10:13:07Z"
+  },
+  {
     "id": "1b2a840740cecf37",
     "published_at": "2026-09-30T09:09:00Z",
     "title": "Bitget关于恢复专业人士的公告- Pharos Network存款",
@@ -10,6 +34,18 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-30T09:11:38Z"
+  },
+  {
+    "id": "313d4a67dae4b2ce",
+    "published_at": "2026-09-30T09:00:00Z",
+    "title": "Bitget保护基金补充至$ 3亿+",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896390",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T10:13:07Z"
   },
   {
     "id": "1eba9c206506c37a",
