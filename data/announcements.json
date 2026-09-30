@@ -1,5 +1,41 @@
 [
   {
+    "id": "2bea1892084234aa",
+    "published_at": "2026-09-30T06:32:02Z",
+    "title": "关于 ARQQUSDT 永续合约下线的公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "下架",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/guan-yu-arqqusdt-yong-xu-he-yue-xia-xian-de-gong-gao",
+    "announcement_type": "下架",
+    "exchange": "YUBIT",
+    "created_at": "2026-09-30T07:13:08Z"
+  },
+  {
+    "id": "69db7db28d15c5f8",
+    "published_at": "2026-09-30T06:11:00Z",
+    "title": "热将上线币、CRMLUSDT BWETUSDT、 ACNUSDT、 MPUSDT、 SECZUSDT、 NKEUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchMultiplePerpetualFutureson2026-09-30/",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-09-30T07:13:08Z"
+  },
+  {
+    "id": "2b98ddfc6c456366",
+    "published_at": "2026-09-30T06:06:09Z",
+    "title": "MGBX App V1.6.2 产品更新｜交易体验升级",
+    "summary": "",
+    "source": "MGBX",
+    "category": "维护",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17811503509647",
+    "announcement_type": "维护",
+    "exchange": "MGBX",
+    "created_at": "2026-09-30T07:13:08Z"
+  },
+  {
     "id": "134a5513af35d6fe",
     "published_at": "2026-09-30T06:03:00Z",
     "title": "全球首发：在KuCoin上市的混凝土（ CT ）",
@@ -10,6 +46,18 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-30T06:14:32Z"
+  },
+  {
+    "id": "3e3d1c0e71468d93",
+    "published_at": "2026-09-30T06:00:00Z",
+    "title": "【初始房源】Bitget待发布混凝土（ CT ）",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603896301",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-09-30T07:13:08Z"
   },
   {
     "id": "66dad63e685e6467",
