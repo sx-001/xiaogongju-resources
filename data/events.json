@@ -1,5 +1,31 @@
 [
   {
+    "id": "cca6d37551d6c62a",
+    "published_at": "2026-10-01T15:06+08:00",
+    "title": "MetaMask安全事件迫使以太坊质押退出，否",
+    "summary": "一位以太坊安全研究人员估计，大约0.36 ETH的奖励被转移，而预防性退出涵盖了持有大约523,000 E的验证器",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T08:03:38Z"
+  },
+  {
+    "id": "4f8850400c0d1df8",
+    "published_at": "2026-10-01T14:30+08:00",
+    "title": "欧拉金融V2在Et上部署多抵押保管库引擎",
+    "summary": "在2026年9月30日确认的一项重大开发中，欧拉金融V2确认公告/备案在Et上部署多抵押保管库引擎",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/euler-finance-v2-deploys-multi-collateral-vault-engine-on-ethereum-mai/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T08:03:38Z"
+  },
+  {
     "id": "bcb3d54cd56c4ef7",
     "published_at": "2026-10-01T14:05+08:00",
     "title": "比特币智库质疑MSCI的“隐形委员会”",
