@@ -1,5 +1,44 @@
 [
   {
+    "id": "6a90e349adcd6594",
+    "published_at": "2026-10-01T11:30+08:00",
+    "title": "Sibos关闭10年后， Swell吸引了1,500名FINA",
+    "summary": "XRP ETF、稳定币发行和自动支付是Swell扩展计划的财务问题之一。Ripple的9月29日",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/crypto-news/10-years-after-sibos-shut-ripple-out-swell-draws-1500-finance-leaders/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T04:03:06Z"
+  },
+  {
+    "id": "119e9685c29a20ba",
+    "published_at": "2026-10-01T11:30+08:00",
+    "title": "CryptoQuant警告比特币未实现利润达到21个月高位",
+    "summary": "在2026年9月29日确认的一项重大开发中， CryptoQuant的确认公告/备案警告比特币未实现利润达到21个月嗨",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/cryptoquant-warns-bitcoin-unrealized-profit-hits-21-month-high-of-54/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T04:03:06Z"
+  },
+  {
+    "id": "1363d95e4aec8a02",
+    "published_at": "2026-10-01T11:10+08:00",
+    "title": "比特币在飙升43%后进入最佳季节，达到147 $ ，",
+    "summary": "尽管债券收益率飙升，但比特币仍远远落后于美国股票和黄金，这是自2024年以来最强劲的季度。最大的数字资产",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/bitcoin-enters-its-best-season-after-a-43-surge-with-147000-suddenly-on-the-math/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T04:03:06Z"
+  },
+  {
     "id": "6ed82ec79cf82479",
     "published_at": "2026-10-01T10:30+08:00",
     "title": "Saylor说战略， Strive可以用B赢得$ 318.5T的份额",
