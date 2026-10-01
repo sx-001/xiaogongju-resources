@@ -1,5 +1,31 @@
 [
   {
+    "id": "3422adf7fe82b0a9",
+    "published_at": "2026-10-01T09:30+08:00",
+    "title": "灰度： XRP近6%的比特币估值设定了基准",
+    "summary": "XRP的价值占比特币市值的近6% ，灰度级别引用了竞争对手数字货币可以增长到什么程度的背景。",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/grayscale-xrps-near-6-bitcoin-valuation-sets-a-benchmark-for-zcash/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T02:02:38Z"
+  },
+  {
+    "id": "a416093df4a7e23a",
+    "published_at": "2026-10-01T09:30+08:00",
+    "title": "以太坊ETF突破7天连续流入，同时现货比特币F",
+    "summary": "在2026年9月30日确认的一项重大开发中，已确认以太坊ETF的公告/申请突破7天连续流入，同时现货比特币F",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/ethereum-etfs-break-7-day-inflow-streak-while-spot-bitcoin-funds-retai/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T02:02:38Z"
+  },
+  {
     "id": "99f21ac1dc1d4eb5",
     "published_at": "2026-10-01T08:15+08:00",
     "title": "MetaMask在调查securi时退出以太坊验证器",
