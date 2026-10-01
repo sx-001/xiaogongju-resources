@@ -1,5 +1,57 @@
 [
   {
+    "id": "6ad7f165951c4d94",
+    "published_at": "2026-10-01T17:59+08:00",
+    "title": "花旗集团将12个月的比特币目标上调至113,000 $作为ETF",
+    "summary": "花旗还将以太坊的12个月目标从2,240 $上调至3,028 $。",
+    "source": "CoinDesk",
+    "category": "ETF机构",
+    "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T10:04:13Z"
+  },
+  {
+    "id": "a7eb61f9dc2834ef",
+    "published_at": "2026-10-01T17:41+08:00",
+    "title": "作者从Hegotá提取以太坊质押奖励燃烧",
+    "summary": "作者计划了一个单独的发行政策流程，将Lido命名为那些提供帮助的人之一，以帮助解决对验证者经济学的异议，以及如何",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T10:04:13Z"
+  },
+  {
+    "id": "78d63bc7773e5a2a",
+    "published_at": "2026-10-01T17:38+08:00",
+    "title": "MetaMask在基础设施安全环境下退出Lido验证器",
+    "summary": "该钱包表示，它没有发现对用户钱包的直接威胁，但它从丽都撤出的ETH可能需要45天才能返回。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T10:04:13Z"
+  },
+  {
+    "id": "002db1dea1c44935",
+    "published_at": "2026-10-01T17:30+08:00",
+    "title": "Thorchain联合创始人：中立网络无法选择谁可以",
+    "summary": "Thorchain联合创始人兼首席开发人员Chad Barraford为该协议拒绝冻结与黑客相关的钱包进行了辩护。",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/thorchain-co-founder-neutral-networks-cant-pick-who-can-transact/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T10:04:13Z"
+  },
+  {
     "id": "bee3fcfc8562da46",
     "published_at": "2026-10-01T16:13+08:00",
     "title": "CertiK在9月份统计了$ 7.664亿美元的漏洞利用和网络钓鱼",
