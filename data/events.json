@@ -1,5 +1,31 @@
 [
   {
+    "id": "2f0d62c88cc5be95",
+    "published_at": "2026-10-02T05:30+08:00",
+    "title": "华尔街以每月40亿$的应用程序的形式出现",
+    "summary": "NEAR的新美国ETF在发布几天后将面临首次压力测试，因为$ 380万的生态系统漏洞击中了代币。接近下跌约10%至$ 4.86 af",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T22:01:36Z"
+  },
+  {
+    "id": "08b2b46f3990825e",
+    "published_at": "2026-10-02T05:10+08:00",
+    "title": "Metamask拉动验证器，因为Meager ETH盗窃听起来很重要",
+    "summary": "Metamask在一次安全事件显然转移了不到1000 $的区块提示后开始拉动以太坊验证器，而外部研究人员估计",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/security/metamask-pulls-validators-meager-eth-theft-sounds-big-alarm/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T22:01:36Z"
+  },
+  {
     "id": "89bdd533d3a197b3",
     "published_at": "2026-10-02T04:29+08:00",
     "title": "比特币价格进入10月接近85,000美元-现在95,000美元又回到了P",
