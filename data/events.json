@@ -1,5 +1,57 @@
 [
   {
+    "id": "44181eba128d5c9c",
+    "published_at": "2026-10-01T21:47+08:00",
+    "title": "NEAR Intents Bug通过加密网络发送$ 380万赛车",
+    "summary": "在涉及其Omni存款和提款基础设施的漏洞导致估计损失380万美元后， NEAR Intents停止了服务。该团队表示",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/near-intents-bug-sends-3-8m-racing-across-crypto-networks/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T14:04:56Z"
+  },
+  {
+    "id": "736f870ebb84c2ad",
+    "published_at": "2026-10-01T21:40+08:00",
+    "title": "MetaMask安全恐慌将以太坊验证器退出推向",
+    "summary": "LIDO估计，在MetaMask 9月30日事件披露后，退出、退出和重新进入约45天。文章MetaMask安全恐慌p",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T14:04:56Z"
+  },
+  {
+    "id": "a576390c319127f4",
+    "published_at": "2026-10-01T21:35+08:00",
+    "title": "Bitget的3.88亿美元黑客攻击推动第三季度加密安全损失超过1美元",
+    "summary": "第三季度，在247起事件中，加密安全损失达到12.6亿美元，仅9月份就约为7.69亿美元。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T14:04:56Z"
+  },
+  {
+    "id": "b21071a8d1d4a9f1",
+    "published_at": "2026-10-01T21:29+08:00",
+    "title": "MetaMask在验证者奖励被盗后取消了$ 14亿以太币的质押",
+    "summary": "加密钱包MetaMask警告称，安全事件会影响其质押业务，并强调钱包“没有直接威胁”。该帖子",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/metamask-unstakes-1-4b-of-eth-after-validator-rewards-stolen/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T14:04:56Z"
+  },
+  {
     "id": "08a41e5d6457e835",
     "published_at": "2026-10-01T20:29+08:00",
     "title": "上午一分钟：加密放弃了国会，并在S之后继续",
