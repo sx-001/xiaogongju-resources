@@ -1,5 +1,18 @@
 [
   {
+    "id": "b7a819da3edab925",
+    "published_at": "2026-10-02T03:05+08:00",
+    "title": "花旗设定$ 113K比特币价格目标，预计$ 50亿",
+    "summary": "随着顾问逐渐增加配置，花旗预计未来12个月加密货币投资产品流入量将达到50 $。其修订版",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/citi-113k-bitcoin-price-target-expects-5-billion-crypto-etf-inflows/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T20:01:39Z"
+  },
+  {
     "id": "2a7e1dae15c3da1b",
     "published_at": "2026-10-02T02:18+08:00",
     "title": "NEAR Intents在冻结被盗Bitget资金几天后被黑客入侵",
