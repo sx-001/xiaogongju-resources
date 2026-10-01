@@ -1,5 +1,18 @@
 [
   {
+    "id": "89814ffd6f4dd5a4",
+    "published_at": "2026-10-01T07:30+08:00",
+    "title": "比特币政策研究所表示， MSCI规则将战略置于风险之中",
+    "summary": "一个从不接触投资者现金的私人指数委员会仍然可以引发数十亿美元的股票交易。比特币政策研究所的一篇新论文",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/finance/msci-rule-puts-strategy-at-risk-says-bitcoin-policy-institute-paper/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T00:01:07Z"
+  },
+  {
     "id": "c2b0e757a715ebf9",
     "published_at": "2026-10-01T05:40+08:00",
     "title": "Coinbase支持的基础让用户通过Cobalt Up获得更多控制权",
