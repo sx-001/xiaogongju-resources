@@ -1,5 +1,57 @@
 [
   {
+    "id": "08a41e5d6457e835",
+    "published_at": "2026-10-01T20:29+08:00",
+    "title": "上午一分钟：加密放弃了国会，并在S之后继续",
+    "summary": "此外，一个主要的MetaMask安全事件随着细节的渗透而让加密原生代处于边缘。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T13:05:48Z"
+  },
+  {
+    "id": "28c54584d20fb0c3",
+    "published_at": "2026-10-01T20:23+08:00",
+    "title": "花旗将12个月的比特币目标提升至$ 113K ，以太坊提升至$ 3000",
+    "summary": "该银行已将比特币的12个月目标从8.2万美元上调，但仍比比特币2025年10月的记录低约10%。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T13:05:48Z"
+  },
+  {
+    "id": "a272958cac224846",
+    "published_at": "2026-10-01T20:20+08:00",
+    "title": "参议院税收法案在比特币停留期间释放稳定币支出",
+    "summary": "分发的提案将为符合条件的美元稳定币购买提供没有规定价值上限的无收益/无亏损处理，而普通比特币",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/senate-tax-bill-frees-stablecoin-spending-while-bitcoin-stays-on-irs-forms/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T13:05:48Z"
+  },
+  {
+    "id": "bec7f2fec6498d9f",
+    "published_at": "2026-10-01T20:17+08:00",
+    "title": "比特币ETF为期9天，流入$ 30亿",
+    "summary": "与此同时，美国现货以太坊ETF周三净流出5960万美元，其中2660万美元退出富达的FETH基金。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T13:05:48Z"
+  },
+  {
     "id": "ac5b040baaf671c5",
     "published_at": "2026-10-01T19:20+08:00",
     "title": "以太坊正在准备2亿瓦斯推送作为其第1层",
