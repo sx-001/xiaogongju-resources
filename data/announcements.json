@@ -1,5 +1,29 @@
 [
   {
+    "id": "e36f0ab3af49b9b2",
+    "published_at": "2026-10-01T08:54:00Z",
+    "title": "KuCoin期货将退出PROMPTUSDT永续合约及相关服务（ 2026-10-05 ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-delist-the-promptusdt-perpetual-contract-and-related-services-2026-10-05",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-01T09:13:12Z"
+  },
+  {
+    "id": "9eb8b92a15fb9170",
+    "published_at": "2026-10-01T08:38:49Z",
+    "title": "XT 关于暂停CTM网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62798513112857",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-01T09:13:12Z"
+  },
+  {
     "id": "236329db17289a86",
     "published_at": "2026-10-01T06:52:00Z",
     "title": "CTUSDT现已推出期货交易和交易机器人",
