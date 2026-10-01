@@ -1,5 +1,29 @@
 [
   {
+    "id": "d7db080853008a2f",
+    "published_at": "2026-10-01T01:31:09Z",
+    "title": "XT 关于调整 ARK_USDT 永续合约资金费率时间周期的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62781579640857",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-01T02:11:38Z"
+  },
+  {
+    "id": "28707b0297bcc71a",
+    "published_at": "2026-10-01T01:23:04Z",
+    "title": "XT 关于暂停XTZ、 RIN网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62781307238041",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-01T02:11:38Z"
+  },
+  {
     "id": "9de40ff775a6552b",
     "published_at": "2026-10-01T01:09:00Z",
     "title": "KuCoin暂时关闭MORI币（ MORI ）的存款服务",
