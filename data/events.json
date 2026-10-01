@@ -1,5 +1,18 @@
 [
   {
+    "id": "ac5b040baaf671c5",
+    "published_at": "2026-10-01T19:20+08:00",
+    "title": "以太坊正在准备2亿瓦斯推送作为其第1层",
+    "summary": "Prysm 7.2.0支持预定的分叉，但想要2亿gas首选项的验证者必须显式配置它。POST以太坊正在准备",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T12:04:02Z"
+  },
+  {
     "id": "6ad7f165951c4d94",
     "published_at": "2026-10-01T17:59+08:00",
     "title": "花旗集团将12个月的比特币目标上调至113,000 $作为ETF",
