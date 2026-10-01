@@ -1,5 +1,57 @@
 [
   {
+    "id": "39df3d332a904bc7",
+    "published_at": "2026-10-01T12:44+08:00",
+    "title": "加密黑客在9月份突破7.68亿美元，是2026年最糟糕的月份",
+    "summary": "3.88亿美元的Bitget漏洞和3.2亿美元的Liquid Network漏洞占了9月份损失的大部分，尽管超过2.7亿美元",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T05:02:52Z"
+  },
+  {
+    "id": "4d1b78b0e65494cc",
+    "published_at": "2026-10-01T12:30+08:00",
+    "title": "Ripple的RLUSD每月市值增长超过$ 24亿",
+    "summary": "Ripple USD的流通供应量已超过24 $十亿，而新的高管更新引用市值增长超过50 ％",
+    "source": "Bitcoin.com",
+    "category": "宏观-国债与美元",
+    "url": "https://news.bitcoin.com/featured/ripples-rlusd-exceeds-2-4b-as-monthly-market-cap-growth-tops-50/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T05:02:52Z"
+  },
+  {
+    "id": "b8ef5ad5b84dcb04",
+    "published_at": "2026-10-01T12:30+08:00",
+    "title": "贝莱德BUIDL基金扩大多链流动性基础设施",
+    "summary": "在2026年9月30日确认的一项重大发展中，贝莱德BUIDL基金的确认公告/备案扩大了多链流动性基础设施",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/blackrock-buidl-fund-expands-multi-chain-liquidity-infrastructure/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T05:02:52Z"
+  },
+  {
+    "id": "a2cf21711b546fc7",
+    "published_at": "2026-10-01T12:15+08:00",
+    "title": "随着债券收益率下降，比特币的软通胀飙升至85,500 $",
+    "summary": "周三，一份比预期更冷的PCE报告显示，比特币价格短暂高于85,000 $。国债收益率保持在2002年以来的最高水平附近，",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T05:02:52Z"
+  },
+  {
     "id": "6a90e349adcd6594",
     "published_at": "2026-10-01T11:30+08:00",
     "title": "Sibos关闭10年后， Swell吸引了1,500名FINA",
