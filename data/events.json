@@ -1,5 +1,18 @@
 [
   {
+    "id": "bee3fcfc8562da46",
+    "published_at": "2026-10-01T16:13+08:00",
+    "title": "CertiK在9月份统计了$ 7.664亿美元的漏洞利用和网络钓鱼",
+    "summary": "Bitget和Liquid Network在本月的亏损中占据主导地位，而收回和冻结的资金大大减少了剩余的损失。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T09:03:27Z"
+  },
+  {
     "id": "cca6d37551d6c62a",
     "published_at": "2026-10-01T15:06+08:00",
     "title": "MetaMask安全事件迫使以太坊质押退出，否",
