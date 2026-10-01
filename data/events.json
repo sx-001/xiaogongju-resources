@@ -1,5 +1,57 @@
 [
   {
+    "id": "08b730472dba0c75",
+    "published_at": "2026-10-01T23:55+08:00",
+    "title": "随着美国债券收益率下跌，比特币为本地上升趋势而战",
+    "summary": "美国债券收益率在周四华尔街开盘前后大幅下跌，原因是比特币价格走势试图保持当地较高低点的趋势。",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T16:12:21Z"
+  },
+  {
+    "id": "3848bccc70257a5a",
+    "published_at": "2026-10-01T23:43+08:00",
+    "title": "在Bit的帮助下， NEAR Intents遭受了$ 380万的漏洞利用",
+    "summary": "该平台表示，它将补偿受黑客攻击影响的用户，黑客攻击源于影响存款和提款的漏洞。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T16:12:21Z"
+  },
+  {
+    "id": "a1ad188d6fc83158",
+    "published_at": "2026-10-01T23:43+08:00",
+    "title": "在否认朝鲜后，近乎意图被黑客攻击了$ 380万天",
+    "summary": "Near Intents冻结了其跨链交换，因为一个漏洞让攻击者消耗了大约380万美元$。该公司承诺偿还每个用户。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T16:12:21Z"
+  },
+  {
+    "id": "d8f8c9f820b10479",
+    "published_at": "2026-10-01T23:40+08:00",
+    "title": "劳埃德银行在银行关闭期间向USDC发送75万美元的签证$",
+    "summary": "劳埃德银行集团在为期七天的试用期间使用USDC与Visa结算了750,000 $的实时付款义务，资金通过",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/stablecoins/lloyds-sends-visa-750k-usdc-banks-closed/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T16:12:21Z"
+  },
+  {
     "id": "0bae6d111823c051",
     "published_at": "2026-10-01T22:18+08:00",
     "title": "近乎意图受到$ 380万漏洞的攻击，因为加密的艰难岁月",
