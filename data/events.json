@@ -1,5 +1,31 @@
 [
   {
+    "id": "0bae6d111823c051",
+    "published_at": "2026-10-01T22:18+08:00",
+    "title": "近乎意图受到$ 380万漏洞的攻击，因为加密的艰难岁月",
+    "summary": "流行的跨链交易系统表示，在多个网络上的存款和取款受到漏洞影响后，它将补偿损失。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T15:03:15Z"
+  },
+  {
+    "id": "eecf06a67e58e9ad",
+    "published_at": "2026-10-01T22:18+08:00",
+    "title": "NEAR Intents在$ 380万的漏洞利用后停止服务， PROM",
+    "summary": "NEAR Intents修补了合同缺陷，但11个网络上的存款和取款仍然中断。",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-01T15:03:15Z"
+  },
+  {
     "id": "44181eba128d5c9c",
     "published_at": "2026-10-01T21:47+08:00",
     "title": "NEAR Intents Bug通过加密网络发送$ 380万赛车",
