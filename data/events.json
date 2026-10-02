@@ -1,5 +1,44 @@
 [
   {
+    "id": "1284ab1e9209e674",
+    "published_at": "2026-10-02T20:31+08:00",
+    "title": "由于失业，美国9月份仅增加了29,000个工作岗位",
+    "summary": "比特币在报告发布后早些时候上涨，在过去24小时内上涨超过2% ，略低于87,000 $。",
+    "source": "CoinDesk",
+    "category": "宏观数据-Unemployment Rate",
+    "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T13:04:59Z"
+  },
+  {
+    "id": "0c22519814a9bbcf",
+    "published_at": "2026-10-02T20:20+08:00",
+    "title": "比特币在5 ％的收益率中幸存下来，但加密货币的廉价货币时代确实",
+    "summary": "10月1日，美国10年期国债收益率达到5.34% ，为2002年以来的最高水平，第三季度上升了近90个基点，",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/bitcoin-survived-5-yields-but-cryptos-cheap-money-era-did-not/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T13:04:59Z"
+  },
+  {
+    "id": "d62b0b6e9f20d4be",
+    "published_at": "2026-10-02T20:19+08:00",
+    "title": "Morning Minute ：以$ 380万的价格接近Intents Hacked - Is It A Bul",
+    "summary": "黑客从来都不是好事，但快速响应、用户补偿和1小时的错误修复似乎是团队反应的首选。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T13:04:59Z"
+  },
+  {
     "id": "8bcbad98837783e9",
     "published_at": "2026-10-02T19:30+08:00",
     "title": "自特朗普加息以来，比特币价格上涨了13%",
