@@ -1,5 +1,41 @@
 [
   {
+    "id": "6ad545f5d3df4ebf",
+    "published_at": "2026-10-02T15:38:00Z",
+    "title": "Bitget关于暂停rCRCL - Morph网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896595",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T16:11:04Z"
+  },
+  {
+    "id": "2529af4b69c1e8e6",
+    "published_at": "2026-10-02T15:19:58Z",
+    "title": "XT 关于调整 ONEUSDT 永续合约资金费率时间周期的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62845588514713",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-02T16:11:04Z"
+  },
+  {
+    "id": "b364df1e8b78d112",
+    "published_at": "2026-10-02T15:17:00Z",
+    "title": "Bitget将调整ONEUSDT永续期货的资金利率区间",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896593",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T16:11:04Z"
+  },
+  {
     "id": "dd71484f2649fb0a",
     "published_at": "2026-10-02T14:55:00Z",
     "title": "Bitget调整SANDUSDT永续期货的资金利率最高/最低限额",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "41f89ae8a5da20ba",
-    "published_at": "2026-09-17T03:07:00Z",
-    "title": "Bitget关于恢复USDC的公告-乐观提现",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895372",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "fe33875e3952bba7",
-    "published_at": "2026-09-17T03:04:00Z",
-    "title": "Orochi Network (ON)在KuCoin上市",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-orochi-network-on-listed-on-kucoin",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "03940cb0b24002e6",
-    "published_at": "2026-09-17T03:02:18Z",
-    "title": "XT 关于隐藏并下架LTH/USDT交易对的公告 (2026-09-21)",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "下架",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62336553040025",
-    "announcement_type": "下架",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-17T05:10:44Z"
   }
 ]
