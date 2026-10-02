@@ -1,5 +1,31 @@
 [
   {
+    "id": "b7edc589a425d751",
+    "published_at": "2026-10-02T10:02+08:00",
+    "title": "Shevchenko Gives NEAR Intents Attacker 48 Hours",
+    "summary": "The general manager of NEAR Intents said the attacker who drained a preliminary $3.8 million has been identified, and posted three addresses for the m",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/shevchenko-gives-near-intents-attacker-48-hours",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T02:02:52Z"
+  },
+  {
+    "id": "ce9f2fd73ad49fdf",
+    "published_at": "2026-10-02T09:40+08:00",
+    "title": "Arkham Says It Tracks 78% of Strategy’s 847,666 Bitcoin Hold",
+    "summary": "Strategy&#8217;s bitcoin holdings are increasingly visible through blockchain tracking, with Arkham identifying approximately 78% of the company&#8217",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/featured/arkham-says-it-tracks-78-of-strategys-847666-bitcoin-holdings/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T02:02:52Z"
+  },
+  {
     "id": "a6def03b3d7e14ef",
     "published_at": "2026-10-02T08:22+08:00",
     "title": "以太坊基金会推出zkAPI ，让用户为人工智能付费",
