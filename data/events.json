@@ -1,5 +1,18 @@
 [
   {
+    "id": "349a748fd6f56d51",
+    "published_at": "2026-10-02T10:10+08:00",
+    "title": "Bitget在吸收了$ 3.88亿美元的安全性后恢复了$ 3亿的资金",
+    "summary": "恢复的支持与客户储备分开，随着提款分阶段重新开放，索赔仍需接受Bitget的评估。POST B",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T03:02:54Z"
+  },
+  {
     "id": "b7edc589a425d751",
     "published_at": "2026-10-02T10:02+08:00",
     "title": "Shevchenko Gives NEAR Intents Attacker 48 Hours",
@@ -11,6 +24,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-10-02T02:02:52Z"
+  },
+  {
+    "id": "663d4e2d1ffac04a",
+    "published_at": "2026-10-02T10:02+08:00",
+    "title": "NEAR Intents说，它识别出了黑客，给出了48小时的",
+    "summary": "Intents总经理亚历克斯·舍甫琴科（ Alex Shevchenko ）周五在协议被黑客入侵后表示： “先生，我们已经确认了您的身份。” $ 380万。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T03:02:54Z"
   },
   {
     "id": "ce9f2fd73ad49fdf",
