@@ -1,5 +1,31 @@
 [
   {
+    "id": "80f5921d7893ad32",
+    "published_at": "2026-10-02T13:50+08:00",
+    "title": "现货比特币ETF在9月份的流入量为27亿美元，因为",
+    "summary": "美国现货比特币ETF在9月录得26.5亿美元的净流入，这是自2025年10月以来的第二大月度流入。",
+    "source": "The Block",
+    "category": "ETF机构",
+    "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T06:02:30Z"
+  },
+  {
+    "id": "dda491172fe7ca80",
+    "published_at": "2026-10-02T13:30+08:00",
+    "title": "Electrum修补了Lightning漏洞，但旧的比特币备份",
+    "summary": "9月份的安全修复程序修复了导出，但使用非确定性Lightning密钥的锚通道的旧备份仍需要更换。POST E",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T06:02:30Z"
+  },
+  {
     "id": "bd6d8b2523950855",
     "published_at": "2026-10-02T12:30+08:00",
     "title": "$ 459,000的机器人黑客首先是客户，研究人员",
