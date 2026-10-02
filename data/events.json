@@ -1,5 +1,44 @@
 [
   {
+    "id": "d698c68882ddeca2",
+    "published_at": "2026-10-03T03:00+08:00",
+    "title": "认识已经计划出售的新比特币金库公司",
+    "summary": "大多数比特币库存公司都遵循Strategy开创的买入尝试持有模式， Strategy是一家上市巨头，拥有近720亿美元的",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/meet-new-bitcoin-treasury-firm-already-plans-sell-btc/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T19:03:45Z"
+  },
+  {
+    "id": "59ad0b2944c78ebd",
+    "published_at": "2026-10-03T02:44+08:00",
+    "title": "以太坊基金会推出用于私有API支付的zkAPI",
+    "summary": "OA聊天支持预付费工具，该工具将账单与请求分开，但不会隐藏AI提供商的提示。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T19:03:45Z"
+  },
+  {
+    "id": "eb77263740358b55",
+    "published_at": "2026-10-03T02:24+08:00",
+    "title": "在成本超过收入后，爆发以太坊L2",
+    "summary": "一旦以太坊总价值最大的二层网络被锁定， Blast敦促用户在关闭之前将其资产转移到主网。",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T19:03:45Z"
+  },
+  {
     "id": "d2341501457daa48",
     "published_at": "2026-10-03T01:54+08:00",
     "title": "以太坊Layer 2网络爆炸将在收入增加后关闭",
