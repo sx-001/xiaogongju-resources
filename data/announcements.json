@@ -1,5 +1,89 @@
 [
   {
+    "id": "3dd5884db5290361",
+    "published_at": "2026-10-02T10:02:00Z",
+    "title": "Bitget关于暂停RAVE -以太坊网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896460",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "0f59becea25c242b",
+    "published_at": "2026-10-02T10:01:00Z",
+    "title": "全球首发： Pheasant Network (PNT)在KuCoin上市",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-world-premiere-pheasant-network-pnt-listed-on-kucoin",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "bb288d16c579f282",
+    "published_at": "2026-10-02T09:34:00Z",
+    "title": "Bitget暂停COLLECT公告-币安智链网络取款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896456",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "23baa7aa9c19c958",
+    "published_at": "2026-10-02T09:20:00Z",
+    "title": "Bitget关于暂停M-MemeCore网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896455",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "45eeb8d80db43f87",
+    "published_at": "2026-10-02T09:15:00Z",
+    "title": "Bitget关于暂停CC-CANTON网络退网服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896451",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "d8b82b937098a7c9",
+    "published_at": "2026-10-02T09:14:00Z",
+    "title": "Bitget关于恢复HDRO - INJECTIVE提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896450",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
+    "id": "8266c5c6f8820a01",
+    "published_at": "2026-10-02T09:14:00Z",
+    "title": "Bitget关于恢复INJ - INJECTIVE充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896449",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T10:11:20Z"
+  },
+  {
     "id": "8b23ff208a53285d",
     "published_at": "2026-10-02T08:51:00Z",
     "title": "Bitget关于暂停SKYAI -币安智能链网络取款服务的公告",
@@ -5913,18 +5997,6 @@
     "url": "https://www.kucoin.com/announcement/en-kucoin-broker-league-global-trading-clash-share-50000-usdt",
     "announcement_type": "公告",
     "exchange": "KuCoin",
-    "created_at": "2026-09-16T16:11:31Z"
-  },
-  {
-    "id": "6c3ae1cd55a35083",
-    "published_at": "2026-09-16T15:26:44Z",
-    "title": "WBTB 正式上线，开放充值",
-    "summary": "",
-    "source": "BitTap",
-    "category": "上币",
-    "url": "https://support.bittap.com/hc/zh-cn/articles/17644456249999",
-    "announcement_type": "上币",
-    "exchange": "BitTap",
     "created_at": "2026-09-16T16:11:31Z"
   }
 ]
