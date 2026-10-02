@@ -1,5 +1,41 @@
 [
   {
+    "id": "79093c2009578aa5",
+    "published_at": "2026-10-02T16:42:00Z",
+    "title": "Bitget关于恢复RAVE -以太坊提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896599",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T17:11:23Z"
+  },
+  {
+    "id": "9a4b43f723912687",
+    "published_at": "2026-10-02T16:37:00Z",
+    "title": "Bitget关于恢复COLLECT -币安智能链提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896597",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T17:11:23Z"
+  },
+  {
+    "id": "b1ef58f47b2567d0",
+    "published_at": "2026-10-02T16:27:00Z",
+    "title": "Bitget关于恢复M - MemeCore提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896596",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T17:11:23Z"
+  },
+  {
     "id": "6ad545f5d3df4ebf",
     "published_at": "2026-10-02T15:38:00Z",
     "title": "Bitget关于暂停rCRCL - Morph网络取款服务的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "YUBIT",
     "created_at": "2026-09-17T04:11:22Z"
-  },
-  {
-    "id": "c534086524d1af00",
-    "published_at": "2026-09-17T03:24:56Z",
-    "title": "XT关于深度隐藏笔记本电脑/USDT交易对的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62337396914201",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-17T04:11:22Z"
-  },
-  {
-    "id": "17db29088ff86a8a",
-    "published_at": "2026-09-17T03:16:00Z",
-    "title": "关于GALA、BSV和WAXL的股票代码和API符号更新的公告",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-announcement-on-the-ticker-and-api-symbol-updates-for-gala-bsv-and-waxl",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T04:11:22Z"
-  },
-  {
-    "id": "9d0ce9ba7eaf33e7",
-    "published_at": "2026-09-17T03:09:00Z",
-    "title": "Bitget关于恢复PYUSD - Solana提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895373",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T03:11:06Z"
   }
 ]
