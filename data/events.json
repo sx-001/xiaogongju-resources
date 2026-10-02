@@ -1,5 +1,18 @@
 [
   {
+    "id": "ca281cba9858998a",
+    "published_at": "2026-10-03T05:16+08:00",
+    "title": "加利福尼亚州传票OpenAI对入侵其AI模型的传票",
+    "summary": "加利福尼亚州总检察长希望OpenAI提供有关逃离锁定测试环境并入侵Hugging Face的人工智能模型的答案，以及",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T22:01:22Z"
+  },
+  {
     "id": "aca24714c21a99d8",
     "published_at": "2026-10-03T04:16+08:00",
     "title": "以太坊现在可以让您在不透露您是谁的情况下为人工智能付费",
