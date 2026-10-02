@@ -1,5 +1,29 @@
 [
   {
+    "id": "957f23c11b129876",
+    "published_at": "2026-10-02T12:45:00Z",
+    "title": "Bitget关于恢复H -以太坊提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896589",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T13:13:06Z"
+  },
+  {
+    "id": "68279e3e5a77bf6e",
+    "published_at": "2026-10-02T12:34:00Z",
+    "title": "Bitget关于恢复USDC -以太坊提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896588",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T13:13:06Z"
+  },
+  {
     "id": "f0670aa0c5c7b903",
     "published_at": "2026-10-02T11:00:00Z",
     "title": "Bitget PoolX上市混凝土（ CT ） ：锁定BTC以获得1,111,111 CT空投",
@@ -5973,30 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895369",
     "announcement_type": "公告",
     "exchange": "Bitget",
-    "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "f9527b2a0ec1b745",
-    "published_at": "2026-09-17T02:28:00Z",
-    "title": "关于从应用程序中移除“信号呼叫”功能的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "下架",
-    "url": "https://www.bitget.com/support/articles/12560603893404",
-    "announcement_type": "下架",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "056fe6e8dead0d97",
-    "published_at": "2026-09-17T02:27:00Z",
-    "title": "KuCoin现在支持Arc Mainnet上的USDC",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-usdc-on-arc-mainnet-is-now-supported-on-kucoin",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
     "created_at": "2026-09-17T03:11:06Z"
   }
 ]
