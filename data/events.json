@@ -1,5 +1,31 @@
 [
   {
+    "id": "8bcbad98837783e9",
+    "published_at": "2026-10-02T19:30+08:00",
+    "title": "自特朗普加息以来，比特币价格上涨了13%",
+    "summary": "美国总统唐纳德·特朗普告诉《时代周刊》，美联储不应该加息，但比特币的价格已经攀升了约13%。",
+    "source": "Bitcoin.com",
+    "category": "宏观-美联储政策",
+    "url": "https://news.bitcoin.com/market-updates/trump-fed-rate-hike-warsh-bitcoin-price-up-13/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T12:02:24Z"
+  },
+  {
+    "id": "c8041848dcb7a649",
+    "published_at": "2026-10-02T19:30+08:00",
+    "title": "随着ETF需求的回报，比特币在隔夜出现大幅反弹",
+    "summary": "资金流入支持反弹，而报告的短期清算表明加速器和通货膨胀仍使其持久性蒙上阴影。",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-sees-big-overnight-rally-as-etf-demand-returns-before-the-next-us-jobs-test/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T12:02:24Z"
+  },
+  {
     "id": "d5c40261ac333844",
     "published_at": "2026-10-02T19:00+08:00",
     "title": "美国的目标是170亿$与俄罗斯相关的加密支付网络",
@@ -11,6 +37,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-10-02T11:02:11Z"
+  },
+  {
+    "id": "29c23d1050a12a71",
+    "published_at": "2026-10-02T18:54+08:00",
+    "title": "Ammo表示，比特币国债可能难以与战略相匹配",
+    "summary": "“比特币标准”的作者Saifedean Ammous表示，战略的规模和现金储备使其比国库竞争对手更具优势。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T12:02:24Z"
   },
   {
     "id": "c5ce2633208cdf87",
