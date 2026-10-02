@@ -1,5 +1,29 @@
 [
   {
+    "id": "f0670aa0c5c7b903",
+    "published_at": "2026-10-02T11:00:00Z",
+    "title": "Bitget PoolX上市混凝土（ CT ） ：锁定BTC以获得1,111,111 CT空投",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603896443",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T12:14:17Z"
+  },
+  {
+    "id": "0dd2eaf28a9163fb",
+    "published_at": "2026-10-02T11:00:00Z",
+    "title": "CandyBomb x CT ：交易分享560,000克拉",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896350",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T12:14:17Z"
+  },
+  {
     "id": "fb255753a4e28fbb",
     "published_at": "2026-10-02T10:35:00Z",
     "title": "关于暂停BRC20提现服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-17T03:11:06Z"
-  },
-  {
-    "id": "5a774ad324f31471",
-    "published_at": "2026-09-17T02:05:00Z",
-    "title": "Bitget将调整ARKUSDT永续期货的资金利率区间",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895368",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T02:11:06Z"
-  },
-  {
-    "id": "d74ccbd603ff5f98",
-    "published_at": "2026-09-16T20:45:00Z",
-    "title": "Bitget关于暂停USDC - Solana网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895367",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-16T21:11:22Z"
   }
 ]
