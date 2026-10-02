@@ -1,5 +1,57 @@
 [
   {
+    "id": "154bf80260414755",
+    "published_at": "2026-10-02T22:56+08:00",
+    "title": "BLAST以不可持续的成本为由关闭第2层",
+    "summary": "Blast的典型桥梁中仍有约6350万美元。用户必须在10月26日之前通过正常界面提款，基于合约的提款人",
+    "source": "The Defiant",
+    "category": "交易所异常",
+    "url": "https://thedefiant.io/news/blockchains/blast-to-shut-down-layer-2-citing-unsustainable-costs",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T15:03:51Z"
+  },
+  {
+    "id": "d94f4de69c89a7b6",
+    "published_at": "2026-10-02T22:38+08:00",
+    "title": "新一代银行业： W集团连接Web2和我们",
+    "summary": "W集团很高兴分享hashbank开发的下一阶段， hashbank是一家完全授权的通用数字银行，结合了传统银行业务",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/press-releases/the-next-generation-of-banking-w-group-connects-web2-and-web3/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T15:03:51Z"
+  },
+  {
+    "id": "a9f4ccae37721fdc",
+    "published_at": "2026-10-02T22:20+08:00",
+    "title": "以核心闪电为目标的比特币闪电节点听起来像是",
+    "summary": "运行26.06.7或更早版本的核心闪电运营商正在积极瞄准，比特币闪电网络节点软件项目警告",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/bitcoin-lightning-nodes-targeted-core-lightning-sounds-alarm/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T15:03:51Z"
+  },
+  {
+    "id": "ef5de2d6e2d9fe2b",
+    "published_at": "2026-10-02T22:12+08:00",
+    "title": "“欧元稳定币还不够” ：欧盟发行人为美元辩护",
+    "summary": "欧洲发行人表示，随着企业寻求美元流动性用于全球支付和结算，欧洲不能忽视对美元稳定币的需求。",
+    "source": "Cointelegraph",
+    "category": "宏观-国债与美元",
+    "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T15:03:51Z"
+  },
+  {
     "id": "04793a53122463f4",
     "published_at": "2026-10-02T21:40+08:00",
     "title": "随着BTC价格上涨， Blackrock推动$ 1.03亿比特币ETF反弹",
