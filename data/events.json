@@ -1,5 +1,31 @@
 [
   {
+    "id": "04777932a05785c4",
+    "published_at": "2026-10-02T11:34+08:00",
+    "title": "以太坊的zkAPI为m带来了保护隐私的API支付",
+    "summary": "以太坊的zkAPI现已在主网上线，将早期的零知识API支付提案转变为私有预付费用户的工作实现",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T04:02:30Z"
+  },
+  {
+    "id": "7fa0864912a8123b",
+    "published_at": "2026-10-02T11:30+08:00",
+    "title": "Bitfinex列出了17种可能推动比特币发展的宏观催化剂",
+    "summary": "根据Bitfinex的数据，比特币10月份的收益可能取决于继续购买，因为更高的国债收益率会争夺投资者的资金。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/market-updates/bitfinex-lists-17-macro-catalysts-that-could-move-bitcoin-in-october/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T04:02:30Z"
+  },
+  {
     "id": "349a748fd6f56d51",
     "published_at": "2026-10-02T10:10+08:00",
     "title": "Bitget在吸收了$ 3.88亿美元的安全性后恢复了$ 3亿的资金",
