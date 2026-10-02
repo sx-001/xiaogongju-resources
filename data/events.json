@@ -1,5 +1,31 @@
 [
   {
+    "id": "a6def03b3d7e14ef",
+    "published_at": "2026-10-02T08:22+08:00",
+    "title": "以太坊基金会推出zkAPI ，让用户为人工智能付费",
+    "summary": "用户将资金存入以太坊保管库，并使用零知识证明授权支出，因此API提供商无法将请求链接到付款人。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T01:04:14Z"
+  },
+  {
+    "id": "2a99ccbc57134870",
+    "published_at": "2026-10-02T08:20+08:00",
+    "title": "加密黑客在2026年获得了27亿美元的损失（ $ 2.7 billion ）",
+    "summary": "加密公司和用户今年因安全事件损失了近27亿美元，与朝鲜相关的盗窃案超过10亿美元。区块链",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/crypto-hackers-have-taken-2-7-billion-in-2026-and-the-losses-are-alarmingly-concentrated/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T01:04:14Z"
+  },
+  {
     "id": "2f0d62c88cc5be95",
     "published_at": "2026-10-02T05:30+08:00",
     "title": "华尔街以每月40亿$的应用程序的形式出现",
