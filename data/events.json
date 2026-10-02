@@ -1,5 +1,44 @@
 [
   {
+    "id": "a28d11a69a66976f",
+    "published_at": "2026-10-02T16:50+08:00",
+    "title": "随着美国监管机构的推动，比特币113,000 $的案件得到了加强9",
+    "summary": "美国证券交易委员会（ SEC ）于10月1日提出了一个托管框架，该框架将让投资顾问和监管基金",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/bitcoins-113000-case-strengthens-as-us-regulators-push-9-crypto-actions/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T09:03:27Z"
+  },
+  {
+    "id": "d3873e2a88778cae",
+    "published_at": "2026-10-02T16:42+08:00",
+    "title": "随着英属维尔京群岛重新划分生效， WISeKey成为WISeQey",
+    "summary": "TL; DR WISeKey从瑞士到英属维尔京群岛的重新注册于10月1日通过并入WISeQ而在法律上生效",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/wisekey-wiseqey-redomiciliation-wqey-nasdaq/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T09:03:27Z"
+  },
+  {
+    "id": "78f8b72a1fbe020c",
+    "published_at": "2026-10-02T16:20+08:00",
+    "title": "比特币ETF启动“Uptober” ，流入$ 1.03亿",
+    "summary": "比特币ETF恢复流入1.03亿美元，而以太币基金连续第三天净流出。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T09:03:27Z"
+  },
+  {
     "id": "d2374a590730f60f",
     "published_at": "2026-10-02T15:20+08:00",
     "title": "Solana进入美国银行业， 90家北达科他州银行领先",
