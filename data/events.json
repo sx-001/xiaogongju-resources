@@ -1,5 +1,57 @@
 [
   {
+    "id": "d2341501457daa48",
+    "published_at": "2026-10-03T01:54+08:00",
+    "title": "以太坊Layer 2网络爆炸将在收入增加后关闭",
+    "summary": "曾经繁忙的以太坊Layer 2网络BLAST将在本月晚些时候关闭，此前活动的急剧下降使扩展器成本过高，",
+    "source": "Bitcoin.com",
+    "category": "交易所异常",
+    "url": "https://news.bitcoin.com/blockchain/ethereum-layer-2-network-blast-shut-down-revenue-collapse/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T18:02:42Z"
+  },
+  {
+    "id": "5cc5713f6cdd29df",
+    "published_at": "2026-10-03T01:47+08:00",
+    "title": "曾经是一个$ 23亿的网络，以太坊Layer-2爆炸关闭",
+    "summary": "Blast表示，运营成本现在超过了以太坊2层产生的收入，并要求用户在10月26日之前将其资产提取到主网。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T18:02:42Z"
+  },
+  {
+    "id": "77fb54b2523787e3",
+    "published_at": "2026-10-03T01:15+08:00",
+    "title": "曾经价值$ 20亿的以太坊第2层， Blast正在关闭",
+    "summary": "曾经拥有超过20亿美元的加密资产，随着活动消退、成本上升以及Coinbase和Robin等更大的平台， Blast正在关闭",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T18:02:42Z"
+  },
+  {
+    "id": "c3cbaebb84e564b8",
+    "published_at": "2026-10-03T01:10+08:00",
+    "title": "Drift打开漏洞恢复索赔，初始收款金额为",
+    "summary": "DFX持有人现在可以提现或等待更多资金，而无需确定全额还款时间表。",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T18:02:42Z"
+  },
+  {
     "id": "8fa6a5356de76a9a",
     "published_at": "2026-10-03T00:54+08:00",
     "title": "范式支持的Layer 2 Blast将网络作为成本逐渐减少",
