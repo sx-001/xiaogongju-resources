@@ -1,5 +1,18 @@
 [
   {
+    "id": "aca24714c21a99d8",
+    "published_at": "2026-10-03T04:16+08:00",
+    "title": "以太坊现在可以让您在不透露您是谁的情况下为人工智能付费",
+    "summary": "以太坊的zkAPI允许用户在USDC中预付费用户，并通过加密证明查询AI模型，因此没有任何一方可以看到他们是谁以及他们",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T21:02:19Z"
+  },
+  {
     "id": "57e04880e266b063",
     "published_at": "2026-10-03T03:10+08:00",
     "title": "加密黑客利用第三方Aave工具窃取114 ET",
