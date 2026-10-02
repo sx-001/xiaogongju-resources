@@ -1,5 +1,18 @@
 [
   {
+    "id": "bd6d8b2523950855",
+    "published_at": "2026-10-02T12:30+08:00",
+    "title": "$ 459,000的机器人黑客首先是客户，研究人员",
+    "summary": "研究人员追踪了$ 459,000钱包流失的地址，该地址之前通过同一个机器人资助了27笔交易，这引发了人们对其私密性的质疑",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/the-459000-bot-hacker-was-a-customer-first-researchers-say/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T05:02:13Z"
+  },
+  {
     "id": "04777932a05785c4",
     "published_at": "2026-10-02T11:34+08:00",
     "title": "以太坊的zkAPI为m带来了保护隐私的API支付",
