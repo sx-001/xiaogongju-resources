@@ -1,5 +1,41 @@
 [
   {
+    "id": "fb255753a4e28fbb",
+    "published_at": "2026-10-02T10:35:00Z",
+    "title": "关于暂停BRC20提现服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896468",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T11:10:44Z"
+  },
+  {
+    "id": "3d5c06095b86d78c",
+    "published_at": "2026-10-02T10:31:29Z",
+    "title": "XT 关于恢复RIN、 XTM网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62838928362649",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-02T11:10:44Z"
+  },
+  {
+    "id": "eb49dc983a6aa2ef",
+    "published_at": "2026-10-02T10:26:00Z",
+    "title": "Bitget关于暂停VELODROME -乐观网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896462",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T11:10:44Z"
+  },
+  {
     "id": "3dd5884db5290361",
     "published_at": "2026-10-02T10:02:00Z",
     "title": "Bitget关于暂停RAVE -以太坊网络取款服务的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-16T21:11:22Z"
-  },
-  {
-    "id": "9716c09b7a39879e",
-    "published_at": "2026-09-16T20:40:00Z",
-    "title": "Bitget关于暂停USDC -乐观网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895366",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-16T21:11:22Z"
-  },
-  {
-    "id": "669511f0dd04cfcd",
-    "published_at": "2026-09-16T20:03:36Z",
-    "title": "XT 关于调整 CRM_USDT、 HPE_USDT 永续合约资金费率时间周期的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "合约",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62326267511193",
-    "announcement_type": "合约",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-16T20:12:03Z"
-  },
-  {
-    "id": "0d5417212e1c4514",
-    "published_at": "2026-09-16T16:00:00Z",
-    "title": "KuCoin经纪商联盟：全球交易冲突—分享50,000 USDT",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-broker-league-global-trading-clash-share-50000-usdt",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-16T16:11:31Z"
   }
 ]
