@@ -1,5 +1,17 @@
 [
   {
+    "id": "cc2ec6989601fa41",
+    "published_at": "2026-10-02T18:03:00Z",
+    "title": "Bitget关于恢复自行车场的公告-乐观提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896602",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T18:15:01Z"
+  },
+  {
     "id": "79093c2009578aa5",
     "published_at": "2026-10-02T16:42:00Z",
     "title": "Bitget关于恢复RAVE -以太坊提现的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-usdt-on-the-optimism-network",
     "announcement_type": "公告",
     "exchange": "KuCoin",
-    "created_at": "2026-09-17T04:11:22Z"
-  },
-  {
-    "id": "74f2009dd7ad395c",
-    "published_at": "2026-09-17T04:01:58Z",
-    "title": "TradFi 新增 CRSP、 JMIA、 PATH、 VKTX 等 8 个热门美股资产公告",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "上币",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tradfi-xin-zeng-crspjmiapathvktx-deng-8-ge-re-men-mei-gu-zi-chan-gong-gao",
-    "announcement_type": "上币",
-    "exchange": "YUBIT",
     "created_at": "2026-09-17T04:11:22Z"
   }
 ]
