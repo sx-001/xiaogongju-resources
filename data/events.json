@@ -1,5 +1,57 @@
 [
   {
+    "id": "8fa6a5356de76a9a",
+    "published_at": "2026-10-03T00:54+08:00",
+    "title": "范式支持的Layer 2 Blast将网络作为成本逐渐减少",
+    "summary": "在成本超过收入之后，以太坊L2 Blast正在逐渐减少。用户可以在10月26日之前通过应用提款。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T17:02:27Z"
+  },
+  {
+    "id": "c820086f374178d0",
+    "published_at": "2026-10-03T00:47+08:00",
+    "title": "随着美国证券交易委员会采取行动解锁机构，比特币价格达到$ 87K",
+    "summary": "在美国就业数据疲软和美国证券交易委员会一项重大监管提案的推动下，比特币自9月23日以来首次短暂回收了87,000 $。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-taps-87k-sec-moves-unlock-institutional-custody/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T17:02:27Z"
+  },
+  {
+    "id": "c96b1d601a449c23",
+    "published_at": "2026-10-03T00:10+08:00",
+    "title": "Chainalysis将$ 3.87亿美元的Bitget黑客攻击与朝鲜联系起来",
+    "summary": "该公司表示，盗窃案使与朝鲜相关的加密货币盗窃案在2026年超过10亿美元，而链上记录显示被盗的XRP被",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/chainalysis-links-387-million-bitget-hack-to-north-korea",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T17:02:27Z"
+  },
+  {
+    "id": "059e593fc925c977",
+    "published_at": "2026-10-03T00:07+08:00",
+    "title": "NEAR Intents GM表示， $ 380万黑客资金在",
+    "summary": "已发布的比特币恢复钱包收到了大约34.59 BTC。该协议已承诺全额赔偿损失的资金。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T17:02:27Z"
+  },
+  {
     "id": "f915611c29592e8c",
     "published_at": "2026-10-02T23:27+08:00",
     "title": "比特币短暂触及87,000 $ ，因美国就业数据疲软导致债券溢价",
