@@ -1,5 +1,31 @@
 [
   {
+    "id": "04793a53122463f4",
+    "published_at": "2026-10-02T21:40+08:00",
+    "title": "随着BTC价格上涨， Blackrock推动$ 1.03亿比特币ETF反弹",
+    "summary": "比特币ETF周四重返正值区域，净流入额为1.0267亿美元，其中Blackrock的IBIT表现强劲。Blackrock Inf",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/blackrock-drives-103m-bitcoin-etf-rebound-bitcoin-price-tops-86k/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T14:03:39Z"
+  },
+  {
+    "id": "9dec7e528b263544",
+    "published_at": "2026-10-02T21:30+08:00",
+    "title": "关于THORChain与NEAR的激烈辩论表明理想主义有影响",
+    "summary": "围绕Bitget $ 3.877亿黑客资金的激烈争论归结为围绕“无需许可和去中心化”技术的理想是否意味着",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T14:03:39Z"
+  },
+  {
     "id": "1284ab1e9209e674",
     "published_at": "2026-10-02T20:31+08:00",
     "title": "由于失业，美国9月份仅增加了29,000个工作岗位",
