@@ -1,5 +1,41 @@
 [
   {
+    "id": "b12d8645c0d0ea90",
+    "published_at": "2026-10-02T01:30:04Z",
+    "title": "XT关于支持MEMEPIECE（MPICT）合约置换的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62819110414489",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-02T02:11:38Z"
+  },
+  {
+    "id": "207b37dce26b32e5",
+    "published_at": "2026-10-02T01:13:40Z",
+    "title": "XT关于暂停POLYGON、ALEO网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62818434874009",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-02T02:11:38Z"
+  },
+  {
+    "id": "4a0a3b69c6462a58",
+    "published_at": "2026-10-02T01:11:49Z",
+    "title": "XT关于恢复NEAR网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62818437231001",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-02T02:11:38Z"
+  },
+  {
     "id": "2264073099fec862",
     "published_at": "2026-10-01T19:51:34Z",
     "title": "XT 关于调整 CSCOUSDT 永续合约资金费率时间周期的公告",
