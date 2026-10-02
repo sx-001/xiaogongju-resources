@@ -1,5 +1,18 @@
 [
   {
+    "id": "b5a8c33cf13ea4ee",
+    "published_at": "2026-10-02T17:30+08:00",
+    "title": "Aave创始人表示，在第三方适配器ex之后， V3不受影响",
+    "summary": "Aave创始人Stani Kulechov表示，在攻击者利用第三方适配器从两个Safe multi",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T10:01:27Z"
+  },
+  {
     "id": "a28d11a69a66976f",
     "published_at": "2026-10-02T16:50+08:00",
     "title": "随着美国监管机构的推动，比特币113,000 $的案件得到了加强9",
