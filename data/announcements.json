@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd71484f2649fb0a",
+    "published_at": "2026-10-02T14:55:00Z",
+    "title": "Bitget调整SANDUSDT永续期货的资金利率最高/最低限额",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896591",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-02T15:13:45Z"
+  },
+  {
     "id": "7b0c84b7848f57a5",
     "published_at": "2026-10-02T13:36:23Z",
     "title": "XT 关于即将上线SANTACOIN （ SANTAHOOD ）的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "下架",
     "exchange": "XT.COM",
     "created_at": "2026-09-17T05:10:44Z"
-  },
-  {
-    "id": "babc7478d2c8b8f7",
-    "published_at": "2026-09-17T02:48:00Z",
-    "title": "关于恢复MANTA网络存取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895371",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T03:11:06Z"
   }
 ]
