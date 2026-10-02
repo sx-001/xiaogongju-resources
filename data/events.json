@@ -1,5 +1,18 @@
 [
   {
+    "id": "f915611c29592e8c",
+    "published_at": "2026-10-02T23:27+08:00",
+    "title": "比特币短暂触及87,000 $ ，因美国就业数据疲软导致债券溢价",
+    "summary": "比特币在低于预期的薪资水平推低国债收益率后攀升，但订单阻力阻止比特币达到新的宏观高点。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T16:02:22Z"
+  },
+  {
     "id": "154bf80260414755",
     "published_at": "2026-10-02T22:56+08:00",
     "title": "BLAST以不可持续的成本为由关闭第2层",
