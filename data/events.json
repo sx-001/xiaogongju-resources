@@ -1,5 +1,18 @@
 [
   {
+    "id": "57e04880e266b063",
+    "published_at": "2026-10-03T03:10+08:00",
+    "title": "加密黑客利用第三方Aave工具窃取114 ET",
+    "summary": "在Aave上构建的第三方贷款适配器被利用来窃取约114个以太币，价值超过30万$ ，而协议本身不受影响。",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-02T20:01:33Z"
+  },
+  {
     "id": "d698c68882ddeca2",
     "published_at": "2026-10-03T03:00+08:00",
     "title": "认识已经计划出售的新比特币金库公司",
