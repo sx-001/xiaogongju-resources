@@ -1,5 +1,17 @@
 [
   {
+    "id": "6ae63bd2024030e3",
+    "published_at": "2026-10-03T03:08:00Z",
+    "title": "Bitget关于暂停USDC - Polygon网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896607",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T03:18:59Z"
+  },
+  {
     "id": "962b26272d2a784a",
     "published_at": "2026-10-03T00:20:00Z",
     "title": "Bitget关于暂停HYPEUSDC -超液态网络取款服务的公告",
@@ -5984,18 +5996,6 @@
     "category": "活动",
     "url": "https://www.bitget.com/support/articles/12560603895381",
     "announcement_type": "活动",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T05:10:44Z"
-  },
-  {
-    "id": "ca650d9c0e0eb72d",
-    "published_at": "2026-09-17T04:29:00Z",
-    "title": "Bitget关于暂停PYUSD -以太坊网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895387",
-    "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-17T05:10:44Z"
   }
