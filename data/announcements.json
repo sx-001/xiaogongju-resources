@@ -1,5 +1,17 @@
 [
   {
+    "id": "962b26272d2a784a",
+    "published_at": "2026-10-03T00:20:00Z",
+    "title": "Bitget关于暂停HYPEUSDC -超液态网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896604",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T01:10:57Z"
+  },
+  {
     "id": "cc2ec6989601fa41",
     "published_at": "2026-10-02T18:03:00Z",
     "title": "Bitget关于恢复自行车场的公告-乐观提现",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-17T05:10:44Z"
-  },
-  {
-    "id": "da19bbb3875964e3",
-    "published_at": "2026-09-17T04:09:00Z",
-    "title": "KuCoin暂时关闭乐观网络上的USDT存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-usdt-on-the-optimism-network",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T04:11:22Z"
   }
 ]
