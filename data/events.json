@@ -1,5 +1,31 @@
 [
   {
+    "id": "6dd761e5c5560549",
+    "published_at": "2026-10-03T21:20+08:00",
+    "title": "六家美国银行在2026年倒闭，但数字看起来无足轻重",
+    "summary": "到目前为止，已有六家美国银行在2026年倒闭，比2023年多了一家，足以使另一个银行危机标题实际上写下来。B",
+    "source": "CryptoSlate",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T14:50:01Z"
+  },
+  {
+    "id": "22b7a390f2f0c263",
+    "published_at": "2026-10-03T19:59+08:00",
+    "title": "NEAR Intents在最后通牒后收回全部被盗$ 380万",
+    "summary": "在被识别并给予48小时的响应时间后，剥削者将整个金额返回到接近意图的地方。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T14:50:01Z"
+  },
+  {
     "id": "b666dc0cfaa979a7",
     "published_at": "2026-10-03T17:50+08:00",
     "title": "Arbitrum通过AI辅助ATTA暂停新的触控笔激活",
