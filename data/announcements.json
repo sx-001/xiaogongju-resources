@@ -1,5 +1,29 @@
 [
   {
+    "id": "812d0c001f430f31",
+    "published_at": "2026-10-03T04:55:58Z",
+    "title": "关于 PROMPTUSDT 永续合约下线的公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "下架",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/guan-yu-promptusdt-yong-xu-he-yue-xia-xian-de-gong-gao",
+    "announcement_type": "下架",
+    "exchange": "YUBIT",
+    "created_at": "2026-10-03T05:10:32Z"
+  },
+  {
+    "id": "4d51b6033b0335eb",
+    "published_at": "2026-10-03T04:16:00Z",
+    "title": "Bitget关于恢复USDC - Polygon提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896609",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T05:10:32Z"
+  },
+  {
     "id": "6701200c490c2f30",
     "published_at": "2026-10-03T04:02:00Z",
     "title": "Bitget关于暂停PONS - Robinhood Chain网络取款服务的公告",
@@ -5973,30 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62344372511257-RIN-Launchpool-%E8%B4%A8%E6%8A%BC-RIN-%E6%88%96-XT-%E7%93%9C%E5%88%86-5-000-USDT",
     "announcement_type": "上币",
     "exchange": "XT.COM",
-    "created_at": "2026-09-17T07:12:48Z"
-  },
-  {
-    "id": "5bc34b5a25590eb7",
-    "published_at": "2026-09-17T06:33:00Z",
-    "title": "Bitget关于恢复PYUSD -以太坊提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895489",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T07:12:48Z"
-  },
-  {
-    "id": "f4b427ddd7ad016c",
-    "published_at": "2026-09-17T06:19:53Z",
-    "title": "[合约上新] MGBX 将上线 LSKUSDT 永续合约",
-    "summary": "",
-    "source": "MGBX",
-    "category": "上币",
-    "url": "https://support.mgbx.com/hc/zh-cn/articles/17653134032655",
-    "announcement_type": "上币",
-    "exchange": "MGBX",
     "created_at": "2026-09-17T07:12:48Z"
   }
 ]
