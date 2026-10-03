@@ -1,5 +1,44 @@
 [
   {
+    "id": "b666dc0cfaa979a7",
+    "published_at": "2026-10-03T17:50+08:00",
+    "title": "Arbitrum通过AI辅助ATTA暂停新的触控笔激活",
+    "summary": "现有程序继续运行，而单独的证明冲突防护可以延迟未经确认的提款到以太坊。POST Arbitrum暂停新Styl",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T10:01:00Z"
+  },
+  {
+    "id": "5eddfac375b962f5",
+    "published_at": "2026-10-03T17:30+08:00",
+    "title": "四家韩国银行在XRP首尔舞台上加入Ripple",
+    "summary": "今天早些时候，在XRP首尔2026上，四家韩国贷方在5000多人面前与Ripple分享了一个小组。一个面板，多个",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/crypto-news/xrp-seoul-korean-banks-ripple-panel/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T10:01:00Z"
+  },
+  {
+    "id": "880d0910691c8ac0",
+    "published_at": "2026-10-03T17:25+08:00",
+    "title": "社区银行就加密货币信托银行章程起诉OCC",
+    "summary": "社区银行集团的诉讼声称， OCC超越了国会的授权。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T10:01:00Z"
+  },
+  {
     "id": "25670594afc69058",
     "published_at": "2026-10-03T14:30+08:00",
     "title": "花旗呼吁更高的比特币，接近ETF上线，等等",
