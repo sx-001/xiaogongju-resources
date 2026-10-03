@@ -1,5 +1,17 @@
 [
   {
+    "id": "b769ee73574e4ed7",
+    "published_at": "2026-10-03T09:51:00Z",
+    "title": "KuCoin期货将退出BLASTUSDT永续合约及相关服务（ 2026-10-04 ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-delist-the-blastusdt-perpetual-contract-and-related-services-2026-10-04",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-03T10:10:31Z"
+  },
+  {
     "id": "2bff0c46d503cb78",
     "published_at": "2026-10-03T08:57:02Z",
     "title": "XT 关于暂停UXT交易的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "合约",
     "exchange": "Bitget",
     "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "fb04fbe5743edc26",
-    "published_at": "2026-09-17T07:52:21Z",
-    "title": "XT关于暂停部分币种充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62347423965721",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-17T09:11:22Z"
   }
 ]
