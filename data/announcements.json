@@ -1,5 +1,53 @@
 [
   {
+    "id": "88faa53e40a77f8d",
+    "published_at": "2026-10-03T07:12:00Z",
+    "title": "Bitget关于恢复EGLD - Elrond eGold提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896613",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T07:15:46Z"
+  },
+  {
+    "id": "eaa9c4398b45f276",
+    "published_at": "2026-10-03T06:45:00Z",
+    "title": "Bitget关于恢复DOGE - Dogecoin提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896612",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T07:15:46Z"
+  },
+  {
+    "id": "52d28384bc7b1fe9",
+    "published_at": "2026-10-03T06:45:00Z",
+    "title": "Bitget关于恢复BCH -比特币现金提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896611",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T07:15:46Z"
+  },
+  {
+    "id": "e1b487606388e1bf",
+    "published_at": "2026-10-03T06:44:00Z",
+    "title": "Bitget关于恢复LTC - Litecoin提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896610",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T07:15:46Z"
+  },
+  {
     "id": "812d0c001f430f31",
     "published_at": "2026-10-03T04:55:58Z",
     "title": "关于 PROMPTUSDT 永续合约下线的公告",
@@ -5950,53 +5998,5 @@
     "announcement_type": "下架",
     "exchange": "Bitget",
     "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "cdd922e004456c67",
-    "published_at": "2026-09-17T07:36:00Z",
-    "title": "Bitget调整TRX、XAUT、DOGE UTA杠杆、限制和维护保证金率",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603895495",
-    "announcement_type": "维护",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "656f3ca2e84a7d6c",
-    "published_at": "2026-09-17T07:10:00Z",
-    "title": "🔧 美元/港元法定存款和取款维护",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603895492",
-    "announcement_type": "维护",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T07:12:48Z"
-  },
-  {
-    "id": "d357ff8b43ebdc3e",
-    "published_at": "2026-09-17T07:00:00Z",
-    "title": "[重要] Bitget支持统一账户中rRDDT的保证金功能",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895490",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T07:12:48Z"
-  },
-  {
-    "id": "3ff6f0b88d1c8d10",
-    "published_at": "2026-09-17T06:34:52Z",
-    "title": "RIN Launchpool ｜质押 RIN 或 XT ，瓜分 5,000 USDT ！",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62344372511257-RIN-Launchpool-%E8%B4%A8%E6%8A%BC-RIN-%E6%88%96-XT-%E7%93%9C%E5%88%86-5-000-USDT",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-17T07:12:48Z"
   }
 ]
