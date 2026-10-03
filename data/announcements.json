@@ -1,5 +1,29 @@
 [
   {
+    "id": "e8d66458bb6d2555",
+    "published_at": "2026-10-03T10:59:00Z",
+    "title": "Bitget关于恢复rCRCL的公告-变形提款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896617",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T12:49:33Z"
+  },
+  {
+    "id": "d1457bca8ec12143",
+    "published_at": "2026-10-03T10:58:00Z",
+    "title": "Bitget关于恢复rMSTR的公告-变形提款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896616",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T12:49:33Z"
+  },
+  {
     "id": "b769ee73574e4ed7",
     "published_at": "2026-10-03T09:51:00Z",
     "title": "KuCoin期货将退出BLASTUSDT永续合约及相关服务（ 2026-10-04 ）",
@@ -5973,30 +5997,6 @@
     "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17654587892751",
     "announcement_type": "公告",
     "exchange": "AOZX",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "2e036506d5b89ce0",
-    "published_at": "2026-09-17T08:00:00Z",
-    "title": "CandyBomb x rSNDK ：交易期货以分享12 rSNDK ！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895296",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "54b8a3e5ada5ed41",
-    "published_at": "2026-09-17T08:00:00Z",
-    "title": "CandyBomb x BTC ：交易期货以分享0.3 BTC ！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895295",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
     "created_at": "2026-09-17T08:12:14Z"
   }
 ]
