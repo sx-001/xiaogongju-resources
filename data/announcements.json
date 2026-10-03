@@ -1,5 +1,29 @@
 [
   {
+    "id": "028f2403b86297a2",
+    "published_at": "2026-10-03T14:18:00Z",
+    "title": "Bitget关于恢复STX的公告-堆栈存款和提款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896618",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T18:18:51Z"
+  },
+  {
+    "id": "5cc9c15f7a5434a2",
+    "published_at": "2026-10-03T13:34:12Z",
+    "title": "XT关于恢复多边形网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62870405176217",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-03T18:18:51Z"
+  },
+  {
     "id": "e8d66458bb6d2555",
     "published_at": "2026-10-03T10:59:00Z",
     "title": "Bitget关于恢复rCRCL的公告-变形提款",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-17T09:11:22Z"
-  },
-  {
-    "id": "706e82f9757f2c87",
-    "published_at": "2026-09-17T08:27:00Z",
-    "title": "Bitget关于恢复AXL -以太坊存款的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895502",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T09:11:22Z"
-  },
-  {
-    "id": "27172af506dc56fa",
-    "published_at": "2026-09-17T08:09:24Z",
-    "title": "9 月17日 AOZX每日资讯 ｜美联储三年来首次加息 ， ZEC逆势上涨超 18%",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17654587892751",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-17T08:12:14Z"
   }
 ]
