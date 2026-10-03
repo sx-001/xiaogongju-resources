@@ -1,5 +1,17 @@
 [
   {
+    "id": "c18127c8fa53ee5a",
+    "published_at": "2026-10-03T07:38:00Z",
+    "title": "Bitget关于恢复PONS - Robinhood Chain提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896614",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T08:12:03Z"
+  },
+  {
     "id": "88faa53e40a77f8d",
     "published_at": "2026-10-03T07:12:00Z",
     "title": "Bitget关于恢复EGLD - Elrond eGold提现的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/crwdonoxyoncvnaonlmtonmelionaggonconabbvon-xian-huo-jiao-yi-dui-xia-jia-gong-gao",
     "announcement_type": "下架",
     "exchange": "YUBIT",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "2a23f2020bacd04f",
-    "published_at": "2026-09-17T07:46:00Z",
-    "title": "【重要提示】Bitget将退市AINUSDT、RCATUSDT期货及相关服务",
-    "summary": "",
-    "source": "Bitget",
-    "category": "下架",
-    "url": "https://www.bitget.com/support/articles/12560603895497",
-    "announcement_type": "下架",
-    "exchange": "Bitget",
     "created_at": "2026-09-17T08:12:14Z"
   }
 ]
