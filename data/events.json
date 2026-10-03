@@ -1,5 +1,44 @@
 [
   {
+    "id": "ad41da929530bf2b",
+    "published_at": "2026-10-04T01:01+08:00",
+    "title": "Chainalysis使用人工智能追踪$ 3.87亿Bitget黑客追溯到N",
+    "summary": "该公司表示， 9月24日的违规行为使朝鲜2026年的加密货币收入超过10亿美元，并详细说明了它如何使用内部人工智能来追踪被盗资金",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T18:45:54Z"
+  },
+  {
+    "id": "d9f256a9b1c59d52",
+    "published_at": "2026-10-04T00:00+08:00",
+    "title": "支付公司OpenPayd计划年底在纳斯达克上市",
+    "summary": "首席执行官Iana Dimitrova表示， OpenPayd计划于2027年4月在美国推出，并正在寻求增加许可证和技术的交易。",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T18:45:54Z"
+  },
+  {
+    "id": "fbc5efccc31374fb",
+    "published_at": "2026-10-04T00:00+08:00",
+    "title": "9月份，加密货币招聘职位增加了两倍，达到1,200多个，但",
+    "summary": "金融、工程和交易引领了招聘需求，而比特币、以太坊和索拉纳是最常被要求的区块链技能。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-03T18:45:54Z"
+  },
+  {
     "id": "6dd761e5c5560549",
     "published_at": "2026-10-03T21:20+08:00",
     "title": "六家美国银行在2026年倒闭，但数字看起来无足轻重",
