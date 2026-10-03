@@ -1,5 +1,41 @@
 [
   {
+    "id": "2bff0c46d503cb78",
+    "published_at": "2026-10-03T08:57:02Z",
+    "title": "XT 关于暂停UXT交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62864205725209",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-03T09:12:42Z"
+  },
+  {
+    "id": "ed79f1a08120e4dd",
+    "published_at": "2026-10-03T08:47:56Z",
+    "title": "币王移除 宙斯 现货交易对公告",
+    "summary": "",
+    "source": "BiKing",
+    "category": "公告",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51530454228625",
+    "announcement_type": "公告",
+    "exchange": "BiKing",
+    "created_at": "2026-10-03T09:12:42Z"
+  },
+  {
+    "id": "260a88dc0e6f4171",
+    "published_at": "2026-10-03T08:44:00Z",
+    "title": "Bitget关于恢复ATOM - COSMOS充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896615",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-03T09:12:42Z"
+  },
+  {
     "id": "c18127c8fa53ee5a",
     "published_at": "2026-10-03T07:38:00Z",
     "title": "Bitget关于恢复PONS - Robinhood Chain提现的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-17T09:11:22Z"
-  },
-  {
-    "id": "bb150246683cf467",
-    "published_at": "2026-09-17T07:51:21Z",
-    "title": "【重要通知】BASEKX合约交易手续费率调整公告",
-    "summary": "",
-    "source": "Basekx",
-    "category": "合约",
-    "url": "https://support.basekx.com/hc/zh-cn/articles/62347337704217",
-    "announcement_type": "合约",
-    "exchange": "Basekx",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "f0b760326c559fe5",
-    "published_at": "2026-09-17T07:51:00Z",
-    "title": "热币将上线雪佛龙CVXSTOCKUSDT永续合约交易",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "上币",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchCVXSTOCKUSDTPerpetualFutureson2026-09-17/",
-    "announcement_type": "上币",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-17T08:12:14Z"
-  },
-  {
-    "id": "312ca253dbe231c4",
-    "published_at": "2026-09-17T07:46:51Z",
-    "title": "CRWDON 、OXYON、 CVNAON、 LMTON、 MELION、 AGGON、 CON、 ABBVON 现货交易对下架公告",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "下架",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/crwdonoxyoncvnaonlmtonmelionaggonconabbvon-xian-huo-jiao-yi-dui-xia-jia-gong-gao",
-    "announcement_type": "下架",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-17T08:12:14Z"
   }
 ]
