@@ -1,5 +1,44 @@
 [
   {
+    "id": "21ed142755ef6f2d",
+    "published_at": "2026-10-05T04:45+08:00",
+    "title": "比特币$ 85,000的复苏等待着ETF投资者的证明",
+    "summary": "Glassnode估计， 10月28日会议上额外加息25分的可能性从9月28日的66%下降到10月2日15:00 UTC的22%",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-04T21:05:39Z"
+  },
+  {
+    "id": "dd38aee4c95b5de9",
+    "published_at": "2026-10-05T04:40+08:00",
+    "title": "社区银行家通过“侧门”起诉美国银行监管机构",
+    "summary": "美国独立社区银行家对美国银行业监管机构提起联邦诉讼，声称它超越了",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/community-bankers-sue-us-banking-regulator-over-side-door-crypto-charters/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-04T21:05:39Z"
+  },
+  {
+    "id": "94632f80f04f3c21",
+    "published_at": "2026-10-05T02:05+08:00",
+    "title": "SEC批准针对3倍每日期货的比特币ETF上市",
+    "summary": "一家比特币基金的目标是其期货基准日业绩的三倍，已获得美国证券交易委员会的上市批准。该裁决涵盖了更广泛的",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/sec-approves-listing-of-bitcoin-etf-targeting-3x-daily-futures-moves/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-04T21:05:39Z"
+  },
+  {
     "id": "35d546338fe0c45a",
     "published_at": "2026-10-05T01:20+08:00",
     "title": "每损失1美元， DRIFT HACK恢复开启近1美分",
