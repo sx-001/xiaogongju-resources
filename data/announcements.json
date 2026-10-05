@@ -1,5 +1,29 @@
 [
   {
+    "id": "bbf3fa9ca0eab4e0",
+    "published_at": "2026-10-05T13:47:44Z",
+    "title": "XT 关于上线SANTACOIN （ SANTAHOOD ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62925359493145",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-05T14:15:50Z"
+  },
+  {
+    "id": "c0a3001a9294ecb2",
+    "published_at": "2026-10-05T13:36:00Z",
+    "title": "KuCoin期货将上市多只股指永续合约（ 2026-10-05 ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-list-multiple-stock-index-perpetual-contracts-2026-10-05",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-05T14:15:50Z"
+  },
+  {
     "id": "1c1953fd71384601",
     "published_at": "2026-10-05T11:27:00Z",
     "title": "KuCoin期货网格机器人升级：更高的杠杆，更多的网格",
@@ -5972,30 +5996,6 @@
     "category": "公告",
     "url": "https://www.bitget.com/support/articles/12560603895505",
     "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T12:14:08Z"
-  },
-  {
-    "id": "a2d4cf9835b99160",
-    "published_at": "2026-09-17T11:00:00Z",
-    "title": "加密贷款狂欢节第28轮：获得20 ％的利息折扣，并通过净新贷款获得分级VIP奖励！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "活动",
-    "url": "https://www.bitget.com/support/articles/12560603895377",
-    "announcement_type": "活动",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T12:14:08Z"
-  },
-  {
-    "id": "bcbf3705c77e4ee5",
-    "published_at": "2026-09-17T11:00:00Z",
-    "title": "CNPY Simple Earn限时高收益活动现场直播-年收入高达30%",
-    "summary": "",
-    "source": "Bitget",
-    "category": "活动",
-    "url": "https://www.bitget.com/support/articles/12560603895391",
-    "announcement_type": "活动",
     "exchange": "Bitget",
     "created_at": "2026-09-17T12:14:08Z"
   }
