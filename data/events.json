@@ -13,6 +13,32 @@
     "created_at": "2026-10-05T17:02:56Z"
   },
   {
+    "id": "04138810caf81065",
+    "published_at": "2026-10-06T01:30+08:00",
+    "title": "Strategy仅购买334比特币作为优先股回购",
+    "summary": "Strategy （前身为MicroStrategy ）在2026年进行了最小的正面比特币购买，尽管加密货币的季度涨幅为43% ，",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T18:04:04Z"
+  },
+  {
+    "id": "09aa468481b9caa8",
+    "published_at": "2026-10-06T01:15+08:00",
+    "title": "由于CFTC标志着新的加密货币，比特币价格未能突破$ 87K",
+    "summary": "比特币在盘中反弹至86,969美元的峰值，然后抹去了大部分收益，并以1.71万亿美元的市值返回到接近85,200美元的交易。",
+    "source": "Bitcoin.com",
+    "category": "极端行情",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-fails-break-87k-cftc-signals-new-crypto-rules/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T18:04:04Z"
+  },
+  {
     "id": "59cb89be30568884",
     "published_at": "2026-10-06T00:55+08:00",
     "title": "标准普尔全球目标$ 100亿加密货币贷款市场面临新风险",
