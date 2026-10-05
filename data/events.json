@@ -1,5 +1,18 @@
 [
   {
+    "id": "82f5d6eb08af0068",
+    "published_at": "2026-10-06T06:30+08:00",
+    "title": "Strive在四个月来最大的一笔交易中增加了$ 1.69亿比特币",
+    "summary": "这家在纳斯达克上市的比特币库存公司由Vivek Ramaswamy共同创立，上周以约1.69亿美元的价格购买了2,000枚比特币，目前持有29,462 BT",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T23:01:31Z"
+  },
+  {
     "id": "552d2a44d42ec609",
     "published_at": "2026-10-06T05:48+08:00",
     "title": "随着SOL的收购， DeFi Development Corp增加了300万$的Solana",
