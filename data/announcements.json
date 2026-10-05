@@ -1,5 +1,17 @@
 [
   {
+    "id": "89aef375abc18890",
+    "published_at": "2026-10-05T10:27:00Z",
+    "title": "Hotcoin关于即将上线海洋轨道之星（ MOS ）的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillListMarineOrbitStarMOS",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-05T11:12:04Z"
+  },
+  {
     "id": "90bf13b5857a0b73",
     "published_at": "2026-10-05T09:43:00Z",
     "title": "Bitget关于暂停rTLT - Arbitrum One网络取款服务的公告",
@@ -5984,18 +5996,6 @@
     "category": "下架",
     "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistJELLYJELLYUSDTTradingPair/",
     "announcement_type": "下架",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-17T11:10:54Z"
-  },
-  {
-    "id": "5e9c359783f6f13c",
-    "published_at": "2026-09-17T10:44:00Z",
-    "title": "Hotcoin关于钱包系统维护暂停充值及提现业务的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "维护",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillSuspendDepositsandWithdrawalsforWalletSystemMaintenance/",
-    "announcement_type": "维护",
     "exchange": "Hotcoin",
     "created_at": "2026-09-17T11:10:54Z"
   }
