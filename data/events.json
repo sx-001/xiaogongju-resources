@@ -1,5 +1,18 @@
 [
   {
+    "id": "63b147d876e10929",
+    "published_at": "2026-10-05T14:40+08:00",
+    "title": "以太坊需要等待25天才能开始质押，将近1.5天",
+    "summary": "自9月初以来，等待进入质押的以太币已经下降了四分之一以上，而退出队列达到了2026年的最长时间。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T07:09:15Z"
+  },
+  {
     "id": "26469e24a746216d",
     "published_at": "2026-10-05T11:20+08:00",
     "title": "以太坊的zkAPI为AI支付提供了隐私斗篷",
