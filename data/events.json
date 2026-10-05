@@ -1,5 +1,44 @@
 [
   {
+    "id": "6ba5b2ab63c6fa53",
+    "published_at": "2026-10-05T18:39+08:00",
+    "title": "实时更新：比特币价格高于$ 86,000 ，因为交易者定价",
+    "summary": "9月份疲软的就业报告使加息从谈判桌上消失，但比特币仍停留在87,000 $以下，联邦公开市场委员会(FOMC)会议记录将于周三到期。",
+    "source": "CoinDesk",
+    "category": "宏观-美联储政策",
+    "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T11:03:39Z"
+  },
+  {
+    "id": "d9f9f32cd919a0d9",
+    "published_at": "2026-10-05T18:37+08:00",
+    "title": "Cardano的ADA在狭窄范围的市场中领先",
+    "summary": "在传统市场，美元指数今天早些时候跃升至102.53 ，为2025年4月以来的最高水平，从9月9日的低点9",
+    "source": "CoinDesk",
+    "category": "宏观-国债与美元",
+    "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T11:03:39Z"
+  },
+  {
+    "id": "d4f5c4d4cab7fa92",
+    "published_at": "2026-10-05T18:30+08:00",
+    "title": "捷克的合作伙伴Banka增加了直接比特币交易",
+    "summary": "捷克共和国银行Banka已与获得许可的加密货币交易所Anycoin合作，在其移动应用程序内提供直接比特币交易。",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/finance/czechias-partners-banka-adds-direct-bitcoin-trading/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T11:03:39Z"
+  },
+  {
     "id": "c8a0582df1deb22b",
     "published_at": "2026-10-05T17:37+08:00",
     "title": "技术信号比特币转变，以太坊为Glams做好准备",
