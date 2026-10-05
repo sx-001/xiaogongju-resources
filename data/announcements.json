@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c1953fd71384601",
+    "published_at": "2026-10-05T11:27:00Z",
+    "title": "KuCoin期货网格机器人升级：更高的杠杆，更多的网格",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "维护",
+    "url": "https://www.kucoin.com/announcement/en-Futures-Grid-Bot-Upgrade-Higher-Leverage-More-Grids-105",
+    "announcement_type": "维护",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-05T12:15:48Z"
+  },
+  {
     "id": "89aef375abc18890",
     "published_at": "2026-10-05T10:27:00Z",
     "title": "Hotcoin关于即将上线海洋轨道之星（ MOS ）的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "Bitget",
     "created_at": "2026-09-17T12:14:08Z"
-  },
-  {
-    "id": "2eb8c55ea49a9db4",
-    "published_at": "2026-09-17T10:52:00Z",
-    "title": "Hotcoin 关于下线JELLYJELLY/USDT并移除交易对的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "下架",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistJELLYJELLYUSDTTradingPair/",
-    "announcement_type": "下架",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-17T11:10:54Z"
   }
 ]
