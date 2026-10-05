@@ -1,5 +1,44 @@
 [
   {
+    "id": "29d5696d7e67503d",
+    "published_at": "2026-10-06T02:30+08:00",
+    "title": "ZachXBT冒充客户渗透中国黑社会",
+    "summary": "调查人员说，他与349,700个USDC对峙，每笔订单损失5 ％给经纪人，经纪人事先告诉他朝鲜被盗资金在哪里",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T17:02:56Z"
+  },
+  {
+    "id": "59cb89be30568884",
+    "published_at": "2026-10-06T00:55+08:00",
+    "title": "标准普尔全球目标$ 100亿加密货币贷款市场面临新风险",
+    "summary": "标准普尔全球评级（ S&P Global Ratings ）在该行业存款飙升至100亿美元（ $ 100亿）后，引入了一个评估链上贷款金库的新框架。",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/sp-global-targets-10b-crypto-lending-market-risk-framework/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T17:02:56Z"
+  },
+  {
+    "id": "5d6e17067b9d7530",
+    "published_at": "2026-10-06T00:53+08:00",
+    "title": "5%的国库券收益率有可能延长比特币的最佳收益率",
+    "summary": "疲软的美国就业数据收窄了对10月份美联储再次加息的预期，随着投资者继续接受贬值，这为比特币提供了一些缓解",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T17:02:56Z"
+  },
+  {
     "id": "f6cfe64cf65e3aee",
     "published_at": "2026-10-05T23:15+08:00",
     "title": "Tom Lee的比特币接近以太坊供应量的5% ，以$ 4100万以太币购买",
