@@ -1,5 +1,31 @@
 [
   {
+    "id": "43907342a27d81f0",
+    "published_at": "2026-10-05T19:30+08:00",
+    "title": "Metaplanet出售10,000比特币，购买11,000回证明L",
+    "summary": "Metaplanet在第三季度出售了10,000 BTC ，随后购买了11,000 BTC ，使用不寻常的往返证明其比特币",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/metaplanet-sells-10000-bitcoin-buys-11000-back-to-prove-liquidity/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T12:03:41Z"
+  },
+  {
+    "id": "4e1d52b175c67632",
+    "published_at": "2026-10-05T19:14+08:00",
+    "title": "美国证券交易委员会批准了一项针对比特币和以太坊交易者的3倍修复",
+    "summary": "2026年10月5日的前瞻",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T12:03:41Z"
+  },
+  {
     "id": "6ba5b2ab63c6fa53",
     "published_at": "2026-10-05T18:39+08:00",
     "title": "实时更新：比特币价格高于$ 86,000 ，因为交易者定价",
