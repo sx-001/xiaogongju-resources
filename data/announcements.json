@@ -1,5 +1,29 @@
 [
   {
+    "id": "c66edfbede241652",
+    "published_at": "2026-10-05T09:09:00Z",
+    "title": "KuCoin将于2026-10-08退市多个代币",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-delist-multiple-tokens-on-20261008",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-05T09:13:55Z"
+  },
+  {
+    "id": "469c6c3eb34a64c0",
+    "published_at": "2026-10-05T09:08:00Z",
+    "title": "Pheasant Network (PNT)房源活动— 734,000 PNT赠品",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-pheasant-network-pnt-listing-campaign-734000-pnt-giveaway",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-05T09:13:55Z"
+  },
+  {
     "id": "a66db5cf4b01c407",
     "published_at": "2026-10-05T06:55:30Z",
     "title": "BitTap 公告｜ CT/USDT 合约将于 10 月 6 日 14:00 上线",
@@ -5973,30 +5997,6 @@
     "url": "https://www.kucoin.com/announcement/en-magne-ai-mha-listing-campaign-6250000-mha-to-giveaway",
     "announcement_type": "上币",
     "exchange": "KuCoin",
-    "created_at": "2026-09-17T11:10:54Z"
-  },
-  {
-    "id": "41ae7d6bc1f85d22",
-    "published_at": "2026-09-17T10:15:00Z",
-    "title": "KuCoin Alpha新上市代币— FLORK （ FLORK ）",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-alpha-new-listed-token-flork-flork",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T11:10:54Z"
-  },
-  {
-    "id": "4034ff40d3c5fe6a",
-    "published_at": "2026-09-17T10:02:31Z",
-    "title": "[理财上新] MGBX 上线 GDT 定期理财产品",
-    "summary": "",
-    "source": "MGBX",
-    "category": "上币",
-    "url": "https://support.mgbx.com/hc/zh-cn/articles/17655784236559",
-    "announcement_type": "上币",
-    "exchange": "MGBX",
     "created_at": "2026-09-17T11:10:54Z"
   }
 ]
