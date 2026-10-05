@@ -1,5 +1,31 @@
 [
   {
+    "id": "bf52366f6b515d89",
+    "published_at": "2026-10-05T21:30+08:00",
+    "title": "比特币获得20天的窗口期，以查看能源救济是否可以",
+    "summary": "柴油释放窗口设置了燃油宽松的实施测试，而比特币融资成本的任何宽松仍然是有条件的。",
+    "source": "CryptoSlate",
+    "category": "宏观-美联储政策",
+    "url": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T14:05:31Z"
+  },
+  {
+    "id": "59149f7027b6d5f5",
+    "published_at": "2026-10-05T21:23+08:00",
+    "title": "Tom Lee表示，以太币作为Bitmine “使其他宏观资产相形见绌”",
+    "summary": "Bitmine增加了15,112 ETH ，因为董事长Tom Lee表示，以太坊在第三季度的表现优于标准普尔500指数6,832个基点。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-05T14:05:31Z"
+  },
+  {
     "id": "74e22bae6823f239",
     "published_at": "2026-10-05T20:28+08:00",
     "title": "Metaplanet揭示净收入策略以推动比特币积累",
