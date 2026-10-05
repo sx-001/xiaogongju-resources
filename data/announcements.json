@@ -1,5 +1,17 @@
 [
   {
+    "id": "a66db5cf4b01c407",
+    "published_at": "2026-10-05T06:55:30Z",
+    "title": "BitTap 公告｜ CT/USDT 合约将于 10 月 6 日 14:00 上线",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17872528823951",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-10-05T07:17:02Z"
+  },
+  {
     "id": "5f5374028b85a4b2",
     "published_at": "2026-10-05T05:54:19Z",
     "title": "【重要通知】BASEKX 关于谨防冒充官方人员实施诈骗的安全公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "MGBX",
     "created_at": "2026-09-17T11:10:54Z"
-  },
-  {
-    "id": "2e32eb61821ff358",
-    "published_at": "2026-09-17T09:50:00Z",
-    "title": "TINA （ TINA ）房源活动— 440万份TINA赠品",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "上币",
-    "url": "https://www.kucoin.com/announcement/en-tina-tina-listing-campaign-4400000-tina-to-giveaway",
-    "announcement_type": "上币",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T10:10:52Z"
   }
 ]
