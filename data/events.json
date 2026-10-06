@@ -1,5 +1,31 @@
 [
   {
+    "id": "5141614c60603dcc",
+    "published_at": "2026-10-06T16:27+08:00",
+    "title": "为什么比特币在创下历史新高后每年“仅”下跌32 ％",
+    "summary": "这种较浅的下降不仅限于一周年纪念日。熊市本身较为温和，过去的经济衰退导致价格暴跌77%",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T09:03:32Z"
+  },
+  {
+    "id": "b63f970a88afdff9",
+    "published_at": "2026-10-06T16:14+08:00",
+    "title": "比特币ETF下跌9000万$ ，因为比特币比一年前的ATH低32%",
+    "summary": "美国现货比特币ETF逆转了两天的资金流入，比特币跌破86,000 $ ，比2025年10月的历史高点低约32%。",
+    "source": "Cointelegraph",
+    "category": "市场波动",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T09:03:32Z"
+  },
+  {
     "id": "bb64e1b98a7050b4",
     "published_at": "2026-10-06T15:30+08:00",
     "title": "ZachXBT渗透与$ 15亿Bybit Hac相关的加密货币辛迪加",
