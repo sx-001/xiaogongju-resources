@@ -1,5 +1,17 @@
 [
   {
+    "id": "df6457f4d78cd856",
+    "published_at": "2026-10-06T05:42:00Z",
+    "title": "Bitget关于恢复rTLT的公告- Arbitrum One提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896700",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T06:14:49Z"
+  },
+  {
     "id": "d8cbd783bc0367c3",
     "published_at": "2026-10-06T02:41:00Z",
     "title": "Bitget关于恢复FET -以太坊充提币的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "合约",
     "exchange": "XT.COM",
     "created_at": "2026-09-17T20:11:40Z"
-  },
-  {
-    "id": "658fdc200623c2f7",
-    "published_at": "2026-09-17T14:16:00Z",
-    "title": "KuCoin已暂时关闭QKC主网和CAMP主网的存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-services-of-the-qkc-mainnet-and-camp-mainnet",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-17T15:11:24Z"
   }
 ]
