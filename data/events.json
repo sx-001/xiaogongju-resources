@@ -1,5 +1,31 @@
 [
   {
+    "id": "bb64e1b98a7050b4",
+    "published_at": "2026-10-06T15:30+08:00",
+    "title": "ZachXBT渗透与$ 15亿Bybit Hac相关的加密货币辛迪加",
+    "summary": "区块链侦探透露，在朝鲜盗窃超过15亿美元$后，他渗透到一个中国加密货币洗钱集团。",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/crypto-news/zachxbt-infiltrates-crypto-syndicate-tied-to-1-5b-bybit-hack/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T08:03:46Z"
+  },
+  {
+    "id": "f5545243b7903337",
+    "published_at": "2026-10-06T15:09+08:00",
+    "title": "EEZ在推送中测试原子L1到L2事务以统一以太网",
+    "summary": "在项目开发连接以太坊主网及其汇总的框架时，专属经济区贡献者共享了0.001 ETH跨链测试。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T08:03:46Z"
+  },
+  {
     "id": "f3eef30a9f59914b",
     "published_at": "2026-10-06T12:49+08:00",
     "title": "以太坊的格拉姆斯特丹测试在majo之前得到最后一刻的修复",
