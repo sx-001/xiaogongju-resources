@@ -1,5 +1,17 @@
 [
   {
+    "id": "55d894e4ad8a1e5f",
+    "published_at": "2026-10-06T01:32:00Z",
+    "title": "KuCoin内容挖掘奖励发放通知（ 9月28日-10月4日）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "活动",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-content-mining-rewards-distribution-notice-september-28-october-4",
+    "announcement_type": "活动",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-06T02:11:08Z"
+  },
+  {
     "id": "889af255d581ce4f",
     "published_at": "2026-10-06T00:00:00Z",
     "title": "【重要】Bitget关于MRVLUSDT ORCLUSDT NTAPUSDT股票持有人现金分、红、结算的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Bitget",
     "created_at": "2026-09-17T13:12:18Z"
-  },
-  {
-    "id": "f2943a82588acccc",
-    "published_at": "2026-09-17T11:00:00Z",
-    "title": "Candybomb嘉年华（第6集） ：交易分享70,000 USDT",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895500",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T12:14:08Z"
   }
 ]
