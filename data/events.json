@@ -1,5 +1,57 @@
 [
   {
+    "id": "803c97d080bdc0ba",
+    "published_at": "2026-10-06T21:02+08:00",
+    "title": "Arbitrum加入Paxos领导的稳定币集团Global Dollar",
+    "summary": "以太坊Layer-2正在支持Paxos发行的USDG ，以赚取一部分储备收入，因为新的稳定币联盟争夺分销、用户和",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T13:05:21Z"
+  },
+  {
+    "id": "4cb028207899ad75",
+    "published_at": "2026-10-06T20:31+08:00",
+    "title": "自封的“教父”因$ 37毫米被判入狱6年",
+    "summary": "Adam Iza的判决与上个月因其在比特币抢劫未遂中的角色而被判处15年徒刑同时进行。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T13:05:21Z"
+  },
+  {
+    "id": "a0be059159863098",
+    "published_at": "2026-10-06T20:30+08:00",
+    "title": "以太坊提出的3倍ETF可以到达芝加哥商品交易所的期货市场",
+    "summary": "在ETHU 10月6日披露的期货估值中，一只拥有3.621亿美元资产的3倍以太坊ETF的目标敞口约为10.9亿美元。如果持有",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T13:05:21Z"
+  },
+  {
+    "id": "eb28d4cfe368fd77",
+    "published_at": "2026-10-06T20:30+08:00",
+    "title": "Apple Cash的银行合作伙伴收紧身份证规则，保留加密货币",
+    "summary": "随着市场关注有关苹果潜在加密资产转移的线索，该公司的银行合作伙伴正在收紧其身份验证",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/apple-cashs-banking-partner-tightens-id-rules-keeps-crypto-ban/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T13:05:21Z"
+  },
+  {
     "id": "6fe69e0fc017eb9f",
     "published_at": "2026-10-06T18:35+08:00",
     "title": "实时更新：跌破$ 84,000可以投入$ 80,000",
