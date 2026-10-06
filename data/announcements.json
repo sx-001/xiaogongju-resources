@@ -1,5 +1,17 @@
 [
   {
+    "id": "e756a4f30baba709",
+    "published_at": "2026-10-06T10:53:41Z",
+    "title": "【TEBBIT 合约】上线 TradFi 板块 U 本位永续合约（ 2026-10-07 ）",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "上币",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62958713421081",
+    "announcement_type": "上币",
+    "exchange": "Tebbit",
+    "created_at": "2026-10-06T12:14:10Z"
+  },
+  {
     "id": "4699b6042ad189d7",
     "published_at": "2026-10-06T10:00:00Z",
     "title": "Bitget关于恢复IOST - IOST提现的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-18T04:11:16Z"
-  },
-  {
-    "id": "6addd53a5bd96deb",
-    "published_at": "2026-09-18T02:50:00Z",
-    "title": "[重要] Bitget将禁用统一交易账户中SAGA的保证金和贷款功能",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895538",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T03:10:55Z"
   }
 ]
