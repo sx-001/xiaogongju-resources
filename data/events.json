@@ -1,5 +1,31 @@
 [
   {
+    "id": "a90fd9734a57c330",
+    "published_at": "2026-10-06T17:51+08:00",
+    "title": "ZachXBT说，他伪装了$ 349,700来渗透所谓的中国",
+    "summary": "ZachXBT冒充客户，表示他收集的情报有助于冻结与15亿美元的Bybit黑客攻击有关的资金。$",
+    "source": "The Block",
+    "category": "黑客攻击",
+    "url": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T10:03:23Z"
+  },
+  {
+    "id": "3aa63e3e307765af",
+    "published_at": "2026-10-06T17:30+08:00",
+    "title": "雷·达里奥（ Ray Dalio ）刚刚在美国债务危机中投入了三年的时间",
+    "summary": "Bridgewater Associates创始人Ray Dalio于10月6日告诉彭博社，由于利息支付拥挤，美国可能在三年内面临债务危机。",
+    "source": "Bitcoin.com",
+    "category": "宏观-国债与美元",
+    "url": "https://news.bitcoin.com/featured/ray-dalio-us-debt-crisis-three-years-bitcoin/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T10:03:23Z"
+  },
+  {
     "id": "5141614c60603dcc",
     "published_at": "2026-10-06T16:27+08:00",
     "title": "为什么比特币在创下历史新高后每年“仅”下跌32 ％",
