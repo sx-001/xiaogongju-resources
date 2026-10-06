@@ -1,5 +1,29 @@
 [
   {
+    "id": "2be609dc0451d2bc",
+    "published_at": "2026-10-06T08:53:00Z",
+    "title": "Bitget关于暂停IOST - IOST网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896745",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T09:12:44Z"
+  },
+  {
+    "id": "8f0b02b1d0a7847b",
+    "published_at": "2026-10-06T08:50:05Z",
+    "title": "BitTap 公告｜ BTB 月度销毁机制执行公告",
+    "summary": "",
+    "source": "BitTap",
+    "category": "公告",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17888485065615",
+    "announcement_type": "公告",
+    "exchange": "BitTap",
+    "created_at": "2026-10-06T09:12:44Z"
+  },
+  {
     "id": "568c404666764d6d",
     "published_at": "2026-10-06T08:11:00Z",
     "title": "Bitget关于暂停STRK - Starknet存取款服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-18T03:10:55Z"
-  },
-  {
-    "id": "5b7eb8fe83b22839",
-    "published_at": "2026-09-18T00:25:14Z",
-    "title": "XT 关于调整 ONE_USDT 永续合约资金费率时间周期的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "合约",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62367300901657",
-    "announcement_type": "合约",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-18T01:10:37Z"
-  },
-  {
-    "id": "bcf00b85be227936",
-    "published_at": "2026-09-18T00:14:00Z",
-    "title": "【重要提示】Bitget调整ONEUSDT永续期货的资金利率间隔和最高/最低限额",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895537",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T00:14:37Z"
   }
 ]
