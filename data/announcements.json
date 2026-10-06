@@ -1,5 +1,17 @@
 [
   {
+    "id": "4699b6042ad189d7",
+    "published_at": "2026-10-06T10:00:00Z",
+    "title": "Bitget关于恢复IOST - IOST提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896768",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T10:11:43Z"
+  },
+  {
     "id": "2be609dc0451d2bc",
     "published_at": "2026-10-06T08:53:00Z",
     "title": "Bitget关于暂停IOST - IOST网络取款服务的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895538",
     "announcement_type": "公告",
     "exchange": "Bitget",
-    "created_at": "2026-09-18T03:10:55Z"
-  },
-  {
-    "id": "99a86bda3b443fda",
-    "published_at": "2026-09-18T02:10:39Z",
-    "title": "XT 关于暂停KNCH链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62371299174425",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
     "created_at": "2026-09-18T03:10:55Z"
   }
 ]
