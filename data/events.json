@@ -1,5 +1,31 @@
 [
   {
+    "id": "6c2e83b52adbcad0",
+    "published_at": "2026-10-06T09:47+08:00",
+    "title": "中国犯罪网络为拉撒路洗钱超过10亿$ ： ZachXB",
+    "summary": "ZachXBT表示，他通过冒充客户的方式渗透到网络中，获得的信息帮助追踪了$ 15亿Bybit黑客的资金。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T02:02:30Z"
+  },
+  {
+    "id": "faac3a2652a9f0b4",
+    "published_at": "2026-10-06T09:15+08:00",
+    "title": "Ripple在里拉期间瞄准土耳其2000亿美元的加密市场",
+    "summary": "据Ripple称，土耳其庞大的加密市场正在为银行托管和美元支持的稳定币创造机会。该公司将其联系起来",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/featured/ripple-targets-turkeys-200-billion-crypto-market-amid-lira-pressure/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T02:02:30Z"
+  },
+  {
     "id": "82f5d6eb08af0068",
     "published_at": "2026-10-06T06:30+08:00",
     "title": "Strive在四个月来最大的一笔交易中增加了$ 1.69亿比特币",
