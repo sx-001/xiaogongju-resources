@@ -1,5 +1,44 @@
 [
   {
+    "id": "d6a3615a3950fc38",
+    "published_at": "2026-10-06T21:56+08:00",
+    "title": "以太坊的格拉姆斯特丹升级在Sepolia测试网上推出",
+    "summary": "Sepolia标志着格拉姆斯特丹最终激活之前的最后一次主要排练之一，旨在为E带来更高的效率和可扩展性",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T14:05:31Z"
+  },
+  {
+    "id": "996a83aafc5f2131",
+    "published_at": "2026-10-06T21:42+08:00",
+    "title": "由于Blackrock继续购买，比特币ETF损失了9000万美元$",
+    "summary": "美国加密货币ETF本周在压力下开盘，比特币基金净流出8990万美元，以太坊ETF扩大了亏损范围",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-90-million-blackrock-keeps-buying/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T14:05:31Z"
+  },
+  {
+    "id": "fcfc715e0e827131",
+    "published_at": "2026-10-06T21:30+08:00",
+    "title": "资本开始从人工智能回流到加密货币： Raoul Pal",
+    "summary": "Real Vision创始人Raoul Pal表示，人工智能股票上涨的暂停可能有助于加密货币吸引资本，而人工智能代理商可能会推动以太坊和",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T14:05:31Z"
+  },
+  {
     "id": "803c97d080bdc0ba",
     "published_at": "2026-10-06T21:02+08:00",
     "title": "Arbitrum加入Paxos领导的稳定币集团Global Dollar",
