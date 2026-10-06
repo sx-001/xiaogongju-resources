@@ -1,5 +1,29 @@
 [
   {
+    "id": "d8cbd783bc0367c3",
+    "published_at": "2026-10-06T02:41:00Z",
+    "title": "Bitget关于恢复FET -以太坊充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896697",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T03:11:30Z"
+  },
+  {
+    "id": "96ac7b41dc6a35cf",
+    "published_at": "2026-10-06T02:41:00Z",
+    "title": "Bitget关于恢复FET - Fetch.Ai充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896696",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T03:11:30Z"
+  },
+  {
     "id": "55d894e4ad8a1e5f",
     "published_at": "2026-10-06T01:32:00Z",
     "title": "KuCoin内容挖掘奖励发放通知（ 9月28日-10月4日）",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-17T15:11:24Z"
-  },
-  {
-    "id": "1ae56fcd12fd7797",
-    "published_at": "2026-09-17T13:49:19Z",
-    "title": "XT.COM 关于ASP U本位永续合约下架的公告 (2026-09-18)",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "下架",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62358175853977",
-    "announcement_type": "下架",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-17T14:11:56Z"
-  },
-  {
-    "id": "6e6a7c7afb56783a",
-    "published_at": "2026-09-17T12:00:00Z",
-    "title": "Bitget PoolX正在上市外星世界（ TLM ） ：锁定TLM以获得5,700,000 TLM空投",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895508",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-17T13:12:18Z"
   }
 ]
