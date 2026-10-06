@@ -1,5 +1,17 @@
 [
   {
+    "id": "2263b2315e911714",
+    "published_at": "2026-10-06T12:34:00Z",
+    "title": "Bitget关于暂停AXS -浪人网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896774",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-06T13:13:29Z"
+  },
+  {
     "id": "e756a4f30baba709",
     "published_at": "2026-10-06T10:53:41Z",
     "title": "【TEBBIT 合约】上线 TradFi 板块 U 本位永续合约（ 2026-10-07 ）",
@@ -5984,18 +5996,6 @@
     "category": "公告",
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62374188546201",
     "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-18T04:11:16Z"
-  },
-  {
-    "id": "aadda7544ffae2ce",
-    "published_at": "2026-09-18T03:13:56Z",
-    "title": "XT 关于暂停TRUU充值的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62373840472729",
-    "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-18T04:11:16Z"
   }
