@@ -117,6 +117,19 @@
     "created_at": "2026-10-06T16:03:59Z"
   },
   {
+    "id": "fa9ba075874c87c7",
+    "published_at": "2026-10-06T23:00+08:00",
+    "title": "代币化股票在一年内增长了395% ，而DeFi的使用保持不变",
+    "summary": "RedStone的报告显示，贷款抵押品约为8100万美元，而供应量为31.7亿美元，杠杆股票敞口位于",
+    "source": "The Defiant",
+    "category": "宏观-股市极端行情",
+    "url": "https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T20:01:30Z"
+  },
+  {
     "id": "dfc5e9cee41b7cd3",
     "published_at": "2026-10-06T22:55+08:00",
     "title": "Hyperliquid为彭博带来每周7天、每天24小时的Perps ，炒作Eyes Fres",
