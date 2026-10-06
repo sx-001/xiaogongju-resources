@@ -1,5 +1,31 @@
 [
   {
+    "id": "64fcc5678205e410",
+    "published_at": "2026-10-07T00:00+08:00",
+    "title": "币安增加四只永续股票，杠杆高达20倍",
+    "summary": "TL; DR Binance Futures正在添加USDT结算的永久合约，跟踪StablecoinX、Viking Therapeutics、麦当劳和Akamai。合约",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/binance-adds-four-more-stock-perpetuals-with-up-to-20x-leverage/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T16:03:59Z"
+  },
+  {
+    "id": "c3d2ea6edf85febf",
+    "published_at": "2026-10-06T23:26+08:00",
+    "title": "从2020年到2020年，闪存贷款攻击从DeFi中消耗了12亿美元$",
+    "summary": "据扫描超过200亿笔交易的研究人员称，在此期间，攻击变得更加复杂，更难以预测。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T16:03:59Z"
+  },
+  {
     "id": "dfc5e9cee41b7cd3",
     "published_at": "2026-10-06T22:55+08:00",
     "title": "Hyperliquid为彭博带来每周7天、每天24小时的Perps ，炒作Eyes Fres",
