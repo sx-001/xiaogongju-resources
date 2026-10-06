@@ -1,5 +1,31 @@
 [
   {
+    "id": "f3eef30a9f59914b",
+    "published_at": "2026-10-06T12:49+08:00",
+    "title": "以太坊的格拉姆斯特丹测试在majo之前得到最后一刻的修复",
+    "summary": "以太坊的一个主要验证器客户端在Sepolia测试前几个小时更新了其软件，这将使每个区块可以容纳的工作量提高到20个",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T05:02:54Z"
+  },
+  {
+    "id": "c346ad9b7c459666",
+    "published_at": "2026-10-06T12:41+08:00",
+    "title": "随着股市徘徊，比特币不断被拒绝在87,000 $",
+    "summary": "BTC回落至约$ 85,600 ，此前卖家自9月23日以来第三次将其从$ 87,000转出，而纳斯达克收盘价创纪录， Treasu",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T05:02:54Z"
+  },
+  {
     "id": "aa66d61993c1f74d",
     "published_at": "2026-10-06T11:30+08:00",
     "title": "6大洲针对投资者信任的诈骗声警报",
