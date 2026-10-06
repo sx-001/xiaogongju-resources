@@ -1,5 +1,57 @@
 [
   {
+    "id": "dfc5e9cee41b7cd3",
+    "published_at": "2026-10-06T22:55+08:00",
+    "title": "Hyperliquid为彭博带来每周7天、每天24小时的Perps ，炒作Eyes Fres",
+    "summary": "Hyperliquid的24/7永续期货现在在彭博终端上可见，使机构用户能够实时访问加密货币的价格， c",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/defi/hyperliquid-brings-24-7-perps-bloomberg-hype-eyes-fresh-high/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T15:05:40Z"
+  },
+  {
+    "id": "7d292802e40ef144",
+    "published_at": "2026-10-06T22:50+08:00",
+    "title": "以太坊熊继续抛售，但以太坊价格保持在2700 $附近",
+    "summary": "以太坊的机构需求正在减弱，与此同时，衍生品定位显示交易者正在积极抛售，但尚未突破",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T15:05:40Z"
+  },
+  {
+    "id": "5299fb24ae0fd4e6",
+    "published_at": "2026-10-06T22:25+08:00",
+    "title": "以太坊的格拉姆斯特丹升级在Sepolia激活",
+    "summary": "前两个升级时代已经完成，而早期的区块开始从6000万逐渐攀升至2亿客户目标。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-s-glamsterdam-upgrade-activates-on-sepolia",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T15:05:40Z"
+  },
+  {
+    "id": "af14707bf4d5b3b7",
+    "published_at": "2026-10-06T22:17+08:00",
+    "title": "彭博终端增加24/7超流动性永续合约定价",
+    "summary": "WSL HYPE工作表将永续合约与商品、指数、股票、货币和加密货币的参考价格配对。",
+    "source": "The Defiant",
+    "category": "宏观-股市极端行情",
+    "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T15:05:40Z"
+  },
+  {
     "id": "d6a3615a3950fc38",
     "published_at": "2026-10-06T21:56+08:00",
     "title": "以太坊的格拉姆斯特丹升级在Sepolia测试网上推出",
