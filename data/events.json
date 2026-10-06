@@ -1,5 +1,31 @@
 [
   {
+    "id": "6a46df768debcbbd",
+    "published_at": "2026-10-07T01:00+08:00",
+    "title": "美国司法部在财政部放弃混合器时按下“龙卷风现金”起诉",
+    "summary": "10月5日的场地文件援引了比特币雾上诉，这表明为什么狭隘的隐私政策没有结束龙卷风现金案。POST DOJ PRESS",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T17:03:29Z"
+  },
+  {
+    "id": "a594c9f8f8161894",
+    "published_at": "2026-10-07T00:38+08:00",
+    "title": "比特币陷入沉睡，但隐私币Zcash和Monero",
+    "summary": "比特币和以太坊今天几乎没有变化，但Zcash和Monero在过去24小时内领先最大的代币。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-06T17:03:29Z"
+  },
+  {
     "id": "64fcc5678205e410",
     "published_at": "2026-10-07T00:00+08:00",
     "title": "币安增加四只永续股票，杠杆高达20倍",
