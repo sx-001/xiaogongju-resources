@@ -1,5 +1,31 @@
 [
   {
+    "id": "3374ea48ad23d8e6",
+    "published_at": "2026-10-08T01:35+08:00",
+    "title": "随着日本机构出售2.6万亿日元的外债，",
+    "summary": "日本10月6日的拍卖在早些时候的外债出售后以更高的收益率吸引了更强劲的需求，增加了潜在的比特币融资风险。",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/as-japanese-institutions-sell-%c2%a52-6-trillion-in-foreign-debt-heres-what-bitcoin-investors-need-to-watch/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T18:03:41Z"
+  },
+  {
+    "id": "404aab96d72b58f3",
+    "published_at": "2026-10-08T01:23+08:00",
+    "title": "以太坊研究员贾斯汀·德雷克（ Justin Drake ）呼吁采用“掩体模式”",
+    "summary": "Justin Drake建议将加密资产移动到新地址，使其公钥隐藏在哈希后面。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T18:03:41Z"
+  },
+  {
     "id": "5caee42a5b39fa03",
     "published_at": "2026-10-08T01:09+08:00",
     "title": "比特币价格抹去10月份的收益：为什么$ 81,300现在是C",
