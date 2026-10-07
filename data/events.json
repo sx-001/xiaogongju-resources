@@ -1,5 +1,44 @@
 [
   {
+    "id": "847a10219dd993de",
+    "published_at": "2026-10-07T23:34+08:00",
+    "title": "随着石油冲击震荡市场，比特币跌破$ 83K ：何去何从",
+    "summary": "比特币大幅下跌，油价突破101 $ ， 30年期美国国债收益率达到2002年以来的最高水平。每日图表仍然倾向于看涨。四小时",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T16:06:27Z"
+  },
+  {
+    "id": "1056cc25eb9f0082",
+    "published_at": "2026-10-07T23:30+08:00",
+    "title": "XRP金库SPAC比Evernorth的Na提前一天下跌50%",
+    "summary": "Evernorth推迟了纳斯达克的首次亮相，此前SPAC的股票让这家XRP金库公司上市，损失了一半的价值。无敌队收购公司II ，",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T16:06:27Z"
+  },
+  {
+    "id": "88e9bdc6170c8fcc",
+    "published_at": "2026-10-07T23:06+08:00",
+    "title": "随着债券抛售，比特币价格跌至10月低点$ 82,700",
+    "summary": "比特币跌破83,000 $ ，达到本月迄今为止的低点，因为股市在创下历史新高和债券收益率飙升后出现反转。",
+    "source": "Cointelegraph",
+    "category": "市场波动",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T16:06:27Z"
+  },
+  {
     "id": "0cbd773091103174",
     "published_at": "2026-10-07T22:55+08:00",
     "title": "Bitmine无情的以太坊购买即将结束， Tom Le",
