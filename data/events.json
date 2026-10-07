@@ -1,5 +1,31 @@
 [
   {
+    "id": "ec99f3e124185679",
+    "published_at": "2026-10-07T08:30+08:00",
+    "title": "开放的美元供应量达到6.66亿美元（ $ ） ，因为10个钱包陷阱最多",
+    "summary": "Crystal在10月5日的快照中发现， 8个Tempo钱包中有3.96亿美元未移动，而客户在托管账户中的活动仍然未知。",
+    "source": "CryptoSlate",
+    "category": "宏观-国债与美元",
+    "url": "https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T01:07:10Z"
+  },
+  {
+    "id": "3d863da987bf89a6",
+    "published_at": "2026-10-07T08:01+08:00",
+    "title": "Pudgy Penguins支持的Abstract在数十米后关闭",
+    "summary": "Igloo首席执行官Luca Netz表示，该公司为Abstract提供了18个月的资金，但尽管吸引了主要品牌和",
+    "source": "Cointelegraph",
+    "category": "交易所异常",
+    "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T01:07:10Z"
+  },
+  {
     "id": "c54236ec63ea8f61",
     "published_at": "2026-10-07T07:50+08:00",
     "title": "美国政府在6周的沉默后转移了$ 7100万比特币储备",
