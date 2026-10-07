@@ -1,5 +1,31 @@
 [
   {
+    "id": "c6e6f67e32fcb8ee",
+    "published_at": "2026-10-07T15:55+08:00",
+    "title": "XRP ETF连续12周记录资金流入，然后XRP达到$ 1",
+    "summary": "10月6日，美国现货XRP交易所交易基金增加了314万美元，其中Bitwise每天增加1055万美元，这是在闪电崩盘拖累XRP的几个小时之前",
+    "source": "Bitcoin.com",
+    "category": "极端行情",
+    "url": "https://news.bitcoin.com/crypto-news/xrp-etf-inflows-12-weeks-bitwise-flash-crash/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T08:04:25Z"
+  },
+  {
+    "id": "75d7f7c0bada7f1f",
+    "published_at": "2026-10-07T15:08+08:00",
+    "title": "Robinhood在资产负债表中增加了价值2500万$的比特币",
+    "summary": "Robinhood高级副总裁Johann Kerbrat表示，此次收购旨在表明该公司对加密行业的承诺。",
+    "source": "The Block",
+    "category": "宏观-美联储政策",
+    "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T08:04:25Z"
+  },
+  {
     "id": "6d04fd6a1eadae94",
     "published_at": "2026-10-07T12:31+08:00",
     "title": "Pudgy Penguins ’Abstract成为以太坊第二层",
