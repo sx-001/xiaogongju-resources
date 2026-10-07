@@ -1,5 +1,44 @@
 [
   {
+    "id": "05c4781f5cc0a214",
+    "published_at": "2026-10-07T17:55+08:00",
+    "title": "美国参议院的调查结果将海湾合作委员会的稳定币交易置于SPO之下",
+    "summary": "美国参议院将稳定币（特别是系绳）与伊朗影子银行网络联系起来的调查结果可能会增加对持牌增值税的合规压力",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/stablecoins/us-senate-findings-put-gcc-stablecoin-transactions-under-spotlight/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T10:05:03Z"
+  },
+  {
+    "id": "f4551ce1c3ce2111",
+    "published_at": "2026-10-07T17:51+08:00",
+    "title": "Jito的JTX计划今年秋季推出移动应用程序，眼睛整合",
+    "summary": "Jito的JTX计划推出移动应用程序、股票功能和永续期货，因为它超越了Solana的现货交易。",
+    "source": "The Block",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T10:05:03Z"
+  },
+  {
+    "id": "6f6c5de6cab7a241",
+    "published_at": "2026-10-07T17:03+08:00",
+    "title": "随着以太币扩大亏损，比特币ETF反弹，流入量为$ 1.19亿",
+    "summary": "尽管价格下跌，比特币ETF周二仍以1.19亿美元的净流入回归，而以太币基金达到了六个会话的总流出量",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T10:05:03Z"
+  },
+  {
     "id": "ba48709873e8699a",
     "published_at": "2026-10-07T16:53+08:00",
     "title": "Robinhood为其余额增加了价值2500万$的比特币",
