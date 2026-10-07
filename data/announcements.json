@@ -1,5 +1,17 @@
 [
   {
+    "id": "afd97c0a91854b78",
+    "published_at": "2026-10-07T04:13:00Z",
+    "title": "公告：保证金现货指数升级",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "维护",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-upgrade-spot-index-upgrade-261006",
+    "announcement_type": "维护",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-07T05:12:29Z"
+  },
+  {
     "id": "43879a16bd27030a",
     "published_at": "2026-10-07T03:57:00Z",
     "title": "⚙️ 无贷记存款退款服务维护",
@@ -5986,17 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Hotcoin",
     "created_at": "2026-09-18T09:10:53Z"
-  },
-  {
-    "id": "d22b85bdde599316",
-    "published_at": "2026-09-18T06:33:00Z",
-    "title": "KuCoin将调整这些代币的现货交易费率",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-will-adjust-these-tokens-spot-trading-fee-rate-0917",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-18T07:11:37Z"
   }
 ]
