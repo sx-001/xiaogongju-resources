@@ -1,5 +1,31 @@
 [
   {
+    "id": "c54236ec63ea8f61",
+    "published_at": "2026-10-07T07:50+08:00",
+    "title": "美国政府在6周的沉默后转移了$ 7100万比特币储备",
+    "summary": "周二，美国政府自8月26日以来首次转移了比特币，与政府相关的钱包转移了833.6个比特币，价值略高于",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/featured/us-government-moves-71m-bitcoin-stash-after-6-week-silence/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T00:01:58Z"
+  },
+  {
+    "id": "c02a3bcf4cec921d",
+    "published_at": "2026-10-07T07:10+08:00",
+    "title": "以太坊经济区在主网上运行原子L1-L2传输",
+    "summary": "本周，以太坊经济区（ EEZ ）计划的核心贡献者Eduardo AntuñaDíez通过展示",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/technology/ethereum-economic-zone-atomic-l1-l2-transfer-mainnet/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T00:01:58Z"
+  },
+  {
     "id": "9dac9d5751c28104",
     "published_at": "2026-10-07T06:16+08:00",
     "title": "Circle欢迎DJ Khaled加入'Team USDC'和Crypto Twitter",
