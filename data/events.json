@@ -1,5 +1,57 @@
 [
   {
+    "id": "a00e1793d3d4b899",
+    "published_at": "2026-10-07T20:45+08:00",
+    "title": "随着短期熊市的控制，比特币价格下滑至$ 83K",
+    "summary": "比特币的价格区间在其24小时区间的底部附近交易，此前隔夜抛售将比特币/美元对拖至83,404 $。",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-slides-to-83k-as-short-term-bears-take-control/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T13:09:02Z"
+  },
+  {
+    "id": "d6d6ad7262745ef7",
+    "published_at": "2026-10-07T20:40+08:00",
+    "title": "正如Tom Lee所说，以太坊即将失去一个稳定的买家",
+    "summary": "Tom Lee表示，一旦拥有5%的ETH ， Bitmine将“完成堆叠” ，将结束日期设定为从2025年中期开始的累积连胜，并使",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T13:09:02Z"
+  },
+  {
+    "id": "036b17309ca3402c",
+    "published_at": "2026-10-07T20:20+08:00",
+    "title": "比特币跌至$ 84k ，清算额为$ 1.43亿",
+    "summary": "10月7日的期货关闭突显了已完成的资金流量记录与交易员持续保证金敞口之间的差距。比特币下跌后",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoins-liquidation-wave-shows-why-positive-etf-flows-offer-no-price-floor/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T13:09:02Z"
+  },
+  {
+    "id": "84c979468bc11a99",
+    "published_at": "2026-10-07T20:18+08:00",
+    "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and ",
+    "summary": "OKX筹集了更多资金，在深夜抛售后清算了5亿多$的加密多头， Abstract称其退出。",
+    "source": "Decrypt",
+    "category": "市场波动",
+    "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T13:09:02Z"
+  },
+  {
     "id": "7b75e8ee519e294f",
     "published_at": "2026-10-07T19:55+08:00",
     "title": "Blackrock将$ 1.22亿美元纳入比特币ETF ，因为以太坊损失了$ 2.02亿美元",
