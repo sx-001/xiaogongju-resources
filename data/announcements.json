@@ -1,5 +1,53 @@
 [
   {
+    "id": "43879a16bd27030a",
+    "published_at": "2026-10-07T03:57:00Z",
+    "title": "⚙️ 无贷记存款退款服务维护",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603896785",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-10-07T04:11:58Z"
+  },
+  {
+    "id": "38dfb18868746fa9",
+    "published_at": "2026-10-07T03:41:00Z",
+    "title": "Bitget关于恢复USDC - APTOS提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896794",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-07T04:11:58Z"
+  },
+  {
+    "id": "d8ea352801fd0519",
+    "published_at": "2026-10-07T03:29:27Z",
+    "title": "BitTap 公告｜ USDCUSDT 永续合约仓位档位调整通知",
+    "summary": "",
+    "source": "BitTap",
+    "category": "合约",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17898792015759",
+    "announcement_type": "合约",
+    "exchange": "BitTap",
+    "created_at": "2026-10-07T04:11:58Z"
+  },
+  {
+    "id": "362ae50c0cd464b3",
+    "published_at": "2026-10-07T03:18:00Z",
+    "title": "Bitget关于恢复AXS - RONIN提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896789",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-07T04:11:58Z"
+  },
+  {
     "id": "fa010f98edf31fc3",
     "published_at": "2026-10-07T03:09:00Z",
     "title": "Bitget关于恢复STRK - Starknet存取款的公告",
@@ -5950,53 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-18T07:11:37Z"
-  },
-  {
-    "id": "29b715a1db4bcade",
-    "published_at": "2026-09-18T06:27:26Z",
-    "title": "永续合约上新 COMPUSDT、 BANANAUSDT、 APRUSDT、 4USDT、 COTIUSDT、 MOVRUSDT、 XPLUSDT",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "合约",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-compusdtbananausdtaprusdt4usdtcotiusdtmovrusdtxplusdt",
-    "announcement_type": "合约",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-18T07:11:37Z"
-  },
-  {
-    "id": "d3b338387122e5c4",
-    "published_at": "2026-09-18T06:11:01Z",
-    "title": "永续合约上新 ARCUSDT、 CVCUSDT、 JASMYUSDT、 XPINUSDT",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "合约",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-arcusdtcvcusdtjasmyusdtxpinusdt",
-    "announcement_type": "合约",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-18T06:14:04Z"
-  },
-  {
-    "id": "af168506f52ccc2e",
-    "published_at": "2026-09-18T06:00:00Z",
-    "title": "子账户创建限额调整通知",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/Notification_of_Subaccount_Creation_Limit_Adjustment",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-18T06:14:04Z"
-  },
-  {
-    "id": "b500beb30f7a857e",
-    "published_at": "2026-09-18T05:33:29Z",
-    "title": "关于系统服务升级维护的公告",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "维护",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/xi-tong-wei-hu/guan-yu-xi-tong-fu-wu-sheng-ji-wei-hu-de-gong-gao",
-    "announcement_type": "维护",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-18T06:14:04Z"
   }
 ]
