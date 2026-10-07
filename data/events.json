@@ -1,5 +1,18 @@
 [
   {
+    "id": "ba48709873e8699a",
+    "published_at": "2026-10-07T16:53+08:00",
+    "title": "Robinhood为其余额增加了价值2500万$的比特币",
+    "summary": "Robinhood在其资产负债表中增加了价值2500万美元的比特币，高级副总裁兼加密和国际总经理告诉ST",
+    "source": "CoinDesk",
+    "category": "宏观-美联储政策",
+    "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T09:03:52Z"
+  },
+  {
     "id": "c6e6f67e32fcb8ee",
     "published_at": "2026-10-07T15:55+08:00",
     "title": "XRP ETF连续12周记录资金流入，然后XRP达到$ 1",
