@@ -1,5 +1,31 @@
 [
   {
+    "id": "610cbc09048d2b38",
+    "published_at": "2026-10-08T07:00+08:00",
+    "title": "BitGo和HashKey将亚洲合作伙伴关系扩展到Cu",
+    "summary": "BitGo和HashKey Cloud已将早期的质押关系扩展为更广泛的亚太合作伙伴关系，涵盖质押、交易、托管和",
+    "source": "Bitcoinist",
+    "category": "以太坊",
+    "url": "https://bitcoinist.com/bitgo-and-hashkey-expand-asia-partnership-across-staking-custody-and/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T23:01:38Z"
+  },
+  {
+    "id": "3902bbee16b336ea",
+    "published_at": "2026-10-08T06:24+08:00",
+    "title": "OpenAI math breakthroughs raise ‘bunker mode’ alarm from Bit",
+    "summary": "OpenAI在数学方面的最新进展促使一位领先的以太坊研究人员警告说，加密的核心钱包安全可能面临意想不到的",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T23:01:38Z"
+  },
+  {
     "id": "25a8d4ef22b3ca93",
     "published_at": "2026-10-08T05:16+08:00",
     "title": "以太坊研究人员表示， AI可能会在Quan之前破解加密",
