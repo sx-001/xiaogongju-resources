@@ -1,5 +1,57 @@
 [
   {
+    "id": "986ac058a49dde0e",
+    "published_at": "2026-10-08T04:00+08:00",
+    "title": "币安让交易者使用代币化的摩根大通和礼来Sh",
+    "summary": "币安将增加四只bStocks代币化证券，作为交叉保证金、投资组合保证金和投资组合保证金Pro的合格抵押品。资产",
+    "source": "Bitcoinist",
+    "category": "宏观-股市极端行情",
+    "url": "https://bitcoinist.com/binance-lets-traders-use-tokenized-jpmorgan-and-eli-lilly-shares-as/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T20:02:37Z"
+  },
+  {
+    "id": "e037e85684bb6068",
+    "published_at": "2026-10-08T03:46+08:00",
+    "title": "Tether与哈萨克斯坦中央银行签署探索协议",
+    "summary": "USDT稳定币的发行人Tether将帮助哈萨克斯坦中央银行研究与坚戈挂钩的代币，并将真实世界的资产放在区块链上。",
+    "source": "Decrypt",
+    "category": "宏观-银行与金融风险",
+    "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T20:02:37Z"
+  },
+  {
+    "id": "b1f8e18351d0d40a",
+    "published_at": "2026-10-08T03:31+08:00",
+    "title": "SecondFi为2100万美元中每损失一笔无法收回的NFT提供8美元",
+    "summary": "经过几次延迟， Cardano钱包公司SecondFi终于为其2100万美元黑客攻击的受害者推出了一个恢复门户网站。文章SecondFi提供8美元的ev",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/secondfi-offers-8-for-every-unrecoverable-nft-lost-in-21m-hack/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T20:02:37Z"
+  },
+  {
+    "id": "91d45bca7c70d1a2",
+    "published_at": "2026-10-08T03:10+08:00",
+    "title": "黑客使用人工智能代理突袭Megachurch的数据库，世博会",
+    "summary": "首尔的Yoido Full Gospel Church表示， 850,000名成员的数据可能受到损害，一家安全公司发现了AI帮助进行攻击的迹象。",
+    "source": "Decrypt",
+    "category": "安全风险",
+    "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T20:02:37Z"
+  },
+  {
     "id": "ae61e0c9b42bc0a4",
     "published_at": "2026-10-08T03:00+08:00",
     "title": "Pudgy Penguins团队将关闭以太坊Layer 2 Network Abst",
