@@ -1,5 +1,57 @@
 [
   {
+    "id": "0cbd773091103174",
+    "published_at": "2026-10-07T22:55+08:00",
+    "title": "Bitmine无情的以太坊购买即将结束， Tom Le",
+    "summary": "董事长在新加坡的Token2049上发表讲话时表示， Bitmine约为100,000 ETH -大约六到七周-从其5%的上限开始，将结束日期设定为",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T15:05:37Z"
+  },
+  {
+    "id": "309de393cd18a7bb",
+    "published_at": "2026-10-07T22:30+08:00",
+    "title": "Robinhood在自己的余额中增加了2500万比特币$ ，她",
+    "summary": "Robinhood正在向其资产负债表增加2500万$的比特币，此前高管们曾辩论过企业加密资产是否会使公司受益。",
+    "source": "CryptoSlate",
+    "category": "宏观-美联储政策",
+    "url": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T15:05:37Z"
+  },
+  {
+    "id": "a0f695afe97fc731",
+    "published_at": "2026-10-07T22:27+08:00",
+    "title": "哈萨克斯坦中央银行利用Tether探索稳定",
+    "summary": "哈萨克斯坦国家银行表示，它将与Tether一起研究与当地货币挂钩的稳定币和代币化的真实世界资产。",
+    "source": "CoinDesk",
+    "category": "宏观-银行与金融风险",
+    "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T15:05:37Z"
+  },
+  {
+    "id": "284e175efe917da3",
+    "published_at": "2026-10-07T22:06+08:00",
+    "title": "Pudgy Penguins的母公司关闭了自己的区块链",
+    "summary": "Pudgy Penguins的母公司Igloo Inc在花费数千万美元维持运营后关闭了自己的Abstract Chain。",
+    "source": "Protos",
+    "category": "交易所异常",
+    "url": "https://protos.com/pudgy-penguins-parent-firm-shuts-down-its-own-blockchain/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T15:05:37Z"
+  },
+  {
     "id": "a00e1793d3d4b899",
     "published_at": "2026-10-07T20:45+08:00",
     "title": "随着短期熊市的控制，比特币价格下滑至$ 83K",
