@@ -1,5 +1,31 @@
 [
   {
+    "id": "6d04fd6a1eadae94",
+    "published_at": "2026-10-07T12:31+08:00",
+    "title": "Pudgy Penguins ’Abstract成为以太坊第二层",
+    "summary": "在Igloo花费数千万美元支持它之后，以消费者为中心的区块链将于12月15日关闭， Blast表示自己的网络已经不长了",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T05:03:57Z"
+  },
+  {
+    "id": "79b4e06db1d9ddb1",
+    "published_at": "2026-10-07T12:11+08:00",
+    "title": "Cardano赋予代币发行人冻结、扣押和限制的权力",
+    "summary": "新标准针对受监管的稳定币、基金和债券，其发行人需要身份检查、制裁控制和其他转移规则。",
+    "source": "CoinDesk",
+    "category": "宏观-地缘与贸易",
+    "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T05:03:57Z"
+  },
+  {
     "id": "61b240e8b615ddba",
     "published_at": "2026-10-07T11:34+08:00",
     "title": "比特币突然抛售跌破$ 84,000",
