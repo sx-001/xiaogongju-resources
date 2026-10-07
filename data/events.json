@@ -1,5 +1,18 @@
 [
   {
+    "id": "5369d0dc1851c401",
+    "published_at": "2026-10-08T04:24+08:00",
+    "title": "币安新增摩根大通和礼来bStocks作为保证金抵押",
+    "summary": "四个与股权挂钩的代币加入抵押品阵容，交叉保证金和投资组合保证金的50 ％抵押品比率以及单独的分层进度表",
+    "source": "The Defiant",
+    "category": "宏观-股市极端行情",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T21:03:08Z"
+  },
+  {
     "id": "986ac058a49dde0e",
     "published_at": "2026-10-08T04:00+08:00",
     "title": "币安让交易者使用代币化的摩根大通和礼来Sh",
