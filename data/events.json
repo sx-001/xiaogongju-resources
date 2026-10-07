@@ -1,5 +1,44 @@
 [
   {
+    "id": "7b75e8ee519e294f",
+    "published_at": "2026-10-07T19:55+08:00",
+    "title": "Blackrock将$ 1.22亿美元纳入比特币ETF ，因为以太坊损失了$ 2.02亿美元",
+    "summary": "美国比特币ETF周二重返正值区域，净流入额为1.1886亿美元，几乎完全由Blackrock的IBIT领投。",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-122m-into-bitcoin-etfs-as-ether-loses-202m/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T12:03:58Z"
+  },
+  {
+    "id": "1cd3c02ace63f24a",
+    "published_at": "2026-10-07T19:40+08:00",
+    "title": "标准普尔将评级风格的审查提高到100亿美元（ $ 10 billion crypto vaul ）",
+    "summary": "Vault框架比较了减值风险，同时未承诺资本保护和未来回报。标准普尔的帖子带来了评级风格的sc",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T12:03:58Z"
+  },
+  {
+    "id": "06eb933f1ead5ffb",
+    "published_at": "2026-10-07T19:09+08:00",
+    "title": "实时更新：加密货币下跌，以太坊下跌5 ％ ， Tom Lee共同",
+    "summary": "随着周三利率飙升，押注价格上涨的交易员首当其冲地被迫抛售。",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-07T12:03:58Z"
+  },
+  {
     "id": "f5ddefbedb8632b5",
     "published_at": "2026-10-07T18:55+08:00",
     "title": "比特币价格下跌至$ 84K以下，因为汤姆·李（ Tom Lee ）看到了最大的公牛",
