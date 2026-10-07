@@ -1,5 +1,17 @@
 [
   {
+    "id": "78ecb20b97ffa4e9",
+    "published_at": "2026-10-07T06:42:00Z",
+    "title": "Bitget关于恢复动漫的公告- Arbitrum One提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896799",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-07T07:13:06Z"
+  },
+  {
     "id": "e21d6ff6c11d2f70",
     "published_at": "2026-10-07T05:29:42Z",
     "title": "BitTap 公告｜ AI 交易助手上线时间调整通知",
@@ -5985,18 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62382803525785",
     "announcement_type": "风控",
     "exchange": "XT.COM",
-    "created_at": "2026-09-18T08:11:35Z"
-  },
-  {
-    "id": "d9ac05b236608a9b",
-    "published_at": "2026-09-18T07:15:00Z",
-    "title": "Bitget关于暂停CRO -以太坊网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895572",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
     "created_at": "2026-09-18T08:11:35Z"
   }
 ]
