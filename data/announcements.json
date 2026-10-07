@@ -1,5 +1,29 @@
 [
   {
+    "id": "1716ab16f0b2849c",
+    "published_at": "2026-10-07T11:54:00Z",
+    "title": "【重要提示】Bitget将退市WBDUSDT期货及相关服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "下架",
+    "url": "https://www.bitget.com/support/articles/12560603896801",
+    "announcement_type": "下架",
+    "exchange": "Bitget",
+    "created_at": "2026-10-07T12:16:05Z"
+  },
+  {
+    "id": "db16754030ec31e2",
+    "published_at": "2026-10-07T11:53:39Z",
+    "title": "XT 关于暂停INJ网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62998076896281",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-07T12:16:05Z"
+  },
+  {
     "id": "78ecb20b97ffa4e9",
     "published_at": "2026-10-07T06:42:00Z",
     "title": "Bitget关于恢复动漫的公告- Arbitrum One提现",
@@ -5973,30 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895576",
     "announcement_type": "公告",
     "exchange": "Bitget",
-    "created_at": "2026-09-18T08:11:35Z"
-  },
-  {
-    "id": "4277f732d279688f",
-    "published_at": "2026-09-18T07:35:00Z",
-    "title": "KuCoin保证金交易服务将退出多个代币",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "下架",
-    "url": "https://www.kucoin.com/announcement/kucoin-margin-notice-260917",
-    "announcement_type": "下架",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-18T08:11:35Z"
-  },
-  {
-    "id": "6f5b606ff61484d0",
-    "published_at": "2026-09-18T07:17:43Z",
-    "title": "XT 关于暂停XMR链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62382803525785",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
     "created_at": "2026-09-18T08:11:35Z"
   }
 ]
