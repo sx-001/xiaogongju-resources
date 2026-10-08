@@ -1,5 +1,18 @@
 [
   {
+    "id": "77b909e3b0c7e8c8",
+    "published_at": "2026-10-08T16:40+08:00",
+    "title": "Vitalik Buterin敦促冷静，因为人工智能引发了对Bitco的新担忧",
+    "summary": "当迁移很容易时，他倾向于使用未使用的地址，同时警告说，人工智能可能会削弱旨在抵抗量子攻击的加密技术。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T09:04:20Z"
+  },
+  {
     "id": "80a490d9c49b3f51",
     "published_at": "2026-10-08T16:00+08:00",
     "title": "加密投资公司Deus X Capital作为支持者关闭",
