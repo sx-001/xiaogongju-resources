@@ -1,5 +1,31 @@
 [
   {
+    "id": "80a490d9c49b3f51",
+    "published_at": "2026-10-08T16:00+08:00",
+    "title": "加密投资公司Deus X Capital作为支持者关闭",
+    "summary": "首席执行官蒂姆·格兰特（ Tim Grant ）将领导人工智能企业TensorX ，而首席信息官斯图尔特·康诺利（ Stuart Connolly ）将在1月份留下来监督该公司的正式放松",
+    "source": "CoinDesk",
+    "category": "交易所异常",
+    "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T08:04:20Z"
+  },
+  {
+    "id": "fe0329c885cbea2b",
+    "published_at": "2026-10-08T15:30+08:00",
+    "title": "美国比特币ETF自Ju以来最大单日流出量下跌4.85亿美元",
+    "summary": "比特币ETF以4.85亿美元的提款抹去了10月份的净流入，而以太币基金则连续第七次流出。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T08:04:20Z"
+  },
+  {
     "id": "30424a7d2adddfd8",
     "published_at": "2026-10-08T14:30+08:00",
     "title": "以太坊价格崩溃，因为3个预测市场做出了他们的CAL",
