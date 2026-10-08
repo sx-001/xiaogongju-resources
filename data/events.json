@@ -1,5 +1,57 @@
 [
   {
+    "id": "5304926fbee527cd",
+    "published_at": "2026-10-08T18:50+08:00",
+    "title": "BitMine的以太坊收购狂潮可能在六周内结束",
+    "summary": "BitMine Immersion Technologies董事长Tom Lee表示，一旦其持有量达到加密货币的5 ％ ，该公司将停止积累以太坊。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T11:03:42Z"
+  },
+  {
+    "id": "62cf946a9cde444f",
+    "published_at": "2026-10-08T18:44+08:00",
+    "title": "现场新闻：债券抛售和oi等风险资产承压",
+    "summary": "美国国债收益率上涨、能源价格飙升和美元走强对比特币和科技股造成压力，而白银则跌破每盎司59 $。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T11:03:42Z"
+  },
+  {
+    "id": "95259d93e80a0223",
+    "published_at": "2026-10-08T18:30+08:00",
+    "title": "$ 783K加密半身像结束网站出售17,000张被盗图像",
+    "summary": "法美联合执法行动关闭了一个出售妇女和未成年女孩被盗私密图像的平台。当局还查获了",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/regulation-and-legal/783k-crypto-bust-ends-site-selling-stolen-images-17000-women/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T11:03:42Z"
+  },
+  {
+    "id": "fa143ac932f11a52",
+    "published_at": "2026-10-08T18:30+08:00",
+    "title": "比特币跌破$ 83,000 ，成为以太坊研究人员的掩体",
+    "summary": "贾斯汀·德雷克（ Justin Drake ）呼吁为人工智能破解钱包加密技术做好准备，但随着比特币跌破83,000 $ ，这一呼吁得到了不同的回应。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T11:03:42Z"
+  },
+  {
     "id": "305ee26b012cbbba",
     "published_at": "2026-10-08T17:32+08:00",
     "title": "渣打银行扩大机构加密货币和RWA cu",
