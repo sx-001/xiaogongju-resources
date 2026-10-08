@@ -1,5 +1,57 @@
 [
   {
+    "id": "4d628768f1c86b42",
+    "published_at": "2026-10-09T01:46+08:00",
+    "title": "比特币ETF遭遇自6月份以来最严重的损失，因为10月份转为R",
+    "summary": "投资者在一天内从现货比特币ETF中提取了4.849亿美元$。石油接近100 $ ，债券收益率处于2002年以来的最高水平，美联储",
+    "source": "Decrypt",
+    "category": "宏观-美联储政策",
+    "url": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T18:02:42Z"
+  },
+  {
+    "id": "5e1107ba6ff5af25",
+    "published_at": "2026-10-09T01:44+08:00",
+    "title": "比特币价格跌破$ 81K ，加密货币清算位居前$ 1",
+    "summary": "比特币跌破$ 81,000 ，跌至近$ 80,500的盘中低点，市值蒸发了数十亿美元。加密货币总头寸超过$ 11亿",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-drops-below-81k-crypto-liquidations-top-1-billion/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T18:02:42Z"
+  },
+  {
+    "id": "74320e4695a4b357",
+    "published_at": "2026-10-09T01:30+08:00",
+    "title": "比特币跌破$ 81,000揭示了为什么美联储暂停可能不会",
+    "summary": "10月8日，比特币跌破81,000 $ ，盘中低点接近80,800 $ ，尽管交易员预计美联储将在10月持有比特币。9月联邦公开市场委员会会议纪要",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/bitcoins-slide-below-81000-exposes-why-a-fed-pause-may-not-save-the-crypto-market/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T18:02:42Z"
+  },
+  {
+    "id": "954be1d3a3935456",
+    "published_at": "2026-10-09T01:07+08:00",
+    "title": "人工智能会破坏加密吗？以太坊的Vitalik Buterin",
+    "summary": "以太坊联合创始人Vitalik Buterin认为，加密行业需要确保加密既能抵抗量子，又能抵抗人工智能。",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T18:02:42Z"
+  },
+  {
     "id": "889e8c884622fea6",
     "published_at": "2026-10-09T00:50+08:00",
     "title": "美国政府将另外10 $ 10亿比特币作为比特币SLI",
