@@ -1,5 +1,41 @@
 [
   {
+    "id": "e5e39e8eb1467d03",
+    "published_at": "2026-10-08T06:02:19Z",
+    "title": "XT 关于恢复XPL、 CTM网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63023050162457",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T06:16:08Z"
+  },
+  {
+    "id": "5805e6a779df4656",
+    "published_at": "2026-10-08T05:20:03Z",
+    "title": "10 月8日 AOZX每日资讯 ｜ BTC跌破 83,000美元 ，加密市场超 4.8亿美元多头遭清算",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17914221915919",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-10-08T06:16:08Z"
+  },
+  {
+    "id": "ffefda5b334f7224",
+    "published_at": "2026-10-08T05:15:20Z",
+    "title": "永续合约上新 RUMUSDT、 XOMUSDT、 MOONSHOTUSDT、 PATHUSDT、 CYPHUSDT、 ANETUSDT、 HUTUSDT、 AGPUUSDT",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "合约",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-rumusdtxomusdtmoonshotusdtpathusdtcyphusdtanetusdthutusdtagpuusdt",
+    "announcement_type": "合约",
+    "exchange": "YUBIT",
+    "created_at": "2026-10-08T06:16:08Z"
+  },
+  {
     "id": "0d6eb3d01e9447c9",
     "published_at": "2026-10-08T04:00:00Z",
     "title": "KuCoin证明期货对决：赢得560,000 USDT的份额！",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-18T13:10:35Z"
-  },
-  {
-    "id": "55a3bf9d1fb8295a",
-    "published_at": "2026-09-18T10:21:00Z",
-    "title": "Hotcoin 关于【Stardrop x $ YATE ：独家交易大赛瓜分 10,000 YATE】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-stardrop-yate/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-18T11:11:02Z"
-  },
-  {
-    "id": "ed14593a8bc21dda",
-    "published_at": "2026-09-18T10:19:00Z",
-    "title": "Hotcoin 关于【现货全能挑战赛#19｜交易热门币种，瓜分 200,000 USDT 奖励】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-spot-all-round-challenge-19/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-18T11:11:02Z"
-  },
-  {
-    "id": "6ab2640b6461915e",
-    "published_at": "2026-09-18T10:10:14Z",
-    "title": "XT 关于支持Stargate Finance （ STG ）代币合并至 LayerZero （ ZRO ）的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62389130896153",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-18T12:13:39Z"
   }
 ]
