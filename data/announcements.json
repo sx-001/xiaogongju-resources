@@ -1,5 +1,29 @@
 [
   {
+    "id": "50b918f1b91c33d8",
+    "published_at": "2026-10-08T14:01:21Z",
+    "title": "【安全提醒】TEBBIT 关于加强 iOS 设备及账户安全防护的公告",
+    "summary": "",
+    "source": "Tebbit",
+    "category": "公告",
+    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/63038647716761",
+    "announcement_type": "公告",
+    "exchange": "Tebbit",
+    "created_at": "2026-10-08T14:15:28Z"
+  },
+  {
+    "id": "544113aa9f6ed589",
+    "published_at": "2026-10-08T13:55:49Z",
+    "title": "XT 关于恢复USTBL网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63038560965785",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T14:15:28Z"
+  },
+  {
     "id": "07c638dd221457d3",
     "published_at": "2026-10-08T12:13:00Z",
     "title": "合约达人进阶挑战：首单有礼 ，累计交易解锁 360,000 USDT 奖池",
@@ -5974,29 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-20T06:13:10Z"
-  },
-  {
-    "id": "a8e155e9b6ff2ef4",
-    "published_at": "2026-09-20T04:15:10Z",
-    "title": "XT 关于上线LITEB （ Lumentum ）、 PLTRB （ Palantir ）、 CBRSB （ Cerebras ）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62433230857241",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-20T07:10:03Z"
-  },
-  {
-    "id": "9614fa83c97a90dc",
-    "published_at": "2026-09-20T03:00:20Z",
-    "title": "XT关于上线AMDB（Advanced Micro Devices）、MSTRB（Strategy）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62431566218009",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-20T04:11:02Z"
   }
 ]
