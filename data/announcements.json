@@ -1,5 +1,41 @@
 [
   {
+    "id": "7d6265ef7f91dfa9",
+    "published_at": "2026-10-08T08:00:17Z",
+    "title": "XT 关于上线DHN （ Dohrnii ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63027779505305",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T08:13:19Z"
+  },
+  {
+    "id": "cf6244acf20d0d6f",
+    "published_at": "2026-10-08T07:56:52Z",
+    "title": "XT 关于恢复AIPC网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63027658629785",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T08:13:19Z"
+  },
+  {
+    "id": "9d8a7c531b997a5a",
+    "published_at": "2026-10-08T07:30:00Z",
+    "title": "Bitget支持统一账户中选定库存代币的保证金功能",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896811",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-08T08:13:19Z"
+  },
+  {
     "id": "4819020491c8cf41",
     "published_at": "2026-10-08T06:32:29Z",
     "title": "[合约上新] MGBX 将上线 CTUSDT、 USDEXUSDT 永续合约",
@@ -5962,41 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-18T17:09:53Z"
-  },
-  {
-    "id": "7cda07b5a5b8fd31",
-    "published_at": "2026-09-18T14:42:01Z",
-    "title": "XT 关于暂停AIPC、 ICBX链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62395678217753",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-18T15:10:41Z"
-  },
-  {
-    "id": "e31bfcf613454174",
-    "published_at": "2026-09-18T14:22:00Z",
-    "title": "【重要】Bitget关于SDGRUSDT、PATHUSDT、AGPUUSDT、GNRCUSDT、HUTUSDT、CYPHUSDT股票上市的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895627",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T15:10:41Z"
-  },
-  {
-    "id": "5b991fa40808991f",
-    "published_at": "2026-09-18T14:09:00Z",
-    "title": "STONKUSDT现已推出期货交易和交易机器人",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895628",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T14:11:01Z"
   }
 ]
