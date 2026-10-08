@@ -1,5 +1,18 @@
 [
   {
+    "id": "fec5508cca012523",
+    "published_at": "2026-10-08T12:00+08:00",
+    "title": "随着伊朗罢工计划的油价跳升，比特币跌破83,000 $",
+    "summary": "比特币在FxPro的水平下滑，开辟了“通往$ 80,000的快速通道。“布伦特原油价格攀升至102 $以上，将国债收益率推回",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T04:03:32Z"
+  },
+  {
     "id": "5e46e0a752ff2b4c",
     "published_at": "2026-10-08T10:00+08:00",
     "title": "代币化证券公司KoreInside针对以太坊Solan",
