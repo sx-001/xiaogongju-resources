@@ -1,5 +1,31 @@
 [
   {
+    "id": "ed1c798f78f9020e",
+    "published_at": "2026-10-08T13:00+08:00",
+    "title": "“不要急于求成” ：维塔利克·布特林（ Vitalik Buterin ）警告不要草率行事",
+    "summary": "以太坊联合创始人Vitalik Buterin警告说，加密行业应该认真对待人工智能加速数学带来的加密风险。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T05:03:44Z"
+  },
+  {
+    "id": "f3252de5b841883f",
+    "published_at": "2026-10-08T12:23+08:00",
+    "title": "以太坊的格拉姆斯特丹测试每桶运行近2亿瓦斯",
+    "summary": "塞波利亚排练已将其处理预算提高了三倍以上，但抽样块使用的津贴不到一半。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T05:03:44Z"
+  },
+  {
     "id": "fec5508cca012523",
     "published_at": "2026-10-08T12:00+08:00",
     "title": "随着伊朗罢工计划的油价跳升，比特币跌破83,000 $",
