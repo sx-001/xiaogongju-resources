@@ -1,5 +1,31 @@
 [
   {
+    "id": "7db38b29bee6b04e",
+    "published_at": "2026-10-08T09:30+08:00",
+    "title": "Robinhood向比特币投入2500万美元，理由是对加密货币的信念",
+    "summary": "Robinhood正在将比特币添加到其企业资产中，将其敞口扩展到其为客户提供的加密货币服务之外。",
+    "source": "Bitcoin.com",
+    "category": "宏观-美联储政策",
+    "url": "https://news.bitcoin.com/featured/robinhood-puts-25m-into-bitcoin-citing-belief-in-cryptos-future/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T02:03:20Z"
+  },
+  {
+    "id": "2468f98c767dbab4",
+    "published_at": "2026-10-08T09:00+08:00",
+    "title": "土耳其银行业巨头Yapı Kredi建立受监管的加密货币TRA",
+    "summary": "Yapı Kredi Kripto选择了Integral的数字资产技术来为其即将到来的受监管的加密货币定价、流动性和风险管理提供支持",
+    "source": "Bitcoinist",
+    "category": "监管政策",
+    "url": "https://bitcoinist.com/turkish-banking-giant-yap-kredi-builds-regulated-crypto-trading/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T02:03:20Z"
+  },
+  {
     "id": "8fdb8da5dd09f46a",
     "published_at": "2026-10-08T08:04+08:00",
     "title": "贾斯汀·德雷克（ Justin Drake ）敦促加密“掩体模式” ，因为人工智能可能会破坏",
