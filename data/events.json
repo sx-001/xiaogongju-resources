@@ -1,5 +1,44 @@
 [
   {
+    "id": "6dd6fa0904070d2a",
+    "published_at": "2026-10-09T03:46+08:00",
+    "title": "华尔街的代币化热潮可能会有更大的赢家",
+    "summary": "该研究公司认为，代币化股票、债券和贷款通过收费平台和公司POI创造了新的交易和贷款市场",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T20:04:33Z"
+  },
+  {
+    "id": "f7e76f3a8aca012b",
+    "published_at": "2026-10-09T03:31+08:00",
+    "title": "证券化股票在推出代币化美国后上涨超过10 ％",
+    "summary": "Securitize的新产品使符合条件的投资者能够获得12家美国公司的代币化股票，包括股息和投票权以及",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T20:04:33Z"
+  },
+  {
+    "id": "99a1d749dc12fbdd",
+    "published_at": "2026-10-09T03:15+08:00",
+    "title": "银行业巨头渣打银行将加密货币托管业务扩展至S",
+    "summary": "渣打银行正准备将机构加密托管引入新加坡，将其数字资产业务扩展到另一家主要金融机构",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/finance/banking-giant-standard-chartered-expands-crypto-custody-singapore/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T20:04:33Z"
+  },
+  {
     "id": "770073ce2ca78525",
     "published_at": "2026-10-09T02:14+08:00",
     "title": "随着闪电崩盘周年纪念日的临近，加密货币崩溃",
