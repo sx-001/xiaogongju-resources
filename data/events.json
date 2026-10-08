@@ -1,5 +1,44 @@
 [
   {
+    "id": "1933c2c716bfb5d5",
+    "published_at": "2026-10-08T21:00+08:00",
+    "title": "当华尔街以Coinba开业时，比特币继续失去优势",
+    "summary": "从2026年9月21日至10月7日， 13个现金交易日中有8个下跌，但边界检查和反对的ETF流量导致持续的机构抛售",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T13:09:15Z"
+  },
+  {
+    "id": "ecb086ed7558348e",
+    "published_at": "2026-10-08T20:58+08:00",
+    "title": "Justi说，启动“掩体模式”以保护加密免受人工智能的影响",
+    "summary": "以太坊基金会研究员贾斯汀·德雷克（ Justin Drake ）预测，人工智能将在“几个月内” “打破”椭圆曲线加密。”POST Initiate ‘b",
+    "source": "Protos",
+    "category": "以太坊",
+    "url": "https://protos.com/initiate-bunker-mode-to-protect-crypto-from-ai-says-justin-drake/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T13:09:15Z"
+  },
+  {
+    "id": "3cd0f33d705e6056",
+    "published_at": "2026-10-08T20:30+08:00",
+    "title": "尽管看跌压力上升，但比特币价格仍高于$ 82K",
+    "summary": "比特币的价格在2026年10月8日难以找到立足点，此前大幅抛售将价格从中间$ 85,000跌至低点$ 82,0",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-holds-above-82k-despite-mounting-bearish-pressure/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T13:09:15Z"
+  },
+  {
     "id": "9c7d2a24f2ce78b4",
     "published_at": "2026-10-08T19:55+08:00",
     "title": "THORChain 9月创纪录的300万$收入的63%",
@@ -50,6 +89,19 @@
     "impact": "",
     "why": "",
     "created_at": "2026-10-08T12:04:01Z"
+  },
+  {
+    "id": "b44601100d32b9f8",
+    "published_at": "2026-10-08T19:36+08:00",
+    "title": "NUVA将美国住宅抵押贷款引入海外投资",
+    "summary": "该公司的HOME代币为符合条件的投资者提供了一系列美国房屋净值信贷额度，从1个USDC开始，目标是每年7%",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T13:09:15Z"
   },
   {
     "id": "5b549fd7706517bc",
