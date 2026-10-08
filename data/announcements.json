@@ -1,5 +1,29 @@
 [
   {
+    "id": "0d6eb3d01e9447c9",
+    "published_at": "2026-10-08T04:00:00Z",
+    "title": "KuCoin证明期货对决：赢得560,000 USDT的份额！",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "合约",
+    "url": "https://www.kucoin.com/announcement/PROOFFuturesContest",
+    "announcement_type": "合约",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T04:12:18Z"
+  },
+  {
+    "id": "1a967224db1fe156",
+    "published_at": "2026-10-08T03:51:46Z",
+    "title": "参与邀请活动 · 好友注册领 120 USDT ，邀请 3 人得 600 USDT",
+    "summary": "",
+    "source": "EasiCoin",
+    "category": "活动",
+    "url": "https://easicoin.zendesk.com/hc/zh-cn/articles/17912948494607",
+    "announcement_type": "活动",
+    "exchange": "EasiCoin",
+    "created_at": "2026-10-08T04:12:18Z"
+  },
+  {
     "id": "425720ba23820d40",
     "published_at": "2026-10-08T02:50:00Z",
     "title": "Bitget关于维护SWEAT/USDT现货交易对的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-18T12:13:39Z"
-  },
-  {
-    "id": "5612a80b3acb2a1d",
-    "published_at": "2026-09-18T10:02:41Z",
-    "title": "APP 更新公告（ v5.19.5 ）",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "公告",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/xi-tong-wei-hu/app-geng-xin-gong-gao-v5.19.5",
-    "announcement_type": "公告",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-18T10:11:15Z"
-  },
-  {
-    "id": "24a3b95b5fccce53",
-    "published_at": "2026-09-18T10:00:00Z",
-    "title": "2026年9月24日三对现货交易对退市通知",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895618",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T10:11:15Z"
   }
 ]
