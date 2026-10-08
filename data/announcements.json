@@ -1,5 +1,65 @@
 [
   {
+    "id": "241fb203ce3d27c5",
+    "published_at": "2026-10-08T10:00:53Z",
+    "title": "[现货下架] MGBX 将下架 STG 现货交易对的公告",
+    "summary": "",
+    "source": "MGBX",
+    "category": "下架",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17917347036687",
+    "announcement_type": "下架",
+    "exchange": "MGBX",
+    "created_at": "2026-10-08T10:13:32Z"
+  },
+  {
+    "id": "730621733341e8cf",
+    "published_at": "2026-10-08T09:34:00Z",
+    "title": "KuCoin暂时关闭星际之门金融（ STG ）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-stargate-finance-stg0810",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T10:13:32Z"
+  },
+  {
+    "id": "f7e6be28fb4e614d",
+    "published_at": "2026-10-08T09:34:00Z",
+    "title": "KuCoin已暂时关闭NodeOps （节点）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-nodeops-node0810",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T10:13:32Z"
+  },
+  {
+    "id": "ce39bc8fdb5e70d3",
+    "published_at": "2026-10-08T09:30:00Z",
+    "title": "KuCoin已暂时关闭BLAST （ BLAST ）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-blast-blast-20261008",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T10:13:32Z"
+  },
+  {
+    "id": "26908b88ac6f8321",
+    "published_at": "2026-10-08T09:19:00Z",
+    "title": "TradFi CFD 新增 IBB、 UVXY、 XLK、 GILD、 ISRG、 JOBY、 KLAC 热门资产公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "上币",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tradfi-cfd-xin-zeng-ibbuvxyxlkgildisrgjobyklac-re-men-zi-chan-gong-gao",
+    "announcement_type": "上币",
+    "exchange": "YUBIT",
+    "created_at": "2026-10-08T10:13:32Z"
+  },
+  {
     "id": "72e3a110ddd6e5ea",
     "published_at": "2026-10-08T08:49:33Z",
     "title": "XT 关于暂停XPL网络充提服务的公告",
@@ -142,6 +202,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-10-08T06:16:08Z"
+  },
+  {
+    "id": "f3dd2d925b7c1b35",
+    "published_at": "2026-10-08T06:00:00Z",
+    "title": "关于暂停PIX服务的通知",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "风控",
+    "url": "https://www.kucoin.com/announcement/temporary-scheduled-maintenance-of-BrazilPixPayments1008",
+    "announcement_type": "风控",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T10:13:32Z"
   },
   {
     "id": "5805e6a779df4656",
@@ -5926,77 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-19T15:09:59Z"
-  },
-  {
-    "id": "43d03edf02649bdc",
-    "published_at": "2026-09-19T10:20:00Z",
-    "title": "KuCoin已暂时关闭MultiversX （ EGLD ）的存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-multiversx-egld",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-19T11:09:50Z"
-  },
-  {
-    "id": "b7887ab86bd388aa",
-    "published_at": "2026-09-19T08:44:00Z",
-    "title": "Bitget关于暂停EGLD - Elrond eGold网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895636",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-19T09:10:45Z"
-  },
-  {
-    "id": "5c14227b8f6cd5e8",
-    "published_at": "2026-09-19T07:46:52Z",
-    "title": "XT 关于暂停PEAQ、 QUB链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62413394908313",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T08:11:32Z"
-  },
-  {
-    "id": "6698b7491e95dc12",
-    "published_at": "2026-09-19T07:41:18Z",
-    "title": "XT 关于恢复AR、 KAS_KRC20链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62413230058137",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T08:11:32Z"
-  },
-  {
-    "id": "a71049ea21d7c926",
-    "published_at": "2026-09-19T07:08:00Z",
-    "title": "Bitget关于恢复USDC - APTOS提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895635",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-19T07:09:57Z"
-  },
-  {
-    "id": "af1ce5affda80938",
-    "published_at": "2026-09-19T06:26:50Z",
-    "title": "XT 关于暂停KAS_KRC20链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62411524946457",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T07:09:57Z"
   }
 ]
