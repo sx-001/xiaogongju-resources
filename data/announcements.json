@@ -1,5 +1,17 @@
 [
   {
+    "id": "d09a7875f8db7f64",
+    "published_at": "2026-10-08T15:32:00Z",
+    "title": "Bitget关于暂停SEI - SEIEVM充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896825",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-08T16:14:25Z"
+  },
+  {
     "id": "50b918f1b91c33d8",
     "published_at": "2026-10-08T14:01:21Z",
     "title": "【安全提醒】TEBBIT 关于加强 iOS 设备及账户安全防护的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-20T07:10:03Z"
-  },
-  {
-    "id": "c23c3e92f7a7afef",
-    "published_at": "2026-09-20T05:51:39Z",
-    "title": "XT 关于暂停RXD充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62435259950361",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-20T06:13:10Z"
   }
 ]
