@@ -1,5 +1,53 @@
 [
   {
+    "id": "72e3a110ddd6e5ea",
+    "published_at": "2026-10-08T08:49:33Z",
+    "title": "XT 关于暂停XPL网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63029816031897",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T09:13:27Z"
+  },
+  {
+    "id": "0c703c1485503d5b",
+    "published_at": "2026-10-08T08:26:20Z",
+    "title": "XT 关于暂停MANTA网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63028905569561",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T09:13:27Z"
+  },
+  {
+    "id": "381b16e79fb21fed",
+    "published_at": "2026-10-08T08:10:00Z",
+    "title": "热将上线币VKTXUSDT、 MCDUSDT、 AKAMUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchVKTXUSDTMCDUSDTandAKAMUSDTPerpetualFutureson2026-10-08",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-08T09:13:27Z"
+  },
+  {
+    "id": "c5a76e4497b4834a",
+    "published_at": "2026-10-08T08:07:00Z",
+    "title": "Hotcoin 将上线CTUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchCTUSDTPerpetualFutureson2026-10-08",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-08T09:13:27Z"
+  },
+  {
     "id": "7d6265ef7f91dfa9",
     "published_at": "2026-10-08T08:00:17Z",
     "title": "XT 关于上线DHN （ Dohrnii ）交易的公告",
@@ -10,6 +58,18 @@
     "announcement_type": "上币",
     "exchange": "XT.COM",
     "created_at": "2026-10-08T08:13:19Z"
+  },
+  {
+    "id": "818e10b8d9084979",
+    "published_at": "2026-10-08T08:00:00Z",
+    "title": "加入Bitget联盟计划，将您的影响力转化为收入",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603796198",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-08T09:13:27Z"
   },
   {
     "id": "cf6244acf20d0d6f",
@@ -5938,65 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-19T07:09:57Z"
-  },
-  {
-    "id": "b9f2a823e4adde9c",
-    "published_at": "2026-09-19T05:34:09Z",
-    "title": "XT 关于深度隐藏UCN/USDT交易对的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62410259172761",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T06:13:18Z"
-  },
-  {
-    "id": "73aaf6b841422088",
-    "published_at": "2026-09-19T03:18:00Z",
-    "title": "Bitget关于恢复USDC -基础提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895634",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-19T04:10:50Z"
-  },
-  {
-    "id": "8fbb7e3984730623",
-    "published_at": "2026-09-19T02:25:19Z",
-    "title": "XT关于系统升级维护完成的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "维护",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62405634922137",
-    "announcement_type": "维护",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T06:13:18Z"
-  },
-  {
-    "id": "7e984b96eb8acd25",
-    "published_at": "2026-09-19T01:39:07Z",
-    "title": "XT 关于暂停EIOB链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62404420958745",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T02:10:41Z"
-  },
-  {
-    "id": "eec63db140501d51",
-    "published_at": "2026-09-18T16:58:00Z",
-    "title": "Bitget关于暂停USDC -基础网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895630",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T17:09:53Z"
   }
 ]
