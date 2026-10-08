@@ -1,5 +1,57 @@
 [
   {
+    "id": "940c569e87065fba",
+    "published_at": "2026-10-08T23:00+08:00",
+    "title": "1000 $的MetaMask事件可能会使以太坊的质押问题恶化",
+    "summary": "Bitquery确定的退出队列作为新需求的全面回归将创造50.4亿美元的总工作量，而Lido预计将逐渐重新进入。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T15:04:53Z"
+  },
+  {
+    "id": "3af89f80c1bdc10a",
+    "published_at": "2026-10-08T22:50+08:00",
+    "title": "比特币ETF自6月以来每日流出量最多，损失4.87亿美元$",
+    "summary": "比特币ETF周三公布净流出4.8707亿美元，为6月25日以来的最大单日亏损，而以太坊基金又损失了160.77亿美元",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-487m-heaviest-daily-outflow-since-june/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T15:04:53Z"
+  },
+  {
+    "id": "1c05de4f423013e0",
+    "published_at": "2026-10-08T22:24+08:00",
+    "title": "卡尔达诺基金会分拆Veridian ，代币化其股票",
+    "summary": "Veridian成为第一家将Cardano的新可编程代币标准用于其股权的公司，尽管代币化股票并未提供",
+    "source": "CoinDesk",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T15:04:53Z"
+  },
+  {
+    "id": "46067999753235d6",
+    "published_at": "2026-10-08T22:17+08:00",
+    "title": "从比特币挖矿到全球银行业务，不丹着眼于阿布扎比",
+    "summary": "周四，不丹完全数字化的银行DK银行宣布，它已获得监管部门的初步批准，以建立金融服务业务",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/from-bitcoin-mining-global-banking-bhutan-eyes-abu-dhabi/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T15:04:53Z"
+  },
+  {
     "id": "1eb495ffcbbe440f",
     "published_at": "2026-10-08T21:40+08:00",
     "title": "“碉堡模式” ？加密专家争论人工智能对Bitcoi的威胁",
