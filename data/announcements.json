@@ -1,5 +1,29 @@
 [
   {
+    "id": "2e7b6476c1e7e9d2",
+    "published_at": "2026-10-08T01:58:21Z",
+    "title": "XT关于暂停点网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63013677690393",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T02:11:20Z"
+  },
+  {
+    "id": "47089598afd86542",
+    "published_at": "2026-10-08T01:56:23Z",
+    "title": "XT 关于恢复CELO网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63013606621465",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T02:11:20Z"
+  },
+  {
     "id": "949401c5e19ed493",
     "published_at": "2026-10-07T13:43:00Z",
     "title": "Hotcoin 将下架华纳兄弟探索 WBDUSDT U本位永续合约",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-18T09:10:53Z"
-  },
-  {
-    "id": "ed9edb06658d1b06",
-    "published_at": "2026-09-18T08:48:00Z",
-    "title": "KuCoin Convert Adds 牛来 (牛来)",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "上币",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-convert-adds-new-assets-0918",
-    "announcement_type": "上币",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-18T09:10:53Z"
-  },
-  {
-    "id": "90ede8dfb2186e1f",
-    "published_at": "2026-09-18T08:00:00Z",
-    "title": "赚取第133周的周五：使用USDT、BTC、SOL赚取高达6.6%的APR",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-earn-friday-week-133-earn-up-to-6-6-apr-with-usdt-btc-sol",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-18T08:11:35Z"
   }
 ]
