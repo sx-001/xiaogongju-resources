@@ -1,5 +1,53 @@
 [
   {
+    "id": "425720ba23820d40",
+    "published_at": "2026-10-08T02:50:00Z",
+    "title": "Bitget关于维护SWEAT/USDT现货交易对的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603896802",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-10-08T03:12:00Z"
+  },
+  {
+    "id": "baf5d7c97bd7b89e",
+    "published_at": "2026-10-08T02:36:47Z",
+    "title": "XT 关于恢复MANTA网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63015304397337",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T03:12:00Z"
+  },
+  {
+    "id": "499f24938017ef63",
+    "published_at": "2026-10-08T02:34:37Z",
+    "title": "XT 关于MEMEPIECE （ MPICT ）合约置换完成的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63015228937241",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T03:12:00Z"
+  },
+  {
+    "id": "f9c0389894710236",
+    "published_at": "2026-10-08T02:31:16Z",
+    "title": "XT 关于恢复INJ网络提现服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63015054519705",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T03:12:00Z"
+  },
+  {
     "id": "2e7b6476c1e7e9d2",
     "published_at": "2026-10-08T01:58:21Z",
     "title": "XT关于暂停点网络充提服务的公告",
@@ -22,6 +70,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-10-08T02:11:20Z"
+  },
+  {
+    "id": "441bbe1293cf836d",
+    "published_at": "2026-10-08T01:18:09Z",
+    "title": "XT.COM 关于取消隐藏MPICT/USDT交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63012148598425",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-08T03:12:00Z"
   },
   {
     "id": "949401c5e19ed493",
@@ -5938,65 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Bitget",
     "created_at": "2026-09-18T10:11:15Z"
-  },
-  {
-    "id": "9dd4f5198f1d66f5",
-    "published_at": "2026-09-18T10:00:00Z",
-    "title": "Bitget将在2026年9月第四周的特殊交易期间调整差价合约杠杆",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895546",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T10:11:15Z"
-  },
-  {
-    "id": "4c168feb479a1395",
-    "published_at": "2026-09-18T10:00:00Z",
-    "title": "Notice on Bitget CFD system maintenance",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603895550",
-    "announcement_type": "维护",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T11:11:02Z"
-  },
-  {
-    "id": "dccd6ffe65dac6fe",
-    "published_at": "2026-09-18T10:00:00Z",
-    "title": "通过Bitget零利率保证金贷款计划释放更大的回报！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895510",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T11:11:02Z"
-  },
-  {
-    "id": "d8711386b5d3d90a",
-    "published_at": "2026-09-18T09:55:00Z",
-    "title": "Hotcoin Alpha 交易有礼 # 5 ：伏击链上百倍机会 ，交易赢取 iPhone Duo ！",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "公告",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/alpha-trading-rewards-5/",
-    "announcement_type": "公告",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-18T11:11:02Z"
-  },
-  {
-    "id": "76e3c0683661e880",
-    "published_at": "2026-09-18T09:00:00Z",
-    "title": "【重要提示】Bitget支持统一账户中的现金+保证金功能",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895599",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-18T09:10:53Z"
   }
 ]
