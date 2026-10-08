@@ -1,5 +1,17 @@
 [
   {
+    "id": "2c2d8160cbe407df",
+    "published_at": "2026-10-08T10:43:00Z",
+    "title": "复制交易，有机会赢得iPhone和BTC",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-copy-trade-for-chances-to-win-iphone-and-btc",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-08T11:12:06Z"
+  },
+  {
     "id": "241fb203ce3d27c5",
     "published_at": "2026-10-08T10:00:53Z",
     "title": "[现货下架] MGBX 将下架 STG 现货交易对的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-19T22:09:49Z"
-  },
-  {
-    "id": "9889f663054c2333",
-    "published_at": "2026-09-19T14:59:10Z",
-    "title": "XT 关于恢复QUB链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62422781748249",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-19T15:09:59Z"
   }
 ]
