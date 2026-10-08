@@ -1,5 +1,31 @@
 [
   {
+    "id": "8fdb8da5dd09f46a",
+    "published_at": "2026-10-08T08:04+08:00",
+    "title": "贾斯汀·德雷克（ Justin Drake ）敦促加密“掩体模式” ，因为人工智能可能会破坏",
+    "summary": "The Ethereum researcher said crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quant",
+    "source": "Cointelegraph",
+    "category": "以太坊",
+    "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T01:07:28Z"
+  },
+  {
+    "id": "86bbf2d56b65105c",
+    "published_at": "2026-10-08T08:00+08:00",
+    "title": "美国政府将没收的4.7亿美元加密货币转移到Coinbas",
+    "summary": "根据Arkham的说法，美国政府将扣押的约4.7亿美元加密货币转移到可能的Coinbase Prime地址，重新引发了对",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T01:07:28Z"
+  },
+  {
     "id": "fed285ba46773426",
     "published_at": "2026-10-08T07:05+08:00",
     "title": "破坏雇主以获取比特币赎金的工程师获得了PRIS",
