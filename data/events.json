@@ -1,5 +1,18 @@
 [
   {
+    "id": "770073ce2ca78525",
+    "published_at": "2026-10-09T02:14+08:00",
+    "title": "随着闪电崩盘周年纪念日的临近，加密货币崩溃",
+    "summary": "2025年10月10日，比特币从约$ 122,000暴跌至$ 105,000 ，其中大部分跌幅发生在几分钟内。",
+    "source": "CoinDesk",
+    "category": "极端行情",
+    "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-08T19:05:43Z"
+  },
+  {
     "id": "4d628768f1c86b42",
     "published_at": "2026-10-09T01:46+08:00",
     "title": "比特币ETF遭遇自6月份以来最严重的损失，因为10月份转为R",
