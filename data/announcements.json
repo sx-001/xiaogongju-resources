@@ -1,5 +1,17 @@
 [
   {
+    "id": "07c638dd221457d3",
+    "published_at": "2026-10-08T12:13:00Z",
+    "title": "合约达人进阶挑战：首单有礼 ，累计交易解锁 360,000 USDT 奖池",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "合约",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/center4",
+    "announcement_type": "合约",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-08T13:16:41Z"
+  },
+  {
     "id": "2c2d8160cbe407df",
     "published_at": "2026-10-08T10:43:00Z",
     "title": "复制交易，有机会赢得iPhone和BTC",
@@ -5986,17 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "XT.COM",
     "created_at": "2026-09-20T04:11:02Z"
-  },
-  {
-    "id": "517f91098d3e7822",
-    "published_at": "2026-09-20T02:26:00Z",
-    "title": "KuCoin已暂时关闭人工超级智能联盟（ FET ）的存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-artificial-superintelligence-alliance-fet",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-20T03:10:56Z"
   }
 ]
