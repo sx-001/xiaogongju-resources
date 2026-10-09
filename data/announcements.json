@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce8c009d3d97ea0f",
+    "published_at": "2026-10-09T14:30:00Z",
+    "title": "关于暂停XRP网络存取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896920",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T15:12:47Z"
+  },
+  {
     "id": "c0d54b30a76d251f",
     "published_at": "2026-10-09T14:12:01Z",
     "title": "BitTap 公告｜事件合约重磅上新 ： DOGE/USDT 交易对将于 10 月 10 日 10 时上线",
@@ -5985,18 +5997,6 @@
     "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-adjust-the-maximum-leverage-and-risk-limit-of-multiple-perpetual-contracts-2026-09-22",
     "announcement_type": "合约",
     "exchange": "KuCoin",
-    "created_at": "2026-09-21T09:12:16Z"
-  },
-  {
-    "id": "485491d62028a21c",
-    "published_at": "2026-09-21T08:12:00Z",
-    "title": "Hotcoin 关于移除部分交易对的公告（ 2026-09-24 ）",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "公告",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistSelectedTradingPairson2026-09-24/",
-    "announcement_type": "公告",
-    "exchange": "Hotcoin",
     "created_at": "2026-09-21T09:12:16Z"
   }
 ]
