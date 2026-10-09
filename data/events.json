@@ -1,5 +1,57 @@
 [
   {
+    "id": "65fa2a0ab6db13bb",
+    "published_at": "2026-10-09T18:44+08:00",
+    "title": "特朗普排除伊朗STR后，比特币稳定在$ 82,500附近",
+    "summary": "在特朗普排除伊朗罢工后，比特币回升至82,500 $左右，但本周仍下跌约4% ，而以太坊下跌9%。",
+    "source": "CoinDesk",
+    "category": "宏观-地缘与贸易",
+    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T11:03:25Z"
+  },
+  {
+    "id": "660b8c462b05073a",
+    "published_at": "2026-10-09T18:40+08:00",
+    "title": "泰国证券交易委员会发布比特币和以太坊ETF规则",
+    "summary": "泰国证券交易委员会将最初的加密ETF限制在比特币和以太币上，新的托管、敞口和交易规则将于10月16日生效。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T11:03:25Z"
+  },
+  {
+    "id": "da57e54675a7515e",
+    "published_at": "2026-10-09T18:34+08:00",
+    "title": "英国制裁与俄罗斯非法交易相关的三家加密交易所",
+    "summary": "英国制裁了加密货币交易所和支付处理商，其中一些与成千上万的俄罗斯实体和受制裁的HTX交易所有关。",
+    "source": "Cointelegraph",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T11:03:25Z"
+  },
+  {
+    "id": "86d004458978637d",
+    "published_at": "2026-10-09T18:14+08:00",
+    "title": "英国因涉嫌Ru而对三家加密货币交易所实施制裁",
+    "summary": "英国表示，加密货币平台和两项支付服务可能有助于俄罗斯逃避金融制裁，其中两项处理交易涉及",
+    "source": "CoinDesk",
+    "category": "宏观-地缘与贸易",
+    "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T11:03:25Z"
+  },
+  {
     "id": "8bfa0398e1ec8172",
     "published_at": "2026-10-09T17:08+08:00",
     "title": "MARA向Galaxy Digital转账$ 8110万比特币",
