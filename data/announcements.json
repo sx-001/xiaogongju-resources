@@ -1,5 +1,17 @@
 [
   {
+    "id": "187265779d418fca",
+    "published_at": "2026-10-09T15:36:00Z",
+    "title": "Bitget关于暂停USDC - AVAX C-Chain网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896923",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T16:12:51Z"
+  },
+  {
     "id": "ce8c009d3d97ea0f",
     "published_at": "2026-10-09T14:30:00Z",
     "title": "关于暂停XRP网络存取款服务的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895765",
     "announcement_type": "公告",
     "exchange": "Bitget",
-    "created_at": "2026-09-21T09:12:16Z"
-  },
-  {
-    "id": "5f4933f92cd0aa8d",
-    "published_at": "2026-09-21T08:39:00Z",
-    "title": "KuCoin期货将调整多个永续合约的最大杠杆和风险限额（ 2026-09-22 ）",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "合约",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-will-adjust-the-maximum-leverage-and-risk-limit-of-multiple-perpetual-contracts-2026-09-22",
-    "announcement_type": "合约",
-    "exchange": "KuCoin",
     "created_at": "2026-09-21T09:12:16Z"
   }
 ]
