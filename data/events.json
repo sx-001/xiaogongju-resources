@@ -1,5 +1,31 @@
 [
   {
+    "id": "eef1159f64d733d0",
+    "published_at": "2026-10-09T16:59+08:00",
+    "title": "将被盗加密货币花在黄金烤架上的SIM卡交换欺诈者",
+    "summary": "在2021年11月犯罪分子劫持英国电信客户的电话号码后， Ajay Shinjin帮助窃取了近265,000 $的加密货币。",
+    "source": "Decrypt",
+    "category": "黑客攻击",
+    "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T09:04:38Z"
+  },
+  {
+    "id": "7e89cae02df61fd1",
+    "published_at": "2026-10-09T16:30+08:00",
+    "title": "您的比特币或加密人工智能代理可能会向您追加销售：方法如下",
+    "summary": "让人工智能(AI)代理访问您的比特币、稳定币或其他加密资产钱包可能会让您以意想不到的方式付出代价。如果",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/technology/your-bitcoin-or-crypto-ai-agent-might-upsell-you-heres-how-to-fix-it/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T09:04:38Z"
+  },
+  {
     "id": "839f962bc6e01433",
     "published_at": "2026-10-09T15:34+08:00",
     "title": "比特币，以太坊ETF 10月份的资金流出量猛增至10亿美元（ $ 1B ）",
