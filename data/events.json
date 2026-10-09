@@ -1,5 +1,44 @@
 [
   {
+    "id": "15a7a2ff360738c8",
+    "published_at": "2026-10-09T14:51+08:00",
+    "title": "实时更新： XRP ETF是唯一绿色的BTC、ETH、Z",
+    "summary": "比特币ETF周四亏损2.44 $ ， ZEC基金延长了10月份的资金流出。比特币在流动性达到$ 10亿后回归接近$ 82,000",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T07:07:43Z"
+  },
+  {
+    "id": "26147a04714c8c6d",
+    "published_at": "2026-10-09T14:40+08:00",
+    "title": "为比特币贷款提供支持的新技术将以500 $首次亮相",
+    "summary": "Layer-1区块链Sui正在推出Hashi ，这是一种机构协议，允许持有人使用比特币作为抵押品，而无需将其从比特币中移除",
+    "source": "CoinDesk",
+    "category": "ETF机构",
+    "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T07:07:43Z"
+  },
+  {
+    "id": "801269754e3b6e1d",
+    "published_at": "2026-10-09T14:30+08:00",
+    "title": "大卫·格罗斯警告说，核战争的可能性增加了一倍，",
+    "summary": "2004年诺贝尔物理学奖得主大卫·格罗斯（ David Gross ）表示，核战争的年度风险已从冷战期间的约1 ％攀升至约2 ％。",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/technology/david-gross-warns-nuclear-war-odds-have-doubled-putting-the-next-50-years-in-doubt-49201/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T07:07:43Z"
+  },
+  {
     "id": "f809440a4d195450",
     "published_at": "2026-10-09T13:30+08:00",
     "title": "吉尔吉斯斯坦关闭稳定币USDKG ，在英国之后烧毁5000万代币",
