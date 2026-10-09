@@ -1,5 +1,31 @@
 [
   {
+    "id": "f809440a4d195450",
+    "published_at": "2026-10-09T13:30+08:00",
+    "title": "吉尔吉斯斯坦关闭稳定币USDKG ，在英国之后烧毁5000万代币",
+    "summary": "吉尔吉斯斯坦正在逐步淘汰其国家支持的黄金稳定币USDKG ，并清算其发行人和该国第一个国有加密货币交易所",
+    "source": "Bitcoin.com",
+    "category": "宏观-地缘与贸易",
+    "url": "https://news.bitcoin.com/regulation-and-legal/kyrgyzstan-shuts-stablecoin-usdkg-burns-50m-tokens-after-uk-sanctions/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T06:04:37Z"
+  },
+  {
+    "id": "7bab273493c9daec",
+    "published_at": "2026-10-09T13:20+08:00",
+    "title": "Core Lightning修补关键安全漏洞和比特币",
+    "summary": "版本v26.06.9修复了v26.06.8回归，该回归可能会延迟繁忙节点上的通道流量，并为转发资金添加保护。POST核心",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T06:04:37Z"
+  },
+  {
     "id": "edecc250b3e9ffde",
     "published_at": "2026-10-09T12:04+08:00",
     "title": "以太坊投注在哭泣中以比特币的六倍的速度被消灭",
