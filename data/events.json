@@ -1,5 +1,18 @@
 [
   {
+    "id": "47739db846fdf0bf",
+    "published_at": "2026-10-10T05:10+08:00",
+    "title": "随着Tether冻结， Ledger黑客恐慌接近9000万美元",
+    "summary": "根据区块链调查，随着Tether冻结与此事件相关的USDT稳定币，疑似Ledger钱包盗窃案接近9000万美元$",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T22:02:55Z"
+  },
+  {
     "id": "78d757246a9a770f",
     "published_at": "2026-10-10T04:39+08:00",
     "title": "美国计划本周缉获与伊朗有关的$ 1B加密货币： Sc",
