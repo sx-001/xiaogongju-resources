@@ -1,5 +1,31 @@
 [
   {
+    "id": "8fe55b2ec5d28480",
+    "published_at": "2026-10-09T21:37+08:00",
+    "title": "比特币、以太币价格因ETF以2天流出N的形式出售而受到打击",
+    "summary": "美国比特币ETF周四又损失了2.4413亿美元，而以太坊基金连续第八天赎回损失了7254万美元。合并",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-ether-prices-hit-etf-selling-2-day-outflows-near-1-billion/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T14:05:40Z"
+  },
+  {
+    "id": "2dd5dc00e4bcbc99",
+    "published_at": "2026-10-09T21:12+08:00",
+    "title": "基础创始人杰西·波拉克（ Jesse Pollak ）表示，股票和非美元稳定",
+    "summary": "根据Pollak的说法， Coinbase六周前在Base上推出了代币化股票，日交易量约为7000万至1亿美元。",
+    "source": "The Block",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T14:05:40Z"
+  },
+  {
     "id": "5ce846b12098ec40",
     "published_at": "2026-10-09T20:30+08:00",
     "title": "以太坊价格下跌至$ 2.42 K清算一头$ 6900万鲸鱼",
