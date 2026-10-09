@@ -1,5 +1,18 @@
 [
   {
+    "id": "8bfa0398e1ec8172",
+    "published_at": "2026-10-09T17:08+08:00",
+    "title": "MARA向Galaxy Digital转账$ 8110万比特币",
+    "summary": "这位比特币矿工的转账并未确认出售，但其国库已从2月份的53,822 BTC降至8月份的35,577 BTC。",
+    "source": "CoinDesk",
+    "category": "监管政策",
+    "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T10:04:30Z"
+  },
+  {
     "id": "eef1159f64d733d0",
     "published_at": "2026-10-09T16:59+08:00",
     "title": "将被盗加密货币花在黄金烤架上的SIM卡交换欺诈者",
