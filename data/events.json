@@ -1,5 +1,44 @@
 [
   {
+    "id": "5ce846b12098ec40",
+    "published_at": "2026-10-09T20:30+08:00",
+    "title": "以太坊价格下跌至$ 2.42 K清算一头$ 6900万鲸鱼",
+    "summary": "一头超液态鲸在隔夜崩盘中被迫清算，损失了28,716以太坊，价值6969万美元$。不到半个小时，它就用新鲜的边缘",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/featured/ether-whale-liquidated-69m-hyperliquid-reloads-long/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T13:07:48Z"
+  },
+  {
+    "id": "d250fd77b07a2568",
+    "published_at": "2026-10-09T20:23+08:00",
+    "title": "DWF Labs子公司起诉BitGo涉嫌$ 1.41亿",
+    "summary": "DWF正在根据BitGo的代币销售因代币价格下跌而造成的直接损失寻求1.14亿美元的损害赔偿。",
+    "source": "CoinDesk",
+    "category": "黑客攻击",
+    "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T13:07:48Z"
+  },
+  {
+    "id": "c49cf4d10eba653e",
+    "published_at": "2026-10-09T20:04+08:00",
+    "title": "英国瞄准俄罗斯新制裁中的Cryptomus和TokenSpot",
+    "summary": "英国政府表示，该套餐涉及五个加密和支付平台，其中两个处理与俄罗斯A7网络的交易。",
+    "source": "Decrypt",
+    "category": "宏观-地缘与贸易",
+    "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T13:07:48Z"
+  },
+  {
     "id": "7c47a8a3486acaea",
     "published_at": "2026-10-09T19:41+08:00",
     "title": "上午一分钟：十月份变酸，因为加密专业幻灯片",
