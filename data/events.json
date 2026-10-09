@@ -1,5 +1,31 @@
 [
   {
+    "id": "fccba4b31ff39792",
+    "published_at": "2026-10-09T11:27+08:00",
+    "title": "随着特朗普排除伊朗罢工，比特币反弹至82,000 $ ，",
+    "summary": "比特币反弹至82,000 $ ，因为特朗普在中期选举前排除了伊朗罢工的可能性，而加密安全专家则推翻了“掩体模式”的担忧。",
+    "source": "CoinDesk",
+    "category": "安全风险",
+    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T04:03:56Z"
+  },
+  {
+    "id": "5033520b8dff4bec",
+    "published_at": "2026-10-09T11:05+08:00",
+    "title": "英国因涉嫌与俄罗斯有关的电子交易所而对加密货币交易所实施制裁",
+    "summary": "三家加密货币交易所和两家支付平台因涉嫌绕过对俄罗斯的限制而受到新的英国制裁。",
+    "source": "Bitcoin.com",
+    "category": "宏观-地缘与贸易",
+    "url": "https://news.bitcoin.com/regulation-and-legal/uk-sanctions-crypto-exchanges-over-suspected-russia-linked-evasion/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T04:03:56Z"
+  },
+  {
     "id": "47947b261ffbc7ba",
     "published_at": "2026-10-09T11:00+08:00",
     "title": "人工智能可能会让比特币最大的宏观阻力保持活力",
