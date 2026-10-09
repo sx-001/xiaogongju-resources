@@ -1,5 +1,31 @@
 [
   {
+    "id": "7c47a8a3486acaea",
+    "published_at": "2026-10-09T19:41+08:00",
+    "title": "上午一分钟：十月份变酸，因为加密专业幻灯片",
+    "summary": "随着10/10周年纪念日的临近，这是否是更大规模抛售的开始？或者只是在下一站之前的杠杆冲洗？",
+    "source": "Decrypt",
+    "category": "市场波动",
+    "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T12:03:47Z"
+  },
+  {
+    "id": "29e61196358138db",
+    "published_at": "2026-10-09T19:30+08:00",
+    "title": "比特币价格与以太坊价格： F2Pool联合创始人押注$ 1900万",
+    "summary": "An address tied to F2Pool co-founder Wang Chun sold 235.5 WBTC worth $19.31 million for 7,848.5 ETH right after bitcoin&#8217;s overnight drop to $80.",
+    "source": "Bitcoin.com",
+    "category": "以太坊",
+    "url": "https://news.bitcoin.com/crypto-news/f2pool-co-founder-wang-chun-swaps-wbtc-for-ether/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T12:03:47Z"
+  },
+  {
     "id": "65fa2a0ab6db13bb",
     "published_at": "2026-10-09T18:44+08:00",
     "title": "特朗普排除伊朗STR后，比特币稳定在$ 82,500附近",
