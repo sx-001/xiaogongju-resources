@@ -1,5 +1,31 @@
 [
   {
+    "id": "64c57b6d512c3c32",
+    "published_at": "2026-10-10T03:47+08:00",
+    "title": "OpenAI和Anthropic正在为AFTE悄悄排练",
+    "summary": "高管们正在对人工智能驱动的重大网络攻击的政治后果进行战争游戏，并准备在必要时迅速向国会通报情况。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T20:01:57Z"
+  },
+  {
+    "id": "d09c9479a11ed86f",
+    "published_at": "2026-10-10T03:05+08:00",
+    "title": "巴西从自托管钱包中扣押了创纪录的加密货币资金",
+    "summary": "在针对使用社会工程进行网络钓鱼的犯罪集团的ClickFix行动中，圣卡塔琳娜州的民警",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/regulation-and-legal/brazil-seizes-record-crypto-funds-self-custody-wallets/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T20:01:57Z"
+  },
+  {
     "id": "ca30731623d78915",
     "published_at": "2026-10-10T03:00+08:00",
     "title": "霍斯金森说， Vitalik的人工智能警告可能会延迟互联网",
