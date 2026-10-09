@@ -1,5 +1,31 @@
 [
   {
+    "id": "839f962bc6e01433",
+    "published_at": "2026-10-09T15:34+08:00",
+    "title": "比特币，以太坊ETF 10月份的资金流出量猛增至10亿美元（ $ 1B ）",
+    "summary": "比特币ETF周四亏损2.44亿美元，而以太坊基金将其流出连续八个交易日，亏损6.41亿美元。",
+    "source": "Cointelegraph",
+    "category": "ETF机构",
+    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T08:04:31Z"
+  },
+  {
+    "id": "0b515bd331763536",
+    "published_at": "2026-10-09T15:30+08:00",
+    "title": "随着泰国对比特币开放，比特币价格保持在$ 82K",
+    "summary": "泰国证券监管机构已最终确定了比特币和以太坊交易所交易基金（ ETF ）的规则，首批产品可以从",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/bitcoin-etf/thailand-bitcoin-ether-etfs-rules-october-16/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T08:04:31Z"
+  },
+  {
     "id": "15a7a2ff360738c8",
     "published_at": "2026-10-09T14:51+08:00",
     "title": "实时更新： XRP ETF是唯一绿色的BTC、ETH、Z",
