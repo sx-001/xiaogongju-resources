@@ -1,5 +1,31 @@
 [
   {
+    "id": "4896fe819810fc62",
+    "published_at": "2026-10-10T06:20+08:00",
+    "title": "以太坊费用仅覆盖2026年印刷的新硬币的2%",
+    "summary": "10月9日的分类账显示，费用烧钱占总发行的2.07% ，而有条件的产能模型则测试了缩减供应所需的需求。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/eth-fee-burns-cover-just-2-of-new-coins-printed-in-2026/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T23:02:35Z"
+  },
+  {
+    "id": "a90fbf451428955a",
+    "published_at": "2026-10-10T06:03+08:00",
+    "title": "Coinbase和Gennius计划通过LAT访问ONED稳定币",
+    "summary": "阿根廷优先计划将允许客户将符合条件的存款转换为ONED美元，全天候转账并通过Visa消费。",
+    "source": "The Defiant",
+    "category": "宏观-国债与美元",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T23:02:35Z"
+  },
+  {
     "id": "47739db846fdf0bf",
     "published_at": "2026-10-10T05:10+08:00",
     "title": "随着Tether冻结， Ledger黑客恐慌接近9000万美元",
