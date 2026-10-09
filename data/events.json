@@ -1,5 +1,18 @@
 [
   {
+    "id": "edecc250b3e9ffde",
+    "published_at": "2026-10-09T12:04+08:00",
+    "title": "以太坊投注在哭泣中以比特币的六倍的速度被消灭",
+    "summary": "大约3.56亿美元的ETH头寸在24小时内被清算，超过比特币，尽管以太币的市值不到五分之一。",
+    "source": "CoinDesk",
+    "category": "极端行情",
+    "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T05:03:40Z"
+  },
+  {
     "id": "fccba4b31ff39792",
     "published_at": "2026-10-09T11:27+08:00",
     "title": "随着特朗普排除伊朗罢工，比特币反弹至82,000 $ ，",
