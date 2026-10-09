@@ -1,5 +1,31 @@
 [
   {
+    "id": "58a2c740468af20e",
+    "published_at": "2026-10-09T07:34+08:00",
+    "title": "Coinbase密码学家称德雷克的“地堡模式”警告",
+    "summary": "Vitalik Buterin表示，人工智能加速数学的风险是真实的，但它指向晶格而不是椭圆曲线。前以太坊基金会",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T00:02:37Z"
+  },
+  {
+    "id": "08fd8aad06f175c0",
+    "published_at": "2026-10-09T07:20+08:00",
+    "title": "Securitize让苹果、英伟达和特斯拉股票上链",
+    "summary": "Securitize将在Solana上推出美国主要股票的1: 1支持版本，使符合条件的投资者能够获得包括Apple、Nvidia、Tesl在内的股票",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/finance/securitize-brings-apple-nvidia-and-tesla-stocks-onchain-on-solana/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T00:02:37Z"
+  },
+  {
     "id": "4fafba0f6fd8ccf0",
     "published_at": "2026-10-09T06:00+08:00",
     "title": "XRP分类账批量升级在验证器Vo后即将激活",
