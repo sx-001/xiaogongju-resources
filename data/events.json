@@ -1,5 +1,18 @@
 [
   {
+    "id": "03ccb542134e9856",
+    "published_at": "2026-10-09T08:46+08:00",
+    "title": "康托尔·菲茨杰拉德（ Cantor Fitzgerald ）面临参议院民主党对Tether的调查",
+    "summary": "这封信是在民主党调查人员上个月的一份报告之后发出的，该报告称Tether的USDT已成为伊朗影子银行网络的关键工具。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T01:09:29Z"
+  },
+  {
     "id": "58a2c740468af20e",
     "published_at": "2026-10-09T07:34+08:00",
     "title": "Coinbase密码学家称德雷克的“地堡模式”警告",
