@@ -1,5 +1,18 @@
 [
   {
+    "id": "4a6c7826ab5533bb",
+    "published_at": "2026-10-10T02:00+08:00",
+    "title": "以太坊提出的安全检查仍可能导致不良交易",
+    "summary": "EIP-7906草案可能会扩大结果检查，但有意义的财务限制必须来自交易构建者不得削弱的政策。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T18:03:25Z"
+  },
+  {
     "id": "ee19ba2f14408713",
     "published_at": "2026-10-10T01:00+08:00",
     "title": "以太坊开放权益在币安上涨2.3%",
