@@ -1,5 +1,53 @@
 [
   {
+    "id": "6bfcc88139bc9be4",
+    "published_at": "2026-10-09T11:07:58Z",
+    "title": "XT 关于恢复DOI网络充值服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63068913168665",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-09T11:11:44Z"
+  },
+  {
+    "id": "b0eac36e28c6dd62",
+    "published_at": "2026-10-09T11:00:00Z",
+    "title": "Bitget已完成Stargate Finance (STG)代币交换并迁移到LayerZero (ZRO)",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896912",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T11:11:44Z"
+  },
+  {
+    "id": "b95ae2d72d124c08",
+    "published_at": "2026-10-09T10:48:00Z",
+    "title": "KuCoin将支持Stargate Finance （ STG ）令牌合并到LayerZero （ ZRO ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-support-the-stargate-finance-stg-token-merge-to-layerzero-zro",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-09T11:11:44Z"
+  },
+  {
+    "id": "c0bc6c49139389a7",
+    "published_at": "2026-10-09T10:00:00Z",
+    "title": "USDGO HodlerYield持有奖励活动延长至10月31日",
+    "summary": "",
+    "source": "Bitget",
+    "category": "活动",
+    "url": "https://www.bitget.com/support/articles/12560603896813",
+    "announcement_type": "活动",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T11:11:44Z"
+  },
+  {
     "id": "f88a6189c8859138",
     "published_at": "2026-10-09T09:37:34Z",
     "title": "币王UID身份价值鉴定正式开启",
@@ -58,6 +106,30 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-10-09T09:13:35Z"
+  },
+  {
+    "id": "068d17dde40d4c08",
+    "published_at": "2026-10-09T08:00:00Z",
+    "title": "CandyBomb x BTC ：交易期货以分享0.2 BTC ！",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896897",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T11:11:44Z"
+  },
+  {
+    "id": "c1787ad0b6c154b1",
+    "published_at": "2026-10-09T08:00:00Z",
+    "title": "CandyBomb x rSNDK ：交易期货以分享8 rSNDK ！",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896894",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T11:11:44Z"
   },
   {
     "id": "797e9169acbee12d",
@@ -5926,77 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "MGBX",
     "created_at": "2026-09-21T07:11:36Z"
-  },
-  {
-    "id": "b050f24863b775f1",
-    "published_at": "2026-09-21T06:00:00Z",
-    "title": "CandyBomb x MHA ：交易以分享8,000,000 MHA",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895750",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T06:15:23Z"
-  },
-  {
-    "id": "6a8fd80941551a7e",
-    "published_at": "2026-09-21T06:00:00Z",
-    "title": "Bitget PoolX上市MAGNE.AI （ MHA ） ：锁定ETH和XAUT以获得800万MHA空投",
-    "summary": "",
-    "source": "Bitget",
-    "category": "活动",
-    "url": "https://www.bitget.com/support/articles/12560603895752",
-    "announcement_type": "活动",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T06:15:23Z"
-  },
-  {
-    "id": "fbec99d99fde377b",
-    "published_at": "2026-09-21T05:53:40Z",
-    "title": "XT 关于隐藏并下架MEFAI/USDT交易对的公告 (2026-09-22)",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "下架",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62466010761497",
-    "announcement_type": "下架",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T06:15:23Z"
-  },
-  {
-    "id": "c9523e7e5d7d3b3d",
-    "published_at": "2026-09-21T05:09:32Z",
-    "title": "9 月21日 AOZX每日资讯 ｜ BTC回升至 81,000美元 ，美国加密法案失败原因引发争议",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17696212362383",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-21T05:10:37Z"
-  },
-  {
-    "id": "e8f97c6ff83c2b87",
-    "published_at": "2026-09-21T05:00:00Z",
-    "title": "Cash Plus （ Cash + ）现在在统一交易账户中支持作为保证金",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895670",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T06:15:23Z"
-  },
-  {
-    "id": "46649f7d988c9ef5",
-    "published_at": "2026-09-21T04:25:00Z",
-    "title": "Bitget关于恢复rOPEN - Morph提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895751",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T05:10:37Z"
   }
 ]
