@@ -1,5 +1,29 @@
 [
   {
+    "id": "f5bd0f7f2dce840e",
+    "published_at": "2026-10-09T08:46:00Z",
+    "title": "Bitget关于暂停BGBTC -以太坊充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896905",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T09:13:35Z"
+  },
+  {
+    "id": "9c4f1989f4b8ba0a",
+    "published_at": "2026-10-09T08:20:00Z",
+    "title": "Bitget关于恢复USDC - SONIC提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896903",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-09T09:13:35Z"
+  },
+  {
     "id": "797e9169acbee12d",
     "published_at": "2026-10-09T07:41:26Z",
     "title": "XT 关于恢复SEIEVM网络充提服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-21T04:10:36Z"
-  },
-  {
-    "id": "db4773f6395e643c",
-    "published_at": "2026-09-21T03:19:00Z",
-    "title": "回购Gno.land （ GNOT ） Spotlight认购股份",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-buyback-for-gno-land-gnot-spotlight-subscription-shares",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-21T04:10:36Z"
-  },
-  {
-    "id": "5fcca4aeca655803",
-    "published_at": "2026-09-21T02:51:00Z",
-    "title": "Bitget announcement on resuming STG - Ethereum withdrawals",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895665",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T03:11:02Z"
   }
 ]
