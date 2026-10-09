@@ -1,5 +1,29 @@
 [
   {
+    "id": "797e9169acbee12d",
+    "published_at": "2026-10-09T07:41:26Z",
+    "title": "XT 关于恢复SEIEVM网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63062566105625",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-09T08:13:22Z"
+  },
+  {
+    "id": "e42d7c22a473f033",
+    "published_at": "2026-10-09T07:33:17Z",
+    "title": "XT 关于恢复BNCDOT网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63062298185241",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-09T08:13:22Z"
+  },
+  {
     "id": "a7110b097b16e00f",
     "published_at": "2026-10-09T07:00:00Z",
     "title": "关于Bitget CFD系统维护的通知",
@@ -22,6 +46,30 @@
     "announcement_type": "合约",
     "exchange": "Bitget",
     "created_at": "2026-10-09T07:14:17Z"
+  },
+  {
+    "id": "d269639d76306977",
+    "published_at": "2026-10-09T06:55:00Z",
+    "title": "热将上线币USDEXUSDT、 PCVXUSDT、 XPUSDT永续合约交易",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchUSDEXUSDTPCVXUSDTandXPUSDTPerpetualFutureson2026-10-09",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-09T08:13:22Z"
+  },
+  {
+    "id": "81f2de42b869643e",
+    "published_at": "2026-10-09T06:40:00Z",
+    "title": "Hotcoin 关于移除部分交易对的公告（ 2026-10-14 ）",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistSelectedTradingPairson2026-10-14",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-09T08:13:22Z"
   },
   {
     "id": "11f3166989d4c592",
@@ -5950,53 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-21T03:11:02Z"
-  },
-  {
-    "id": "986461ba03fdc784",
-    "published_at": "2026-09-21T01:50:34Z",
-    "title": "XT 关于上线COINB （ Coinbase ）、 NBISB （ Nebius ）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62457045333145",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T04:10:36Z"
-  },
-  {
-    "id": "adf77cdc875933a4",
-    "published_at": "2026-09-21T00:00:00Z",
-    "title": "【重要】Bitget关于STXSTOCKUSDT股票Perps现金分红结算的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895658",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T00:15:03Z"
-  },
-  {
-    "id": "7d04615ac7c05f57",
-    "published_at": "2026-09-20T19:51:21Z",
-    "title": "XT 关于调整 QQQUSDT、 VSTUSDT、 AVGOUSDT、 XLEUSDT、 XBIUSDT永续合约资金费率时间周期的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "合约",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62449756456729",
-    "announcement_type": "合约",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-20T20:09:55Z"
-  },
-  {
-    "id": "828926d6c3c2f17b",
-    "published_at": "2026-09-20T15:14:00Z",
-    "title": "Bitget关于暂停USDC - AVAX C-Chain网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895656",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-20T16:10:57Z"
   }
 ]
