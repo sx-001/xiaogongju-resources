@@ -1,5 +1,31 @@
 [
   {
+    "id": "ca30731623d78915",
+    "published_at": "2026-10-10T03:00+08:00",
+    "title": "霍斯金森说， Vitalik的人工智能警告可能会延迟互联网",
+    "summary": "卡尔达诺创始人查尔斯·霍斯金森（ Charles Hoskinson ）指责维塔利克·布特林（ Vitalik Buterin ）通过对人工智能驱动的数学发出推测性警告，破坏了抗量子",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/cardanos-hoskinson-hoskinson-slams-vitalik-buterins-ai-doomsday-warning-as-a-threat-to-cryptos-quantum-future/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T19:03:39Z"
+  },
+  {
+    "id": "09c03022c6c60639",
+    "published_at": "2026-10-10T02:48+08:00",
+    "title": "在四周内接近增长83% ，超过比特币和以太坊",
+    "summary": "计划草案将把年度最高发行量从2.5%降至1.6% ，同时减少稀释和质押奖励。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-09T19:03:39Z"
+  },
+  {
     "id": "4a6c7826ab5533bb",
     "published_at": "2026-10-10T02:00+08:00",
     "title": "以太坊提出的安全检查仍可能导致不良交易",
