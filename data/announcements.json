@@ -1,5 +1,41 @@
 [
   {
+    "id": "f88a6189c8859138",
+    "published_at": "2026-10-09T09:37:34Z",
+    "title": "币王UID身份价值鉴定正式开启",
+    "summary": "",
+    "source": "BiKing",
+    "category": "公告",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51748490054033",
+    "announcement_type": "公告",
+    "exchange": "BiKing",
+    "created_at": "2026-10-09T10:13:02Z"
+  },
+  {
+    "id": "1eec7fc2343968cf",
+    "published_at": "2026-10-09T09:32:29Z",
+    "title": "BitTap 公告｜我的女友景甜/USDT 现货交易对下架通知",
+    "summary": "",
+    "source": "BitTap",
+    "category": "下架",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17930248741903",
+    "announcement_type": "下架",
+    "exchange": "BitTap",
+    "created_at": "2026-10-09T10:13:02Z"
+  },
+  {
+    "id": "651340d0c820a2b8",
+    "published_at": "2026-10-09T09:21:13Z",
+    "title": "BitTap 公告｜ NKE/USDT 合约交易对将于 10 月 9 日 18:00 上线",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17930150193295",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-10-09T10:13:02Z"
+  },
+  {
     "id": "f5bd0f7f2dce840e",
     "published_at": "2026-10-09T08:46:00Z",
     "title": "Bitget关于暂停BGBTC -以太坊充提币服务的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-21T05:10:37Z"
-  },
-  {
-    "id": "0fdcfa0836e1de0b",
-    "published_at": "2026-09-21T04:04:03Z",
-    "title": "XT 关于暂停MEFAI充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62462035061657",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T04:10:36Z"
-  },
-  {
-    "id": "918083ee5fbdd60b",
-    "published_at": "2026-09-21T03:33:00Z",
-    "title": "KuCoin将调整某些现货交易对的报价大小",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-will-adjust-the-tick-size-for-certain-spot-trading-pairs-20260921",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-21T04:10:36Z"
-  },
-  {
-    "id": "bbeed9c926b381fe",
-    "published_at": "2026-09-21T03:23:00Z",
-    "title": "Bitget关于恢复USDC - AVAX C-Chain提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895692",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T04:10:36Z"
   }
 ]
