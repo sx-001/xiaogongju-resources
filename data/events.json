@@ -1,5 +1,18 @@
 [
   {
+    "id": "221968b77845a88f",
+    "published_at": "2026-10-10T08:30+08:00",
+    "title": "随着涉嫌损失达到9340万美元， Ledger Wallet的谜团加深了$ 9340万",
+    "summary": "周五，加密社区发现自己面临着另一场安全争议，这次涉及硬件钱包制造商Ledger。",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/security/ledger-wallet-mystery-deepens-as-suspected-losses-hit-93-4m/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T01:07:56Z"
+  },
+  {
     "id": "4896fe819810fc62",
     "published_at": "2026-10-10T06:20+08:00",
     "title": "以太坊费用仅覆盖2026年印刷的新硬币的2%",
