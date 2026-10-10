@@ -1,5 +1,29 @@
 [
   {
+    "id": "62653f99d50386ac",
+    "published_at": "2026-10-10T03:36:00Z",
+    "title": "Bitget宣布恢复特朗普- Solana提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896930",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T04:11:18Z"
+  },
+  {
+    "id": "fc7b575fc8fa349c",
+    "published_at": "2026-10-10T03:34:00Z",
+    "title": "Bitget关于恢复USDC - AVAX C-Chain提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896929",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T04:11:18Z"
+  },
+  {
     "id": "ff8b4336abe0a0d0",
     "published_at": "2026-10-10T01:35:59Z",
     "title": "XT 关于上线EEE （ ETOEKN ）交易的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Bitget",
     "created_at": "2026-09-21T12:13:01Z"
-  },
-  {
-    "id": "bf901e67608ec493",
-    "published_at": "2026-09-21T10:59:00Z",
-    "title": "Bitget关于暂停VANA - VANA存取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895773",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T11:10:36Z"
-  },
-  {
-    "id": "6c291123407795b7",
-    "published_at": "2026-09-21T10:37:43Z",
-    "title": "XT 关于恢复ICBX链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62476428413593",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T11:10:36Z"
   }
 ]
