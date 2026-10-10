@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d74cad331f5e510",
+    "published_at": "2026-10-10T05:34:06Z",
+    "title": "BitTap 公告｜关于交易大赛部分矿机奖励信息异常的说明",
+    "summary": "",
+    "source": "BitTap",
+    "category": "活动",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17938361594767",
+    "announcement_type": "活动",
+    "exchange": "BitTap",
+    "created_at": "2026-10-10T06:14:02Z"
+  },
+  {
     "id": "62653f99d50386ac",
     "published_at": "2026-10-10T03:36:00Z",
     "title": "Bitget宣布恢复特朗普- Solana提现",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-21T11:10:36Z"
-  },
-  {
-    "id": "f255bc87b386936d",
-    "published_at": "2026-09-21T11:04:00Z",
-    "title": "Bitget列出了多种现货股票和ETF资产，包括rFDVV、rGDXU、rBITX、rJPIE和rCWB",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895774",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T12:13:01Z"
   }
 ]
