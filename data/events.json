@@ -1,5 +1,18 @@
 [
   {
+    "id": "08bd412d4a9d5b33",
+    "published_at": "2026-10-10T13:43+08:00",
+    "title": "比特币的波动性大幅下降，但极端价格波动",
+    "summary": "CoinDesk分析发现， 2026年有10个异常大的交易日，这引发了投资者如何在日益机构化的情况下衡量风险的问题。",
+    "source": "CoinDesk",
+    "category": "ETF机构",
+    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T06:02:31Z"
+  },
+  {
     "id": "1e6034094ebb15ee",
     "published_at": "2026-10-10T09:30+08:00",
     "title": "加密货币创始人被指控涉嫌$ 900万Memecoin Rug Pu",
