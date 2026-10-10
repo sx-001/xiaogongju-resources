@@ -1,5 +1,17 @@
 [
   {
+    "id": "7c7bb74fa550d642",
+    "published_at": "2026-10-10T09:43:00Z",
+    "title": "Bitget关于恢复QUBIC - QUBIC充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896940",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T10:09:59Z"
+  },
+  {
     "id": "3425aa4217a4e313",
     "published_at": "2026-10-10T07:37:00Z",
     "title": "Bitget关于恢复BGB -以太坊提现的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895779",
     "announcement_type": "上币",
     "exchange": "Bitget",
-    "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "78331d5019faa4e3",
-    "published_at": "2026-09-21T13:17:00Z",
-    "title": "XT 关于恢复XMR链上代币充提并更换其充值地址的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62480440537625",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
     "created_at": "2026-09-21T14:11:03Z"
   }
 ]
