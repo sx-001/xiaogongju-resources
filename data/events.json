@@ -1,5 +1,31 @@
 [
   {
+    "id": "1f084be79c10baa6",
+    "published_at": "2026-10-10T21:00+08:00",
+    "title": "比特币的周末反弹面临$ 80,400的测试，此前几乎",
+    "summary": "比特币在PerpFinder的10月10日09:36 UTC快照中交易接近$ 82,900 ，交易者关注周末反弹是否带来新的杠杆或",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T13:04:24Z"
+  },
+  {
+    "id": "aeaa2cb989b0999b",
+    "published_at": "2026-10-10T20:21+08:00",
+    "title": "StarkWare调用Starknet L1转变其最清晰的前进道路",
+    "summary": "Starknet仍然在以太坊上结算，其官方账户将L1的举动描述为前一天的“一个问题，而不是一个决定”。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T13:04:24Z"
+  },
+  {
     "id": "060caf98d87b0fdb",
     "published_at": "2026-10-10T20:00+08:00",
     "title": "窃取15亿美元的加密货币很容易，兑现是陷阱",
