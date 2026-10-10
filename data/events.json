@@ -1,5 +1,18 @@
 [
   {
+    "id": "db8104c06c85d695",
+    "published_at": "2026-10-10T19:00+08:00",
+    "title": "比特币的190亿$警钟：一年后，有CRYP",
+    "summary": "在一次闪电崩盘摧毁了数十亿美元的杠杆加密货币投注一年后，交易员有了更好的工具来发现风险。但抛售背后的力量r",
+    "source": "CoinDesk",
+    "category": "极端行情",
+    "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T11:01:22Z"
+  },
+  {
     "id": "34f8cd4795dc9a4c",
     "published_at": "2026-10-10T15:00+08:00",
     "title": "2%的通胀目标可能无法阻止下一次美联储利率冻结",
