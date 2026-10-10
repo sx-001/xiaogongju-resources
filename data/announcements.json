@@ -1,5 +1,17 @@
 [
   {
+    "id": "ff8b4336abe0a0d0",
+    "published_at": "2026-10-10T01:35:59Z",
+    "title": "XT 关于上线EEE （ ETOEKN ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63082338861977",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-10T03:11:25Z"
+  },
+  {
     "id": "dee7382999e6d66e",
     "published_at": "2026-10-10T01:12:00Z",
     "title": "Bitget关于暂停特朗普-索拉纳网络取款服务的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-21T11:10:36Z"
-  },
-  {
-    "id": "609f2482d4e94f0d",
-    "published_at": "2026-09-21T09:36:00Z",
-    "title": "Hotcoin 关于【TradFi 交易启航计划｜首笔交易有礼 ，爆仓 100%补贴 ， 30,000 USDT 奖励等你拿】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-tradfi-kickoff/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-21T10:10:44Z"
   }
 ]
