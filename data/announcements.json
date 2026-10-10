@@ -1,5 +1,41 @@
 [
   {
+    "id": "3425aa4217a4e313",
+    "published_at": "2026-10-10T07:37:00Z",
+    "title": "Bitget关于恢复BGB -以太坊提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896937",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T08:10:32Z"
+  },
+  {
+    "id": "f8b83fa19d8037a3",
+    "published_at": "2026-10-10T07:33:00Z",
+    "title": "Bitget关于恢复WLD - World Chain提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896936",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T08:10:32Z"
+  },
+  {
+    "id": "100c316902b7ee3d",
+    "published_at": "2026-10-10T06:57:00Z",
+    "title": "Hotcoin GNR 理财限量开启｜最高 8% APR ， 200,000 GNR 限量申购",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinGNREarnLimitedOffer",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-10T08:10:32Z"
+  },
+  {
     "id": "71b7de7f05ae84c6",
     "published_at": "2026-10-10T06:49:00Z",
     "title": "KuCoin已暂时关闭Monero （ XMR ）的存款服务",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "5df65cf9b7aa3eab",
-    "published_at": "2026-09-21T12:56:00Z",
-    "title": "Bitget关于恢复VANA - VANA充提币的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895778",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T13:10:59Z"
-  },
-  {
-    "id": "e3d1634db8a89836",
-    "published_at": "2026-09-21T12:53:41Z",
-    "title": "XT关于暂停原子链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62479932735641",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T13:10:59Z"
-  },
-  {
-    "id": "44ad3888bed19915",
-    "published_at": "2026-09-21T11:59:00Z",
-    "title": "Bitget关于暂停ATOM - COSMOS充提币服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895777",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T12:13:01Z"
   }
 ]
