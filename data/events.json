@@ -1,5 +1,18 @@
 [
   {
+    "id": "1e6034094ebb15ee",
+    "published_at": "2026-10-10T09:30+08:00",
+    "title": "加密货币创始人被指控涉嫌$ 900万Memecoin Rug Pu",
+    "summary": "Kishu Inu成长为一种价值数十亿美元的加密货币，据称其创建者从未披露的代币销售中收集了数百万美元。联邦检察官没有",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/regulation-and-legal/crypto-founder-charged-in-alleged-9-million-memecoin-rug-pull/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T02:03:10Z"
+  },
+  {
     "id": "221968b77845a88f",
     "published_at": "2026-10-10T08:30+08:00",
     "title": "随着涉嫌损失达到9340万美元， Ledger Wallet的谜团加深了$ 9340万",
