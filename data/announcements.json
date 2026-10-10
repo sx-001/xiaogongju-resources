@@ -1,5 +1,17 @@
 [
   {
+    "id": "7393a15937edc5fe",
+    "published_at": "2026-10-10T21:57:00Z",
+    "title": "Bitget关于暂停QUBIC - QUBIC网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896943",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T22:09:32Z"
+  },
+  {
     "id": "9c3202e5cf738484",
     "published_at": "2026-10-10T14:27:27Z",
     "title": "XT 关于暂停NFLXON、 CRWDX、 AZNX 交易的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62481044644505",
     "announcement_type": "合约",
     "exchange": "XT.COM",
-    "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "fe53f6df2fecf3c9",
-    "published_at": "2026-09-21T13:45:00Z",
-    "title": "KuCoin已完成GALA、BSV和WAXL的股票代码和API符号更新",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-completed-the-ticker-and-api-symbol-updates-for-gala-bsv-and-waxl",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
     "created_at": "2026-09-21T14:11:03Z"
   }
 ]
