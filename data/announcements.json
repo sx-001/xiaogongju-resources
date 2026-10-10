@@ -1,5 +1,29 @@
 [
   {
+    "id": "7073bb07f06b0a67",
+    "published_at": "2026-10-10T00:00:00Z",
+    "title": "【重要】Bitget关于ACNSTOCKUSDT股票Perps现金分红结算的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603896927",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T00:17:22Z"
+  },
+  {
+    "id": "8c1b3f61a5725047",
+    "published_at": "2026-10-09T23:32:00Z",
+    "title": "Bitget关于暂停WLD - World Chain网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896926",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-10T00:17:22Z"
+  },
+  {
     "id": "171bd3fbe405a512",
     "published_at": "2026-10-09T16:17:00Z",
     "title": "Bitget关于暂停TUSD - TRON网络取款服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "KuCoin",
     "created_at": "2026-09-21T10:10:44Z"
-  },
-  {
-    "id": "943801852ad1fd71",
-    "published_at": "2026-09-21T09:08:00Z",
-    "title": "KuCoin Pay与PLAYX合作，通过独家礼品卡折扣扩展加密支付生态系统",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/KuCoinPay-PLAYX-Partnership-Announcement",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-21T09:12:16Z"
-  },
-  {
-    "id": "e967ca44b6fd5758",
-    "published_at": "2026-09-21T08:50:01Z",
-    "title": "KuCoin期货调整股指永续合约和某些永续合约的基准利率（ 2026-09-24 ）",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "合约",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-to-adjust-the-base-interest-rate-for-stock-index-perpetual-contracts-and-certain-perpetual-contracts-2026-09-24",
-    "announcement_type": "合约",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-21T09:12:16Z"
   }
 ]
