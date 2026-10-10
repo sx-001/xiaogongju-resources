@@ -1,5 +1,18 @@
 [
   {
+    "id": "5fa290b085835415",
+    "published_at": "2026-10-11T03:18+08:00",
+    "title": "Ledger确认在受影响用户的W中植入隐藏硬件",
+    "summary": "Ledger于2026年10月10日星期六证实，属于一名受影响客户的硬件钱包包含未经授权的植入物，",
+    "source": "Bitcoin.com",
+    "category": "宏观-地缘与贸易",
+    "url": "https://news.bitcoin.com/security/ledger-confirms-hidden-hardware-implant-in-affected-users-wallet/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T20:01:15Z"
+  },
+  {
     "id": "c7b9c9c13d315c6c",
     "published_at": "2026-10-11T01:00+08:00",
     "title": "正确对待比特币并不能节省您的3倍杠杆ETF价格",
