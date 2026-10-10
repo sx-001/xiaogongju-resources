@@ -1,5 +1,31 @@
 [
   {
+    "id": "060caf98d87b0fdb",
+    "published_at": "2026-10-10T20:00+08:00",
+    "title": "窃取15亿美元的加密货币很容易，兑现是陷阱",
+    "summary": "2025年2月，朝鲜黑客从Bybit窃取了约15亿美元$。虽然黑客本身已被广泛报道和分析，但很少有人关注",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T12:01:52Z"
+  },
+  {
+    "id": "7b111b3917517f39",
+    "published_at": "2026-10-10T19:09+08:00",
+    "title": "与CryptoBilis盗窃相关的钱包将464 ETH发送到Tornad",
+    "summary": "以太坊记录显示，资金通过一个中介机构和四个存款钱包，而源地址保留了大约700个以太坊。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T12:01:52Z"
+  },
+  {
     "id": "db8104c06c85d695",
     "published_at": "2026-10-10T19:00+08:00",
     "title": "比特币的190亿$警钟：一年后，有CRYP",
