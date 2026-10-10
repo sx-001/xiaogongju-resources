@@ -1,5 +1,18 @@
 [
   {
+    "id": "2ee6a1db226cccb7",
+    "published_at": "2026-10-11T04:20+08:00",
+    "title": "比特币价格从未从$ 190亿的崩盘中恢复过来",
+    "summary": "一年后，超过190亿美元的杠杆加密赌注在一个晚上被抹去，比特币比它创下的纪录低了约34%。",
+    "source": "Bitcoin.com",
+    "category": "极端行情",
+    "url": "https://news.bitcoin.com/crypto-news/bitcoin-price-one-year-after-19-billion-liquidation-crash/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-10T21:01:42Z"
+  },
+  {
     "id": "5fa290b085835415",
     "published_at": "2026-10-11T03:18+08:00",
     "title": "Ledger确认在受影响用户的W中植入隐藏硬件",
