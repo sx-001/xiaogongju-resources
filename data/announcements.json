@@ -1,5 +1,29 @@
 [
   {
+    "id": "71b7de7f05ae84c6",
+    "published_at": "2026-10-10T06:49:00Z",
+    "title": "KuCoin已暂时关闭Monero （ XMR ）的存款服务",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-monero-xmr-20261010",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-10T07:11:20Z"
+  },
+  {
+    "id": "574466cae883e2d6",
+    "published_at": "2026-10-10T06:43:50Z",
+    "title": "【安全公告】BASEKX 关于警惕假冒官方网站及防范网络诈骗的郑重声明",
+    "summary": "",
+    "source": "Basekx",
+    "category": "公告",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/63089945956889",
+    "announcement_type": "公告",
+    "exchange": "Basekx",
+    "created_at": "2026-10-10T07:11:20Z"
+  },
+  {
     "id": "5d74cad331f5e510",
     "published_at": "2026-10-10T05:34:06Z",
     "title": "BitTap 公告｜关于交易大赛部分矿机奖励信息异常的说明",
@@ -5974,29 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-21T12:13:01Z"
-  },
-  {
-    "id": "db6f356b15719764",
-    "published_at": "2026-09-21T11:33:00Z",
-    "title": "KuCoin暂时关闭AI路由器协议（ AIR ）和AntFun （ ANTFUN ）的存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-services-of-ai-router-protocol-air-and-antfun-antfun",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-21T12:13:01Z"
-  },
-  {
-    "id": "4b5dc021ec953173",
-    "published_at": "2026-09-21T11:06:00Z",
-    "title": "Bitget关于暂停WLD - World Chain充提币服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895775",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T11:10:36Z"
   }
 ]
