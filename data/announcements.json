@@ -1,5 +1,17 @@
 [
   {
+    "id": "9c3202e5cf738484",
+    "published_at": "2026-10-10T14:27:27Z",
+    "title": "XT 关于暂停NFLXON、 CRWDX、 AZNX 交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63100453837721",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-10T15:09:56Z"
+  },
+  {
     "id": "7c7bb74fa550d642",
     "published_at": "2026-10-10T09:43:00Z",
     "title": "Bitget关于恢复QUBIC - QUBIC充提币的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://www.kucoin.com/announcement/en-kucoin-has-completed-the-ticker-and-api-symbol-updates-for-gala-bsv-and-waxl",
     "announcement_type": "公告",
     "exchange": "KuCoin",
-    "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "1ecd12e458393356",
-    "published_at": "2026-09-21T13:31:00Z",
-    "title": "Bitget关于TLTUSDT、JEPQUSDT、CORZUSDT、BLSHUSDT、SECZUSDT股票上市的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895779",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
     "created_at": "2026-09-21T14:11:03Z"
   }
 ]
