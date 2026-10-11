@@ -1,5 +1,31 @@
 [
   {
+    "id": "2cf47d23f907c699",
+    "published_at": "2026-10-12T07:00+08:00",
+    "title": "Starknet考虑离开以太坊以获得量子抗性",
+    "summary": "Starknet的STRK代币在七天内翻了一番多，而开发人员考虑离开以太坊来构建独立的Layer 1区块链。A Coi",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T23:02:16Z"
+  },
+  {
+    "id": "995b84c64b3c00de",
+    "published_at": "2026-10-12T06:26+08:00",
+    "title": "交易者在新的1,000x交易所Papertrade上净赚128万美元",
+    "summary": "同一个钱包后来损失了450,000 $ ，当时30个空头头寸在周六晚上在开仓超过三个小时后被清算。",
+    "source": "The Block",
+    "category": "以太坊",
+    "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T23:02:16Z"
+  },
+  {
     "id": "91312c70ca7f36ec",
     "published_at": "2026-10-12T06:00+08:00",
     "title": "乐观派的Unichain交易将把更多的连锁店置于一个操作之下",
