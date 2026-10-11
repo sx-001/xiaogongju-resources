@@ -1,5 +1,44 @@
 [
   {
+    "id": "c4b4dadb801f636a",
+    "published_at": "2026-10-12T02:00+08:00",
+    "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a",
+    "summary": "The October 1-dated v0.2.7 and v0.1.13 patches close a reconnect theft path, while v0.2.7 also fixes an LSPS2 payment-amount flaw. The post Lightning ",
+    "source": "CryptoSlate",
+    "category": "安全风险",
+    "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T18:01:35Z"
+  },
+  {
+    "id": "c299be6cd89cf4e8",
+    "published_at": "2026-10-12T01:11+08:00",
+    "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Il",
+    "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains",
+    "source": "Decrypt",
+    "category": "宏观-股市极端行情",
+    "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T18:01:35Z"
+  },
+  {
+    "id": "bb06ad7d28e26eb7",
+    "published_at": "2026-10-12T01:03+08:00",
+    "title": "Saylor teases Strategy Bitcoin buying after ending September",
+    "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T18:01:35Z"
+  },
+  {
     "id": "d0a0603c90ef82cc",
     "published_at": "2026-10-12T00:01+08:00",
     "title": "10月份比特币、以太坊和Solana ETF均处于亏损状态",
