@@ -1,5 +1,17 @@
 [
   {
+    "id": "1e8172f97cc3f1fc",
+    "published_at": "2026-10-11T08:09:00Z",
+    "title": "关于 XRP 网络临时维护的公告",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "维护",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/xi-tong-wei-hu/guan-yu-xrp-wang-luo-lin-shi-wei-hu-de-gong-gao",
+    "announcement_type": "维护",
+    "exchange": "YUBIT",
+    "created_at": "2026-10-11T08:11:34Z"
+  },
+  {
     "id": "2437d9e8f78932d3",
     "published_at": "2026-10-11T04:34:00Z",
     "title": "Bitget关于暂停AVAVOLD - AVAX C-Chain网络取款服务的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T02:11:15Z"
-  },
-  {
-    "id": "3f21c5fd7a15ed1b",
-    "published_at": "2026-09-21T16:05:00Z",
-    "title": "Bitget关于恢复WLD - World Chain充提币的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895786",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T16:11:30Z"
   }
 ]
