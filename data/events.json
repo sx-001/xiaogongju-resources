@@ -1,5 +1,18 @@
 [
   {
+    "id": "91312c70ca7f36ec",
+    "published_at": "2026-10-12T06:00+08:00",
+    "title": "乐观派的Unichain交易将把更多的连锁店置于一个操作之下",
+    "summary": "10月份的迁移将把更多的链运营集中在乐观上，而以太坊的后备路线则取决于每个链的部署合约。",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T22:02:17Z"
+  },
+  {
     "id": "0313172313cadb5d",
     "published_at": "2026-10-12T04:05+08:00",
     "title": "用户在欧洲分类账墙中暴露隐藏的硬件植入物",
