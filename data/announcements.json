@@ -24,6 +24,18 @@
     "created_at": "2026-10-11T08:11:34Z"
   },
   {
+    "id": "576913e282206a47",
+    "published_at": "2026-10-11T08:07:00Z",
+    "title": "《交易签到挑战 · 累计签到领500U真金》",
+    "summary": "",
+    "source": "EasiCoin",
+    "category": "公告",
+    "url": "https://easicoin.zendesk.com/hc/zh-cn/articles/17947539607055",
+    "announcement_type": "公告",
+    "exchange": "EasiCoin",
+    "created_at": "2026-10-11T11:10:00Z"
+  },
+  {
     "id": "2437d9e8f78932d3",
     "published_at": "2026-10-11T04:34:00Z",
     "title": "Bitget关于暂停AVAVOLD - AVAX C-Chain网络取款服务的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T02:11:15Z"
-  },
-  {
-    "id": "cf22fecc0a054104",
-    "published_at": "2026-09-22T01:30:43Z",
-    "title": "XT.COM关于深度隐藏部分现货交易对的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62492127088025",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T03:11:52Z"
   }
 ]
