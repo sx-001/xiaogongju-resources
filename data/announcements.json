@@ -1,5 +1,17 @@
 [
   {
+    "id": "d5823d2906e77f7e",
+    "published_at": "2026-10-11T09:01:00Z",
+    "title": "全球首发：激励（ CENT ）在KuCoin上市",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-world-premiere-incentiv-cent-listed-on-kucoin",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-11T09:11:27Z"
+  },
+  {
     "id": "1e8172f97cc3f1fc",
     "published_at": "2026-10-11T08:09:00Z",
     "title": "关于 XRP 网络临时维护的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "af5db6d0f2a53946",
-    "published_at": "2026-09-22T01:25:36Z",
-    "title": "XT关于暂停SCR链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62491940162201",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T02:11:15Z"
   }
 ]
