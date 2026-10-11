@@ -1,5 +1,29 @@
 [
   {
+    "id": "0a9372d4b8619bda",
+    "published_at": "2026-10-11T02:22:39Z",
+    "title": "XT关于暂停本体网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63108735796249",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-11T03:11:54Z"
+  },
+  {
+    "id": "0d2249f1a67d7446",
+    "published_at": "2026-10-11T02:19:00Z",
+    "title": "XT 关于暂停DOI网络充值服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63108660019993",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-11T03:11:54Z"
+  },
+  {
     "id": "7393a15937edc5fe",
     "published_at": "2026-10-10T21:57:00Z",
     "title": "Bitget关于暂停QUBIC - QUBIC网络取款服务的公告",
@@ -5973,30 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895780",
     "announcement_type": "风控",
     "exchange": "Bitget",
-    "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "0a8ed3a01e3bc14c",
-    "published_at": "2026-09-21T13:58:09Z",
-    "title": "XT 关于暂停TERRA、 XMR链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62481284792857",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-21T15:09:58Z"
-  },
-  {
-    "id": "f74958b805a7ed20",
-    "published_at": "2026-09-21T13:45:24Z",
-    "title": "XT 关于币本位交割合约即将交割并生成新的次季交割合约公告 (2026-09-25)",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "合约",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62481044644505",
-    "announcement_type": "合约",
-    "exchange": "XT.COM",
     "created_at": "2026-09-21T14:11:03Z"
   }
 ]
