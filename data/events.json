@@ -1,5 +1,18 @@
 [
   {
+    "id": "0313172313cadb5d",
+    "published_at": "2026-10-12T04:05+08:00",
+    "title": "用户在欧洲分类账墙中暴露隐藏的硬件植入物",
+    "summary": "新的社交媒体报告显示，受到物理剥削的Ledger钱包可能不仅限于亚洲，据报道还发现了类似的篡改设备",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/user-exposes-hidden-hardware-implant-in-european-ledger-wallet/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T21:02:38Z"
+  },
+  {
     "id": "b0bfefd018ba947e",
     "published_at": "2026-10-12T03:00+08:00",
     "title": "XRP的下一次华尔街扩张伴随着意想不到的",
