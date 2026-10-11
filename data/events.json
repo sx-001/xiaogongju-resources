@@ -1,5 +1,18 @@
 [
   {
+    "id": "b0bfefd018ba947e",
+    "published_at": "2026-10-12T03:00+08:00",
+    "title": "XRP的下一次华尔街扩张伴随着意想不到的",
+    "summary": "管理层保留成本减去减值，因此仅未实现的XRP价格上涨不会通过重估持股来提升收益。XRP后的",
+    "source": "CryptoSlate",
+    "category": "宏观-股市极端行情",
+    "url": "https://cryptoslate.com/xrps-next-wall-street-expansion-comes-with-an-unexpected-complication-from-ripple/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T19:03:26Z"
+  },
+  {
     "id": "c4b4dadb801f636a",
     "published_at": "2026-10-12T02:00+08:00",
     "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a",
