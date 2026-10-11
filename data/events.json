@@ -1,5 +1,31 @@
 [
   {
+    "id": "b315c2beb0e16c88",
+    "published_at": "2026-10-11T22:00+08:00",
+    "title": "XRP ETF以比特币、以太坊的形式延续了13周的资金流入",
+    "summary": "由于比特币、以太坊和Solana基金合并提款近12.5亿美元，美国上市的XRP ETF的资金流入连续延长至13周",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T14:02:24Z"
+  },
+  {
+    "id": "952a675915201cb2",
+    "published_at": "2026-10-11T21:30+08:00",
+    "title": "Coldcard X帐户在$ 1亿失败后被网络钓鱼诈骗命中",
+    "summary": "Coldcard在其官方X帐户于2026年10月11日发布网络钓鱼链接，错误地警告客户后，正面临另一场安全争议",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/coldcard-x-account-hit-by-phishing-scam-after-100m-fiasco/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T14:02:24Z"
+  },
+  {
     "id": "094fee8ea6700f9b",
     "published_at": "2026-10-11T18:22+08:00",
     "title": "Coldcard表示正在调查网络钓鱼链接的显示方式",
