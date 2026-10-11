@@ -1,5 +1,18 @@
 [
   {
+    "id": "094fee8ea6700f9b",
+    "published_at": "2026-10-11T18:22+08:00",
+    "title": "Coldcard表示正在调查网络钓鱼链接的显示方式",
+    "summary": "公司建议用户不要访问相关链接或与之互动，并表示将分享任何进一步的已验证更新。",
+    "source": "Cointelegraph",
+    "category": "黑客攻击",
+    "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T11:01:54Z"
+  },
+  {
     "id": "b3ee5c04b0c96bea",
     "published_at": "2026-10-11T17:38+08:00",
     "title": "COLDCARD警告其官方X帐户上的网络钓鱼帖子",
