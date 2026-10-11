@@ -1,5 +1,29 @@
 [
   {
+    "id": "2437d9e8f78932d3",
+    "published_at": "2026-10-11T04:34:00Z",
+    "title": "Bitget关于暂停AVAVOLD - AVAX C-Chain网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603896949",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-11T05:11:06Z"
+  },
+  {
+    "id": "bd85cedc77276ad1",
+    "published_at": "2026-10-11T04:33:39Z",
+    "title": "[现货上新] MGBX 将上线 DHN （ Dohrnii ） 现货交易",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17946178612623",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-10-11T05:11:06Z"
+  },
+  {
     "id": "0a9372d4b8619bda",
     "published_at": "2026-10-11T02:22:39Z",
     "title": "XT关于暂停本体网络充提服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Bitget",
     "created_at": "2026-09-21T15:09:58Z"
-  },
-  {
-    "id": "a44a34821c8f9bfb",
-    "published_at": "2026-09-21T14:10:00Z",
-    "title": "Bitget关于恢复ATOM - COSMOS充提币的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895781",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T14:11:03Z"
-  },
-  {
-    "id": "c1d93773c965017d",
-    "published_at": "2026-09-21T14:08:00Z",
-    "title": "Bitget关于暂停LUNA - Terra存取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895780",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T14:11:03Z"
   }
 ]
