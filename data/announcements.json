@@ -24,6 +24,18 @@
     "created_at": "2026-10-11T05:11:06Z"
   },
   {
+    "id": "ab4d2612af0e2269",
+    "published_at": "2026-10-11T04:31:00Z",
+    "title": "Hotcoin关于升级平台安全规范及更新登录密码的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinAnnouncementonEnhancedPasswordSecurityRequirements",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-11T07:12:20Z"
+  },
+  {
     "id": "0a9372d4b8619bda",
     "published_at": "2026-10-11T02:22:39Z",
     "title": "XT关于暂停本体网络充提服务的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-21T16:11:30Z"
-  },
-  {
-    "id": "bf06f26accd52ac3",
-    "published_at": "2026-09-21T14:30:00Z",
-    "title": "Bitget关于推出USDBRLUSDT FX Perps的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895782",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-21T15:09:58Z"
   }
 ]
