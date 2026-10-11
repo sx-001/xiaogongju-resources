@@ -1,5 +1,18 @@
 [
   {
+    "id": "ef8e22bfe4860aef",
+    "published_at": "2026-10-11T22:08+08:00",
+    "title": "XRP Ledger披露了可能铸造万亿的十年前漏洞",
+    "summary": "该漏洞于9月25日在xrpld 3.4.1中修复。开发人员没有发现任何证据表明它在公共网络上被利用。",
+    "source": "The Defiant",
+    "category": "黑客攻击",
+    "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T15:02:04Z"
+  },
+  {
     "id": "b315c2beb0e16c88",
     "published_at": "2026-10-11T22:00+08:00",
     "title": "XRP ETF以比特币、以太坊的形式延续了13周的资金流入",
