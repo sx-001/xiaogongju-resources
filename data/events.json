@@ -1,5 +1,44 @@
 [
   {
+    "id": "d262d9ef8d48e27c",
+    "published_at": "2026-10-11T23:59+08:00",
+    "title": "流动比特币兑换仍然冻结，有85.8%的储备",
+    "summary": "储备缺口约为603 BTC。Liquid表示，挂钩需要全力支持并完成安全审查才能重新启动。",
+    "source": "The Defiant",
+    "category": "安全风险",
+    "url": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T16:01:56Z"
+  },
+  {
+    "id": "29a14c52871f5318",
+    "published_at": "2026-10-11T23:45+08:00",
+    "title": "作为比特币赎回冻结D ， Liquid Network获得86%的支持",
+    "summary": "自从攻击者利用Liquid Network的Elements软件中的漏洞，从协议中取出近4,000 BTC以来，已经过去了35天",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/crypto-news/liquid-network-at-86-backing-as-bitcoin-redemption-freeze-drags-on/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T16:01:56Z"
+  },
+  {
+    "id": "f2dd45955a7df84c",
+    "published_at": "2026-10-11T23:40+08:00",
+    "title": "特朗普总统宣布俄罗斯之间的“能源停火”",
+    "summary": "“这对我来说是新闻，”乌克兰总统泽伦斯基说， “但如果俄罗斯人同意能源停火，乌克兰就会同意。”",
+    "source": "CoinDesk",
+    "category": "宏观-地缘与贸易",
+    "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-11T16:01:56Z"
+  },
+  {
     "id": "ef8e22bfe4860aef",
     "published_at": "2026-10-11T22:08+08:00",
     "title": "XRP Ledger披露了可能铸造万亿的十年前漏洞",
