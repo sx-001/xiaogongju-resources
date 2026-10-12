@@ -1,5 +1,41 @@
 [
   {
+    "id": "11f3d3fa49d9b689",
+    "published_at": "2026-10-12T11:00:00Z",
+    "title": "KuCoin内容挖掘奖励发放通知（ 10月5日-10月11日）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "活动",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-content-mining-rewards-distribution-notice-october-5-october-11",
+    "announcement_type": "活动",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-12T11:13:54Z"
+  },
+  {
+    "id": "17da6cd20f238163",
+    "published_at": "2026-10-12T10:29:00Z",
+    "title": "Bitget差价合约模拟账户上线",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603895342",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-10-12T11:13:54Z"
+  },
+  {
+    "id": "073c4c661fa9d1ef",
+    "published_at": "2026-10-12T10:19:00Z",
+    "title": "KuCoin将于2026-10-14退市VENOM和NFP",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-will-delist-venom-and-NFP-on-20261014",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-12T11:13:54Z"
+  },
+  {
     "id": "ad3b2c6beba86a09",
     "published_at": "2026-10-12T10:06:00Z",
     "title": "全球首发： VAYLA （ VAYLA ）在KuCoin上市",
@@ -82,6 +118,18 @@
     "announcement_type": "活动",
     "exchange": "Bitget",
     "created_at": "2026-10-12T10:14:52Z"
+  },
+  {
+    "id": "969909f110ebf1bb",
+    "published_at": "2026-10-12T09:27:00Z",
+    "title": "Hotcoin 关于即将上线Dohrnii （ DHN ）的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillListDohrniiDHN",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-12T11:13:54Z"
   },
   {
     "id": "445dd25e5b8e7371",
@@ -5950,53 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "KuCoin",
     "created_at": "2026-09-22T10:12:03Z"
-  },
-  {
-    "id": "f946c4c7bc39aaa0",
-    "published_at": "2026-09-22T08:00:00Z",
-    "title": "CandyBomb x UNI ：交易期货以分享2,200 UNI ！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895772",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T09:10:34Z"
-  },
-  {
-    "id": "613e4c1bcc2f8761",
-    "published_at": "2026-09-22T08:00:00Z",
-    "title": "CandyBomb x rMSTR ：交易期货以共享120 rMSTR ！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895776",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T09:10:34Z"
-  },
-  {
-    "id": "5f56ba7c8e6ceeef",
-    "published_at": "2026-09-22T07:37:01Z",
-    "title": "XT 关于暂停ALEO网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62505316956825",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T08:11:41Z"
-  },
-  {
-    "id": "7854d701415cd20e",
-    "published_at": "2026-09-22T07:29:12Z",
-    "title": "【TEBBIT 合约】上线 TradFi 板块 U 本位永续合约（ 2026-09-23 ）",
-    "summary": "",
-    "source": "Tebbit",
-    "category": "上币",
-    "url": "https://tebbit.zendesk.com/hc/zh-cn/articles/62505032122265",
-    "announcement_type": "上币",
-    "exchange": "Tebbit",
-    "created_at": "2026-09-22T08:11:41Z"
   }
 ]
