@@ -1,5 +1,41 @@
 [
   {
+    "id": "ea31de809d918965",
+    "published_at": "2026-10-12T02:12:00Z",
+    "title": "KuCoin VIP独家：升级到统一账户并获得300 USDT的交易费优惠券",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "维护",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-vip-exclusive-upgrade-to-unified-account-and-get-300-usdt-in-trading-fee-coupons",
+    "announcement_type": "维护",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-12T02:13:38Z"
+  },
+  {
+    "id": "6928ee05e957b047",
+    "published_at": "2026-10-12T01:39:45Z",
+    "title": "XT 关于恢复WARD提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63134670752793",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-12T02:13:38Z"
+  },
+  {
+    "id": "20771be58145c8d0",
+    "published_at": "2026-10-12T01:37:16Z",
+    "title": "XT 关于暂停SANTACOIN提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63134571400601",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-12T02:13:38Z"
+  },
+  {
     "id": "d5823d2906e77f7e",
     "published_at": "2026-10-11T09:01:00Z",
     "title": "全球首发：激励（ CENT ）在KuCoin上市",
@@ -5962,41 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "YUBIT",
     "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "d1f4267200b449a1",
-    "published_at": "2026-09-22T02:10:09Z",
-    "title": "XT关于上线RKLBB（Rocket Lab）、AXTIB（AXT）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62493573926681",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "7e32e5ba4a11ea18",
-    "published_at": "2026-09-22T02:09:00Z",
-    "title": "Bitget announcement on resuming LUNA - Terra deposits and withdrawals",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895795",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T02:11:15Z"
-  },
-  {
-    "id": "bbb635f14ad1936d",
-    "published_at": "2026-09-22T02:04:13Z",
-    "title": "XT关于暂停SUI链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62493356555801",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T02:11:15Z"
   }
 ]
