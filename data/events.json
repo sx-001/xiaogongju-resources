@@ -1,5 +1,18 @@
 [
   {
+    "id": "2a50bf2fdd580d30",
+    "published_at": "2026-10-12T15:14+08:00",
+    "title": "ENSv2激活提案将停止新的ENSv1注册",
+    "summary": "现有的.eth持有者将没有迁移截止日期，而ENS Labs将其剩余的ENSv2管理员角色交给DAO。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T08:06:47Z"
+  },
+  {
     "id": "84a7c4b7fd49cc56",
     "published_at": "2026-10-12T12:49+08:00",
     "title": "比特币摆脱ETF流出以交易超过$ 84,000作为oi",
