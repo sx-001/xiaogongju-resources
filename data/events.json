@@ -1,5 +1,44 @@
 [
   {
+    "id": "8aa7b2f71089b32f",
+    "published_at": "2026-10-13T03:44+08:00",
+    "title": "谁付出，谁受益，因为分类账戏剧推动了Multisig Adopti",
+    "summary": "随着比特币和加密硬件钱包制造商和用户越来越多地面临安全挑战，",
+    "source": "Bitcoin.com",
+    "category": "安全风险",
+    "url": "https://news.bitcoin.com/security/who-pays-and-who-gains-as-ledger-drama-fuels-multisig-adoption/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T20:04:23Z"
+  },
+  {
+    "id": "fb9a54d2e6228b9e",
+    "published_at": "2026-10-13T03:30+08:00",
+    "title": "渣打银行将Ripple的RLUSD纳入银行保管",
+    "summary": "符合条件的客户可以通过DIFC分行托管XRPL发行的RLUSD ；计划中的LMAX抵押品链接仍有条件且未注明日期。",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/standard-chartered-brings-ripples-rlusd-into-banking-custody-after-765-million-quarterly-surge/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T20:04:23Z"
+  },
+  {
+    "id": "2b34e143e3a19c2d",
+    "published_at": "2026-10-13T03:07+08:00",
+    "title": "Solana Treasury Firm DeFi Development继续以CH的身份购买SOL",
+    "summary": "这家在纳斯达克上市的公司目前持有约259万索尔，但其每周的购买量持续萎缩。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T20:04:23Z"
+  },
+  {
     "id": "952154300d322dba",
     "published_at": "2026-10-13T03:02+08:00",
     "title": "国际货币基金组织警告$ 65十亿代币化市场有一个危险的钙",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T00:01:09Z"
-  },
-  {
-    "id": "478d79179a48d9e7",
-    "published_at": "2026-09-17T06:33+08:00",
-    "title": "比特币实现了自2023年以来的首次美联储加息a",
-    "summary": "联邦公开市场委员会以12-0的投票结果将其目标区间提高了四分之一个百分点至3.75% -4% ，中位数预测现在将利率定为4.1%",
-    "source": "The Defiant",
-    "category": "宏观-美联储政策",
-    "url": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T23:01:14Z"
-  },
-  {
-    "id": "b5035fd9bbc44bc3",
-    "published_at": "2026-09-17T05:44+08:00",
-    "title": "Saylor认为，随着监管机构的顺利运作，比特币将取得胜利",
-    "summary": "根据Strategy执行主席Michael Sayl的说法，即使CLARITY法案在国会停滞不前，比特币也可以继续获得机构地位",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/crypto-news/saylor-sees-bitcoin-winning-as-regulators-move-without-congress/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T22:01:09Z"
-  },
-  {
-    "id": "23f0f4c3257a02d1",
-    "published_at": "2026-09-17T04:31+08:00",
-    "title": "OpenAI的流氓人工智能代理商两个月来一直在探测拥抱的脸",
-    "summary": "一位独立研究人员发现，代理早在5月13日就劫持了Hugging Face帐户并映射了平台的防御-活动OpenAI自己的",
-    "source": "Decrypt",
-    "category": "黑客攻击",
-    "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T21:01:14Z"
   }
 ]
