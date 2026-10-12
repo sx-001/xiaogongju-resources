@@ -1,5 +1,44 @@
 [
   {
+    "id": "4b465b47cc03067b",
+    "published_at": "2026-10-12T23:50+08:00",
+    "title": "Sleuth ZachXBT爆破Ripple的便宜$ 250K支付18T XR",
+    "summary": "著名的区块链侦探批评了Ripple Ledger Foundation在一个漏洞被利用后给Cayden Liao和Veria Labs的奖励。",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/sleuth-zachxbt-blasts-ripples-cheap-250k-payout-for-18t-xrp-bug/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T16:05:42Z"
+  },
+  {
+    "id": "4aecb73f83c7f2f9",
+    "published_at": "2026-10-12T23:23+08:00",
+    "title": "SkyAI出售一半的SOL Treasury ，计划$ 2.01亿现金B",
+    "summary": "拟议的每股3 $证券报价针对95%的合格股票和认股权证，预期的条件是SOL的收盘价保持在100 $以上",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T16:05:42Z"
+  },
+  {
+    "id": "f39186045f3ad46e",
+    "published_at": "2026-10-12T23:20+08:00",
+    "title": "比特币价格高于$ 681M ETF流出，因石油交易高于$",
+    "summary": "比特币持有价格高于$ 80,000 ，尽管布伦特原油交易价格高于$ 100 ，中东局势再度紧张。复原力显著，但大约为681 $",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-defies-681m-etf-outflow-as-oil-trades-above-100/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T16:05:42Z"
+  },
+  {
     "id": "06db7cbee1cbec5c",
     "published_at": "2026-10-12T22:53+08:00",
     "title": "随着乍得创纪录， DeFi Development将SOL的持股比例提高了12%",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-16T18:01:11Z"
-  },
-  {
-    "id": "816c80de8ea8d235",
-    "published_at": "2026-09-17T00:23+08:00",
-    "title": "布伦特高峰$ 106 ，随着加密货币抛售，加息赔率达到64%",
-    "summary": "125种最大的非稳定币代币中有103种在8月生产者价格下跌0.4%和30年期Trea",
-    "source": "The Defiant",
-    "category": "监管政策",
-    "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:23:48Z"
-  },
-  {
-    "id": "cf470f8ce7875b3b",
-    "published_at": "2026-09-16T23:52+08:00",
-    "title": "由于参议院投票失败，富达领先$ 4.5亿比特币ETF退出",
-    "summary": "美国加密货币ETF周二遭遇了广泛逆转，比特币基金录得4.5033亿美元的净流出，这是自6月25日以来的最大单日退出。",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/bitcoin-etf/fidelity-leads-450m-bitcoin-etf-exit-as-senate-vote-fails/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:01:42Z"
-  },
-  {
-    "id": "3e3671b2a86a7c61",
-    "published_at": "2026-09-16T23:50+08:00",
-    "title": "比特币ETF自6月份失败以来经历了最糟糕的一天",
-    "summary": "周二，比特币、以太坊和XRP ETF合计下跌约5.93亿美元，这是自6月以来最大的单日跌幅。",
-    "source": "Decrypt",
-    "category": "监管政策",
-    "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:01:42Z"
   }
 ]
