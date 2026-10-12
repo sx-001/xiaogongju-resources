@@ -1,5 +1,57 @@
 [
   {
+    "id": "2035f305e1e9418d",
+    "published_at": "2026-10-12T20:01+08:00",
+    "title": "Evernorth任命前Coinbase投资高管来指导473",
+    "summary": "Evernorth计划通过贷款、流动性提供和收益率策略使其持有的XRP发挥作用。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T12:08:20Z"
+  },
+  {
+    "id": "6abc3ee68652e526",
+    "published_at": "2026-10-12T20:00+08:00",
+    "title": "泰国希望从1200亿美元的比特币和以太币中分一杯羹",
+    "summary": "美国证券交易委员会表示，该框架将于10月16日生效，比特币和以太坊最初符合条件，交易前需要进行产品风险教育。",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T12:08:20Z"
+  },
+  {
+    "id": "58f56357d9d4a741",
+    "published_at": "2026-10-12T19:41+08:00",
+    "title": "比特币区间接近$ 83K ，交易员期待美国的通货膨胀数据",
+    "summary": "10月份加息的几率已经大幅下降，但分析师表示，美国国债收益率处于20年高位，仍在抑制风险偏好。",
+    "source": "Decrypt",
+    "category": "监管政策",
+    "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T12:08:20Z"
+  },
+  {
+    "id": "5ee16c362f8875d5",
+    "published_at": "2026-10-12T19:14+08:00",
+    "title": "BTC价格支持领先于美国CPI数据：三件事B",
+    "summary": "在比特币价格行动保持关键的每周支撑位在$ 82,500左右之后，比特币交易员准备应对基于通胀的波动。",
+    "source": "Cointelegraph",
+    "category": "宏观数据-CPI",
+    "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T12:08:20Z"
+  },
+  {
     "id": "366bd4d924173034",
     "published_at": "2026-10-12T18:27+08:00",
     "title": "SWI筹集了8.94亿美元用于重新利用前FTX比特币矿山",
