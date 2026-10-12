@@ -1,5 +1,31 @@
 [
   {
+    "id": "d272680ec4cf7f1c",
+    "published_at": "2026-10-13T01:45+08:00",
+    "title": "Cryptobilis创始人透露公司在E前几个月被出售",
+    "summary": "Cryptobilis创始人Arravind Prabu透露，该公司已于今年早些时候被未披露的一方收购。而Prabu承认",
+    "source": "Bitcoin.com",
+    "category": "黑客攻击",
+    "url": "https://news.bitcoin.com/security/cryptobilis-founder-reveals-company-was-sold-months-before-exploit/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T18:02:35Z"
+  },
+  {
+    "id": "2f3b45dbe77154b0",
+    "published_at": "2026-10-13T01:20+08:00",
+    "title": "XRPL品牌“便宜” ，只需支付无限的XRP剥削者",
+    "summary": "加密侦探ZachXBT表示， XRPL “廉价”支付了白帽黑客的费用，并因此要求在未来的XRP漏洞中损失1亿美元$。POST XRPL BRA",
+    "source": "Protos",
+    "category": "黑客攻击",
+    "url": "https://protos.com/xrpl-branded-cheap-for-paying-infinite-xrp-exploiter-just-250k/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T18:02:35Z"
+  },
+  {
     "id": "f7434a6c94db2d2b",
     "published_at": "2026-10-13T00:51+08:00",
     "title": "比特币矿工面临不断扩大的人工智能融资成本，因为贷方",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-16T20:01:14Z"
-  },
-  {
-    "id": "886e7524b383724e",
-    "published_at": "2026-09-17T02:53+08:00",
-    "title": "比特币核心软件更新旨在提高速度和安全PAT",
-    "summary": "比特币核心32.0已进入最终测试，带来了更快的区块检查和更改钱包准备付款的方式。",
-    "source": "Decrypt",
-    "category": "安全风险",
-    "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T19:01:13Z"
-  },
-  {
-    "id": "1ad25427286a20a5",
-    "published_at": "2026-09-17T02:08+08:00",
-    "title": "经过多年的搁置和降息，美联储刚刚提高了利率AGA",
-    "summary": "美联储刚刚做了1148天来没有做的事情：提高利率。联邦公开市场委员会（ FOMC ）以12比0的投票结果",
-    "source": "Bitcoin.com",
-    "category": "宏观-美联储政策",
-    "url": "https://news.bitcoin.com/finance/after-years-of-holds-and-cuts-the-fed-just-raised-rates-again/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T19:01:13Z"
   }
 ]
