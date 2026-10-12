@@ -1,5 +1,29 @@
 [
   {
+    "id": "445dd25e5b8e7371",
+    "published_at": "2026-10-12T07:51:00Z",
+    "title": "激励（ CENT ）房源活动— 17,241,380美分赠品",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "上币",
+    "url": "https://www.kucoin.com/announcement/en-incentiv-cent-listing-campaign-17241380-cent-to-giveaway",
+    "announcement_type": "上币",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-12T08:16:05Z"
+  },
+  {
+    "id": "d60efa390680cc23",
+    "published_at": "2026-10-12T07:24:22Z",
+    "title": "XT 关于恢复GGBR充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63147809612697",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-12T08:16:05Z"
+  },
+  {
     "id": "91b6c7f8c0dfcfac",
     "published_at": "2026-10-12T06:52:00Z",
     "title": "XT关于恢复血浆网络充提服务的公告",
@@ -10,6 +34,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-10-12T07:19:41Z"
+  },
+  {
+    "id": "1b32ed827e27b179",
+    "published_at": "2026-10-12T06:52:00Z",
+    "title": "Bitget上市的KIAUSDT、LGENERGYUSDT、SSBIOLOGICSUSDT、KBFGUSDT和KAKAOUSDT热门股票",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897007",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-12T08:16:05Z"
   },
   {
     "id": "6560888ecf43a0b6",
@@ -5962,41 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T07:11:11Z"
-  },
-  {
-    "id": "1df79c4e204eec3c",
-    "published_at": "2026-09-22T06:00:00Z",
-    "title": "Bitget将退出preOPAI Simple Earn产品",
-    "summary": "",
-    "source": "Bitget",
-    "category": "下架",
-    "url": "https://www.bitget.com/support/articles/12560603895823",
-    "announcement_type": "下架",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T06:14:09Z"
-  },
-  {
-    "id": "0952a4ddbc4e2aa1",
-    "published_at": "2026-09-22T05:11:38Z",
-    "title": "9 月22日 AOZX每日资讯 ｜ BTC突破 87,000美元 ，欧洲央行启用区块链结算服务",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17710618940431",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-22T06:14:09Z"
-  },
-  {
-    "id": "98b84dc7dbe1b1ec",
-    "published_at": "2026-09-22T04:36:54Z",
-    "title": "现货上新 TLTON、 IEMGON、 FON、 JNJON",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "公告",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/xian-huo-shang-xin-tltoniemgonfonjnjon",
-    "announcement_type": "公告",
-    "exchange": "YUBIT",
-    "created_at": "2026-09-22T05:10:42Z"
   }
 ]
