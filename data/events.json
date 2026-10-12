@@ -1,5 +1,18 @@
 [
   {
+    "id": "84a7c4b7fd49cc56",
+    "published_at": "2026-10-12T12:49+08:00",
+    "title": "比特币摆脱ETF流出以交易超过$ 84,000作为oi",
+    "summary": "随着石油交易下跌，比特币继续保持周末涨势。上周ETF流出损失超过6亿美元。",
+    "source": "CoinDesk",
+    "category": "ETF机构",
+    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T05:05:58Z"
+  },
+  {
     "id": "109732d76d51ee9a",
     "published_at": "2026-10-12T11:20+08:00",
     "title": "到2046年，比特币的安全面临76%的风险，人工智能模型预测",
