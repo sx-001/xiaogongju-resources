@@ -1,5 +1,17 @@
 [
   {
+    "id": "9cb8ee4d0a9ba518",
+    "published_at": "2026-10-12T17:04:00Z",
+    "title": "Bitget关于暂停USDC - Arbitrum One网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897164",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-12T17:12:22Z"
+  },
+  {
     "id": "46916dccebb1ca7f",
     "published_at": "2026-10-12T14:41:00Z",
     "title": "Bitget上市ZCSHUSDT和SNPSUSDT热门股票PERPS",
@@ -5985,18 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895824",
     "announcement_type": "上币",
     "exchange": "Bitget",
-    "created_at": "2026-09-22T10:12:03Z"
-  },
-  {
-    "id": "11de04df1a64f797",
-    "published_at": "2026-09-22T09:53:58Z",
-    "title": "币王卡功能调整公告",
-    "summary": "",
-    "source": "BiKing",
-    "category": "公告",
-    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51139600077073",
-    "announcement_type": "公告",
-    "exchange": "BiKing",
     "created_at": "2026-09-22T10:12:03Z"
   }
 ]
