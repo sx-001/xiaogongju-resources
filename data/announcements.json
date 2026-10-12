@@ -1,5 +1,41 @@
 [
   {
+    "id": "f09b176a1065bb33",
+    "published_at": "2026-10-12T05:06:09Z",
+    "title": "10 月12日 AOZX每日资讯 ｜ BTC重回 83,500美元 ，华尔街加速布局资产代币化",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17958482424079",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-10-12T05:13:33Z"
+  },
+  {
+    "id": "2ecf9af1d747f911",
+    "published_at": "2026-10-12T04:00:00Z",
+    "title": "P2P商家周礼：每周每位获奖者赚取50 USDT",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603896956",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-12T05:13:33Z"
+  },
+  {
+    "id": "967881e1e11e7907",
+    "published_at": "2026-10-12T03:40:02Z",
+    "title": "XT 关于系统调整MUUSDT、 STRCUSDT TradFi永续合约的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63139465357209",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-12T05:13:33Z"
+  },
+  {
     "id": "ea31de809d918965",
     "published_at": "2026-10-12T02:12:00Z",
     "title": "KuCoin VIP独家：升级到统一账户并获得300 USDT的交易费优惠券",
@@ -5961,42 +5997,6 @@
     "url": "https://www.bitget.com/support/articles/12560603895799",
     "announcement_type": "公告",
     "exchange": "Bitget",
-    "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "559e211ecfbae74a",
-    "published_at": "2026-09-22T02:53:29Z",
-    "title": "XT关于暂停NEAR链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62495246841625",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "0dc53d742a846213",
-    "published_at": "2026-09-22T02:50:52Z",
-    "title": "XT关于恢复TERRA、ATOM链上代币充提的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62495163969817",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T03:11:52Z"
-  },
-  {
-    "id": "798289243e82a5d3",
-    "published_at": "2026-09-22T02:34:36Z",
-    "title": "TradFi CFD 新增 SPY、IWM、STX、CRWV、RDDT 热门资产公告",
-    "summary": "",
-    "source": "YUBIT",
-    "category": "上币",
-    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/tradfi-cfd-xin-zeng-spyiwmstxcrwvrddt-re-men-zi-chan-gong-gao",
-    "announcement_type": "上币",
-    "exchange": "YUBIT",
     "created_at": "2026-09-22T03:11:52Z"
   }
 ]
