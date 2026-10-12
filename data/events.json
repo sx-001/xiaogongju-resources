@@ -1,5 +1,31 @@
 [
   {
+    "id": "f5b4cda143a78e54",
+    "published_at": "2026-10-12T17:45+08:00",
+    "title": "从Cryptomus切换到Heleket留下了同样的英国圣地",
+    "summary": "10月8日的通知列出了Xeltox旗下的两个品牌，而单独的交易所追踪强调了检查结算路线的必要性。",
+    "source": "CryptoSlate",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cryptoslate.com/cryptomus-and-heleket-share-one-uk-sanctions-target-raising-the-stakes-of-switching-payment-providers/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T10:06:47Z"
+  },
+  {
+    "id": "24f5c6808b6af9c4",
+    "published_at": "2026-10-12T17:30+08:00",
+    "title": "渣打银行增加Ripple USD托管， EYES LMAX COLLAT",
+    "summary": "渣打银行已开始在XRP Ledger上托管Ripple的RLUSD稳定币，并计划让机构使用这些代币作为交易抵押品",
+    "source": "Cointelegraph",
+    "category": "宏观-国债与美元",
+    "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T10:06:47Z"
+  },
+  {
     "id": "ce70378a27da56b6",
     "published_at": "2026-10-12T16:58+08:00",
     "title": "美国通货膨胀，以太坊升级谈判：未来一周的加密货币",
