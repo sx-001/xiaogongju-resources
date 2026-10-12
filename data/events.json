@@ -1,5 +1,44 @@
 [
   {
+    "id": "ce70378a27da56b6",
+    "published_at": "2026-10-12T16:58+08:00",
+    "title": "美国通货膨胀，以太坊升级谈判：未来一周的加密货币",
+    "summary": "看看从10月12日开始的一周会发生什么。",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T09:06:44Z"
+  },
+  {
+    "id": "e7c1656ba6ff72aa",
+    "published_at": "2026-10-12T16:41+08:00",
+    "title": "Kraken计划在获得迪拜正式执照后启动阿联酋业务",
+    "summary": "计划推出包括迪拉姆存款和提款、AED交易对、质押和xStocks ，散户投资者由Payward的许可证覆盖",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/news/cefi/kraken-plans-uae-launch-after-securing-full-dubai-license",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T09:06:44Z"
+  },
+  {
+    "id": "32d399442502c073",
+    "published_at": "2026-10-12T16:30+08:00",
+    "title": "XRP持有者现在已经在一个YIE中停放了9000万个硬币",
+    "summary": "Doppler Finance的XRP Vault已超过9000万XRP ，价值超过1.25亿美元，因为持有者不断将闲置代币转移到",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/crypto-news/doppler-xrp-vault-90-million-xrp-yield/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T09:06:44Z"
+  },
+  {
     "id": "2a50bf2fdd580d30",
     "published_at": "2026-10-12T15:14+08:00",
     "title": "ENSv2激活提案将停止新的ENSv1注册",
