@@ -1,5 +1,41 @@
 [
   {
+    "id": "46916dccebb1ca7f",
+    "published_at": "2026-10-12T14:41:00Z",
+    "title": "Bitget上市ZCSHUSDT和SNPSUSDT热门股票PERPS",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897163",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-12T15:15:57Z"
+  },
+  {
+    "id": "3c621b053b66c51a",
+    "published_at": "2026-10-12T14:34:40Z",
+    "title": "【合约上新】BASEKX 将上线多个 TradFi 永续合约交易对（ 2026-10-13 ）",
+    "summary": "",
+    "source": "Basekx",
+    "category": "上币",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/63160985630873",
+    "announcement_type": "上币",
+    "exchange": "Basekx",
+    "created_at": "2026-10-12T15:15:57Z"
+  },
+  {
+    "id": "3a58fd6b5f5ebd35",
+    "published_at": "2026-10-12T13:38:33Z",
+    "title": "BitTap 公告｜ MCD/USDT 合约将于 10 月 13 日 14:00 上线",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/17964508656399",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-10-12T15:15:57Z"
+  },
+  {
     "id": "2f3446f29aee6048",
     "published_at": "2026-10-12T11:11:00Z",
     "title": "关于恢复近网提现服务的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "BiKing",
     "created_at": "2026-09-22T10:12:03Z"
-  },
-  {
-    "id": "78576b1109ac48c9",
-    "published_at": "2026-09-22T09:45:00Z",
-    "title": "Hotcoin 关于【Hotcoin × $ YATE 上线空投福利｜ 5000 YATE 限量定向发放】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "上币",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-yate-listing-airdrop/",
-    "announcement_type": "上币",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "e57e06b034e56e16",
-    "published_at": "2026-09-22T09:43:00Z",
-    "title": "Hotcoin 关于【$ YATE 持仓空投：持币瓜分 5000 YATE】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/reward-yate-holder-airdrop/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "69c2bccab4d4d102",
-    "published_at": "2026-09-22T09:34:00Z",
-    "title": "Hotcoin TradFi 翻倍福利计划｜充值 100送 100 ，交易再领 1,000 USDT ！",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/tradfi-rewards-boost/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-22T11:10:44Z"
   }
 ]
