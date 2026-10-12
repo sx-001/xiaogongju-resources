@@ -1,5 +1,57 @@
 [
   {
+    "id": "06db7cbee1cbec5c",
+    "published_at": "2026-10-12T22:53+08:00",
+    "title": "随着乍得创纪录， DeFi Development将SOL的持股比例提高了12%",
+    "summary": "DFDV上周增加了22,070索尔，将持有量提升至259万索尔，尽管遭遇抛售，但其乍得优先股仍创下历史新高。",
+    "source": "The Block",
+    "category": "市场波动",
+    "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T15:09:33Z"
+  },
+  {
+    "id": "6095a88c45d26734",
+    "published_at": "2026-10-12T22:40+08:00",
+    "title": "Bitmine超过600万ETH ，接近以太坊供应的5%",
+    "summary": "Bitmine Immersion Technologies正在接近一个惊人的奖项：拥有以太坊全部以太坊供应量的5%。本公司披露日期：",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/crypto-news/bitmine-surpasses-6m-eth-closing-in-on-5-of-ethereum-supply/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T15:09:33Z"
+  },
+  {
+    "id": "2cf03d9167fd9330",
+    "published_at": "2026-10-12T22:20+08:00",
+    "title": "比特币的反弹接近过去购买的$ 85,000区域",
+    "summary": "比特币和以太坊延长了他们的周末复苏，尽管链上指标和衍生品定位表明反弹面临着",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T15:09:33Z"
+  },
+  {
+    "id": "ee4fe02b34cbab15",
+    "published_at": "2026-10-12T22:18+08:00",
+    "title": "XRP Treasury Evernorth股价在纳斯达克开盘价格上涨5%",
+    "summary": "Evernorth的股价上涨了5% ，因为投资者欢迎纳斯达克首次推出纯XRP数字资产库。",
+    "source": "Cointelegraph",
+    "category": "监管政策",
+    "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T15:09:33Z"
+  },
+  {
     "id": "9df7588849a732f6",
     "published_at": "2026-10-12T22:00+08:00",
     "title": "比特币、以太坊ETF因机构亏损损失12 $",
@@ -12946,57 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-16T16:01:42Z"
-  },
-  {
-    "id": "be28a93c265fafda",
-    "published_at": "2026-09-16T23:25+08:00",
-    "title": "哈马斯军方告诉捐赠者避开币安，使用Bybit",
-    "summary": "根据最近的美国DEPAR ，哈马斯的军事部门建议捐助者不要使用币安来处理资金，而是使用Bybit、OKX、KAST和Redotpay",
-    "source": "CoinDesk",
-    "category": "宏观-地缘与贸易",
-    "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:01:42Z"
-  },
-  {
-    "id": "5a10272f56bf8e88",
-    "published_at": "2026-09-16T21:20+08:00",
-    "title": "Celsius在EXC前11天以4.95亿美元起诉BitMEX",
-    "summary": "Celsius Network的破产产业已起诉BitMEX在2020年进行的一系列清算，据称其成本超过6,360比特币。投诉， 9月1日提交",
-    "source": "CryptoSlate",
-    "category": "交易所异常",
-    "url": "https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:23:48Z"
-  },
-  {
-    "id": "7dfdca6667c83967",
-    "published_at": "2026-09-16T21:00+08:00",
-    "title": "盗窃的硬币可以退还。泄露的身份不能。",
-    "summary": "B首席执行官兼联合创始人Evin McMullen写道，我们一直在构建蜜罐，我们将把相同的架构交给数十亿的人工智能代理。",
-    "source": "CoinDesk",
-    "category": "黑客攻击",
-    "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:23:48Z"
-  },
-  {
-    "id": "c18bd3a85b950a01",
-    "published_at": "2026-09-16T18:37+08:00",
-    "title": "实时更新：比特币持有近76,000 $ ，因为交易者支持",
-    "summary": "与此同时，隐私代币zcash在30天内上涨了130% ，交易量接近2016年的历史高点。",
-    "source": "CoinDesk",
-    "category": "宏观-美联储政策",
-    "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T16:23:48Z"
   }
 ]
