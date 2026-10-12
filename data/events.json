@@ -1,5 +1,44 @@
 [
   {
+    "id": "f7434a6c94db2d2b",
+    "published_at": "2026-10-13T00:51+08:00",
+    "title": "比特币矿工面临不断扩大的人工智能融资成本，因为贷方",
+    "summary": "比特币挖矿行业需要大约500亿美元来完成计划中的人工智能基础设施项目，包括IREN、Riot Platforms和HIVE Digital facin",
+    "source": "Cointelegraph",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T17:04:13Z"
+  },
+  {
+    "id": "3f4edcbc10ef8ad9",
+    "published_at": "2026-10-13T00:41+08:00",
+    "title": "比特币受到惊吓？加密恐惧和贪婪指数跌至Ra前",
+    "summary": "加密恐惧和贪婪指数已从8月份的82点高点降至56点，因为石油、债券收益率和ETF流出量在10月份袭击了比特币。",
+    "source": "Decrypt",
+    "category": "ETF机构",
+    "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T17:04:13Z"
+  },
+  {
+    "id": "18e046a92c392df5",
+    "published_at": "2026-10-13T00:30+08:00",
+    "title": "随着乌克兰，比特币下跌2.2 ％ ，伊朗罢工将石油运往",
+    "summary": "由于油价上涨，比特币价格未能维持在84,000 $以上进入华尔街。",
+    "source": "Cointelegraph",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-12T17:04:13Z"
+  },
+  {
     "id": "4b465b47cc03067b",
     "published_at": "2026-10-12T23:50+08:00",
     "title": "Sleuth ZachXBT爆破Ripple的便宜$ 250K支付18T XR",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-16T19:01:13Z"
-  },
-  {
-    "id": "b789fcfb2b57995f",
-    "published_at": "2026-09-17T02:01+08:00",
-    "title": "美国众议院税务委员会在38-5推进加密税改革",
-    "summary": "两党众议院委员会投票通过了先进的立法，该法案将重塑稳定币、质押、加密贷款和数字资产的联邦税收规则",
-    "source": "Cointelegraph",
-    "category": "监管政策",
-    "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T19:01:13Z"
-  },
-  {
-    "id": "7600971a120e23b7",
-    "published_at": "2026-09-17T01:52+08:00",
-    "title": "比特币价格持有$ 75,500作为美联储利率上涨的交易价格",
-    "summary": "比特币的价格在$ 75,000和$ 76,000之间波动，此前由于国会未能通过CLARITY法案而引发市场下滑。",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-holds-75500-as-traders-price-in-fed-rate-hike/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T18:01:11Z"
-  },
-  {
-    "id": "3a3ba18f31d467e2",
-    "published_at": "2026-09-17T01:34+08:00",
-    "title": "Celsius在2020年崩盘后以4.95亿美元起诉BitMEX",
-    "summary": "该庄园正在追逐在新冠肺炎疫情中损失的6,360比特币—这是一个杠杆化的多头头寸，在贷款人的三角洲中立营销中处于尴尬的地位。",
-    "source": "CoinDesk",
-    "category": "宏观-银行与金融风险",
-    "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-16T18:01:11Z"
   }
 ]
