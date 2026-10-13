@@ -1,5 +1,41 @@
 [
   {
+    "id": "5789562cd5732014",
+    "published_at": "2026-10-13T07:16:00Z",
+    "title": "KuCoin转换将删除BLAST （ BLAST ）",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "下架",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-convert-will-delist-261013",
+    "announcement_type": "下架",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-13T07:19:08Z"
+  },
+  {
+    "id": "bb69a7efd42b03b0",
+    "published_at": "2026-10-13T06:44:20Z",
+    "title": "[合约上新] MGBX 将上线 ETHFIUSDT、 ZROUSDT 永续合约",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17976534504975",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-10-13T07:19:08Z"
+  },
+  {
+    "id": "c3a3156e89c11b6c",
+    "published_at": "2026-10-13T06:30:07Z",
+    "title": "XT 关于上线TRB （ Tellor Tributes ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63183644005657",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T07:19:08Z"
+  },
+  {
     "id": "0d9d970a3f63f324",
     "published_at": "2026-10-13T05:17:07Z",
     "title": "10 月13日 AOZX每日资讯 ｜ BTC一度跌至 81,000美元 ，硬件钱包供应链攻击引发安全担忧",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "AOZX",
     "created_at": "2026-09-22T13:11:49Z"
-  },
-  {
-    "id": "c1f66725ee25f229",
-    "published_at": "2026-09-22T12:49:00Z",
-    "title": "Bitget上市OURAUSDT Pre-IPO Perpetual |提前交易OURA的智能戒指IPO并抓住全球可穿戴独角兽的定价权！",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895865",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T13:11:49Z"
-  },
-  {
-    "id": "adffd69828bb2f41",
-    "published_at": "2026-09-22T12:36:00Z",
-    "title": "Bitget关于暂停CHZ - Chiliz Chain网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895867",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T13:11:49Z"
-  },
-  {
-    "id": "8061733f7289fc28",
-    "published_at": "2026-09-22T12:01:20Z",
-    "title": "XT 关于暂停CELO网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62513878449561",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T12:13:43Z"
   }
 ]
