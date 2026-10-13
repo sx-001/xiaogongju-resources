@@ -1,5 +1,29 @@
 [
   {
+    "id": "2d5de72aa6306fe6",
+    "published_at": "2026-10-13T01:16:00Z",
+    "title": "Bitget关于暂停近端协议网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897168",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T01:17:01Z"
+  },
+  {
+    "id": "779fcd90c0c37886",
+    "published_at": "2026-10-13T00:39:33Z",
+    "title": "币王上线 RSR/USDT SKHY/USDT 合约交易",
+    "summary": "",
+    "source": "BiKing",
+    "category": "上币",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51857612094609",
+    "announcement_type": "上币",
+    "exchange": "BiKing",
+    "created_at": "2026-10-13T01:17:01Z"
+  },
+  {
     "id": "de52d46cfd1042c5",
     "published_at": "2026-10-13T00:06:00Z",
     "title": "Bitget关于暂停DYDX - DYDX充提币服务的公告",
@@ -5973,30 +5997,6 @@
     "url": "https://www.hotcoin.com/zh_CN/support/notice/center1/",
     "announcement_type": "公告",
     "exchange": "Hotcoin",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "2103fea903dbafbf",
-    "published_at": "2026-09-22T10:30:15Z",
-    "title": "XT.COM 关于上线MOONSHOTUSDT U 本位 TradFi 永续合约的公告（ 2026-09-22 ）",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62511340257945",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "cc9ff9b47cf07717",
-    "published_at": "2026-09-22T10:17:04Z",
-    "title": "BASEKX 事件合约产品说明",
-    "summary": "",
-    "source": "Basekx",
-    "category": "合约",
-    "url": "https://support.basekx.com/hc/zh-cn/articles/62510923894937",
-    "announcement_type": "合约",
-    "exchange": "Basekx",
     "created_at": "2026-09-22T11:10:44Z"
   }
 ]
