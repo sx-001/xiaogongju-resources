@@ -1,5 +1,29 @@
 [
   {
+    "id": "88adc8c332674f84",
+    "published_at": "2026-10-13T13:58:58Z",
+    "title": "XT 关于恢复EGLD充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63198436960665",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T14:16:35Z"
+  },
+  {
+    "id": "75ed6ea9ccaa72f2",
+    "published_at": "2026-10-13T13:49:00Z",
+    "title": "关于AWS基础设施问题导致服务中断的通知",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "公告",
+    "url": "https://www.kucoin.com/announcement/en-notice-regarding-service-disruptions-due-to-aws-infrastructure-issues",
+    "announcement_type": "公告",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-13T14:16:35Z"
+  },
+  {
     "id": "46f53355f20319a5",
     "published_at": "2026-10-13T12:00:00Z",
     "title": "[重要] Bitget将禁用统一交易账户中BTW的保证金和贷款功能",
@@ -5972,30 +5996,6 @@
     "category": "公告",
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62532890263833",
     "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "2be684fedc6eefe7",
-    "published_at": "2026-09-23T03:45:46Z",
-    "title": "9 月23日 AOZX每日资讯 ｜ BTC站稳 86,000美元 ，美联储释放持续控通胀信号",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17722973138959",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "ac15edae1749905d",
-    "published_at": "2026-09-23T03:40:24Z",
-    "title": "XT 关于暂停SPACEMESH网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62532448155161",
-    "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-23T04:11:25Z"
   }
