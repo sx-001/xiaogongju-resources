@@ -1,5 +1,17 @@
 [
   {
+    "id": "0d9d970a3f63f324",
+    "published_at": "2026-10-13T05:17:07Z",
+    "title": "10 月13日 AOZX每日资讯 ｜ BTC一度跌至 81,000美元 ，硬件钱包供应链攻击引发安全担忧",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17975274751759",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-10-13T06:17:32Z"
+  },
+  {
     "id": "02d9246aa37d6b62",
     "published_at": "2026-10-13T04:00:05Z",
     "title": "XT 关于恢复 NFLXON、 CRWDX、 AZNX 交易的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-22T12:13:43Z"
-  },
-  {
-    "id": "2e56956faa54c27c",
-    "published_at": "2026-09-22T12:00:00Z",
-    "title": "CandyBomb x MCAT （第2集） ：交易以分享50,000 USDT",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895861",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-22T13:11:49Z"
   }
 ]
