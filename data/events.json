@@ -1,5 +1,31 @@
 [
   {
+    "id": "54a03403fbf5d3a6",
+    "published_at": "2026-10-13T09:57+08:00",
+    "title": "随着加密货币清算激增，比特币跌破82,000 $",
+    "summary": "在过去的24小时内，加密货币清算达到7.71亿美元，其中包括6.856亿美元的多头头寸。",
+    "source": "The Block",
+    "category": "市场波动",
+    "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T02:05:01Z"
+  },
+  {
+    "id": "b096afc48ac3ad0e",
+    "published_at": "2026-10-13T09:30+08:00",
+    "title": "Ripple的RLUSD获得XRP L的渣打托管权",
+    "summary": "符合条件的机构现在可以通过渣打银行的数字资产托管服务在XRP分类账上保护Ripple的RLUSD。本次发布扩大了",
+    "source": "Bitcoin.com",
+    "category": "宏观-国债与美元",
+    "url": "https://news.bitcoin.com/featured/ripples-rlusd-gains-standard-chartered-custody-on-the-xrp-ledger/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T02:05:01Z"
+  },
+  {
     "id": "9d6747bc7e8db19d",
     "published_at": "2026-10-13T08:45+08:00",
     "title": "Evernorth以4.73亿XRP作为XRPN Trading B登陆纳斯达克",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T06:01:20Z"
-  },
-  {
-    "id": "6338b61d3e4a8fb3",
-    "published_at": "2026-09-17T12:47+08:00",
-    "title": "尽管美联储，但随着比特币和主要代币的上涨， Zcash上涨了23 ％",
-    "summary": "比特币交易价格高于76,000 $ ，因为美联储预计比特币将进一步收紧，而Paradigm的Matt Huang讨论了Zcash作为隐私公司的角色",
-    "source": "CoinDesk",
-    "category": "宏观-美联储政策",
-    "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T05:01:25Z"
-  },
-  {
-    "id": "4d278a641ebf8744",
-    "published_at": "2026-09-17T12:17+08:00",
-    "title": "高盛转向，现在预测美联储10月加息",
-    "summary": "高盛表示，美联储可能会在10月份将利率提高25个基点，并提请注意美联储自己的鹰派短期利率预测。",
-    "source": "CoinDesk",
-    "category": "宏观-美联储政策",
-    "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T05:01:25Z"
   }
 ]
