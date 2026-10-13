@@ -1,5 +1,41 @@
 [
   {
+    "id": "968871b846342dad",
+    "published_at": "2026-10-13T10:13:00Z",
+    "title": "Bitget关于暂停EGLD - Elrond eGold网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897275",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T10:14:26Z"
+  },
+  {
+    "id": "bec4c62ef525e098",
+    "published_at": "2026-10-13T09:40:13Z",
+    "title": "XT.COM 关于 PIN、 ME、 MMC、 SSS、 CGFY 项目回购完成及关闭提现服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63191323201817",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T10:14:26Z"
+  },
+  {
+    "id": "70d3ac717cabea70",
+    "published_at": "2026-10-13T09:22:00Z",
+    "title": "Hotcoin 关于暂停DPN充值业务的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "风控",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/hotcoin-has-suspended-dpn-deposit-services-2026-10-13",
+    "announcement_type": "风控",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-13T10:14:26Z"
+  },
+  {
     "id": "5d5ce030ffac7b2b",
     "published_at": "2026-10-13T09:13:50Z",
     "title": "事件合约狂欢季｜三重福利限时开启！",
@@ -5962,41 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "XT.COM",
     "created_at": "2026-09-23T07:11:48Z"
-  },
-  {
-    "id": "e8757541b688398f",
-    "published_at": "2026-09-23T02:22:00Z",
-    "title": "KuCoin期货新上市： MOONSHOTUSDT首次公开发行前股票指数永续合约上市前交易",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "上币",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-new-listing-moonshotusdt-pre-ipo-stock-index-perpetual-contract-pre-market-trading",
-    "announcement_type": "上币",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-23T03:10:51Z"
-  },
-  {
-    "id": "a26688debb7c7224",
-    "published_at": "2026-09-23T02:21:28Z",
-    "title": "XT 关于上线BEB （ Bloom Energy ）、 FLNCB （ Fluence Energy ）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62529673491609",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "87cbd2d232edec38",
-    "published_at": "2026-09-23T02:17:00Z",
-    "title": "Hotcoin 关于【VIP 全民解锁季｜升级即领高息体验金 ，人越多奖越大 】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "维护",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/VIPUnlockSeasonUpgradeforHigh-YieldTrialFundsandUnlockBiggerRewards/",
-    "announcement_type": "维护",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-23T03:10:51Z"
   }
 ]
