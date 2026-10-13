@@ -1,5 +1,29 @@
 [
   {
+    "id": "52082b26f7e07bde",
+    "published_at": "2026-10-13T18:26:00Z",
+    "title": "Bitget关于暂停USDC -乐观网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897432",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T19:25:13Z"
+  },
+  {
+    "id": "1607758b5315f586",
+    "published_at": "2026-10-13T18:19:00Z",
+    "title": "Bitget关于暂停USDC - Polygon网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897431",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T19:25:13Z"
+  },
+  {
     "id": "53809482c0315822",
     "published_at": "2026-10-13T17:09:00Z",
     "title": "Bitget关于暂停HOLO - Solana网络取款服务的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "下架",
     "exchange": "BitTap",
     "created_at": "2026-09-23T05:10:02Z"
-  },
-  {
-    "id": "e677da4f62bb406c",
-    "published_at": "2026-09-23T04:05:00Z",
-    "title": "Bitget关于暂停STG - Arbitrum One存款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895905",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "cbef2262692fcdcc",
-    "published_at": "2026-09-23T04:00:00Z",
-    "title": "Bitget将支持Stargate Finance （ STG ）代币交换和向LayerZero （ ZRO ）的迁移",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895883",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T04:11:25Z"
   }
 ]
