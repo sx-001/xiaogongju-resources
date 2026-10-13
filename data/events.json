@@ -1,5 +1,31 @@
 [
   {
+    "id": "a0cba947e699f2cc",
+    "published_at": "2026-10-14T01:33+08:00",
+    "title": "XRPN在不了解XRP膨胀的情况下进行了股东投票",
+    "summary": "Evernorth通过XRPN将数百万XRP带到纳斯达克，这是一个固定供应论文，实际上已经在一个秘密的通货膨胀漏洞中被打破了。",
+    "source": "Protos",
+    "category": "安全风险",
+    "url": "https://protos.com/xrpn-took-shareholder-vote-with-no-knowledge-of-xrp-inflation-bug/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T18:06:12Z"
+  },
+  {
+    "id": "6935fe9028b15121",
+    "published_at": "2026-10-14T01:30+08:00",
+    "title": "华尔街盈利，滑动芯片股保持比特币的PRI",
+    "summary": "2026年10月13日（周二） ，由于令人失望的摩根大通盈利与另一只半期债券相撞，华尔街一直在努力寻找立足点",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/wall-street-earnings-sliding-chip-stocks-keep-bitcoins-price-at-bay/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T18:06:12Z"
+  },
+  {
     "id": "ed0af1357bcedbab",
     "published_at": "2026-10-14T00:55+08:00",
     "title": "Strive增加了2.8亿美元的比特币，超过了Bigges的策略",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T22:01:17Z"
-  },
-  {
-    "id": "61ec768d6a3ef0e8",
-    "published_at": "2026-09-18T04:30+08:00",
-    "title": "L-BTC Peg-Out仍然关闭，因为Blockstream拒绝黑客",
-    "summary": "自从所谓的白帽黑客从Liquid网络中吸收了近4000比特币以来，已经过去了11天。从那时起，在返还3400比特币后，",
-    "source": "Bitcoin.com",
-    "category": "黑客攻击",
-    "url": "https://news.bitcoin.com/crypto-news/l-btc-peg-out-still-shut-down-as-blockstream-refuses-hacker-demand/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T21:01:09Z"
-  },
-  {
-    "id": "0e0bebbd1419bad3",
-    "published_at": "2026-09-18T04:05+08:00",
-    "title": "美国制裁伊朗加密货币交易所BitBank涉嫌双",
-    "summary": "财政部表示，此前受到制裁的Hormuz Safe平台使用BitBank转移自6月以来收集的付款。",
-    "source": "The Block",
-    "category": "监管政策",
-    "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T21:01:09Z"
   }
 ]
