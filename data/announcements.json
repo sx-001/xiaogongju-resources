@@ -1,5 +1,17 @@
 [
   {
+    "id": "de52d46cfd1042c5",
+    "published_at": "2026-10-13T00:06:00Z",
+    "title": "Bitget关于暂停DYDX - DYDX充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897167",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T00:19:22Z"
+  },
+  {
     "id": "8c8f4b4e0cb73efa",
     "published_at": "2026-10-12T17:52:00Z",
     "title": "Bitget关于恢复USDC - Arbitrum One提现的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://support.basekx.com/hc/zh-cn/articles/62510923894937",
     "announcement_type": "合约",
     "exchange": "Basekx",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "c85f528be814cca9",
-    "published_at": "2026-09-22T10:13:00Z",
-    "title": "Bitget关于恢复ICX的公告- ICON提现",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895860",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
     "created_at": "2026-09-22T11:10:44Z"
   }
 ]
