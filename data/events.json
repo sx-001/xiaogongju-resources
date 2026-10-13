@@ -1,5 +1,18 @@
 [
   {
+    "id": "6b4e88524245b1b5",
+    "published_at": "2026-10-13T21:59+08:00",
+    "title": "STRC在比特币巨头战略突破后接近100 $",
+    "summary": "Strategy的STRC优先股周一收于99.88 $ ，为5月以来的最佳收盘价，此前这家比特币国债巨头花了大约7次",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/finance/bitcoin-giant-strategy-strc-nearly-hit-100-breaking-buyback-promise/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T14:09:43Z"
+  },
+  {
     "id": "77563c84fc7146b6",
     "published_at": "2026-10-13T20:30+08:00",
     "title": "Blackrock推动$ 1.5亿比特币，以太坊ETF销售",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T15:01:49Z"
-  },
-  {
-    "id": "24cfca0d0cf3c177",
-    "published_at": "2026-09-17T21:32+08:00",
-    "title": "标普全球同意以链上证券形式收购OpenZeppelin",
-    "summary": "OpenZeppelin将继续作为标准普尔全球旗下的独立业务部门运营，交易的财务条款未披露。",
-    "source": "The Block",
-    "category": "安全风险",
-    "url": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T14:01:18Z"
   }
 ]
