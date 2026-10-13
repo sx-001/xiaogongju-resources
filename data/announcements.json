@@ -1,5 +1,41 @@
 [
   {
+    "id": "b83d2e8be9502e1e",
+    "published_at": "2026-10-13T01:32:47Z",
+    "title": "XT 关于恢复SANTACOIN提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63171925912601",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T02:13:22Z"
+  },
+  {
+    "id": "0712055693d6f42b",
+    "published_at": "2026-10-13T01:27:14Z",
+    "title": "XT 关于暂停DYDX网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63171674639001",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T02:13:22Z"
+  },
+  {
+    "id": "e8d3b1df6869285b",
+    "published_at": "2026-10-13T01:21:38Z",
+    "title": "XT 关于深度隐藏EIOB/USDT交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/63171439234585",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T02:13:22Z"
+  },
+  {
     "id": "2d5de72aa6306fe6",
     "published_at": "2026-10-13T01:16:00Z",
     "title": "Bitget关于暂停近端协议网络取款服务的公告",
@@ -5961,42 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62512553049113",
     "announcement_type": "风控",
     "exchange": "XT.COM",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "754e4c4e88701f80",
-    "published_at": "2026-09-22T11:03:00Z",
-    "title": "Hotcoin 「2049 合约通行证」开启",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "合约",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/655/",
-    "announcement_type": "合约",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "3932b1770c5535fa",
-    "published_at": "2026-09-22T11:00:00Z",
-    "title": "KuMining一周年纪念：开采、赚取和庆祝，获得100,000 + USDT的奖励",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "活动",
-    "url": "https://www.kucoin.com/announcement/en-kumining-1st-anniversary-mine-earn-celebrate-with-100000-usdt-in-rewards",
-    "announcement_type": "活动",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-22T11:10:44Z"
-  },
-  {
-    "id": "6402753ba09f8644",
-    "published_at": "2026-09-22T10:32:00Z",
-    "title": "幸运儿幸运转盘： 100%中奖 ！全新转盘豪礼 $ 300,000 ， iPhone 18 Pro大奖等你来抽",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "公告",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/center1/",
-    "announcement_type": "公告",
-    "exchange": "Hotcoin",
     "created_at": "2026-09-22T11:10:44Z"
   }
 ]
