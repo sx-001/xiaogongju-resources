@@ -1,5 +1,44 @@
 [
   {
+    "id": "9925d4b58d49aceb",
+    "published_at": "2026-10-14T04:12+08:00",
+    "title": "尽管比特币价格上涨，但仍为$ 81,500 ETF成本基础辩护",
+    "summary": "比特币曾两次为美国现货ETF投资者约81,500美元的成本基础辩护，即使上周ETF净流出额为6.81亿美元，",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-defends-81-5k-etf-cost-basis-despite-rising-outflows/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T20:14:36Z"
+  },
+  {
+    "id": "fe5efe689c8205ce",
+    "published_at": "2026-10-14T03:48+08:00",
+    "title": "Solana上大多数代币化股票交易， BNB Chain发生在",
+    "summary": "代币化股票的价值已达到近33亿美元($ 3.3 billion) ，因为投资者在华尔街以外的时间接受全天候访问。",
+    "source": "Cointelegraph",
+    "category": "宏观-股市极端行情",
+    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T20:14:36Z"
+  },
+  {
+    "id": "fed72eff9383d833",
+    "published_at": "2026-10-14T03:30+08:00",
+    "title": "比特币无视8亿美元的加密货币淘汰，成为韩国的",
+    "summary": "尽管亚洲股市大幅抛售，但比特币周二反弹至83,000美元以上，因为加密货币清算超过8亿美元。比特币收复了",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/bitcoin-defies-800-million-crypto-wipeout-as-south-koreas-ai-stock-market-crashes/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T20:14:36Z"
+  },
+  {
     "id": "48a5a90b7c09e73a",
     "published_at": "2026-10-14T03:13+08:00",
     "title": "道琼斯指数、DRW和Marex将华尔街互换带入",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-18T06:01:06Z"
-  },
-  {
-    "id": "dd9aec56f7d4f379",
-    "published_at": "2026-09-18T09:50+08:00",
-    "title": "随着美联储和CLARITY风险的增加，比特币面临$ 80,000的上限",
-    "summary": "由于美国货币政策收紧和CLARITY法案的挫折对近期状况造成压力，比特币可能难以突破80,000 $。COIN",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-80000-ceiling-as-fed-and-clarity-risks-mount/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T02:01:14Z"
-  },
-  {
-    "id": "09900d4676f17d97",
-    "published_at": "2026-09-18T09:33+08:00",
-    "title": "美国制裁伊朗的BitBank ，称其处理“Hormuz Saf”",
-    "summary": "美国财政部表示，伊朗交易所处理了通过伊朗霍尔木兹海峡海事计划收到的付款，并帮助转移了数亿美元",
-    "source": "Cointelegraph",
-    "category": "监管政策",
-    "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T02:01:14Z"
-  },
-  {
-    "id": "e50b82fc46d8ca08",
-    "published_at": "2026-09-18T09:30+08:00",
-    "title": "从Kaiko到OpenZeppelin ，标普全球正在悄悄准备",
-    "summary": "标普全球同意收购智能合约安全公司OpenZeppelin ，将其数字资产业务扩展到支持TOK的技术",
-    "source": "CryptoSlate",
-    "category": "安全风险",
-    "url": "https://cryptoslate.com/from-kaiko-to-openzeppelin-sp-global-is-quietly-preparing-for-markets-that-never-close/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T02:01:14Z"
   }
 ]
