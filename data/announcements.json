@@ -1,5 +1,17 @@
 [
   {
+    "id": "46f53355f20319a5",
+    "published_at": "2026-10-13T12:00:00Z",
+    "title": "[重要] Bitget将禁用统一交易账户中BTW的保证金和贷款功能",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897321",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T13:21:14Z"
+  },
+  {
     "id": "411a715c4e120fe6",
     "published_at": "2026-10-13T10:49:20Z",
     "title": "XT 关于暂停EGLD充提的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62532448155161",
     "announcement_type": "风控",
     "exchange": "XT.COM",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "7dd2259ab80ada97",
-    "published_at": "2026-09-23T03:36:00Z",
-    "title": "Bitget关于恢复VERONA - VERONA Chain充提币的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895881",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
     "created_at": "2026-09-23T04:11:25Z"
   }
 ]
