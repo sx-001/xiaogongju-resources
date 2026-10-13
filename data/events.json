@@ -1,5 +1,31 @@
 [
   {
+    "id": "30ea0ebefa1ebcfa",
+    "published_at": "2026-10-13T12:43+08:00",
+    "title": "曾经最大的以太坊NFT市场Blur正在关闭",
+    "summary": "Blur将于11月12日关闭其网站，此前每月交易额从2023年高峰时的约14.3 $跌至700万$以下，距离姐妹交易10天",
+    "source": "CoinDesk",
+    "category": "以太坊",
+    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T05:06:11Z"
+  },
+  {
+    "id": "e281186212b243b5",
+    "published_at": "2026-10-13T12:18+08:00",
+    "title": "比特币从暴跌中脱钩，反弹至$ 83,000以上",
+    "summary": "比特币在早盘下跌后回升至83,000 $上方，与韩国芯片股大幅下跌和周四前纳斯达克期货疲软脱钩",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T05:06:11Z"
+  },
+  {
     "id": "867d0de5956ded75",
     "published_at": "2026-10-13T10:30+08:00",
     "title": "Bybit将1,000多只美国股票和ETF带入加密货币交易平台",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T08:01:20Z"
-  },
-  {
-    "id": "bc5f58a4c980ac7f",
-    "published_at": "2026-09-17T15:27+08:00",
-    "title": "美国柴油价格创历史新高，比特币和黄金陷入困境",
-    "summary": "创纪录的柴油价格可能会影响消费者价格通胀，证实美联储将进一步加息。央行似乎决心加息",
-    "source": "CoinDesk",
-    "category": "市场波动",
-    "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T08:01:20Z"
-  },
-  {
-    "id": "feaa591604f33405",
-    "published_at": "2026-09-17T13:55+08:00",
-    "title": "BitMEX在交易所关闭前面临Celsius诉讼",
-    "summary": "Celsius房地产公司声称，在2020年3月的市场崩盘期间， BitMEX错误地清算并扣押了6,360个比特币，价值近4.9亿美元。",
-    "source": "Cointelegraph",
-    "category": "极端行情",
-    "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T06:01:20Z"
   }
 ]
