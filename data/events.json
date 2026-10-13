@@ -1,5 +1,31 @@
 [
   {
+    "id": "6e07727b53040f71",
+    "published_at": "2026-10-13T16:50+08:00",
+    "title": "国际货币基金组织发现，超过一半的代币化美国股票交易发生在",
+    "summary": "五个产品样本中超过一半的量来自正常的美国工作时间之外，而波动性约为传统对手的1.5倍",
+    "source": "CryptoSlate",
+    "category": "宏观-股市极端行情",
+    "url": "https://cryptoslate.com/imf-finds-over-half-of-tokenized-us-stock-trading-happens-after-wall-street-closes/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T09:05:42Z"
+  },
+  {
+    "id": "958a706bcb397903",
+    "published_at": "2026-10-13T16:30+08:00",
+    "title": "$ 1.37的XRP价格离开Evernorth的$ 2.14亿XRP买入46%撤销",
+    "summary": "Evernorth任命前Coinbase资产管理联合首席信息官Hugo Jeandesboz在首次亮相当日运营其4.73亿XRP资金库， XRPN仍以16 $收盘",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/market-updates/evernorth-coinbase-veteran-cio-xrpn-68-below-peak/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T09:05:42Z"
+  },
+  {
     "id": "271982e5316a9f3d",
     "published_at": "2026-10-13T13:27+08:00",
     "title": "作为Asi ， SanDisk代币化投注的清算次数多于XRP",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T11:01:28Z"
-  },
-  {
-    "id": "5f9f9b7df845a43a",
-    "published_at": "2026-09-17T17:57+08:00",
-    "title": "Revolut表示，在300万$的公共赎金后，没有直接联系",
-    "summary": "Revolut表示，尽管有来自竞争违规索赔人的300万美元门罗币和1万比特币的赎金要求，但它没有收到任何直接联系",
-    "source": "Cointelegraph",
-    "category": "黑客攻击",
-    "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T11:01:28Z"
-  },
-  {
-    "id": "941866384773a46a",
-    "published_at": "2026-09-17T17:30+08:00",
-    "title": "美联储加息后比特币持有76,000 $ ，但有4个需求信号",
-    "summary": "比特币在9月16日跌至75,064.82 $的盘中低点，但在美联储主席凯文沃什的新闻发布会后恢复并收回了76,000 $的区域",
-    "source": "CryptoSlate",
-    "category": "监管政策",
-    "url": "https://cryptoslate.com/bitcoin-holds-76000-after-fed-rate-hike-but-4-demand-signals-flash-warning/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T10:01:20Z"
   }
 ]
