@@ -1,5 +1,44 @@
 [
   {
+    "id": "3c90f7946d5024ef",
+    "published_at": "2026-10-13T23:00+08:00",
+    "title": "DRW和Marex完成场外交易，引用标记化的标准普尔iB",
+    "summary": "DRW和Marex利用Kaiko数据完成了第一次场外交易，通过广州网络在Derivnex上引用了完全代币化的指数。",
+    "source": "The Block",
+    "category": "宏观-股市极端行情",
+    "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T15:08:39Z"
+  },
+  {
+    "id": "cec822f51141ad3d",
+    "published_at": "2026-10-13T22:40+08:00",
+    "title": "币安在运行6年后推出比特币挖矿",
+    "summary": "按交易量计算，全球最大的加密货币交易所Binance本周披露，该公司的采矿业务将日落。",
+    "source": "Bitcoin.com",
+    "category": "交易所异常",
+    "url": "https://news.bitcoin.com/mining/binance-pulls-plug-bitcoin-mining-after-6-year-run/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T15:08:39Z"
+  },
+  {
+    "id": "34996a878e06e7f8",
+    "published_at": "2026-10-13T22:14+08:00",
+    "title": "盈透证券通过Zeroha推出以太坊质押",
+    "summary": "符合条件的客户根据经纪商的协议保留至少70%的质押奖励，而提款仍然需要网络等待期。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T15:08:39Z"
+  },
+  {
     "id": "6b4e88524245b1b5",
     "published_at": "2026-10-13T21:59+08:00",
     "title": "STRC在比特币巨头战略突破后接近100 $",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T16:01:29Z"
-  },
-  {
-    "id": "70e8cbc590094d64",
-    "published_at": "2026-09-17T22:45+08:00",
-    "title": "比特币、以太坊ETF损失5.2亿美元，因瑞波币美联储加息",
-    "summary": "美国比特币和以太币ETF周三共损失5.209 $ ，这是美联储自2023年以来的首次加息。",
-    "source": "Bitcoin.com",
-    "category": "ETF机构",
-    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-lose-520m-as-xrp-bucks-fed-rate-hike-selloff/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T15:01:49Z"
-  },
-  {
-    "id": "8b559d9f0ab2b473",
-    "published_at": "2026-09-17T22:30+08:00",
-    "title": "立法者通过法案冻结联邦比特币持有量",
-    "summary": "ARMA将锁定合格的储备比特币，并要求进行年度审计报告，而购买仍然是一项研究。",
-    "source": "CryptoSlate",
-    "category": "监管政策",
-    "url": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T15:01:49Z"
-  },
-  {
-    "id": "7e5d3bbd39e79bb0",
-    "published_at": "2026-09-17T22:01+08:00",
-    "title": "标准普尔全球收购Openzeppelin ，大举押注Onchain Finance",
-    "summary": "据主要市场情报公司S&P Global称，该公司正在收购数字安全公司Openzeppelin。ACQUI的目标",
-    "source": "Bitcoin.com",
-    "category": "安全风险",
-    "url": "https://news.bitcoin.com/finance/sp-global-buys-openzeppelin-in-a-big-bet-on-onchain-finance/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T15:01:49Z"
   }
 ]
