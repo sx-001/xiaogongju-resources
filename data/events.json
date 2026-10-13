@@ -1,5 +1,18 @@
 [
   {
+    "id": "c2a89b6aef235814",
+    "published_at": "2026-10-14T06:40+08:00",
+    "title": "BNY为新加坡海湾银行带来24/7美元结算",
+    "summary": "新加坡海湾银行已通过BNY扩展了全天候美元结算，允许符合条件的付款在周末结算，",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/finance/bny-brings-24-7-dollar-settlement-singapore-gulf-bank/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T23:11:47Z"
+  },
+  {
     "id": "e44eb1e3f3045815",
     "published_at": "2026-10-14T05:40+08:00",
     "title": "以太坊NFT市场在交易量后模糊关闭",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-18T10:01:23Z"
-  },
-  {
-    "id": "27c733a1b5ce68d9",
-    "published_at": "2026-09-18T16:50+08:00",
-    "title": "当安全的美国国债pa时，为什么要冒着智能合约被利用的风险",
-    "summary": "The Federal Reserve raised its target range by 25 basis points to 3.75%-4.00% on Sept. 16, pushing the one-year Treasury yield to 4.45% the same day a",
-    "source": "CryptoSlate",
-    "category": "黑客攻击",
-    "url": "https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T09:01:13Z"
   }
 ]
