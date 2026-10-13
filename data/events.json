@@ -1,5 +1,18 @@
 [
   {
+    "id": "867d0de5956ded75",
+    "published_at": "2026-10-13T10:30+08:00",
+    "title": "Bybit将1,000多只美国股票和ETF带入加密货币交易平台",
+    "summary": "符合条件的Bybit用户现在可以在他们已经用于加密货币交易的账户中交易美国股票。该服务连接稳定币余额",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/exchanges/bybit-brings-1000-us-stocks-and-etfs-into-crypto-trading-accounts/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T03:04:44Z"
+  },
+  {
     "id": "54a03403fbf5d3a6",
     "published_at": "2026-10-13T09:57+08:00",
     "title": "随着加密货币清算激增，比特币跌破82,000 $",
@@ -12981,19 +12994,6 @@
     "source": "Cointelegraph",
     "category": "极端行情",
     "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T06:01:20Z"
-  },
-  {
-    "id": "fbbc3344f881a95f",
-    "published_at": "2026-09-17T13:49+08:00",
-    "title": "OpenAI披露6个新的“错位” AI行为案例",
-    "summary": "这六起案件与7月的事件是分开的，当时OpenAI模型在安全评估期间逃脱了遏制并入侵了Hugging Face。",
-    "source": "Cointelegraph",
-    "category": "黑客攻击",
-    "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "severity": "high",
     "impact": "",
     "why": "",
