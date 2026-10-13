@@ -1,5 +1,53 @@
 [
   {
+    "id": "411a715c4e120fe6",
+    "published_at": "2026-10-13T10:49:20Z",
+    "title": "XT 关于暂停EGLD充提的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63193618788377",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T11:13:55Z"
+  },
+  {
+    "id": "2915e6116f313468",
+    "published_at": "2026-10-13T10:38:00Z",
+    "title": "Hotcoin 关于【Hotcoin C2C 10月交易礼遇】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/RewardDistribution-HotcoinOctoberP2PRewards1",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-13T11:13:55Z"
+  },
+  {
+    "id": "15bcb2e1f12bb1f2",
+    "published_at": "2026-10-13T10:27:00Z",
+    "title": "Hotcoin 关于【10月理财专享礼】活动奖励已发放的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "活动",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/RewardDistribution-OctoberEarnExclusiveRewards1",
+    "announcement_type": "活动",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-13T11:13:55Z"
+  },
+  {
+    "id": "b1585d5057623bdf",
+    "published_at": "2026-10-13T10:23:29Z",
+    "title": "八载同行共赴未来｜ XT八周年 VIP私享晚宴于新加坡举行",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63192817592473",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-13T11:13:55Z"
+  },
+  {
     "id": "968871b846342dad",
     "published_at": "2026-10-13T10:13:00Z",
     "title": "Bitget关于暂停EGLD - Elrond eGold网络取款服务的公告",
@@ -10,6 +58,18 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-10-13T10:14:26Z"
+  },
+  {
+    "id": "fd124dcd44e1c665",
+    "published_at": "2026-10-13T10:10:00Z",
+    "title": "Bitget支持统一账户中RQQQI的保证金功能",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897274",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T11:13:55Z"
   },
   {
     "id": "bec4c62ef525e098",
@@ -58,6 +118,18 @@
     "announcement_type": "下架",
     "exchange": "KuCoin",
     "created_at": "2026-10-13T09:14:19Z"
+  },
+  {
+    "id": "f06a883809edb6ad",
+    "published_at": "2026-10-13T08:51:00Z",
+    "title": "Bitget通过更灵活的托管和结算选项扩展机构托管和场外交易结算基础设施",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603897224",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-13T11:13:55Z"
   },
   {
     "id": "40cb1bbbd7bca422",
@@ -5926,77 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "ca9dd38152dfcbef",
-    "published_at": "2026-09-23T03:28:00Z",
-    "title": "关于恢复AVAX C-Chain充提币服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895882",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "256537eb746d2187",
-    "published_at": "2026-09-23T03:23:00Z",
-    "title": "Bitget关于恢复CHZ - Chiliz Chain提现的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895879",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "071a0e072f9cff2a",
-    "published_at": "2026-09-23T03:19:07Z",
-    "title": "BASEKX 事件合约使用指南",
-    "summary": "",
-    "source": "Basekx",
-    "category": "合约",
-    "url": "https://support.basekx.com/hc/zh-cn/articles/62531766152345",
-    "announcement_type": "合约",
-    "exchange": "Basekx",
-    "created_at": "2026-09-23T04:11:25Z"
-  },
-  {
-    "id": "094cfa4d179e6f5d",
-    "published_at": "2026-09-23T02:37:19Z",
-    "title": "XT 关于恢复EIOB网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62530268120089",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-23T03:10:51Z"
-  },
-  {
-    "id": "bd15594f47de9fef",
-    "published_at": "2026-09-23T02:34:00Z",
-    "title": "KuCoin现货上市代币化股票： AAPLX、HOODX、MSTRX和SPCXX",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-spot-to-list-tokenized-stocks-aaplx-hoodx-mstrx-and-spcxx",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-23T03:10:51Z"
-  },
-  {
-    "id": "b127e624103c41f6",
-    "published_at": "2026-09-23T02:30:08Z",
-    "title": "XT 关于上线ALABB （ Astera Labs ）、 ASTSB （ AST SpaceMobile ）、 BMNRB （ BitMine Immersion Technologies ）交易的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "上币",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62530007113625-XT%E5%85%B3%E4%BA%8E%E4%B8%8A%E7%BA%BFALABB-Astera-Labs-ASTSB-AST-SpaceMobile-BMNRB-BitMine-Immersion-Technologies-%E4%BA%A4%E6%98%93%E7%9A%84%E5%85%AC%E5%91%8A",
-    "announcement_type": "上币",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-23T07:11:48Z"
   }
 ]
