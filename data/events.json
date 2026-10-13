@@ -1,5 +1,18 @@
 [
   {
+    "id": "ed0af1357bcedbab",
+    "published_at": "2026-10-14T00:55+08:00",
+    "title": "Strive增加了2.8亿美元的比特币，超过了Bigges的策略",
+    "summary": "Strive已以约2.8亿美元的价格收购了另外3,311枚比特币，这是自1月份以来最大的一周收购量，也是第三大收购量",
+    "source": "Bitcoin.com",
+    "category": "宏观-股市极端行情",
+    "url": "https://news.bitcoin.com/crypto-news/strive-adds-280m-bitcoin-outpacing-strategy-biggest-buy-january/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T17:06:08Z"
+  },
+  {
     "id": "9534ded28b5c98b4",
     "published_at": "2026-10-13T23:57+08:00",
     "title": "STRIVE报告了$ 2.08亿美元的权证练习，因为比特币持有",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T21:01:09Z"
-  },
-  {
-    "id": "be7e92c1e737e018",
-    "published_at": "2026-09-18T03:08+08:00",
-    "title": "CoreWeave自加入纳斯达克100指数以来下跌了32%",
-    "summary": "CoreWeave于6月加入著名的纳斯达克100指数，此后退休储蓄者一直在股票上亏损。The post CoreWeave do",
-    "source": "Protos",
-    "category": "宏观-股市极端行情",
-    "url": "https://protos.com/coreweave-down-32-since-joining-the-nasdaq-100/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T20:01:09Z"
   }
 ]
