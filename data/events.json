@@ -1,5 +1,18 @@
 [
   {
+    "id": "e154619fea4cd838",
+    "published_at": "2026-10-13T07:57+08:00",
+    "title": "比特币价格跌破$ 82K ，多头为$ 4.06亿Get Liquida",
+    "summary": "比特币周一晚间跌破82,000美元，为杠杆加密交易者掀起了另一场痛苦的清算。VAN头寸近4.89亿美元",
+    "source": "Bitcoin.com",
+    "category": "市场波动",
+    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-falls-below-82k-as-406m-in-longs-get-liquidated/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T00:04:33Z"
+  },
+  {
     "id": "ec129fdb8b9d075d",
     "published_at": "2026-10-13T06:05+08:00",
     "title": "韩国的比特币借贷实验在Jeonbuk B开始",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T04:01:23Z"
-  },
-  {
-    "id": "ffdca2ef1be7367a",
-    "published_at": "2026-09-17T09:45+08:00",
-    "title": "Ripple表示XRP不是一种证券，被认为是数字通信",
-    "summary": "Ripple首席法务官Stuart Alderoty表示，经过多年的诉讼和联邦机构的指导， XRP在美国的监管地位仍然很明确",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/regulation-and-legal/ripple-says-xrp-is-not-a-security-recognized-as-digital-commodity/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T02:01:29Z"
   }
 ]
