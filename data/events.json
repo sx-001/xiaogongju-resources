@@ -1,5 +1,31 @@
 [
   {
+    "id": "271982e5316a9f3d",
+    "published_at": "2026-10-13T13:27+08:00",
+    "title": "作为Asi ， SanDisk代币化投注的清算次数多于XRP",
+    "summary": "大约8亿美元的杠杆头寸在24小时内被抹去，其中86%看涨。加密货币交易所的芯片股合约占据了一大块",
+    "source": "CoinDesk",
+    "category": "极端行情",
+    "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T06:05:39Z"
+  },
+  {
+    "id": "b4f5969dc2c0173e",
+    "published_at": "2026-10-13T13:23+08:00",
+    "title": "币安将于11月关闭加密矿池服务",
+    "summary": "币安将于11月10日停止其采矿池和相关服务，敦促矿工在关闭之前转移到其他矿池。",
+    "source": "Cointelegraph",
+    "category": "交易所异常",
+    "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-13T06:05:39Z"
+  },
+  {
     "id": "30ea0ebefa1ebcfa",
     "published_at": "2026-10-13T12:43+08:00",
     "title": "曾经最大的以太坊NFT市场Blur正在关闭",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-17T10:01:20Z"
-  },
-  {
-    "id": "0ee700bed7d608ae",
-    "published_at": "2026-09-17T16:00+08:00",
-    "title": "Chainflip将TRON USDT提供商余额重置为零follo",
-    "summary": "供应商保留单独的欠款链上记录，但Chainflip尚未披露还款时间。POST链条翻转以重置创",
-    "source": "CryptoSlate",
-    "category": "黑客攻击",
-    "url": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T08:01:20Z"
-  },
-  {
-    "id": "6e59394c140a2587",
-    "published_at": "2026-09-17T15:30+08:00",
-    "title": "比特币价格是否真的需要CLARITY ACT （不是）",
-    "summary": "简短的答案，如果你看的是CLARITY ACT ，而不是市场上围绕它的投机情绪，那就是—不是真的。H",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/opinion-and-analysis/is-the-clarity-act-really-not-needed-for-bitcoin-price-to-rally/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-17T08:01:20Z"
   }
 ]
