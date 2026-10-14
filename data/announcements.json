@@ -1,5 +1,29 @@
 [
   {
+    "id": "430f2dbc651f473b",
+    "published_at": "2026-10-14T14:34:38Z",
+    "title": "XT 关于恢复ALGORAND网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63238510039705",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T15:27:03Z"
+  },
+  {
+    "id": "427daaa150a195a0",
+    "published_at": "2026-10-14T14:28:00Z",
+    "title": "Bitget关于暂停VIC - VICTION网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897607",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T15:27:03Z"
+  },
+  {
     "id": "2794f6311a9c8826",
     "published_at": "2026-10-14T13:18:51Z",
     "title": "XT 关于即将上线DEOD （ Decentrawood ）的公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "XT.COM",
     "created_at": "2026-09-24T10:10:59Z"
-  },
-  {
-    "id": "021ac6c50f3b920f",
-    "published_at": "2026-09-24T08:08:00Z",
-    "title": "Bitget将调整ARBUSDT、FARTCOINUSDT、ALGOUSDT、PIUSDT、BBUSDT、ASRUSDT、BEATUSDT、FOGOUSDT、LABUSDT永续期货的定价精度",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895982",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T08:12:20Z"
-  },
-  {
-    "id": "8cca8ee5d038fc7e",
-    "published_at": "2026-09-24T08:05:24Z",
-    "title": "XT 关于恢复XT_XSC网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575212228889",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T08:12:20Z"
   }
 ]
