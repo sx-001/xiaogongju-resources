@@ -1,5 +1,53 @@
 [
   {
+    "id": "3e4f37108df30630",
+    "published_at": "2026-10-14T16:07:00Z",
+    "title": "Bitget关于暂停CELO - CELO网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897611",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T16:27:46Z"
+  },
+  {
+    "id": "ec7a401d8251f0bb",
+    "published_at": "2026-10-14T16:06:00Z",
+    "title": "Bitget关于恢复CELO - CELO提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897610",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T16:27:46Z"
+  },
+  {
+    "id": "10b1cc539cebad35",
+    "published_at": "2026-10-14T16:06:00Z",
+    "title": "Bitget关于暂停PEAQ - PeaqEvm网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897609",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T16:27:46Z"
+  },
+  {
+    "id": "1521605845145d18",
+    "published_at": "2026-10-14T16:00:00Z",
+    "title": "2026 KCGI奖励分配公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "活动",
+    "url": "https://www.bitget.com/support/articles/12560603897603",
+    "announcement_type": "活动",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T16:27:46Z"
+  },
+  {
     "id": "430f2dbc651f473b",
     "published_at": "2026-10-14T14:34:38Z",
     "title": "XT 关于恢复ALGORAND网络充提服务的公告",
@@ -5948,54 +5996,6 @@
     "category": "风控",
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62577430519321",
     "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T10:10:59Z"
-  },
-  {
-    "id": "81f3cffcfa225035",
-    "published_at": "2026-09-24T09:00:00Z",
-    "title": "Bitget Onchain现在支持Robinhood Chain上的交易",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895855",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T10:10:59Z"
-  },
-  {
-    "id": "2fb25fefe1b41932",
-    "published_at": "2026-09-24T09:00:00Z",
-    "title": "Bitget升级财富管理产品",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603895983",
-    "announcement_type": "维护",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T10:10:59Z"
-  },
-  {
-    "id": "120785659dd0096b",
-    "published_at": "2026-09-24T08:25:01Z",
-    "title": "［原创重要通知］关于乐观网络USDT0 充提功能开放的公告",
-    "summary": "",
-    "source": "MGBX",
-    "category": "公告",
-    "url": "https://support.mgbx.com/hc/zh-cn/articles/17740081818895",
-    "announcement_type": "公告",
-    "exchange": "MGBX",
-    "created_at": "2026-09-24T09:11:41Z"
-  },
-  {
-    "id": "a6cec338f9140b15",
-    "published_at": "2026-09-24T08:11:05Z",
-    "title": "UNI · BCH · ZEC ·附近热币狂欢｜交易瓜分 $ 22,000",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "活动",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575365627545",
-    "announcement_type": "活动",
     "exchange": "XT.COM",
     "created_at": "2026-09-24T10:10:59Z"
   }
