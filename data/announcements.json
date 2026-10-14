@@ -1,5 +1,29 @@
 [
   {
+    "id": "d07306f2c2f617c8",
+    "published_at": "2026-10-14T06:24:00Z",
+    "title": "Bitget关于暂停USDGO - Morph充值服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897534",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T06:26:39Z"
+  },
+  {
+    "id": "ef5557333711c23d",
+    "published_at": "2026-10-14T05:45:00Z",
+    "title": "Bitget将调整ORCAUSDT、VELVETUSDT、TUTUSDT、POWERUSDT、MOVRUSDT、ESPUSDT、EGLDUSDT、AXSUSDT、ARXUSDT永续期货对的杠杆、头寸和维持保证金率",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603897532",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T06:26:39Z"
+  },
+  {
     "id": "64e7f70c648387f0",
     "published_at": "2026-10-14T05:09:55Z",
     "title": "10 月14日 AOZX每日资讯 ｜俄罗斯最大银行获批开展加密交易 ， STX近四周上涨超 50%",
@@ -5974,29 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-23T11:10:47Z"
-  },
-  {
-    "id": "93ac4af102baf7de",
-    "published_at": "2026-09-23T10:31:00Z",
-    "title": "调整差价合约账户杠杆的完整指南",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895503",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T12:14:10Z"
-  },
-  {
-    "id": "e6cff5242c6b102e",
-    "published_at": "2026-09-23T10:09:00Z",
-    "title": "Hotcoin 预测市场任意预测即领钱：连胜加码赢 2000 USDT",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "公告",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/462/",
-    "announcement_type": "公告",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-23T12:14:10Z"
   }
 ]
