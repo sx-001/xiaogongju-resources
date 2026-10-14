@@ -1,5 +1,18 @@
 [
   {
+    "id": "6f54499594866b9e",
+    "published_at": "2026-10-14T23:38+08:00",
+    "title": "乌克兰的“动能制裁”扰乱了俄罗斯的A7A5 Stablecoi",
+    "summary": "另一次成功的乌克兰无人机袭击发生在入侵乌克兰的俄罗斯境内，造成了一个意想不到的受害者：",
+    "source": "Bitcoin.com",
+    "category": "宏观-地缘与贸易",
+    "url": "https://news.bitcoin.com/stablecoins/ukraine-kinetic-sanctions-disrupt-russian-a7a5-stablecoin-elliptic/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T16:20:38Z"
+  },
+  {
     "id": "4a054761bb49304d",
     "published_at": "2026-10-14T23:00+08:00",
     "title": "随着美联储加息赔率达到55% ，比特币跌至81,300 $的支撑位",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-19T14:01:14Z"
-  },
-  {
-    "id": "8bd23f1a813d817a",
-    "published_at": "2026-09-19T20:00+08:00",
-    "title": "为什么华尔街巨头为研究所建立代币化资金",
-    "summary": "摩根大通和花旗在代币化存款中转移了数十亿美元，但仅限于其分支机构。一家英国挑战者银行即将做一些两者都没有做过的事情",
-    "source": "CoinDesk",
-    "category": "宏观-股市极端行情",
-    "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-19T12:01:01Z"
   }
 ]
