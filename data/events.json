@@ -1,5 +1,44 @@
 [
   {
+    "id": "5834d7a82edddf8e",
+    "published_at": "2026-10-14T21:07+08:00",
+    "title": "Evernorth为XRP Yi点击Ripple、Kraken、Coinbase和BitGo",
+    "summary": "这家在纳斯达克上市的财资公司计划在第四季度启动机构战略， XRP Ledger的直接信贷市场投资将作为",
+    "source": "The Defiant",
+    "category": "监管政策",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T13:23:56Z"
+  },
+  {
+    "id": "93c3836e8965731c",
+    "published_at": "2026-10-14T20:53+08:00",
+    "title": "Qivalis获得荷兰央行的EMI授权",
+    "summary": "Qivalis表示， EMI授权使其能够推出一种欧元计价的稳定币，计划在未来几个月内发行，具体取决于",
+    "source": "Cointelegraph",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T13:23:56Z"
+  },
+  {
+    "id": "079d20ddfde0d0ed",
+    "published_at": "2026-10-14T20:33+08:00",
+    "title": "美国9月CPI火爆，比特币大幅走低",
+    "summary": "这一消息可能会让美联储多次加息重新发挥作用。",
+    "source": "CoinDesk",
+    "category": "宏观数据-CPI",
+    "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T13:23:56Z"
+  },
+  {
     "id": "d71a30d0b27b6413",
     "published_at": "2026-10-14T20:10+08:00",
     "title": "比特币的下一次难度上升可能会让一些钻井平台赚钱",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-18T18:01:13Z"
-  },
-  {
-    "id": "d834ef049ac49a65",
-    "published_at": "2026-09-19T01:24+08:00",
-    "title": "比特币价格在续期现货需求中达到$ 81K ，杠杆分辨率",
-    "summary": "比特币周五飙升至81,000美元，触及盘中高点81,238美元，随后以1.62万亿美元的市值收盘于80,800美元左右。CFTC Draf",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-hits-81k-on-renewed-spot-demand-leverage-reset/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T18:01:13Z"
-  },
-  {
-    "id": "cafdafed01c0eab1",
-    "published_at": "2026-09-19T01:00+08:00",
-    "title": "虚假的人工智能机器人教程欺骗了224名受害者",
-    "summary": "TRM在受害者在2月至8月期间签署并资助恶意合同后，追踪了274.60 ETH到六个运营商地址。",
-    "source": "The Defiant",
-    "category": "以太坊",
-    "url": "https://thedefiant.io/news/security/fake-ai-bot-tutorials-tricked-224-victims-into-deploying-their-own-drainers",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T17:01:30Z"
-  },
-  {
-    "id": "6158459a9a506757",
-    "published_at": "2026-09-19T00:40+08:00",
-    "title": "美国制裁伊朗加密货币交易所及其软件develo",
-    "summary": "财政部还表示，伊朗交易所将霍尔木兹安全付款转移到该政权，但没有将这一流量与伊斯兰革命卫队总数等同起来。后美国sancti",
-    "source": "CryptoSlate",
-    "category": "监管政策",
-    "url": "https://cryptoslate.com/us-sanctions-iranian-crypto-exchange-and-its-software-developer-over-alleged-irgc-bitcoin-transfers/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T17:01:30Z"
   }
 ]
