@@ -1,5 +1,17 @@
 [
   {
+    "id": "406b68079a7d4b88",
+    "published_at": "2026-10-14T19:49:45Z",
+    "title": "XT 关于调整 STRCUSDT 永续合约资金费率时间周期的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "合约",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63242721710105",
+    "announcement_type": "合约",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T20:22:31Z"
+  },
+  {
     "id": "17cd1fc7dba98297",
     "published_at": "2026-10-14T17:49:00Z",
     "title": "Bitget关于暂停DOT - Polkadot Asset Hub网络取款服务的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62579947266969",
     "announcement_type": "风控",
     "exchange": "XT.COM",
-    "created_at": "2026-09-24T11:10:32Z"
-  },
-  {
-    "id": "b7cc949018b7cbbc",
-    "published_at": "2026-09-24T10:44:00Z",
-    "title": "【重要】Bitget关于处理KIOXIA和TOKYOEL股票拆分和反向拆分的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895984",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
     "created_at": "2026-09-24T11:10:32Z"
   }
 ]
