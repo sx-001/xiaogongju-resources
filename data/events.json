@@ -1,5 +1,18 @@
 [
   {
+    "id": "828ed29027152645",
+    "published_at": "2026-10-14T17:10+08:00",
+    "title": "盈透证券进入以太坊1100亿美元的$ staki",
+    "summary": "Zerohash奖励可能会在收费后复合，而资格规则和取消质押延迟会限制对服务和资金的访问。阅读C上的完整故事",
+    "source": "CryptoSlate",
+    "category": "ETF机构",
+    "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T09:18:56Z"
+  },
+  {
     "id": "7bd02f7a9d24a229",
     "published_at": "2026-10-14T13:30+08:00",
     "title": "美联储的威廉姆斯认为人工智能供应紧缩持续超过2年",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-18T16:01:15Z"
-  },
-  {
-    "id": "0273cab4c8cd56a0",
-    "published_at": "2026-09-18T22:40+08:00",
-    "title": "随着炒作达到新的ATH以上， Hyperliquid开放本地贷款",
-    "summary": "Hyperliquid推出了原生手动借贷，随着炒作攀升至90 $以上的历史新高，将其交易基础设施扩展到信贷。",
-    "source": "CryptoSlate",
-    "category": "市场波动",
-    "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T15:01:22Z"
   }
 ]
