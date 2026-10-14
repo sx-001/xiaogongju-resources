@@ -1,5 +1,65 @@
 [
   {
+    "id": "88cc2b339e602877",
+    "published_at": "2026-10-14T03:02:00Z",
+    "title": "VietQR支付系统升级维护通知",
+    "summary": "",
+    "source": "KuCoin",
+    "category": "维护",
+    "url": "https://www.kucoin.com/announcement/temporary-scheduled-maintenance-of-VietQR-Payment1015",
+    "announcement_type": "维护",
+    "exchange": "KuCoin",
+    "created_at": "2026-10-14T03:23:18Z"
+  },
+  {
+    "id": "b6370d2b8196393d",
+    "published_at": "2026-10-14T03:00:39Z",
+    "title": "ARC.定期理财额度追加 ｜最高享 60% APR",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63215030104473",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T03:23:18Z"
+  },
+  {
+    "id": "49b2ec80330be26e",
+    "published_at": "2026-10-14T02:40:00Z",
+    "title": "Bitget关于恢复DYDX - DYDX充提币的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897435",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T03:23:18Z"
+  },
+  {
+    "id": "2b4865806889a075",
+    "published_at": "2026-10-14T02:34:21Z",
+    "title": "XT关于恢复本体网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63214001485337",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T03:23:18Z"
+  },
+  {
+    "id": "bce62093759b4f9f",
+    "published_at": "2026-10-14T02:30:25Z",
+    "title": "XT 关于暂停ZUNO充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63213819406873",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T03:23:18Z"
+  },
+  {
     "id": "e9766133cc0fad8f",
     "published_at": "2026-10-14T02:00:00Z",
     "title": "Bitget为UTA推出USDGO控股无息贷款计划",
@@ -5938,65 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Hotcoin",
     "created_at": "2026-09-23T08:11:41Z"
-  },
-  {
-    "id": "543c8fb950a74eda",
-    "published_at": "2026-09-23T06:52:00Z",
-    "title": "HOTCIN 将上线OURAUSDT、 MOONSHOTUSDT盘前永续合约交易",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "上币",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillLaunchOURAUSDTandMOONSHOTUSDTPre-MarketPerpetualFutureson2026-09-23/",
-    "announcement_type": "上币",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-23T07:11:48Z"
-  },
-  {
-    "id": "02bee4adeae4f088",
-    "published_at": "2026-09-23T06:46:00Z",
-    "title": "Bitget差价合约复制交易正式推出“零手续费模式”",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603895862",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T08:11:41Z"
-  },
-  {
-    "id": "c736f8bfe04732e0",
-    "published_at": "2026-09-23T06:43:00Z",
-    "title": "Bitget关于暂停漂移的公告-索拉纳存款服务",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603895911",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T07:11:48Z"
-  },
-  {
-    "id": "2af6492804feebfe",
-    "published_at": "2026-09-23T06:12:51Z",
-    "title": "XT 疯抢星期三（第 94期 ）丨 7天定期理财 ，最高 100% APR ，即刻抢购 ！",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62537624245785",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-23T07:11:48Z"
-  },
-  {
-    "id": "bba1091b449b43fa",
-    "published_at": "2026-09-23T06:10:03Z",
-    "title": "【合约上新公告】牛来USDT ， VVVUSDT ， CYPHUSDT ， MONUSDT等多个合约交易对上线",
-    "summary": "",
-    "source": "Aeget",
-    "category": "上币",
-    "url": "https://support.aeget.com/hc/zh-cn/articles/62537491417753",
-    "announcement_type": "上币",
-    "exchange": "Aeget",
-    "created_at": "2026-09-23T06:14:04Z"
   }
 ]
