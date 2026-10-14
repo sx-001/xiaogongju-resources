@@ -1,5 +1,53 @@
 [
   {
+    "id": "64e7f70c648387f0",
+    "published_at": "2026-10-14T05:09:55Z",
+    "title": "10 月14日 AOZX每日资讯 ｜俄罗斯最大银行获批开展加密交易 ， STX近四周上涨超 50%",
+    "summary": "",
+    "source": "AOZX",
+    "category": "公告",
+    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17989856551439",
+    "announcement_type": "公告",
+    "exchange": "AOZX",
+    "created_at": "2026-10-14T05:23:37Z"
+  },
+  {
+    "id": "3d3412b416907534",
+    "published_at": "2026-10-14T05:02:00Z",
+    "title": "Bitget关于恢复USDC - Polygon提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897528",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T05:23:37Z"
+  },
+  {
+    "id": "1752ce573f9b0b3f",
+    "published_at": "2026-10-14T04:34:37Z",
+    "title": "[产品更新] MGBX应用程序TradingView 画线工具已上线",
+    "summary": "",
+    "source": "MGBX",
+    "category": "上币",
+    "url": "https://support.mgbx.com/hc/zh-cn/articles/17989331436815",
+    "announcement_type": "上币",
+    "exchange": "MGBX",
+    "created_at": "2026-10-14T05:23:37Z"
+  },
+  {
+    "id": "31692718a8c44be9",
+    "published_at": "2026-10-14T04:28:25Z",
+    "title": "XT关于暂停比特币网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63218405050009",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T05:23:37Z"
+  },
+  {
     "id": "66ea7b1f057e21ab",
     "published_at": "2026-10-14T03:56:31Z",
     "title": "永续合约上新 CIENUSDT、 HK0700USDT",
@@ -22,6 +70,18 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-10-14T04:23:41Z"
+  },
+  {
+    "id": "3e9f4225c9d15154",
+    "published_at": "2026-10-14T03:27:00Z",
+    "title": "【Bitget】关于COPPERUSDT期货指数临时调整的重要公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "合约",
+    "url": "https://www.bitget.com/support/articles/12560603897463",
+    "announcement_type": "合约",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T05:23:37Z"
   },
   {
     "id": "bd89eda3ddf52574",
@@ -5938,65 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Hotcoin",
     "created_at": "2026-09-23T12:14:10Z"
-  },
-  {
-    "id": "b140f1759a9a0ddd",
-    "published_at": "2026-09-23T10:00:00Z",
-    "title": "2026年KCGI即将结束： UEX比赛以辉煌告终",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603895650",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T10:10:51Z"
-  },
-  {
-    "id": "cb8f4e5c2f929429",
-    "published_at": "2026-09-23T08:49:00Z",
-    "title": "九月理财·限时加息｜让闲置资金，持续创造价值",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "公告",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/SeptemberEarnBoost1/",
-    "announcement_type": "公告",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-23T09:10:43Z"
-  },
-  {
-    "id": "166959fb8d45fb8c",
-    "published_at": "2026-09-23T08:46:00Z",
-    "title": "KuCoin期货新上市： OURAUSDT IPO前股票指数永续合约上市前交易",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "上币",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-futures-new-listing-ourausdt-pre-ipo-stock-index-perpetual-contract-pre-market-trading",
-    "announcement_type": "上币",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-23T09:10:43Z"
-  },
-  {
-    "id": "88f7fdcff1650eb7",
-    "published_at": "2026-09-23T08:45:00Z",
-    "title": "KuCoin已暂时关闭岛屿代币（ ISLAND ）的存款服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-deposit-service-of-island-token-island",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-23T09:10:43Z"
-  },
-  {
-    "id": "cdc91f52e09427ed",
-    "published_at": "2026-09-23T08:41:00Z",
-    "title": "Bitget差价合约支持用户可调账户杠杆",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603895499",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-23T10:10:51Z"
   }
 ]
