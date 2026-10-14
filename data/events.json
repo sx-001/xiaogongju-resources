@@ -1,5 +1,18 @@
 [
   {
+    "id": "d500000d9de0cd7d",
+    "published_at": "2026-10-14T17:45+08:00",
+    "title": "实时更新：比特币在美国之前从近84,000 $下跌",
+    "summary": "随着科技股停滞和芯片抛售的继续， 84,000 $的短暂走势在一小时内消退。交易员正在等待9月份的CPI数据。",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T10:17:50Z"
+  },
+  {
     "id": "828ed29027152645",
     "published_at": "2026-10-14T17:10+08:00",
     "title": "盈透证券进入以太坊1100亿美元的$ staki",
@@ -12981,19 +12994,6 @@
     "source": "The Block",
     "category": "ETF机构",
     "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T16:01:15Z"
-  },
-  {
-    "id": "aa34643feace103a",
-    "published_at": "2026-09-18T23:06+08:00",
-    "title": "加密技术提供商Haruko受到影响15的网络攻击",
-    "summary": "消息人士称，一些安全控制较弱的小型对冲基金可能在目标攻击中损失了资金。",
-    "source": "CoinDesk",
-    "category": "安全风险",
-    "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
     "severity": "medium",
     "impact": "",
     "why": "",
