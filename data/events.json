@@ -1,5 +1,57 @@
 [
   {
+    "id": "d71a30d0b27b6413",
+    "published_at": "2026-10-14T20:10+08:00",
+    "title": "比特币的下一次难度上升可能会让一些钻井平台赚钱",
+    "summary": "在比特币价格、补贴和费用不变的情况下，预计10月16日的重定向可能会推动20焦耳/TH设备以低于其电价8美分/千瓦时的价格",
+    "source": "CryptoSlate",
+    "category": "监管政策",
+    "url": "https://cryptoslate.com/bitcoins-projected-5-7-difficulty-rise-puts-miners-40-revenue-under-pressure/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T12:17:00Z"
+  },
+  {
+    "id": "5de67fe23c5c9a50",
+    "published_at": "2026-10-14T20:05+08:00",
+    "title": "富达， Blackrock领投$ 1.76亿比特币ETF反弹",
+    "summary": "美国加密货币ETF流量周二大幅改善，比特币基金吸引了1.7562亿美元，以太坊以24.84美元连续10个交易日亏损",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/bitcoin-etf/fidelity-blackrock-lead-176m-bitcoin-etf-rebound/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T12:17:00Z"
+  },
+  {
+    "id": "6babb10b63b19cf4",
+    "published_at": "2026-10-14T20:00+08:00",
+    "title": "Evernorth点击Ripple、Kraken、Coinbase和BitGo投放$ 64",
+    "summary": "Evernorth表示，它计划在纳斯达克首次亮相后分阶段进入XRP贷款和收益率策略。",
+    "source": "The Block",
+    "category": "监管政策",
+    "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T12:17:00Z"
+  },
+  {
+    "id": "b5faf3770564e37d",
+    "published_at": "2026-10-14T19:52+08:00",
+    "title": "比特币的工作原理",
+    "summary": "比特币201将比特币视为一个安全的货币网络。它遵循从规则执行和财务设计到费用、隐私、规模的系统",
+    "source": "The Block",
+    "category": "安全风险",
+    "url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T12:17:00Z"
+  },
+  {
     "id": "ee04c656c28a2185",
     "published_at": "2026-10-14T19:12+08:00",
     "title": "荷兰央行授予Qivalis MiCA-c电子货币许可证",
@@ -12946,57 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-18T17:01:30Z"
-  },
-  {
-    "id": "bdbaf9c0a273fd50",
-    "published_at": "2026-09-19T00:28+08:00",
-    "title": "随着Zcash ETF吸引46美元，比特币以1.59亿美元的流入回报",
-    "summary": "在Blackrock的IBIT大幅反弹的带动下，美国比特币ETF周四以1.5945亿美元恢复流入。以太坊和XRP资金仍低于",
-    "source": "Bitcoin.com",
-    "category": "ETF机构",
-    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-returns-to-inflows-with-159m-as-zcash-etf-draws-46-6m/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T17:01:30Z"
-  },
-  {
-    "id": "3a37a2c439d4e413",
-    "published_at": "2026-09-19T00:00+08:00",
-    "title": "为什么比特币今天在糟糕的美国数据之前几小时就达到了8万美元（ $ 80k ）",
-    "summary": "9月18日的上涨伴随着科技股的反弹和日元的疲软，而前期ETF的流入提供了一个初步的需求信号。",
-    "source": "CryptoSlate",
-    "category": "ETF机构",
-    "url": "https://cryptoslate.com/why-bitcoin-is-up-today-the-rally-began-before-weak-us-data/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T17:01:30Z"
-  },
-  {
-    "id": "10d11091e6fe39ce",
-    "published_at": "2026-09-18T23:35+08:00",
-    "title": "XRPL试图从数学上证明其新的贷款市场",
-    "summary": "XRP Ledger （ XRPL ）开发人员正在使用数学证明来测试网络即将到来的贷款市场是否可以耗尽或破产",
-    "source": "CryptoSlate",
-    "category": "黑客攻击",
-    "url": "https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T16:01:15Z"
-  },
-  {
-    "id": "b5304959b031aec9",
-    "published_at": "2026-09-18T23:35+08:00",
-    "title": "随着美国债券收益率在全球石油危机中反弹，比特币触及8.1万美元",
-    "summary": "随着美国30年期债券收益率再次开始上涨，比特币价格行动在周五华尔街交易时段开始时迅速上涨。",
-    "source": "Cointelegraph",
-    "category": "宏观-国债与美元",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-18T16:01:15Z"
   }
 ]
