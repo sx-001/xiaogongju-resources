@@ -1,5 +1,17 @@
 [
   {
+    "id": "a2b5cdd16ef25086",
+    "published_at": "2026-10-14T08:42:53Z",
+    "title": "XT.COM关于取消隐藏部分交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63228575750809",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T09:25:32Z"
+  },
+  {
     "id": "6bea37fc000a35e6",
     "published_at": "2026-10-14T08:20:00Z",
     "title": "Bitget关于恢复EGLD - Elrond eGold提现的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Basekx",
     "created_at": "2026-09-24T06:14:11Z"
-  },
-  {
-    "id": "d66d3f51e3a9d265",
-    "published_at": "2026-09-24T05:02:13Z",
-    "title": "9 月24日 AOZX每日资讯 ｜ BTC跌破 84,000美元 ，全球市场聚焦特朗普贸易与 AI谈判",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17737583879823",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-24T05:10:15Z"
   }
 ]
