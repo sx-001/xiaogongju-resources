@@ -1,5 +1,17 @@
 [
   {
+    "id": "2794f6311a9c8826",
+    "published_at": "2026-10-14T13:18:51Z",
+    "title": "XT 关于即将上线DEOD （ Decentrawood ）的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63236949152153",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T14:24:31Z"
+  },
+  {
     "id": "b471fffe0dfb1d4e",
     "published_at": "2026-10-14T11:56:48Z",
     "title": "XT 关于暂停ALGORAND网络充提服务的公告",
@@ -5984,18 +5996,6 @@
     "category": "公告",
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575212228889",
     "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T08:12:20Z"
-  },
-  {
-    "id": "3ea0f5cad7cc01e6",
-    "published_at": "2026-09-24T08:01:58Z",
-    "title": "XT 关于暂停ZILLIQA网络提现服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575089885721",
-    "announcement_type": "风控",
     "exchange": "XT.COM",
     "created_at": "2026-09-24T08:12:20Z"
   }
