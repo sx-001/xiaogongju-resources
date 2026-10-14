@@ -24,6 +24,18 @@
     "created_at": "2026-10-14T12:27:55Z"
   },
   {
+    "id": "65f97e98be2306d8",
+    "published_at": "2026-10-14T11:27:00Z",
+    "title": "Hotcoin 关于以太坊网络（ ETH ）钱包维护的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "维护",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillConductETHNetworkWalletMaintenance-20261014",
+    "announcement_type": "维护",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-14T13:31:09Z"
+  },
+  {
     "id": "b4ad34c608467aa3",
     "published_at": "2026-10-14T11:04:07Z",
     "title": "XT 关于恢复ZNX充提的公告",
@@ -5985,18 +5997,6 @@
     "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62575089885721",
     "announcement_type": "风控",
     "exchange": "XT.COM",
-    "created_at": "2026-09-24T08:12:20Z"
-  },
-  {
-    "id": "d81ade1fbc13c7fe",
-    "published_at": "2026-09-24T07:52:00Z",
-    "title": "【重要提示】Bitget将退市STGUSDT期货及相关服务",
-    "summary": "",
-    "source": "Bitget",
-    "category": "下架",
-    "url": "https://www.bitget.com/support/articles/12560603895978",
-    "announcement_type": "下架",
-    "exchange": "Bitget",
     "created_at": "2026-09-24T08:12:20Z"
   }
 ]
