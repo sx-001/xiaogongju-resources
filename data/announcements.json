@@ -1,5 +1,17 @@
 [
   {
+    "id": "6162a0a3873e20dc",
+    "published_at": "2026-10-14T21:37:00Z",
+    "title": "Bitget暂停DOG公告- BTCRUNES网络取款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897620",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T22:20:33Z"
+  },
+  {
     "id": "406b68079a7d4b88",
     "published_at": "2026-10-14T19:49:45Z",
     "title": "XT 关于调整 STRCUSDT 永续合约资金费率时间周期的公告",
@@ -5986,17 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "Hotcoin",
     "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "77bd9013bc50aa95",
-    "published_at": "2026-09-24T10:52:20Z",
-    "title": "XT 关于暂停XPL网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62579947266969",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T11:10:32Z"
   }
 ]
