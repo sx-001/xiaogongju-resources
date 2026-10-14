@@ -1,5 +1,44 @@
 [
   {
+    "id": "3b06de5b045554fb",
+    "published_at": "2026-10-15T03:50+08:00",
+    "title": "Kraken将以1.81亿美元收购欧洲大型银行",
+    "summary": "Kraken的母公司Payward已同意收购一家欧洲银行，因为它已从加密货币交易扩展到传统金融服务",
+    "source": "CryptoSlate",
+    "category": "宏观-银行与金融风险",
+    "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T20:16:23Z"
+  },
+  {
+    "id": "9cf3418901cc3d65",
+    "published_at": "2026-10-15T03:46+08:00",
+    "title": "俄罗斯最大银行俄罗斯联邦储蓄银行获准交易比特币",
+    "summary": "根据俄罗斯新的加密货币法， Sberbank现在拥有托管和交换身份，并计划将比特币、以太坊和USDT带到1.1亿人使用的应用程序中",
+    "source": "Decrypt",
+    "category": "以太坊",
+    "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T20:16:23Z"
+  },
+  {
+    "id": "d5ea36cfacdcd06d",
+    "published_at": "2026-10-15T03:25+08:00",
+    "title": "渣打银行为Aff带来比特币交易和托管",
+    "summary": "周三，这家管理着近1万亿美元资产的银行巨头渣打银行透露，它正在阿拉伯联合酋长国",
+    "source": "Bitcoin.com",
+    "category": "宏观-银行与金融风险",
+    "url": "https://news.bitcoin.com/finance/standard-chartered-brings-bitcoin-trading-custody-affluent-uae-clients/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T20:16:23Z"
+  },
+  {
     "id": "b4966b6143aa7410",
     "published_at": "2026-10-15T03:11+08:00",
     "title": "Specter将ProveX的1月ETH流入更早的心脏-",
@@ -12959,44 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-20T07:01:25Z"
-  },
-  {
-    "id": "60d7e41e221e5ecb",
-    "published_at": "2026-09-20T13:30+08:00",
-    "title": "人工智能正在重读加密货币的旧代码，并找到人类的M",
-    "summary": "2026年，加密货币的安全问题发生了奇怪的变化。人工智能（ AI ）协助的研究人员发现了一个四年前的Zcash缺陷",
-    "source": "Bitcoin.com",
-    "category": "安全风险",
-    "url": "https://news.bitcoin.com/featured/ai-is-rereading-cryptos-old-code-and-finding-what-humans-missed/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T06:00:59Z"
-  },
-  {
-    "id": "2e07092528a3a439",
-    "published_at": "2026-09-20T11:30+08:00",
-    "title": "Arthur Hayes称CLARITY ACT为“无稽之谈” ，因为比特币超过$ 8",
-    "summary": "亚瑟·海耶斯（ Arthur Hayes ）抓住比特币超过80,000 $的举动，驳回了CLARITY法案，并认为更高的利率为富裕的投资者提供了更多的资金",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/market-updates/arthur-hayes-calls-clarity-act-nonsense-as-bitcoin-tops-80k/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T04:01:07Z"
-  },
-  {
-    "id": "865aae977327f745",
-    "published_at": "2026-09-20T08:30+08:00",
-    "title": "罗伯特·清崎（ Robert Kiyosaki ）说， “历史上最大的撞车事故”已经开始，",
-    "summary": "Robert Kiyosaki表示， “历史上最大的崩盘”已经开始，并正在全球市场蔓延。富爸爸穷爸爸的作者正在准备",
-    "source": "Bitcoin.com",
-    "category": "极端行情",
-    "url": "https://news.bitcoin.com/featured/robert-kiyosaki-says-biggest-crash-in-history-has-started-backs-bitcoin/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T01:01:10Z"
   }
 ]
