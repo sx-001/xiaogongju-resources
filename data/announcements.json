@@ -1,5 +1,29 @@
 [
   {
+    "id": "e3e66c45197e886c",
+    "published_at": "2026-10-14T09:45:00Z",
+    "title": "Bitget将调整RAREUSDT、LSKUSDT、CVCUSDT、BLURUSDT、ARKUSDT、VELODROMEUSDT永续期货对的杠杆、头寸和维持保证金率",
+    "summary": "",
+    "source": "Bitget",
+    "category": "维护",
+    "url": "https://www.bitget.com/support/articles/12560603897602",
+    "announcement_type": "维护",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T10:25:09Z"
+  },
+  {
+    "id": "f601249a7988474a",
+    "published_at": "2026-10-14T09:01:00Z",
+    "title": "Bitget上市JIO （ Jio平台） IPO前永续期货",
+    "summary": "",
+    "source": "Bitget",
+    "category": "上币",
+    "url": "https://www.bitget.com/support/articles/12560603897601",
+    "announcement_type": "上币",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T10:25:09Z"
+  },
+  {
     "id": "a2b5cdd16ef25086",
     "published_at": "2026-10-14T08:42:53Z",
     "title": "XT.COM关于取消隐藏部分交易对的公告",
@@ -130,6 +154,18 @@
     "announcement_type": "公告",
     "exchange": "XT.COM",
     "created_at": "2026-10-14T07:34:25Z"
+  },
+  {
+    "id": "7008ad4e5e346af6",
+    "published_at": "2026-10-14T06:30:09Z",
+    "title": "靠近· STRK · CT · PUMP 热币狂欢｜交易瓜分 $ 20,000",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "活动",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63223115320345",
+    "announcement_type": "活动",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T10:25:09Z"
   },
   {
     "id": "d07306f2c2f617c8",
@@ -5962,41 +5998,5 @@
     "announcement_type": "维护",
     "exchange": "Basekx",
     "created_at": "2026-09-24T07:11:39Z"
-  },
-  {
-    "id": "87c62f62f2b68301",
-    "published_at": "2026-09-24T06:00:47Z",
-    "title": "[合约上新] MGBX 将上线 AMCUSDT、 HUTUSDT 永续合约",
-    "summary": "",
-    "source": "MGBX",
-    "category": "上币",
-    "url": "https://support.mgbx.com/hc/zh-cn/articles/17738358709903",
-    "announcement_type": "上币",
-    "exchange": "MGBX",
-    "created_at": "2026-09-24T07:11:39Z"
-  },
-  {
-    "id": "837db500ae73d1cd",
-    "published_at": "2026-09-24T05:41:08Z",
-    "title": "商务合作",
-    "summary": "",
-    "source": "Basekx",
-    "category": "公告",
-    "url": "https://support.basekx.com/hc/zh-cn/articles/62570571458201",
-    "announcement_type": "公告",
-    "exchange": "Basekx",
-    "created_at": "2026-09-24T06:14:11Z"
-  },
-  {
-    "id": "bbd3c4ed40955e69",
-    "published_at": "2026-09-24T05:20:40Z",
-    "title": "BASEKX ｜品牌概览",
-    "summary": "",
-    "source": "Basekx",
-    "category": "公告",
-    "url": "https://support.basekx.com/hc/zh-cn/articles/62569974115225",
-    "announcement_type": "公告",
-    "exchange": "Basekx",
-    "created_at": "2026-09-24T06:14:11Z"
   }
 ]
