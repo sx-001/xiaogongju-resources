@@ -1,5 +1,18 @@
 [
   {
+    "id": "bddd88bd8db35b51",
+    "published_at": "2026-10-15T05:10+08:00",
+    "title": "美元飙升迫使比特币抛售，因为加息赔率高",
+    "summary": "9月美国通胀率达到3.7% ，随着市场对10月27–28日美联储会议前再次加息的押注增加，收益率上升。阅读全文",
+    "source": "CryptoSlate",
+    "category": "市场波动",
+    "url": "https://cryptoslate.com/surging-dollar-forces-bitcoin-sell-off-as-rate-hike-odds-double/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-14T21:16:00Z"
+  },
+  {
     "id": "3b06de5b045554fb",
     "published_at": "2026-10-15T03:50+08:00",
     "title": "Kraken将以1.81亿美元收购欧洲大型银行",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-20T09:01:18Z"
-  },
-  {
-    "id": "28f1faef9d627852",
-    "published_at": "2026-09-20T14:30+08:00",
-    "title": "虚假的IT工作面试帮助朝鲜窃取数百万克朗",
-    "summary": "朝鲜政府支持的黑客组织用恶意软件感染了100个国家的3万多台计算机，这些恶意软件窃取了数百万美元的加密货币赌注",
-    "source": "Bitcoin.com",
-    "category": "黑客攻击",
-    "url": "https://news.bitcoin.com/crypto-news/fake-it-job-interviews-help-north-korea-steal-millions-in-crypto/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T07:01:25Z"
   }
 ]
