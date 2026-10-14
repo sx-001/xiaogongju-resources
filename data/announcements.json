@@ -1,5 +1,29 @@
 [
   {
+    "id": "b471fffe0dfb1d4e",
+    "published_at": "2026-10-14T11:56:48Z",
+    "title": "XT 关于暂停ALGORAND网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63234877878169",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-14T12:27:55Z"
+  },
+  {
+    "id": "8d55ce149da446cf",
+    "published_at": "2026-10-14T11:53:00Z",
+    "title": "Bitget关于暂停VET - Vechain网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897605",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-14T12:27:55Z"
+  },
+  {
     "id": "b4ad34c608467aa3",
     "published_at": "2026-10-14T11:04:07Z",
     "title": "XT 关于恢复ZNX充提的公告",
@@ -5972,30 +5996,6 @@
     "category": "下架",
     "url": "https://www.bitget.com/support/articles/12560603895978",
     "announcement_type": "下架",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T08:12:20Z"
-  },
-  {
-    "id": "4ae03463c4a27fec",
-    "published_at": "2026-09-24T07:44:00Z",
-    "title": "Hotcoin 将下架KIOXIAUSDT U本位永续合约",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "下架",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillDelistUSDT-MarginedKIOXIAUSDTPerpetualFutureson2026-09-28/",
-    "announcement_type": "下架",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-24T09:11:41Z"
-  },
-  {
-    "id": "b9d15287b475b08a",
-    "published_at": "2026-09-24T07:33:00Z",
-    "title": "Bitget将调整ZECUSDT、WLDUSDT、UNIUSDT、TAOUSDT、ONDOUSDT、NEARUSDT、LINKUSDT、ENAUSDT、AVAXUSDT永续期货对的杠杆、头寸和维持保证金率",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603895976",
-    "announcement_type": "维护",
     "exchange": "Bitget",
     "created_at": "2026-09-24T08:12:20Z"
   }
