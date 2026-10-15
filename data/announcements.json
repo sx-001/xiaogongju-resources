@@ -1,5 +1,65 @@
 [
   {
+    "id": "bebe25b204589ad5",
+    "published_at": "2026-10-15T02:04:27Z",
+    "title": "XT 关于暂停XDC网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63251071699865",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T02:23:29Z"
+  },
+  {
+    "id": "aad531d10db172b9",
+    "published_at": "2026-10-15T02:01:06Z",
+    "title": "XT 关于暂停QUB网络提现服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63250875254169",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T02:23:29Z"
+  },
+  {
+    "id": "63221b99898cf660",
+    "published_at": "2026-10-15T01:53:26Z",
+    "title": "XT.COM 关于取消隐藏MTHT/USDT交易对的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63250635154073",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T02:23:29Z"
+  },
+  {
+    "id": "42246d3adaaa989b",
+    "published_at": "2026-10-15T01:49:00Z",
+    "title": "Bitget关于恢复VIC - VICTION提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897624",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T02:23:29Z"
+  },
+  {
+    "id": "07673b8559708403",
+    "published_at": "2026-10-15T01:45:00Z",
+    "title": "Bitget暂停数据公告-故事网络取款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897623",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T02:23:29Z"
+  },
+  {
     "id": "ad6dc9beadee09e0",
     "published_at": "2026-10-15T01:22:17Z",
     "title": "关于调整 BEATUSDT 永续合约最小价格精度的公告(2026-10-15)",
@@ -5938,65 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "b1ab2bcc0e51a22d",
-    "published_at": "2026-09-24T14:57:00Z",
-    "title": "Bitget关于暂停INJ - INJECTIVE充提币服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603896018",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "fe4ac8805a9ce780",
-    "published_at": "2026-09-24T14:55:28Z",
-    "title": "XT 关于暂停MWC网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62584819888153",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "e2fbe3ec379b171e",
-    "published_at": "2026-09-24T14:39:20Z",
-    "title": "币王移除 APU 现货交易对公告",
-    "summary": "",
-    "source": "BiKing",
-    "category": "公告",
-    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51228568028049",
-    "announcement_type": "公告",
-    "exchange": "BiKing",
-    "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "d4198b74e84fac51",
-    "published_at": "2026-09-24T14:27:05Z",
-    "title": "XT关于恢复底座网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62584376499737",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T15:11:47Z"
-  },
-  {
-    "id": "477bc97ae0866675",
-    "published_at": "2026-09-24T12:52:40Z",
-    "title": "AOZX 充值地址更新完成公告",
-    "summary": "",
-    "source": "AOZX",
-    "category": "公告",
-    "url": "https://aozx.zendesk.com/hc/zh-cn/articles/17742281753743",
-    "announcement_type": "公告",
-    "exchange": "AOZX",
-    "created_at": "2026-09-24T13:12:13Z"
   }
 ]
