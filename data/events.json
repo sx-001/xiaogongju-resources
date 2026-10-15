@@ -1,5 +1,31 @@
 [
   {
+    "id": "6b0dab733386ac53",
+    "published_at": "2026-10-15T19:48+08:00",
+    "title": "比特币测试$ 81,000 ，因为加息恐惧在热入后徘徊",
+    "summary": "10月份美联储加息的几率已从一周前的18%攀升至29% ，分析师认为比特币的范围将持续下去，直到形势明朗为止。",
+    "source": "Decrypt",
+    "category": "宏观-美联储政策",
+    "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T12:16:21Z"
+  },
+  {
+    "id": "8f68a01220640df4",
+    "published_at": "2026-10-15T19:30+08:00",
+    "title": "Chainalysis表示，美国再次成为比特币净进口国",
+    "summary": "美国是与美元挂钩的稳定币的全球供应商，再次“进口”比“出口”更多的比特币，成为净进口国",
+    "source": "Bitcoin.com",
+    "category": "宏观-国债与美元",
+    "url": "https://news.bitcoin.com/finance/us-becomes-bitcoin-net-importer-again-says-chainalysis/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T12:16:21Z"
+  },
+  {
     "id": "60a2627b876a2289",
     "published_at": "2026-10-15T18:49+08:00",
     "title": "LIDO将四个第2层的直接ETH质押添加到其内部",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-21T11:01:06Z"
-  },
-  {
-    "id": "46f77dbd72e5dbe5",
-    "published_at": "2026-09-21T18:25+08:00",
-    "title": "比特币闪电漏洞可能会发送节点的全部余额",
-    "summary": "ACINQ表示，运营商可以在不关闭现有Lightning通道的情况下安装安全修复程序。POST A Bitcoin Lightning漏洞可能会发送节点的",
-    "source": "CryptoSlate",
-    "category": "安全风险",
-    "url": "https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T11:01:06Z"
-  },
-  {
-    "id": "fb810f5f9a7ac641",
-    "published_at": "2026-09-21T18:00+08:00",
-    "title": "以太坊价格清除两头鲸鱼背后的$ 2,700 $ 1.06亿美元",
-    "summary": "两只以太坊在五天内向ETH承诺了1.064亿美元，第二大加密资产刚刚交易超过2700美元，",
-    "source": "Bitcoin.com",
-    "category": "以太坊",
-    "url": "https://news.bitcoin.com/crypto-news/eth-whales-106-million-price-2700/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T10:01:28Z"
   }
 ]
