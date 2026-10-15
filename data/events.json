@@ -1,5 +1,57 @@
 [
   {
+    "id": "db13543b57287457",
+    "published_at": "2026-10-15T21:20+08:00",
+    "title": "以太坊的快速退出计划将留下新的验证者waiti",
+    "summary": "一份为期三周的入场估算显示了直接存款和集合持股如何承担非活动质押资本的成本。在Cryp上阅读完整故事",
+    "source": "CryptoSlate",
+    "category": "以太坊",
+    "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T13:29:39Z"
+  },
+  {
+    "id": "c4e23ee9ec09fcab",
+    "published_at": "2026-10-15T20:20+08:00",
+    "title": "加密货币诈骗者从受害者那里窃取了数百万美元，然后归还了",
+    "summary": "检察官表示，追回的数据显示，同样的诈骗者在几周后返回，并做出了追回被盗资产的虚假承诺。在Cry上阅读完整故事",
+    "source": "CryptoSlate",
+    "category": "黑客攻击",
+    "url": "https://cryptoslate.com/crypto-scammers-stole-millions-from-victims-then-returned-pretending-to-help-recover-their-money/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T13:29:39Z"
+  },
+  {
+    "id": "af04633f4052e761",
+    "published_at": "2026-10-15T20:20+08:00",
+    "title": "Starknet将独立的L1研究提交社区投票",
+    "summary": "为期七天的民意调查为STRK股东和代表提供了发言权，但任何脱离以太坊结算的过渡都需要一个单独的治理流程。",
+    "source": "The Defiant",
+    "category": "以太坊",
+    "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T13:29:39Z"
+  },
+  {
+    "id": "4f6edadf59eb2e62",
+    "published_at": "2026-10-15T20:15+08:00",
+    "title": "Circle的USDC率先跨越欧洲的Stablecoin Threshol",
+    "summary": "Circle的USDC已成为第一个被欧洲银行管理局（ EBA ）归类为重要电子货币代币的稳定币，将其与",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/regulation-and-legal/circles-usdc-is-first-to-cross-europes-stablecoin-threshold/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T13:29:39Z"
+  },
+  {
     "id": "6b0dab733386ac53",
     "published_at": "2026-10-15T19:48+08:00",
     "title": "比特币测试$ 81,000 ，因为加息恐惧在热入后徘徊",
@@ -12946,57 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-21T13:01:02Z"
-  },
-  {
-    "id": "7291ef9cb61b85a1",
-    "published_at": "2026-09-21T19:30+08:00",
-    "title": "BLAKE2b比特币分叉希望矿工等待45天才能触摸到",
-    "summary": "维护2026年8月8日从比特币分叉出来的少数链的开发人员计划使其成为矿工无法解锁新开采的硬币",
-    "source": "Bitcoin.com",
-    "category": "市场波动",
-    "url": "https://news.bitcoin.com/crypto-news/blake2b-bitcoin-fork-wants-miners-to-wait-45-days-to-touch-their-coins/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T12:01:09Z"
-  },
-  {
-    "id": "75a775d64896f5a0",
-    "published_at": "2026-09-21T19:18+08:00",
-    "title": "欧洲央行部署Pontes平台，以结算批发代币",
-    "summary": "欧盟中央银行的新批发平台将DLT市场基础设施连接到其支付轨道，与零售数字欧元试点计划分开",
-    "source": "CoinDesk",
-    "category": "宏观-银行与金融风险",
-    "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T12:01:09Z"
-  },
-  {
-    "id": "811c07d08990147d",
-    "published_at": "2026-09-21T18:56+08:00",
-    "title": "比特币自1月以来首次以加密货币的形式获得$ 85,000",
-    "summary": "CoinGlass在24小时内记录了至少7.5亿美元的加密清算，其中大多数是空头头寸。",
-    "source": "The Block",
-    "category": "市场波动",
-    "url": "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T11:01:06Z"
-  },
-  {
-    "id": "5e49cec1574631d2",
-    "published_at": "2026-09-21T18:30+08:00",
-    "title": "Kasplex KRC-20 Indexer签名旁路排出两个令牌POO",
-    "summary": "本周末，一名攻击者在没有私钥的情况下从Kaspa KRC-20桥接钱包中窃取了1.864亿份热情和544亿份NACHO ，然后",
-    "source": "Bitcoin.com",
-    "category": "黑客攻击",
-    "url": "https://news.bitcoin.com/security/kasplex-krc-20-indexer-signature-bypass-drains-two-token-pools/",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T11:01:06Z"
   }
 ]
