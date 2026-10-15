@@ -1,5 +1,31 @@
 [
   {
+    "id": "2bee6b872e3d202e",
+    "published_at": "2026-10-15T11:30+08:00",
+    "title": "分析师认为，随着市场结构的转变，比特币的价值将超过17.5万美元（ $ ）",
+    "summary": "Siebert Financial分析师Brian表示，机构所有权和加密融资的变化可能会降低比特币对严重衰退的脆弱性",
+    "source": "Bitcoin.com",
+    "category": "ETF机构",
+    "url": "https://news.bitcoin.com/market-updates/analyst-sees-bitcoin-beyond-175k-as-market-structure-shifts/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T04:16:54Z"
+  },
+  {
+    "id": "4549dee3fc32f185",
+    "published_at": "2026-10-15T11:29+08:00",
+    "title": "比特币矿工在华尔街最糟糕的抛售中暴跌13%",
+    "summary": "TeraWulf、Core Scientific、Cipher Mining和IREN各自损失超过12% ，原因是通货膨胀升温冲击了人工智能基础设施公司。",
+    "source": "Cointelegraph",
+    "category": "市场波动",
+    "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T04:16:54Z"
+  },
+  {
     "id": "d9ba8968588f0218",
     "published_at": "2026-10-15T09:10+08:00",
     "title": "21股策略师认为比特币在C热之后将达到$ 90K",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-20T18:01:15Z"
-  },
-  {
-    "id": "5354db71a3ddd4c4",
-    "published_at": "2026-09-21T00:07+08:00",
-    "title": "Polymarket在其首席执行官推动下面临1000万美元的欺诈企图",
-    "summary": "根据该报告，在另一次攻击中，黑客利用被盗的个人信息入侵了近500个用户的帐户。",
-    "source": "The Block",
-    "category": "黑客攻击",
-    "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-    "severity": "high",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T17:01:03Z"
-  },
-  {
-    "id": "5cfc481a1416c8cf",
-    "published_at": "2026-09-21T00:01+08:00",
-    "title": "以太坊价格从$ 2,668回落，势头开始于周五",
-    "summary": "以太坊的价格在几天内从2,360美元攀升至近2,668美元后又回到了2,600美元附近，但却是第二大加密资产",
-    "source": "Bitcoin.com",
-    "category": "以太坊",
-    "url": "https://news.bitcoin.com/market-updates/ethereum-price-retreats-from-2668-as-momentum-starts-to-fray/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T17:01:03Z"
   }
 ]
