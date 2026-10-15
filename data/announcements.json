@@ -1,5 +1,17 @@
 [
   {
+    "id": "94ccf2afda61cba7",
+    "published_at": "2026-10-15T11:40:00Z",
+    "title": "Hotcoin 关于即将上线StonkBroker （ STONKBROKER ）的公告",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "上币",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillListStonkBrokerSTONKBROKER",
+    "announcement_type": "上币",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-15T12:27:52Z"
+  },
+  {
     "id": "5cdec8b772707310",
     "published_at": "2026-10-15T11:10:00Z",
     "title": "Bitget关于恢复羽流的公告-羽流存取款",
@@ -12,6 +24,18 @@
     "created_at": "2026-10-15T11:23:13Z"
   },
   {
+    "id": "8d77e2fbeb7289be",
+    "published_at": "2026-10-15T11:04:00Z",
+    "title": "新人注册领 100 USDT ，冲榜再赢 iPhone Duo ！",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/new-user-rewards",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-15T12:27:52Z"
+  },
+  {
     "id": "9f048f68f7f417c0",
     "published_at": "2026-10-15T11:00:00Z",
     "title": "Bitget暂停PLUME公告- PLUME充提币服务",
@@ -22,6 +46,18 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "4b70bb226192a9e9",
+    "published_at": "2026-10-15T11:00:00Z",
+    "title": "现货全能挑战赛 # 22 ｜ 300,000 USDT 豪礼来袭，首单领奖、交易达标、冲榜赢大奖 ！",
+    "summary": "",
+    "source": "Hotcoin",
+    "category": "公告",
+    "url": "https://www.hotcoin.com/zh_CN/support/notice/spot-all-round-challenge-22",
+    "announcement_type": "公告",
+    "exchange": "Hotcoin",
+    "created_at": "2026-10-15T12:27:52Z"
   },
   {
     "id": "1c6c3ec4c112dc6d",
@@ -5962,41 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "Bitget",
     "created_at": "2026-09-27T15:10:17Z"
-  },
-  {
-    "id": "5003c7bee3b38c61",
-    "published_at": "2026-09-27T08:26:19Z",
-    "title": "XT 关于暂停XTM网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62651230645145",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-27T09:10:16Z"
-  },
-  {
-    "id": "b03dc17154e0484d",
-    "published_at": "2026-09-27T08:24:01Z",
-    "title": "XT 关于恢复AB网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62651174640281",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-27T09:10:16Z"
-  },
-  {
-    "id": "00ee2384eb944089",
-    "published_at": "2026-09-27T07:48:00Z",
-    "title": "Hotcoin 关于即将上线URNAENERGY （ URNA ）的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "上币",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillListURNAENERGYURNA/",
-    "announcement_type": "上币",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-27T11:10:30Z"
   }
 ]
