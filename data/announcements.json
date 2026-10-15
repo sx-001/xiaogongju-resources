@@ -1,5 +1,29 @@
 [
   {
+    "id": "f284a20b757e885f",
+    "published_at": "2026-10-15T14:06:17Z",
+    "title": "XT 关于上线DEOD （ Decentrawood ）交易的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "上币",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63276123095577",
+    "announcement_type": "上币",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T14:27:00Z"
+  },
+  {
+    "id": "cacd49725395e0cd",
+    "published_at": "2026-10-15T14:02:07Z",
+    "title": "XT 关于恢复AB网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63276006607769",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T14:27:00Z"
+  },
+  {
     "id": "911117d81beed6b4",
     "published_at": "2026-10-15T13:17:21Z",
     "title": "自行车旧版本理财功能下架及迁移至测试版 版公告",
@@ -5974,29 +5998,5 @@
     "announcement_type": "活动",
     "exchange": "KuCoin",
     "created_at": "2026-09-28T05:11:18Z"
-  },
-  {
-    "id": "6e67baa9289fe068",
-    "published_at": "2026-09-28T04:30:00Z",
-    "title": "Doppler Finance (XDP)房源活动— 440万XDP赠品",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "上币",
-    "url": "https://www.kucoin.com/announcement/en-doppler-finance-xdp-listing-campaign-4400000-xdp-giveaway",
-    "announcement_type": "上币",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-28T05:11:18Z"
-  },
-  {
-    "id": "f439651e652a118e",
-    "published_at": "2026-09-28T02:57:00Z",
-    "title": "Hotcoin关于全球首发上线格林纳达国家度假村代币（ GNR ）的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "上币",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/HotcoinWillGloballyLaunchGrenadaNationalResortTokenGNR/",
-    "announcement_type": "上币",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-28T03:11:45Z"
   }
 ]
