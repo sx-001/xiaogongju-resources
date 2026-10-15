@@ -1,5 +1,18 @@
 [
   {
+    "id": "72617b4e5c8b1c0b",
+    "published_at": "2026-10-15T08:05+08:00",
+    "title": "Evernorth响起纳斯达克收盘钟声，展示XRP金库",
+    "summary": "Evernorth的4.73亿XRP库存成为纳斯达克收盘铃声的焦点。颁奖典礼突出了企业投资模式",
+    "source": "Bitcoin.com",
+    "category": "监管政策",
+    "url": "https://news.bitcoin.com/featured/evernorth-rings-nasdaq-closing-bell-showcasing-xrp-treasury/",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T00:08:31Z"
+  },
+  {
     "id": "3392106e5db721be",
     "published_at": "2026-10-15T06:30+08:00",
     "title": "随着央行的干预， Coins.ph用户面临应用程序锁定",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-20T14:01:02Z"
-  },
-  {
-    "id": "8bde2f431493ca3c",
-    "published_at": "2026-09-20T19:30+08:00",
-    "title": "希夫警告代币化股票将从BIT虹吸流动性",
-    "summary": "黄金漏洞认为，市场对新的官方推动代币化股票的反应毫无意义，因为这些将构成另一项投资",
-    "source": "Bitcoin.com",
-    "category": "监管政策",
-    "url": "https://news.bitcoin.com/crypto-news/schiff-warns-tokenized-stocks-will-siphon-liquidity-from-bitcoin/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T12:01:08Z"
   }
 ]
