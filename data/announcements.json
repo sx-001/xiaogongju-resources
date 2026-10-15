@@ -1,5 +1,41 @@
 [
   {
+    "id": "911117d81beed6b4",
+    "published_at": "2026-10-15T13:17:21Z",
+    "title": "自行车旧版本理财功能下架及迁移至测试版 版公告",
+    "summary": "",
+    "source": "BiKing",
+    "category": "下架",
+    "url": "https://biking.bkexchange.news/hc/zh-cn/articles/51959014150673",
+    "announcement_type": "下架",
+    "exchange": "BiKing",
+    "created_at": "2026-10-15T13:36:09Z"
+  },
+  {
+    "id": "5c4f17b5bd6a1797",
+    "published_at": "2026-10-15T13:10:00Z",
+    "title": "Bitget关于暂停MGO -芒果充提币服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897769",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T13:36:09Z"
+  },
+  {
+    "id": "821366bd186e643c",
+    "published_at": "2026-10-15T12:35:37Z",
+    "title": "XT 关于恢复WEMIX网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63274081906585",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T13:36:09Z"
+  },
+  {
     "id": "94ccf2afda61cba7",
     "published_at": "2026-10-15T11:40:00Z",
     "title": "Hotcoin 关于即将上线StonkBroker （ STONKBROKER ）的公告",
@@ -5962,41 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Hotcoin",
     "created_at": "2026-09-28T03:11:45Z"
-  },
-  {
-    "id": "8ec5227dab14d0a4",
-    "published_at": "2026-09-27T14:29:00Z",
-    "title": "致Bitget机构客户的一封信-八年的信任，团结一致",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603896117",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-27T15:10:17Z"
-  },
-  {
-    "id": "eade0129a0c6a892",
-    "published_at": "2026-09-27T13:59:35Z",
-    "title": "XT 关于暂停SNEK提现的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62657871216281",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-27T14:09:52Z"
-  },
-  {
-    "id": "3c2c4dbd1ea5b2c3",
-    "published_at": "2026-09-27T13:37:00Z",
-    "title": "Bitget项目齐心协力：专业人员费率折扣、做市商返利奖励和会员等级保护",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603896116",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-27T15:10:17Z"
   }
 ]
