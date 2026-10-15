@@ -1,5 +1,41 @@
 [
   {
+    "id": "ef41707c87b73da7",
+    "published_at": "2026-10-15T05:40:23Z",
+    "title": "XT CBK-多边关于恢复形提现的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "公告",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63259284581145",
+    "announcement_type": "公告",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T06:27:11Z"
+  },
+  {
+    "id": "28fef0bf1e7a949b",
+    "published_at": "2026-10-15T05:37:48Z",
+    "title": "XT 关于暂停ASC充值的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63259208174489",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T06:27:11Z"
+  },
+  {
+    "id": "48de7c04068f3500",
+    "published_at": "2026-10-15T05:35:55Z",
+    "title": "XT关于暂停底座网络充提服务的公告",
+    "summary": "",
+    "source": "XT.COM",
+    "category": "风控",
+    "url": "https://support.xt.com/hc/zh-cn/articles/63259104818201",
+    "announcement_type": "风控",
+    "exchange": "XT.COM",
+    "created_at": "2026-10-15T06:27:11Z"
+  },
+  {
     "id": "eeb6718c310cc189",
     "published_at": "2026-10-15T05:00:33Z",
     "title": "10 月15日 AOZX每日资讯 ｜通胀升温引发市场回调 ，欧洲银行加速布局欧元稳定币",
@@ -5962,41 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Bitget",
     "created_at": "2026-09-25T11:10:54Z"
-  },
-  {
-    "id": "99104b13edee063b",
-    "published_at": "2026-09-25T09:39:00Z",
-    "title": "KuCoin VIP迁移和存款欢迎计划",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/KuCoin_VIP_Migration_Deposit_Welcome_Program",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-25T10:10:50Z"
-  },
-  {
-    "id": "504f003c1d3366a6",
-    "published_at": "2026-09-25T08:28:00Z",
-    "title": "Bitget关于暂停曼陀罗的公告-曼陀罗存款服务",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603896105",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-25T09:11:13Z"
-  },
-  {
-    "id": "4b1349ab04ebacc6",
-    "published_at": "2026-09-25T08:17:00Z",
-    "title": "KuCoin已暂时关闭Meter Governance (MTRG)的提现服务",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-has-temporarily-closed-the-withdrawal-service-of-meter-governance-mtrg-20260925",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-25T09:11:13Z"
   }
 ]
