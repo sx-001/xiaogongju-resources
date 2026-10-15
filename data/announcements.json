@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad6dc9beadee09e0",
+    "published_at": "2026-10-15T01:22:17Z",
+    "title": "关于调整 BEATUSDT 永续合约最小价格精度的公告(2026-10-15)",
+    "summary": "",
+    "source": "Basekx",
+    "category": "合约",
+    "url": "https://support.basekx.com/hc/zh-cn/articles/63249415719193",
+    "announcement_type": "合约",
+    "exchange": "Basekx",
+    "created_at": "2026-10-15T01:26:47Z"
+  },
+  {
     "id": "6162a0a3873e20dc",
     "published_at": "2026-10-14T21:37:00Z",
     "title": "Bitget暂停DOG公告- BTCRUNES网络取款服务",
@@ -5986,17 +5998,5 @@
     "announcement_type": "公告",
     "exchange": "AOZX",
     "created_at": "2026-09-24T13:12:13Z"
-  },
-  {
-    "id": "ee77a95d207aec3a",
-    "published_at": "2026-09-24T12:26:00Z",
-    "title": "Hotcoin 关于【9月理财专享礼】活动奖励已发放的公告",
-    "summary": "",
-    "source": "Hotcoin",
-    "category": "活动",
-    "url": "https://www.hotcoin.com/zh_CN/support/notice/RewardDistribution-SeptemberEarnExclusiveRewards1/",
-    "announcement_type": "活动",
-    "exchange": "Hotcoin",
-    "created_at": "2026-09-24T15:11:47Z"
   }
 ]
