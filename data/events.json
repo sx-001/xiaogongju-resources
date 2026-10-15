@@ -1,5 +1,18 @@
 [
   {
+    "id": "cfcce91503bebb5e",
+    "published_at": "2026-10-15T16:20+08:00",
+    "title": "9家大型银行阻止加密账户，但新的OCC规则咬b",
+    "summary": "新的OCC调查结果将加密货币限制记录在九家银行的记录中，而反洗钱、制裁和运营评估仍在影响准入。阅读完整的文章",
+    "source": "CryptoSlate",
+    "category": "宏观-地缘与贸易",
+    "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+    "severity": "high",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T09:18:40Z"
+  },
+  {
     "id": "6c223a984ddb284b",
     "published_at": "2026-10-15T15:30+08:00",
     "title": "CZ瞄准美国银行超过12.1 $十亿反洗钱罚款",
@@ -12985,18 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-21T06:01:32Z"
-  },
-  {
-    "id": "dc8245397becd389",
-    "published_at": "2026-09-21T12:03+08:00",
-    "title": "比特币上涨超过$ 81,000 ，而Zcash上涨近23 ％",
-    "summary": "比特币在整个亚洲交易日缓慢攀升，而地区股票和美国股票期货因华盛顿之间的贸易谈判取得进展而上涨",
-    "source": "CoinDesk",
-    "category": "宏观-股市极端行情",
-    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T05:01:50Z"
   }
 ]
