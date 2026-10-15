@@ -1,5 +1,77 @@
 [
   {
+    "id": "5cdec8b772707310",
+    "published_at": "2026-10-15T11:10:00Z",
+    "title": "Bitget关于恢复羽流的公告-羽流存取款",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897747",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "9f048f68f7f417c0",
+    "published_at": "2026-10-15T11:00:00Z",
+    "title": "Bitget暂停PLUME公告- PLUME充提币服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897746",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "1c6c3ec4c112dc6d",
+    "published_at": "2026-10-15T10:50:00Z",
+    "title": "Bitget关于恢复FARTCOIN的公告- Solana提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897741",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "ec5d11ebf16cee98",
+    "published_at": "2026-10-15T10:49:00Z",
+    "title": "Bitget关于恢复数据的公告-故事提取",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897740",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "26859ec2d1a36f2c",
+    "published_at": "2026-10-15T10:47:00Z",
+    "title": "Bitget关于恢复VELO的公告-币安智能链提现",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897734",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
+    "id": "60e1dc51c709ea01",
+    "published_at": "2026-10-15T10:28:54Z",
+    "title": "BitTap 公告｜ SOXS/USDT 合约将于 10 月 16 日 14:00 上线",
+    "summary": "",
+    "source": "BitTap",
+    "category": "上币",
+    "url": "https://support.bittap.com/hc/zh-cn/articles/18008446505359",
+    "announcement_type": "上币",
+    "exchange": "BitTap",
+    "created_at": "2026-10-15T11:23:13Z"
+  },
+  {
     "id": "f4c7f60e7032fa08",
     "published_at": "2026-10-15T09:57:00Z",
     "title": "[重要提示] Bitget更新UTA的FOGO、GWEI、ALIGN、ZIG抵押品比率",
@@ -5926,77 +5998,5 @@
     "announcement_type": "上币",
     "exchange": "Hotcoin",
     "created_at": "2026-09-27T11:10:30Z"
-  },
-  {
-    "id": "60b436af99baf0b0",
-    "published_at": "2026-09-27T05:07:20Z",
-    "title": "XT 关于暂停AB网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62647174153369",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-27T05:09:51Z"
-  },
-  {
-    "id": "22696188b43a6eb1",
-    "published_at": "2026-09-27T03:44:00Z",
-    "title": "Bitget推迟FHE、DRIFT、RVV、DOG现货交易退市",
-    "summary": "",
-    "source": "Bitget",
-    "category": "上币",
-    "url": "https://www.bitget.com/support/articles/12560603896112",
-    "announcement_type": "上币",
-    "exchange": "Bitget",
-    "created_at": "2026-09-27T04:10:36Z"
-  },
-  {
-    "id": "4f4d61584750c9d9",
-    "published_at": "2026-09-27T02:10:04Z",
-    "title": "XT关于恢复部分网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62643530790681",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-27T03:10:41Z"
-  },
-  {
-    "id": "73aef16a060a9575",
-    "published_at": "2026-09-27T00:00:00Z",
-    "title": "[Important] Bitget Announcement on Cash Dividend Settlement for DEUSDT Stock Perps",
-    "summary": "",
-    "source": "Bitget",
-    "category": "合约",
-    "url": "https://www.bitget.com/support/articles/12560603896111",
-    "announcement_type": "合约",
-    "exchange": "Bitget",
-    "created_at": "2026-09-27T00:15:32Z"
-  },
-  {
-    "id": "9f42b370b2567a04",
-    "published_at": "2026-09-26T14:59:36Z",
-    "title": "BitTap 公告｜ FHE/USDT、 DRIFT/USDT、 RVV/USDT、 DOG/USDT 现货交易对下架通知",
-    "summary": "",
-    "source": "BitTap",
-    "category": "下架",
-    "url": "https://support.bittap.com/hc/zh-cn/articles/17766749494799",
-    "announcement_type": "下架",
-    "exchange": "BitTap",
-    "created_at": "2026-09-26T15:10:09Z"
-  },
-  {
-    "id": "7ef0c917767a3e8d",
-    "published_at": "2026-09-26T14:08:53Z",
-    "title": "XT 关于暂停WARD提现的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "风控",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62635642712729",
-    "announcement_type": "风控",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-26T14:10:49Z"
   }
 ]
