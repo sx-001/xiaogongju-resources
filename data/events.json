@@ -1,5 +1,31 @@
 [
   {
+    "id": "4bd23e939d5c802c",
+    "published_at": "2026-10-15T12:38+08:00",
+    "title": "随着避险情绪的压力，比特币跌破$ 81,000",
+    "summary": "亚洲股市周四大跌，韩国Kospi下跌8% ，日本日经225指数在上午交易中下跌5%。",
+    "source": "The Block",
+    "category": "安全风险",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T05:15:38Z"
+  },
+  {
+    "id": "6e18f2fe0cefb4ab",
+    "published_at": "2026-10-15T12:25+08:00",
+    "title": "近10亿美元的加密货币赌注被清算为比特币， ethe",
+    "summary": "以太币占两大加密货币被迫关闭的近60% ，跌幅约为比特币的两倍。",
+    "source": "CoinDesk",
+    "category": "市场波动",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "severity": "medium",
+    "impact": "",
+    "why": "",
+    "created_at": "2026-10-15T05:15:38Z"
+  },
+  {
     "id": "2bee6b872e3d202e",
     "published_at": "2026-10-15T11:30+08:00",
     "title": "分析师认为，随着市场结构的转变，比特币的价值将超过17.5万美元（ $ ）",
@@ -12972,31 +12998,5 @@
     "impact": "",
     "why": "",
     "created_at": "2026-09-20T20:01:10Z"
-  },
-  {
-    "id": "61101f0d0e5d1844",
-    "published_at": "2026-09-21T02:05+08:00",
-    "title": "一名攻击者击中了两个加密项目，并用$ 2 Mill行走",
-    "summary": "一名攻击者似乎在同一分钟内破解了两个独立的加密项目，从Fetch.ai转换器中排出了872万个FET。",
-    "source": "Bitcoin.com",
-    "category": "宏观-地缘与贸易",
-    "url": "https://news.bitcoin.com/security/one-attacker-hits-two-crypto-projects-and-walks-with-2-million/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-21T00:00:55Z"
-  },
-  {
-    "id": "b4e28eadcfc623b6",
-    "published_at": "2026-09-21T01:15+08:00",
-    "title": "随着交易者放弃传统，离岸比特币期货暴跌97%",
-    "summary": "在过去的五年里，比特币的衍生品市场发生了一件奇怪的事情。市场更大，机构发挥更大的作用，例如",
-    "source": "CryptoSlate",
-    "category": "安全风险",
-    "url": "https://cryptoslate.com/goodbye-futures-bitcoin-found-better-ways-to-trade/",
-    "severity": "medium",
-    "impact": "",
-    "why": "",
-    "created_at": "2026-09-20T18:01:15Z"
   }
 ]
