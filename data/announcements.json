@@ -1,5 +1,65 @@
 [
   {
+    "id": "3cd2cbe435a3321d",
+    "published_at": "2026-10-15T03:06:11Z",
+    "title": "永续合约上新 BMNRUSDT、 PENGUSDT、 HK1810USDT、 ZHONGJIUSDT、 UNITREEUSDT、 ALABUSDT、 GEVUSDT、 MVLLUSDT、 STXXUSDT、 UVXYU",
+    "summary": "",
+    "source": "YUBIT",
+    "category": "合约",
+    "url": "https://yubit.gitbook.io/yubit/cn/qi-ta-bang-zhu/yubit-gong-gao/bi-dui-diao-zheng/yong-xu-he-yue-shang-xin-bmnrusdtpengusdthk1810usdtzhongjiusdtunitreeusdtalabusdtgevusdtmvllusdtstxx",
+    "announcement_type": "合约",
+    "exchange": "YUBIT",
+    "created_at": "2026-10-15T03:22:11Z"
+  },
+  {
+    "id": "86ff9c1bfc1ea905",
+    "published_at": "2026-10-15T02:53:00Z",
+    "title": "Bitget关于暂停HIVP - MAP协议网络退出服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897630",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T03:22:11Z"
+  },
+  {
+    "id": "bfc2eda49537bdbf",
+    "published_at": "2026-10-15T02:53:00Z",
+    "title": "Bitget关于暂停MAPO的公告- MAP协议存取款服务",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897629",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T03:22:11Z"
+  },
+  {
+    "id": "0aa36460cf1fb356",
+    "published_at": "2026-10-15T02:49:00Z",
+    "title": "Bitget关于暂停FARTCOIN - SOLANA网络取款服务的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "风控",
+    "url": "https://www.bitget.com/support/articles/12560603897628",
+    "announcement_type": "风控",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T03:22:11Z"
+  },
+  {
+    "id": "5d95f8b5f31e2165",
+    "published_at": "2026-10-15T02:27:00Z",
+    "title": "Bitget关于恢复USDT - APTOS提现的公告",
+    "summary": "",
+    "source": "Bitget",
+    "category": "公告",
+    "url": "https://www.bitget.com/support/articles/12560603897626",
+    "announcement_type": "公告",
+    "exchange": "Bitget",
+    "created_at": "2026-10-15T03:22:11Z"
+  },
+  {
     "id": "bebe25b204589ad5",
     "published_at": "2026-10-15T02:04:27Z",
     "title": "XT 关于暂停XDC网络充提服务的公告",
@@ -5938,65 +5998,5 @@
     "announcement_type": "风控",
     "exchange": "Bitget",
     "created_at": "2026-09-25T00:15:43Z"
-  },
-  {
-    "id": "dd7ff01d1468f5d9",
-    "published_at": "2026-09-24T22:00:00Z",
-    "title": "📢 Bitget差价合约系统维护通知",
-    "summary": "",
-    "source": "Bitget",
-    "category": "维护",
-    "url": "https://www.bitget.com/support/articles/12560603848203",
-    "announcement_type": "维护",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T23:10:35Z"
-  },
-  {
-    "id": "1268682375421095",
-    "published_at": "2026-09-24T21:39:00Z",
-    "title": "【安全注意事项】Bitget热钱包事件— 2026年9月24日",
-    "summary": "",
-    "source": "Bitget",
-    "category": "公告",
-    "url": "https://www.bitget.com/support/articles/12560603896024",
-    "announcement_type": "公告",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T22:10:48Z"
-  },
-  {
-    "id": "ebff88266b3ce469",
-    "published_at": "2026-09-24T16:00:00Z",
-    "title": "KuCoin经纪商评估周期更新",
-    "summary": "",
-    "source": "KuCoin",
-    "category": "公告",
-    "url": "https://www.kucoin.com/announcement/en-kucoin-broker-assessment-cycle-update",
-    "announcement_type": "公告",
-    "exchange": "KuCoin",
-    "created_at": "2026-09-24T16:11:47Z"
-  },
-  {
-    "id": "6e786cda8e394ebb",
-    "published_at": "2026-09-24T15:32:00Z",
-    "title": "XT关于恢复原子网络充提服务的公告",
-    "summary": "",
-    "source": "XT.COM",
-    "category": "公告",
-    "url": "https://xtsupport.zendesk.com/hc/zh-cn/articles/62585417217689",
-    "announcement_type": "公告",
-    "exchange": "XT.COM",
-    "created_at": "2026-09-24T16:11:47Z"
-  },
-  {
-    "id": "50e780e9825cf555",
-    "published_at": "2026-09-24T14:57:00Z",
-    "title": "Bitget关于暂停HDRO - INJECTIVE网络取款服务的公告",
-    "summary": "",
-    "source": "Bitget",
-    "category": "风控",
-    "url": "https://www.bitget.com/support/articles/12560603896019",
-    "announcement_type": "风控",
-    "exchange": "Bitget",
-    "created_at": "2026-09-24T15:11:47Z"
   }
 ]
